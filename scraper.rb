@@ -60,6 +60,5 @@ agencies.each do |agency|
 end
 
 def create_csv_with_header(filename, header_row)
-  csv = CSV.new(File.open(filename, 'w'))
-  csv << header_row
+  csv = CSV.new(File.open(filename, 'w'), headers: header_row, write_headers: true)
 end
