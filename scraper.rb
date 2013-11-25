@@ -15,17 +15,10 @@ agencies = table.at(:tbody).search(:tr).map do |row|
    details_last_updated: Date.parse(row.search(:td)[4].inner_text)}
 end
 
-agencies_csv = CSV.new(File.open('agencies.csv', 'w'))
-agencies_csv << ['id', 'url', 'business_entity_name', 'trading_name', 'abn', 'details_last_updated']
-
-owners_csv = CSV.new(File.open('owners.csv', 'w'))
-owners_csv << ['agency_id', 'agency_business_entity_name', 'owner_name']
-
-lobbyists_csv = CSV.new(File.open('lobbyists.csv', 'w'))
-lobbyists_csv << ['agency_id', 'agency_business_entity_name', 'lobbyist_name', 'position', 'former_government_representative', 'cessation_date']
-
-clients_csv = CSV.new(File.open('clients.csv', 'w'))
-clients_csv << ['agency_id', 'agency_business_entity_name', 'client_name']
+agencies_csv = create_csv_with_header('agencies.csv', ['id', 'url', 'business_entity_name', 'trading_name', 'abn', 'details_last_updated'])
+owners_csv = create_csv_with_header('owners.csv', ['agency_id', 'agency_business_entity_name', 'owner_name'])
+lobbyists_csv = create_csv_with_header('lobbyists.csv', ['agency_id', 'agency_business_entity_name', 'lobbyist_name', 'position', 'former_government_representative', 'cessation_date'])
+clients_csv = create_csv_with_header('clients.csv', ['agency_id', 'agency_business_entity_name', 'client_name'])
 
 agencies.each do |agency|
   agency_id = agency[:url].match('id=(.*)')[1]
@@ -64,4 +57,9 @@ agencies.each do |agency|
       [agency_id, agency[:business_entity_name], row.search(:td)[1].inner_text]
     end
   end
+end
+
+def create_csv_with_header(filename, header_row)
+  csv = CSV.new(File.open(filename, 'w'))
+  csv << header_row
 end
