@@ -35,26 +35,26 @@ agencies.each do |agency|
   ]
 
   # Save owners
-  owners_csv << agency_page.at('#profile').search(:ul).last.search(:li).map do |li|
-     [agency_id, agency[:business_entity_name], li.inner_text]
+  agency_page.at('#profile').search(:ul).last.search(:li).each do |li|
+     owners_csv << [agency_id, agency[:business_entity_name], li.inner_text]
   end
 
   # Save lobbyists
   if agency_page.at('#lobbyistDetails')
-    lobbyists_csv << agency_page.at('#lobbyistDetails').at(:tbody).search(:tr).map do |row|
-      [agency_id,
-       agency[:business_entity_name],
-       row.search(:td)[1].inner_text,
-       row.search(:td)[2].inner_text,
-       row.search(:td)[3].inner_text,
-       row.search(:td)[4].inner_text.strip]
+    agency_page.at('#lobbyistDetails').at(:tbody).search(:tr).each do |row|
+      lobbyists_csv << [agency_id,
+                        agency[:business_entity_name],
+                        row.search(:td)[1].inner_text,
+                        row.search(:td)[2].inner_text,
+                        row.search(:td)[3].inner_text,
+                        row.search(:td)[4].inner_text.strip]
     end
   end
 
   # Save clients
   if agency_page.at('#clientDetails')
-    clients_csv << agency_page.at('#clientDetails').at(:tbody).search(:tr).map do |row|
-      [agency_id, agency[:business_entity_name], row.search(:td)[1].inner_text]
+    agency_page.at('#clientDetails').at(:tbody).search(:tr).each do |row|
+      clients_csv << [agency_id, agency[:business_entity_name], row.search(:td)[1].inner_text]
     end
   end
 end
