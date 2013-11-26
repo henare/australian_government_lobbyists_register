@@ -17,8 +17,8 @@ end
 
 agencies_csv = CSV.new(File.open('agencies.csv', 'w'), write_headers: true, headers: ['id', 'url', 'business_entity_name', 'trading_name', 'abn', 'details_last_updated'])
 owners_csv = CSV.new(File.open('owners.csv', 'w'), write_headers: true, headers: ['agency_id', 'agency_business_entity_name', 'owner_name'])
-lobbyists_csv = CSV.new(File.open('lobbyists.csv', write_headers: true, headers: ['agency_id', 'agency_business_entity_name', 'lobbyist_name', 'position', 'former_government_representative', 'cessation_date'])
-clients_csv = CSV.new(File.open('clients.csv', write_headers: true, headers: ['agency_id', 'agency_business_entity_name', 'client_name'])
+lobbyists_csv = CSV.new(File.open('lobbyists.csv'), write_headers: true, headers: ['agency_id', 'agency_business_entity_name', 'lobbyist_name', 'position', 'former_government_representative', 'cessation_date'])
+clients_csv = CSV.new(File.open('clients.csv'), write_headers: true, headers: ['agency_id', 'agency_business_entity_name', 'client_name'])
 
 agencies.each do |agency|
   agency_id = agency[:url].match('id=(.*)')[1]
