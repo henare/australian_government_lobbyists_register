@@ -1,4 +1,4 @@
-australian_government_lobbyists_register
+Australian Government Lobbyists Register
 ========================================
 
 Scrapes and tracks changes to the Australian Federal Government Lobbyists Register.
