@@ -33,7 +33,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,David Alexander,Managing Director (Federal),Yes,November 2007
 338,Barton Deakin ,Daniel Wood,Consultant,No,""
 338,Barton Deakin ,Simon Thompson,Research Analyst,No,""
-338,Barton Deakin ,Kristian Galanti,Research Analyst,No,""
+338,Barton Deakin ,Kristian Galanti,Consultant ,No,""
 338,Barton Deakin ,Renee Hindmarsh,Director,Yes,November 2007
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
 338,Barton Deakin ,Eacham Curry ,Managing Director (WA),Yes,February 2005
@@ -400,7 +400,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,Ogilvy PR Health,Megan McCarthy,Account Executive,No,""
 86,Ogilvy PR Health,Sally Wiber,Account Director,No,""
 86,Ogilvy PR Health,Emma Pearson,Account Manager,No,""
-86,Ogilvy PR Health,Ida Fabiansson,Account Coordinator,No,""
 86,Ogilvy PR Health,Julia MacQueen,Account Manager,No,""
 86,Ogilvy PR Health,Samuel North,Media Director,No,""
 86,Ogilvy PR Health,Carly Vale,Account Executive,No,""

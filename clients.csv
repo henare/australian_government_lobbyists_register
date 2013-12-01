@@ -550,6 +550,8 @@ agency_id,agency_business_entity_name,client_name
 484,FPL Advisory Pty Ltd,Australian Camps Association
 484,FPL Advisory Pty Ltd,Modulus Systems Pty Ltd
 484,FPL Advisory Pty Ltd,Bellavie Pty Ltd
+484,FPL Advisory Pty Ltd,Malop Street Pty Ltd
+484,FPL Advisory Pty Ltd,Blok'd Pty Ltd
 333,FTI Consulting (Perth) Pty Ltd,Wellard Group
 333,FTI Consulting (Perth) Pty Ltd,New Standard Energy
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
@@ -844,6 +846,7 @@ agency_id,agency_business_entity_name,client_name
 20,InterCapital Group Pty Ltd,BRP Australia
 20,InterCapital Group Pty Ltd,Polaris Sales Australia Pty Ltd
 20,InterCapital Group Pty Ltd,Chrysler Australia
+20,InterCapital Group Pty Ltd,Australian Tyre Industry Council
 38,Intercorp Pty Ltd,Israel Aerospace Industries Limited
 38,Intercorp Pty Ltd,Plasan
 222,Intermediary Consulting Pty Ltd,Glaxo Smith Kline
@@ -1322,6 +1325,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Bunge 
 242,Purple Communications Australia Pty Ltd,International Mining for Development Centre
 242,Purple Communications Australia Pty Ltd,Indigenous Construction Resource Group Pty Ltd (ICRG)
+242,Purple Communications Australia Pty Ltd,BC Iron Ltd
 29,Pynfall Pty Ltd,Project System & Management GmbH
 446,R A Neilson and M Salmon,Garry and Marilyn Nicholas
 492,Rachael Sweeney ,Regional Capitals Australia 
@@ -1443,6 +1447,8 @@ agency_id,agency_business_entity_name,client_name
 276,Santo Santoro Consulting,Intalock Technologies Pty Ltd
 276,Santo Santoro Consulting,Winslow Group
 276,Santo Santoro Consulting,Pharmhouse Administration Pty Ltd 
+276,Santo Santoro Consulting,Careers Australia Group Limited
+276,Santo Santoro Consulting,Infigen Energy Limited
 498,Sapere,Brighton Council
 498,Sapere,Brighton Industry and Housing Corporation
 498,Sapere,Dourias Group Holdings
