@@ -17,6 +17,7 @@ agency_id,agency_business_entity_name,client_name
 271,A D Evers-Buckland,Con Sarrou
 271,A D Evers-Buckland,Jerry Palarinosâ
 271,A D Evers-Buckland,Association of Liquor Licensees Melbourne
+605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Rafael  Advanced Defense Systems Limited
 36,Aegis Consulting Group Pty Ltd,EdenRed
 36,Aegis Consulting Group Pty Ltd,Global Renewables
 36,Aegis Consulting Group Pty Ltd,Ardent Leisure 
@@ -157,6 +158,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Citigroup Pty Limited
 338,Barton Deakin ,Australian Private Hospitals Association Limited
 338,Barton Deakin ,Foodbank NSW Limited 
+338,Barton Deakin ,Renew Initiatives Australia Limited 
+338,Barton Deakin ,Bowel Cancer Australia
 342,Bavaria Corporation Pty Ltd,Haigslea Finance Group Ltd
 186,BBS Communications Group Pty Ltd,Queensland Brain Institute
 583,BDaaS Consulting Pty Ltd,ServiceMesh
@@ -296,7 +299,6 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Carers Australia
 160,Cotterell Jannette Suzanne,BioCSL Pty Ltd
 160,Cotterell Jannette Suzanne,HWL Ebsworth Lawyers
-403,Covance Pty Ltd (Covance Market Access Services division),Fresenius Kabi Australia Pty Limited
 329,Cox Inall Communications,Sydney Fish Market
 81,CPR Communications & Public Relations Pty Ltd,Nextgen
 81,CPR Communications & Public Relations Pty Ltd,Brisbane Airport Corporation
@@ -651,6 +653,7 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,BA Infrastructure
 59,Government Relations Australia Advisory Pty Ltd,Warren Centre for Advanced Engineering
 59,Government Relations Australia Advisory Pty Ltd,Forgacs Engineering Pty Ltd
+59,Government Relations Australia Advisory Pty Ltd,Australian Wagering Council
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -982,6 +985,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Churchill Mining
 76,Kreab Gavin Anderson (Australia) Ltd,The MENTOR Network
 76,Kreab Gavin Anderson (Australia) Ltd,SeaRoad Holdings Pty Ltd
+76,Kreab Gavin Anderson (Australia) Ltd,Bureau of Steel Manufacturers of Australia Limited
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 570,Leaderboard Pty Ltd,Datacom Systems Pty Ltd
@@ -1090,6 +1094,7 @@ agency_id,agency_business_entity_name,client_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,GVK
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Adani Mining Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Bandanna Energy
+577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,AWX Pty Ltd
 356,Mr John Kindler,Pratt and Whitney Military Engines
 25,National Public Affairs Group,Air-conditioning and Refrigeration Equipment Manufacturers Association
 25,National Public Affairs Group,Lennox International
@@ -1435,6 +1440,7 @@ agency_id,agency_business_entity_name,client_name
 539,Sales Harvest Pty Ltd,Healix Australia
 539,Sales Harvest Pty Ltd,CareFlight Limited
 126,Salmon Odgers Family Trust,Australian Content Industry Group
+607,Sand Technology Aust P/L,Serpentine Jarrahdale Council 
 276,Santo Santoro Consulting,NEC Australia Pty Ltd
 276,Santo Santoro Consulting,Gerard Lighting Group Limited
 276,Santo Santoro Consulting,Restaurant and Catering Australia

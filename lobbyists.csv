@@ -3,6 +3,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 442,4514 Avenue D Pty Ltd,Andrew Craig Blyth,Principal,Yes,March 2006
 362,89 Degrees East Pty Ltd,Annie O'Rourke,Director,Yes,September 2009
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
+605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
 522,Alex Gosman Consulting,Alex Gosman,Principal,Yes,September 1990
 104,Alkar Pty Ltd,Allan King,Director,No,""
@@ -111,8 +112,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
-403,Covance Pty Ltd (Covance Market Access Services division),Amanda Halliday,Manager Health Economics,No,""
-403,Covance Pty Ltd (Covance Market Access Services division),Yuan Cheng,Manager Health Economics,No,""
+403,Covance Pty Ltd (Covance Market Access Services division),Amanda Halliday,Senior Manager Health Economics,No,""
+403,Covance Pty Ltd (Covance Market Access Services division),Yuan Yuan Cheng,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Kristin King,Principal Market Acces ,Yes,February 1987
 329,Cox Inall Communications,Timothy Kevin Powell,Managing Director,No,""
 329,Cox Inall Communications,Sally Fraser,Group Account Director,No,""
@@ -196,7 +197,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 453,First State Advisors and Consultants ,David Zachary Miles ,Partner,No,""
 453,First State Advisors and Consultants ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
 453,First State Advisors and Consultants ,The Hon. Peter Reith,Special Counsel,Yes,November 2001
-453,First State Advisors and Consultants ,Amer Hussein ,Government Relations Consultant ,No,""
 453,First State Advisors and Consultants ,Gary Humphries ,Special Counsel ,No,""
 295,Five Corners Pty Ltd,Peter Robertson,Director - Five Coners Pty Ltd,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director,No,""
@@ -501,6 +501,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 439,Royce (Vic) Pty Ltd,Matthew Mahon,General Manager,No,""
 539,Sales Harvest Pty Ltd,Fraser Buchanan Allen,Managing Director,No,""
 126,Salmon Odgers Family Trust,Michael Salmon,Director,No,""
+607,Sand Technology Aust P/L,Ian Douglas Fowler,Director.,No,""
 276,Santo Santoro Consulting,The Hon Santo Santoro,Director,Yes,March 2007
 276,Santo Santoro Consulting,Mark Kaffir Powell,Partner,No,""
 498,Sapere,Nigel Trevor Reeves,Trustee ,No,""
@@ -566,6 +567,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 95,The Strategic Counsel Pty Ltd,Donna Staunton,Managing Director,No,""
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Consultant,No,""
 95,The Strategic Counsel Pty Ltd,John Cook,Consultant,No,""
+95,The Strategic Counsel Pty Ltd,Antonia Gleeson,Associate,No,""
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
 424,The Taylor Street Consultancy P/L,Tania Hyde,Director,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Ian Smith,Partner,Yes,November 2006
