@@ -111,7 +111,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,St Vincent's Health Australia
 338,Barton Deakin ,Motorola
 338,Barton Deakin ,Federation of Aids Organisations
-338,Barton Deakin ,PwC
 338,Barton Deakin ,Total Environment Centre
 338,Barton Deakin ,Adobe
 338,Barton Deakin ,AIME Mentoring
@@ -160,8 +159,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Foodbank NSW Limited 
 338,Barton Deakin ,Renew Initiatives Australia Limited 
 338,Barton Deakin ,Bowel Cancer Australia
+338,Barton Deakin ,C.H. Group Pty Ltd
 342,Bavaria Corporation Pty Ltd,Haigslea Finance Group Ltd
-186,BBS Communications Group Pty Ltd,Queensland Brain Institute
+186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,ServiceMesh
 583,BDaaS Consulting Pty Ltd,K2 Knowledge Solutions
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
@@ -540,6 +540,7 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Charlton Excavation and Demolition
 453,First State Advisors and Consultants ,The Group of Eight Limited
 453,First State Advisors and Consultants ,Young & Rubicam Group Pty Limited
+453,First State Advisors and Consultants ,Village Building Company 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 202,Fowlstone Communications,WorleyParsons
@@ -654,6 +655,7 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,Warren Centre for Advanced Engineering
 59,Government Relations Australia Advisory Pty Ltd,Forgacs Engineering Pty Ltd
 59,Government Relations Australia Advisory Pty Ltd,Australian Wagering Council
+59,Government Relations Australia Advisory Pty Ltd,Tasman Sinkware
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -977,7 +979,6 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Aboriginal Legal Service (NSW/ACT)
 76,Kreab Gavin Anderson (Australia) Ltd,Kellogg's
 76,Kreab Gavin Anderson (Australia) Ltd,Good Technology Australia Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,International Social Games Coalition
 76,Kreab Gavin Anderson (Australia) Ltd,Incitec Pivot Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Electrolux Home Products Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Aristocrat Leisure Limited
@@ -986,6 +987,8 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,The MENTOR Network
 76,Kreab Gavin Anderson (Australia) Ltd,SeaRoad Holdings Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Bureau of Steel Manufacturers of Australia Limited
+76,Kreab Gavin Anderson (Australia) Ltd,The Pharmacy Guild of Australia
+76,Kreab Gavin Anderson (Australia) Ltd,International Social Games Association (ISGA)
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 570,Leaderboard Pty Ltd,Datacom Systems Pty Ltd
@@ -1120,6 +1123,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Whitehaven Coal Limited
 565,Newgate Communications Pty Limited,Australia Post
 565,Newgate Communications Pty Limited,Woolworths Limited
+565,Newgate Communications Pty Limited,Lenovo (Australia and New Zealand) Pty Ltd
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Prostate Cancer Foundation of Australia
@@ -1455,6 +1459,7 @@ agency_id,agency_business_entity_name,client_name
 276,Santo Santoro Consulting,Pharmhouse Administration Pty Ltd 
 276,Santo Santoro Consulting,Careers Australia Group Limited
 276,Santo Santoro Consulting,Infigen Energy Limited
+276,Santo Santoro Consulting,Haibin Property (Australia) Pty Ltd
 498,Sapere,Brighton Council
 498,Sapere,Brighton Industry and Housing Corporation
 498,Sapere,Dourias Group Holdings
