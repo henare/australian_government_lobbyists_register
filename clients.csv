@@ -160,6 +160,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Renew Initiatives Australia Limited 
 338,Barton Deakin ,Bowel Cancer Australia
 338,Barton Deakin ,C.H. Group Pty Ltd
+338,Barton Deakin ,The Benevolent Society
+338,Barton Deakin ,Bain and Company Inc
 342,Bavaria Corporation Pty Ltd,Haigslea Finance Group Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,ServiceMesh
@@ -181,9 +183,6 @@ agency_id,agency_business_entity_name,client_name
 6,Bramex Pty Ltd,Iridium Satellite LLC and Iridium Subsidiary Corporations
 6,Bramex Pty Ltd,HCJB Global Voice Australia
 6,Bramex Pty Ltd,Mr Dick Smith
-485,Brendan Darcy Strategic Consultancy,ITEC EMPLOYMENT (MY PATHWAYS)
-485,Brendan Darcy Strategic Consultancy,COMMUNITY ENTERPRISES AUSTRALIA LTD
-485,Brendan Darcy Strategic Consultancy,MIGRATION ALLIANCE
 310,Broadcasting & Radio Technology Services,Commercial Radio Australia Limited
 310,Broadcasting & Radio Technology Services,Southern Cross Austereo
 549,BRUNSWICK MEDIA & STRATEGIC PTY. LTD.,Chiropractorsâ Association of Australia (National)
@@ -541,6 +540,10 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,The Group of Eight Limited
 453,First State Advisors and Consultants ,Young & Rubicam Group Pty Limited
 453,First State Advisors and Consultants ,Village Building Company 
+453,First State Advisors and Consultants ,Australian Institute of Building Surveyors
+453,First State Advisors and Consultants ,Women's Housing Limited 
+453,First State Advisors and Consultants ,arbias
+453,First State Advisors and Consultants ,Calcorp Services Pty Ltd 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 202,Fowlstone Communications,WorleyParsons
@@ -590,6 +593,7 @@ agency_id,agency_business_entity_name,client_name
 506,Garrie Gibson,Access to Justice for Western Sydney Campaign
 375,Gell Southam Group Pty Ltd,NuCoal Resources NL
 375,Gell Southam Group Pty Ltd,Kores Australia
+606,Genome Investigation Pty Ltd,Agendia
 185,Geoff Conlon,H & D srl
 185,Geoff Conlon,Solar Brokers Associated
 185,Geoff Conlon,Evolvo srl
@@ -656,6 +660,9 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,Forgacs Engineering Pty Ltd
 59,Government Relations Australia Advisory Pty Ltd,Australian Wagering Council
 59,Government Relations Australia Advisory Pty Ltd,Tasman Sinkware
+59,Government Relations Australia Advisory Pty Ltd,Fletcher Building (Australia) Pty Ltd
+59,Government Relations Australia Advisory Pty Ltd,Biogen Idec Australia Pty Ltd
+59,Government Relations Australia Advisory Pty Ltd,MGM Wireless Limited
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -676,6 +683,10 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Catholic Education Office of WA 
 122,GRA Everingham Pty Ltd,Clean Protocol
 122,GRA Everingham Pty Ltd,Inpex 
+122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers Australia Ltd (CAPEC)
+122,GRA Everingham Pty Ltd,Fortescue Metals Group Ltd
+122,GRA Everingham Pty Ltd,Curtin University
+122,GRA Everingham Pty Ltd,Australia Treasury Management
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Buru Energy
@@ -887,6 +898,8 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,WPM Medical Retrieval 
 319,Jo Scard Pty Ltd,Girl Guides Australia
 319,Jo Scard Pty Ltd,The Big Issue Australia
+319,Jo Scard Pty Ltd,SmartStart for Kids
+319,Jo Scard Pty Ltd,The Australian Charities Fund Operations Limited
 275,Jody Fassina ATF JAI Family Trust,Macquarie Group
 275,Jody Fassina ATF JAI Family Trust,Moss Capital
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
@@ -1161,12 +1174,10 @@ agency_id,agency_business_entity_name,client_name
 309,Paramul Pty Ltd,Dourias Group Holdings
 309,Paramul Pty Ltd,Brighton Council
 309,Paramul Pty Ltd,ARTEC
-282,Paris Walter Pty Ltd,Norilsk Nickel Australia Pty Ltd
 282,Paris Walter Pty Ltd,Big Blue Water (NZ) Ltd
 282,Paris Walter Pty Ltd,Dr Hofer (Austria) GmbH
 282,Paris Walter Pty Ltd,Liana Allen
 282,Paris Walter Pty Ltd,Migration Alliance
-282,Paris Walter Pty Ltd,VETASSESS
 72,Parker & Partners Pty Ltd,Bell Shakespeare
 72,Parker & Partners Pty Ltd,Dubai Holdings
 72,Parker & Partners Pty Ltd,CSL Limited
@@ -1445,6 +1456,7 @@ agency_id,agency_business_entity_name,client_name
 539,Sales Harvest Pty Ltd,CareFlight Limited
 126,Salmon Odgers Family Trust,Australian Content Industry Group
 607,Sand Technology Aust P/L,Serpentine Jarrahdale Council 
+607,Sand Technology Aust P/L,Western Refrigeration 74
 276,Santo Santoro Consulting,NEC Australia Pty Ltd
 276,Santo Santoro Consulting,Gerard Lighting Group Limited
 276,Santo Santoro Consulting,Restaurant and Catering Australia
@@ -1473,10 +1485,8 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Global Philanthropic
 227,SAS Consulting Group Pty Ltd,Shenhua Watermark 
 227,SAS Consulting Group Pty Ltd,BUSY at Work
-227,SAS Consulting Group Pty Ltd,United Petroleum
 227,SAS Consulting Group Pty Ltd,Blackwood Corporation 
 227,SAS Consulting Group Pty Ltd,WellDog
-227,SAS Consulting Group Pty Ltd,Australian Lawyers Alliance 
 227,SAS Consulting Group Pty Ltd,Lives Lived Well
 227,SAS Consulting Group Pty Ltd,Services Trades Queensland (STQ)
 227,SAS Consulting Group Pty Ltd,Carabella Resources Limited
@@ -1499,6 +1509,11 @@ agency_id,agency_business_entity_name,client_name
 171,Shac Communications Pty Ltd ATF The Shac Trust,World Firefighters Games
 171,Shac Communications Pty Ltd ATF The Shac Trust,Sunland Group
 171,Shac Communications Pty Ltd ATF The Shac Trust,JELDWEN Australia Pty Ltd
+171,Shac Communications Pty Ltd ATF The Shac Trust,Nimrod Resources
+171,Shac Communications Pty Ltd ATF The Shac Trust,Habitat Early Learning
+171,Shac Communications Pty Ltd ATF The Shac Trust,Pearls Australasia Pty Ltd
+171,Shac Communications Pty Ltd ATF The Shac Trust,MiiHome Now International Pty Ltd
+171,Shac Communications Pty Ltd ATF The Shac Trust,Global Road Technology Operations Pty Ltd
 571,Simpson Paterson Pty Ltd,Sinclair Brook
 571,Simpson Paterson Pty Ltd,Dimension Data plc
 82,Socom Pty Ltd,Gippsland Local Government Network
@@ -1616,7 +1631,6 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Phebra
 268,The Premier Communications Group Pty Ltd.,Astute Training
 268,The Premier Communications Group Pty Ltd.,ASR Pro Football
-268,The Premier Communications Group Pty Ltd.,AA Crown Holdings
 268,The Premier Communications Group Pty Ltd.,IDraft Design Group
 268,The Premier Communications Group Pty Ltd.,Evolve Housing
 268,The Premier Communications Group Pty Ltd.,Hadcon Constructions
@@ -1624,11 +1638,11 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Cassegrain Wines
 268,The Premier Communications Group Pty Ltd.,Funerals of Compassion
 268,The Premier Communications Group Pty Ltd.,VASP Group
-268,The Premier Communications Group Pty Ltd.,Concrete Recyclers
 268,The Premier Communications Group Pty Ltd.,Resort Living Group
 268,The Premier Communications Group Pty Ltd.,Australasian Health Manufacturers and Development Association Incorporated
 268,The Premier Communications Group Pty Ltd.,Australian Nursing and Midwifery Federation 
 268,The Premier Communications Group Pty Ltd.,Bello Cafe Pty Ltd.
+268,The Premier Communications Group Pty Ltd.,Twentieth Man Fund Incorporated
 408,The Six Hats - Investor Relations Pty Ltd,Wentworth Community Housing 
 408,The Six Hats - Investor Relations Pty Ltd,Stroud Heritage Conservation Incorporated
 95,The Strategic Counsel Pty Ltd,Roche Products
