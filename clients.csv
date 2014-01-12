@@ -209,7 +209,6 @@ agency_id,agency_business_entity_name,client_name
 257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Volunteer Fire Brigades Victoria
 257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Staindl Strategic
 553,Campaign Capital,Queensland Aboriginal and Islander Health Council
-556,Capital Hill Advisory Pty Ltd,The Interact Group Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Stuart Alexander and Co Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Packaging Stewardship Forum
@@ -395,6 +394,7 @@ agency_id,agency_business_entity_name,client_name
 16,Day & Hodge Associates Pty Ltd,Westfund Ltd
 16,Day & Hodge Associates Pty Ltd,Australian College of Nurse Practitioners
 572,Debra Susan Chalmers,TRY Australia
+611,deBullet Consulting LLC,Carrier Corporation
 277,Dinorden Pty Ltd,Fujitsu Australia Limited
 277,Dinorden Pty Ltd,Adani Mining Pty Ltd
 360,Diplomacy Pty Limited,ADCO Constructions
@@ -544,6 +544,7 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Women's Housing Limited 
 453,First State Advisors and Consultants ,arbias
 453,First State Advisors and Consultants ,Calcorp Services Pty Ltd 
+453,First State Advisors and Consultants ,Greenex Environmental Pty Limited 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 202,Fowlstone Communications,WorleyParsons
@@ -561,6 +562,7 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Wellard Group
 333,FTI Consulting (Perth) Pty Ltd,New Standard Energy
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
+333,FTI Consulting (Perth) Pty Ltd,New Energy Corporation
 543,G. C. Advocacy Pty Ltd,Motor Traders Association NSW
 543,G. C. Advocacy Pty Ltd,Catholic Cemeteries Board
 141,G.CAMPBELL & K.L WEIL,Mount Gibson Iron Limited.
@@ -1230,18 +1232,14 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Caltex Australia Limited
 516,Premier State Consulting Pty Ltd,Employers Mutual Limited
 516,Premier State Consulting Pty Ltd,Heartland Motors Pty Limited
-516,Premier State Consulting Pty Ltd,Hill Rogers Spencer Steer
 516,Premier State Consulting Pty Ltd,Malabar Coal Pty Ltd
 516,Premier State Consulting Pty Ltd,Merivale Group (Hemmes Trading Pty Ltd)
 516,Premier State Consulting Pty Ltd,New South Wales Minerals Council Limited
 516,Premier State Consulting Pty Ltd,PricewaterhouseCoopers Australia Limited
 516,Premier State Consulting Pty Ltd,Spur Hill Management Pty Ltd
 516,Premier State Consulting Pty Ltd,Suncorp Group Limited
-516,Premier State Consulting Pty Ltd,The Interact Group Pty Limited
 516,Premier State Consulting Pty Ltd,Transfield Services (Australia) Pty Ltd
 516,Premier State Consulting Pty Ltd,Young Menâs Christian Association of Sydney
-516,Premier State Consulting Pty Ltd,Australian Power and Gas
-516,Premier State Consulting Pty Ltd,Neville's Bus Service
 516,Premier State Consulting Pty Ltd,Brookfield Multiplex
 516,Premier State Consulting Pty Ltd,Echo Entertainment Group Limited
 516,Premier State Consulting Pty Ltd,Mounties Group
@@ -1729,6 +1727,7 @@ agency_id,agency_business_entity_name,client_name
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,ABBOTT DIABETESE CARE
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Astellas Australia Pty Ltd
 199,The Trustee for The OneProfile Communications Unit Trust,Liquidnet Australia
+610,The Trusteee for the SRKM Trust,Ngaanyatjarra Media (Aboriginal Corporation)
 240,The Write Connection Pty Ltd,Australian Technology Group of Universities
 240,The Write Connection Pty Ltd,InterGen (Australia)
 240,The Write Connection Pty Ltd,SA Power Networks 
@@ -1803,6 +1802,7 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,United States Chamber of Commerce
 584,Willard Public Affairs Pty Limited,G.I Smoker and M.R Tudehope
 584,Willard Public Affairs Pty Limited,Sonic Healthcare Limited
+584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
