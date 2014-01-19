@@ -87,6 +87,7 @@ agency_id,agency_business_entity_name,client_name
 135,Australian Spectrum Consultants Pty Ltd,Qualcomm International
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,PoleStar SA
+135,Australian Spectrum Consultants Pty Ltd,Encompass Digital Media
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,General Electric Aviation
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Quickstep Holdings Ltd
@@ -162,20 +163,17 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,C.H. Group Pty Ltd
 338,Barton Deakin ,The Benevolent Society
 338,Barton Deakin ,Bain and Company Inc
+338,Barton Deakin ,Buchanan Group
+338,Barton Deakin ,Smart Services CRC Pty Ltd
 342,Bavaria Corporation Pty Ltd,Haigslea Finance Group Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
-583,BDaaS Consulting Pty Ltd,ServiceMesh
-583,BDaaS Consulting Pty Ltd,K2 Knowledge Solutions
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
-583,BDaaS Consulting Pty Ltd,Mellanox
-583,BDaaS Consulting Pty Ltd,MapR
 162,Belman Consulting Pty Ltd,Tenix Pty Limited
 196,Bernard J Eades,The Australian Institute of Export
 196,Bernard J Eades,Australian Made Campaign Ltd
 597,Birney Corporate Pty Ltd,Mondotalk
 110,Bluegrass Consulting Pty Ltd,iTIC Australia Pty Ltd
-110,Bluegrass Consulting Pty Ltd,Friends of Collector
 110,Bluegrass Consulting Pty Ltd,GPT Group 
 110,Bluegrass Consulting Pty Ltd,Reliance Rail 
 12,Border Management Advisory Services Pty Ltd,Datacom Systems (ACT) Pty Ltd
@@ -297,6 +295,8 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Carers Australia
 160,Cotterell Jannette Suzanne,BioCSL Pty Ltd
 160,Cotterell Jannette Suzanne,HWL Ebsworth Lawyers
+160,Cotterell Jannette Suzanne,Merck Sharp & Dohme (Australia) Pty Limited
+403,Covance Pty Ltd (Covance Market Access Services division),Janssen Cilag Pty Ltd
 329,Cox Inall Communications,Sydney Fish Market
 81,CPR Communications & Public Relations Pty Ltd,Nextgen
 81,CPR Communications & Public Relations Pty Ltd,Brisbane Airport Corporation
@@ -445,7 +445,6 @@ agency_id,agency_business_entity_name,client_name
 344,Electrotech Australia Pty Limited,Northrop Grumman Overseas Service Corporation
 31,Endeavour Consulting Group Pty Ltd,Australian Orthopaedic Association
 31,Endeavour Consulting Group Pty Ltd,City West Property Holdings Pty Ltd
-31,Endeavour Consulting Group Pty Ltd,National Public Affairs Group
 31,Endeavour Consulting Group Pty Ltd,Rio Tinto Ltd
 31,Endeavour Consulting Group Pty Ltd,Christmas Island Phosphates
 31,Endeavour Consulting Group Pty Ltd,Energy Resources Australia Ltd
@@ -472,6 +471,10 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Coca Cola South Pacific 
 31,Endeavour Consulting Group Pty Ltd,Griffith University 
 31,Endeavour Consulting Group Pty Ltd,GDF SUEZ
+31,Endeavour Consulting Group Pty Ltd,Woolworths 
+31,Endeavour Consulting Group Pty Ltd,Google Australia 
+31,Endeavour Consulting Group Pty Ltd,Corum Group 
+31,Endeavour Consulting Group Pty Ltd,Australian Recording Industry Association 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Big Issue in Australia Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
@@ -665,6 +668,7 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,Fletcher Building (Australia) Pty Ltd
 59,Government Relations Australia Advisory Pty Ltd,Biogen Idec Australia Pty Ltd
 59,Government Relations Australia Advisory Pty Ltd,MGM Wireless Limited
+59,Government Relations Australia Advisory Pty Ltd,Human Systems Asia Pacific Pty Ltd
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -826,7 +830,6 @@ agency_id,agency_business_entity_name,client_name
 124,Helen & Mike O'Brien JP,Parins
 147,Herbert Geer,DPL MEDICAL PTY LTD
 147,Herbert Geer,BAVARIAN NORDIC
-147,Herbert Geer,COMMERCIAL RADIO AUSTRALIA LTD
 8,Hill and Knowlton,Coca Cola South Pacific
 8,Hill and Knowlton,InSinkErator
 8,Hill and Knowlton,Australian Beverage Council
@@ -916,7 +919,6 @@ agency_id,agency_business_entity_name,client_name
 56,John C Blackwell,Emantra
 56,John C Blackwell,Eutelsat America Corporation
 101,John Connolly & Partners Pty Limited,ANZ Limited
-101,John Connolly & Partners Pty Limited,Leighton Holdings Pty Limited
 101,John Connolly & Partners Pty Limited,BHP Billiton Ltd
 101,John Connolly & Partners Pty Limited,Sydney Theatre Company
 101,John Connolly & Partners Pty Limited,ISS Facilities Services Australia Limited
@@ -1043,7 +1045,6 @@ agency_id,agency_business_entity_name,client_name
 80,MacGregor Public Relations,Pearl Consortium
 80,MacGregor Public Relations,Sharpe Brothers
 80,MacGregor Public Relations,Cubic Corporation
-80,MacGregor Public Relations,Chiropractors' Association of Australia (New South Wales)
 80,MacGregor Public Relations,BT Australasia Pty Ltd
 119,Macquarie Group Limited,Macquarie Pastoral Fund
 119,Macquarie Group Limited,China Shenhua Energy Company Limited
@@ -1193,14 +1194,11 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,WPP plc
 72,Parker & Partners Pty Ltd,Children's Medical Research Institute
 72,Parker & Partners Pty Ltd,The Jean Hailes Foundation
-72,Parker & Partners Pty Ltd,McDonald's Australia
 72,Parker & Partners Pty Ltd,AstraZeneca
 72,Parker & Partners Pty Ltd,Vale Australia
 72,Parker & Partners Pty Ltd,Conference of Asia Pacific Express Carriers
 72,Parker & Partners Pty Ltd,Australian Olive Oil Association
 72,Parker & Partners Pty Ltd,Biogen Idec Australia 
-72,Parker & Partners Pty Ltd,bioCSL
-72,Parker & Partners Pty Ltd,CSL Behring
 72,Parker & Partners Pty Ltd,DuPont
 72,Parker & Partners Pty Ltd,REST Industry Super
 72,Parker & Partners Pty Ltd,Australian Veterinary Association
@@ -1226,8 +1224,6 @@ agency_id,agency_business_entity_name,client_name
 318,Porter Novelli Australia Pty Ltd,HVP Plantations
 318,Porter Novelli Australia Pty Ltd,General Mills Australia
 318,Porter Novelli Australia Pty Ltd,ACCIONA Energy
-61,Preferential Publications Pty Ltd,Queensland Nurses Union
-61,Preferential Publications Pty Ltd,NSW Nurses and Midwives Association
 516,Premier State Consulting Pty Ltd,Australian Hotels Association (NSW)
 516,Premier State Consulting Pty Ltd,Caltex Australia Limited
 516,Premier State Consulting Pty Ltd,Employers Mutual Limited
@@ -1433,6 +1429,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,The Institute of Patent and Trade Mark Attorneys of Australia
 35,Richardson Coutts,Moorebank Intermodal Company
 35,Richardson Coutts,Allocate Software
+35,Richardson Coutts,NuCoal Resources Ltd
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
@@ -1598,7 +1595,6 @@ agency_id,agency_business_entity_name,client_name
 385,Strategic Partnership Group (Aust) Pty Limited,Australian Fertility Medicine Foundation
 385,Strategic Partnership Group (Aust) Pty Limited,Performance English Pty Ltd
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
-528,SYSTECH Consultants Pty Ltd,EADS Deutschland GmbH (Cassidian)
 235,The Agenda Group Pty Ltd,Epworth Health Care
 235,The Agenda Group Pty Ltd,Regional Capitals Australia
 9,The Canberra Institute,Emirates Trading Australia

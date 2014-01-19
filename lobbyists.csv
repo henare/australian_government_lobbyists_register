@@ -113,7 +113,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Amanda Halliday,Senior Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Yuan Yuan Cheng,Manager Health Economics,No,""
-403,Covance Pty Ltd (Covance Market Access Services division),Kristin King,Principal Market Acces ,Yes,February 1987
 329,Cox Inall Communications,Timothy Kevin Powell,Managing Director,No,""
 329,Cox Inall Communications,Sally Fraser,Group Account Director,No,""
 81,CPR Communications & Public Relations Pty Ltd,David Forman,Managing Director Government Relations,No,""
@@ -196,7 +195,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 453,First State Advisors and Consultants ,Joseph Tannous ,"Executive Director, Australia ",Yes,February 2004
 453,First State Advisors and Consultants ,David Zachary Miles ,Partner,No,""
 453,First State Advisors and Consultants ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
-453,First State Advisors and Consultants ,The Hon. Peter Reith,Special Counsel,Yes,November 2001
 453,First State Advisors and Consultants ,Gary Humphries ,Special Counsel ,No,""
 453,First State Advisors and Consultants ,Maree Davenport,Director Government Affairs Victoria ,Yes,November 2002
 295,Five Corners Pty Ltd,Peter Robertson,Director - Five Coners Pty Ltd,No,""
@@ -236,7 +234,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,Government Relations Australia Advisory Pty Ltd,Trista Rochelle Grainger,Consultant,No,""
 59,Government Relations Australia Advisory Pty Ltd,Luke Aaron Myers,Associate Director,No,""
 59,Government Relations Australia Advisory Pty Ltd,Brent Crockford,Associate Director,Yes,December 2007
-59,Government Relations Australia Advisory Pty Ltd,Gabrielle Phillips,Research Assistant,No,""
 59,Government Relations Australia Advisory Pty Ltd,Sean Alexander Johnson,Associate Director,Yes,December 2007
 59,Government Relations Australia Advisory Pty Ltd,Pamela Rosa Lombardi,Research and Executive Assistant,Yes,December 2007
 59,Government Relations Australia Advisory Pty Ltd,Mark John Christopher Smith,Associate,No,""
@@ -246,6 +243,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,Government Relations Australia Advisory Pty Ltd,Margo Delaney,Executive Assistant,No,""
 59,Government Relations Australia Advisory Pty Ltd,Nicolaos Xerakias,Associate Director,Yes,December 2007
 59,Government Relations Australia Advisory Pty Ltd,Karl Thomas Smith,Research and Policy Analyst,No,""
+59,Government Relations Australia Advisory Pty Ltd,Michael Chaitow,Research and Policy Analyst,Yes,January 2014
 7,Government Relations Solutions Pty Ltd,David Scotland,Senior Consultant,No,""
 7,Government Relations Solutions Pty Ltd,WendyMatthew,Administration / Research,No,""
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
@@ -340,6 +338,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Amy Vickers,Executive Associate,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Zackary McLennan,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jeff Sorrell,Associate Director,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Emily Minson,Associate Director,Yes,July 2008
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 570,Leaderboard Pty Ltd,Rodney Arthur Irvine,Managing Director,Yes,November 2007
 557,Leanne Joyce Consulting,Leanne Joyce,Public Affairs and Communications Consultant,No,""
@@ -371,7 +370,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Managing Partner,No,""
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Partner,No,""
-452,Michael Johnson Associates Pty Limited,Ian Michael RossGowan,Senior Manager,No,""
+452,Michael Johnson Associates Pty Limited,Ian Michael RossGowan,Director,No,""
 444,Michael Megaw,Michael Curnow Megaw,Owner,No,""
 531,Migration Alliance Inc,Liana Justine Allan,Convenor,No,""
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore,Director,Yes,November 2007
@@ -411,10 +410,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 309,Paramul Pty Ltd,Paul Lennon,Director,No,""
 282,Paris Walter Pty Ltd,Kurt Kraues,Director,No,""
 72,Parker & Partners Pty Ltd,Hamish Li,Senior Consultant,No,""
-72,Parker & Partners Pty Ltd,Mathew Jones ,Managing Director,No,""
 72,Parker & Partners Pty Ltd,Michael Hartmann,Director of Government Relations,No,""
 72,Parker & Partners Pty Ltd,Arli Miller,Associate Director,No,""
-72,Parker & Partners Pty Ltd,David Bell,Group Managing Director Corporate,No,""
 304,Patrick Russell Consulting Pty Ltd,Dean Logan,CEO / Managing Director,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -424,8 +421,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Peter Kent,Managing Director,No,""
 318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Group Account Director,No,""
 318,Porter Novelli Australia Pty Ltd,Damien Batey,Corporate Communications Lead,No,""
-61,Preferential Publications Pty Ltd,Paula Mary O'Dea,Director,No,""
-61,Preferential Publications Pty Ltd,John Michael Moran,Managing director,Yes,April 1993
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,David Begg,Director,No,""
 516,Premier State Consulting Pty Ltd,Natalie Christiansen,Manager â Governance & Strategic Planning,No,""
@@ -452,14 +447,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 89,Public Affairs Network Pty Ltd,Rosie Yeo,Director,Yes,April 1995
 68,Public Policy Solutions Pty Ltd,Christopher John Fry,Director,No,""
 242,Purple Communications Australia Pty Ltd,Warrick Hazeldine,Managing Director,No,""
-242,Purple Communications Australia Pty Ltd,Caroline Thomson,Director,No,""
+242,Purple Communications Australia Pty Ltd,Caroline Thomson,Associate Director,No,""
 242,Purple Communications Australia Pty Ltd,Ryan McKinlay,Director,No,""
 242,Purple Communications Australia Pty Ltd,Annette Ellis,Director,No,""
 242,Purple Communications Australia Pty Ltd,Richard Harris,Director,No,""
 242,Purple Communications Australia Pty Ltd,Erin Buckley,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Renee Wilkinson,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Zoey Tyson,Consultant,No,""
-242,Purple Communications Australia Pty Ltd,Linda Reddi,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Gregory Galton,Associate Director ,No,""
 242,Purple Communications Australia Pty Ltd,Casey Hockey,Consultant ,No,""
 242,Purple Communications Australia Pty Ltd,Deidre Ellen Willmott,Executive Chairman ,No,""
