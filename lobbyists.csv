@@ -120,7 +120,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director Communications and Issues Management,No,""
 81,CPR Communications & Public Relations Pty Ltd,Jack Herbert,Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Senior Adviser,Yes,January 2007
-81,CPR Communications & Public Relations Pty Ltd,Alexandra Heaven,Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Wal Jurkiewicz,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Sally Leake,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Leanne Downing,Senior Adviser,No,""
@@ -213,7 +212,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 141,G.CAMPBELL & K.L WEIL,Kerrie Linda Weil,CONSULTANT (media),No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 106,Galbraith & Company Pty Ltd,Allan King,Partner,No,""
-1,Gambolling Pty Ltd,Sally Way,Consultant ,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,June 1979
 1,Gambolling Pty Ltd,Barbara Carney,Director,Yes,June 2002
 506,Garrie Gibson,Garrie Gibson,Senior Consultant,Yes,March 1996
@@ -247,6 +245,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 7,Government Relations Solutions Pty Ltd,David Scotland,Senior Consultant,No,""
 7,Government Relations Solutions Pty Ltd,WendyMatthew,Administration / Research,No,""
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
+125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
 122,GRA Everingham Pty Ltd,Paul Everingham,Managing Director,Yes,February 2003
 122,GRA Everingham Pty Ltd,Jason Marocchi,Director,No,""
 122,GRA Everingham Pty Ltd,Hon John Dawkins AO,Director,Yes,November 1995
@@ -296,7 +295,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 103,Ivydale Nominees Pty Ltd,Clint Ford,Senior Consultant,No,""
 249,JaTaCam Holdings,John Faker,Director,No,""
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
-586,Jenkins Engineering defence Systems Pty Ltd,Bengt Larsen,Marketing Manager,Yes,December 1999
 319,Jo Scard Pty Ltd,Jo Scard,"Business Founder, former adviser to former Minister for Immigration & Citizenship until 14/9/10",Yes,September 2010
 319,Jo Scard Pty Ltd,Brigid Lombard,Administrator,No,""
 319,Jo Scard Pty Ltd,Genevieve Dwyer,Associate,No,""
@@ -429,7 +427,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Nick Campbell,Director,Yes,December 1999
 516,Premier State Consulting Pty Ltd,Ian Hancock,Analyst,No,""
 516,Premier State Consulting Pty Ltd,Kate Blunden,Senior Adviser,Yes,April 1999
-220,Primary Communication Pty Ltd,Jennifer Muir,Group Account Director,No,""
+220,Primary Communication Pty Ltd,Jennifer Muir,General Manager,No,""
 220,Primary Communication Pty Ltd,Ian Zakon,Account Director  ,Yes,June 2011
 220,Primary Communication Pty Ltd,Helen Thurloe,Account Director,No,""
 339,Principled Public Relations and Public Affairs,Erik A Locke,Director,Yes,September 2010
@@ -516,7 +514,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 82,Socom Pty Ltd,Penny Kotsiovos,Consultant,No,""
 82,Socom Pty Ltd,Jennifer Cromarty,Account Director,No,""
 82,Socom Pty Ltd,Timothy Singh,Consultant ,No,""
-82,Socom Pty Ltd,Caitlin Evans,Consultant ,No,""
 11,Sofema,Bill Lewis,Representative for australi,Yes,February 1996
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
@@ -552,7 +549,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 350,The Narrative Investments Pty Ltd,Simon Murphy,Partner,No,""
 350,The Narrative Investments Pty Ltd,Ben Eade,Associate Director,No,""
-268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Director,No,""
+268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
 268,The Premier Communications Group Pty Ltd.,Garrie Gibson ,Senior Advisor,Yes,March 1996
 268,The Premier Communications Group Pty Ltd.,Ross Grove,Senior Advisor,No,""
 268,The Premier Communications Group Pty Ltd.,Suzanne Davies,Senior Advisor,No,""
@@ -600,7 +597,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 328,THEMA Consulting Pty Ltd,Carmelina Guarnieri,Senior Analyst,No,""
 152,TJM Consulting,Thomas John McLaughlin,Proprietor,No,""
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS,CHAIRMAN,No,""
-540,TOURISM THINK TANK PTY LTD,GRANT THOMAS CASSIDY,DIRECTOR,No,""
 540,TOURISM THINK TANK PTY LTD,STEPHEN ALAN BECKETT,CEO,Yes,March 2012
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering,Director,Yes,January 2000
 203,Trustee for Consultum Trust,Graham Staerk,Managing Director,Yes,April 1994
@@ -613,7 +609,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Hrvoje Ferle,Consultant,No,""
 97,Wayne Smith,Wayne Christopher Smith,Director,No,""
 428,Weber Shandwick Worldwide,Jacquelynne Willcox,"Head of Public Affairs, Senior Strategic Counsel",No,""
-428,Weber Shandwick Worldwide,Eliza Newton,Senior Account Manager,No,""
+428,Weber Shandwick Worldwide,Eliza Newton,Senior Account Director,No,""
 428,Weber Shandwick Worldwide,Alistair Nicholas,Senior Advisor,Yes,October 2000
 428,Weber Shandwick Worldwide,Josh Wright,Advisor,Yes,April 2005
 428,Weber Shandwick Worldwide,Justin Yuen,Account Coordinator,No,""
