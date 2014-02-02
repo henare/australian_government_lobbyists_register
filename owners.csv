@@ -61,9 +61,9 @@ agency_id,agency_business_entity_name,owner_name
 601,Catherine McGovern,Catherine McGovern
 27,Cato Counsel Pty Ltd,Sue Cato
 191,"Cemdia Pty, Ltd",Hendrik Prins
-265,CGP solutions,CPK Communications Pty Ltd
-265,CGP solutions,Roland Craig Holman
-265,CGP solutions,The Regent Square Group
+265,CGP solutions Ltd,CPK Communications Pty Ltd
+265,CGP solutions Ltd,Roland Craig Holman
+265,CGP solutions Ltd,The Regent Square Group
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski
 113,CHRIS SCHACHT,CHRIS SCHACHT
 215,"Clark, Kerren G",Kerren Clark
@@ -74,7 +74,6 @@ agency_id,agency_business_entity_name,owner_name
 142,Consilium International Group Pty Ltd,Michael Zarew
 585,Corporate Health Services,Doron Samuell
 18,Corporate Words Australia Pty Limited,Colin Fulton
-545,Corpwrite Public Affairs ,Matthew Moran
 154,Cosway Australia Pty Ltd,Clemenger Group
 160,Cotterell Jannette Suzanne,Jannette S Cotterell 
 403,Covance Pty Ltd (Covance Market Access Services division),Covance Inc.
@@ -342,6 +341,7 @@ agency_id,agency_business_entity_name,owner_name
 67,Roland William Manning,Rollo Manning
 439,Royce (Vic) Pty Ltd,Peter Mahon
 439,Royce (Vic) Pty Ltd,Richard Amos
+612,S2P2 Strategies,Julie Elizabeth Inman Grant
 539,Sales Harvest Pty Ltd,Fraser Buchanan Allen
 126,Salmon Odgers Family Trust,Michael Salmon
 126,Salmon Odgers Family Trust,Carolyn Odgers

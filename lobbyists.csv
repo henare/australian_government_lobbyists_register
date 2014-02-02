@@ -79,7 +79,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 27,Cato Counsel Pty Ltd,David Symons,Senior Communications Advisor,No,""
 27,Cato Counsel Pty Ltd,Nino Tesoriero,Communications Advisor,No,""
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
-265,CGP solutions,Paddy Costanzo,Principal & Director,No,""
+265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
 215,"Clark, Kerren G",Kerren Clark,Principal,No,""
@@ -101,7 +101,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 585,Corporate Health Services,Ke Ting Xia,Communications Director,No,""
 585,Corporate Health Services,Doron Samuell,Director,No,""
 18,Corporate Words Australia Pty Limited,Colin Fulton,Principal,No,""
-545,Corpwrite Public Affairs ,Matthew Moran,Director,No,""
 154,Cosway Australia Pty Ltd,Tony Nagy,Director,No,""
 160,Cotterell Jannette Suzanne,Jannette Cotterell,Managing Director,No,""
 160,Cotterell Jannette Suzanne,Rachel Gilbertson,Researcher,No,""
@@ -124,6 +123,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 81,CPR Communications & Public Relations Pty Ltd,Sally Leake,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Leanne Downing,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Leanne Joyce,Senior Advisor,No,""
+81,CPR Communications & Public Relations Pty Ltd,Evelyn Ek,Senior Adviser,Yes,October 2013
+81,CPR Communications & Public Relations Pty Ltd,Julia Diprose,Adviser,No,""
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
@@ -182,6 +183,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Alana Mew,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jackie Woods,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Tony Douglas,Consultant,No,""
+71,Essential Media Communications Pty Ltd,Tim Norton,Account Manager,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,John Morton,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,Jay Pleass,Account Director,Yes,August 2007
@@ -253,6 +255,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 122,GRA Everingham Pty Ltd,Kareece van der Woude,Client Support,No,""
 122,GRA Everingham Pty Ltd,Alex Temby,Associate Director,No,""
 122,GRA Everingham Pty Ltd,Hon Eric Ripper,Chairman,No,""
+122,GRA Everingham Pty Ltd,Peter McMahon,Senior Consultant,Yes,November 2006
 209,Gryphon Management Australia,Peter Rowe,Director,No,""
 209,Gryphon Management Australia,David Griffiths,Director,No,""
 431,Guy Barnett Consulting Pty Ltd,Guy Barnett,Managing Director,Yes,June 2011
@@ -261,10 +264,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 469,Harford Consulting Pty Ltd,Maura Angle,Managing Director,No,""
 406,Hartnett Consulting,Brian Hartnett,Consultant,No,""
-96,Hawker Britton Group Pty Ltd,Simon Banks,Director,Yes,November 1999
+96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
 96,Hawker Britton Group Pty Ltd,Daniel Pearson,Director,No,""
-96,Hawker Britton Group Pty Ltd,Justin Di Lollo,Managing Director,Yes,January 1999
 96,Hawker Britton Group Pty Ltd,Moshe Same,Research Analyst,No,""
 96,Hawker Britton Group Pty Ltd,Alice Crawford,Research Analyst,No,""
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
@@ -322,8 +324,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Geoff Brennan,Senior Advisor,Yes,April 1996
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Sonia Yang,Associate,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Coby Lucas,Associate,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Lucy Mudd,Associate Director ,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Lucy Chamberlain,Associate Director ,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Amanda Buckley,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Research Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jessica McIntyre,Executive Assistant,No,""
@@ -492,6 +493,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 439,Royce (Vic) Pty Ltd,Peter Mahon,Chief Executive,No,""
 439,Royce (Vic) Pty Ltd,Richard Amos,Managing Director,No,""
 439,Royce (Vic) Pty Ltd,Matthew Mahon,General Manager,No,""
+612,S2P2 Strategies,Julie Inman Grant,Managing Director,No,""
 539,Sales Harvest Pty Ltd,Fraser Buchanan Allen,Managing Director,No,""
 126,Salmon Odgers Family Trust,Michael Salmon,Director,No,""
 607,Sand Technology Aust P/L,Ian Douglas Fowler,Director.,No,""
@@ -566,13 +568,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 145,The Trustee for Bespoke Approach Unit Trust,Caroline Rhodes,Deputy Managing Director,Yes,June 2010
 145,The Trustee for Bespoke Approach Unit Trust,Thomas Pagliaro,Associate,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Georgia Bradshaw,Researcher,No,""
-145,The Trustee for Bespoke Approach Unit Trust,Suhanthy Hamsanathan,Associate,Yes,March 2011
 589,The Trustee for Bespoke Territory Unit Trust,Ian Smith,Partner,Yes,November 2006
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Caroline Rhodes,Consultant,Yes,June 2010
 589,The Trustee for Bespoke Territory Unit Trust,Thomas Pagliaro,Consultant,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Georgia Bradshaw,Consultant,No,""
-589,The Trustee for Bespoke Territory Unit Trust,Suhanthy Hamsanathan,Consultant,Yes,March 2011
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 420,The trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
@@ -590,7 +590,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 328,THEMA Consulting Pty Ltd,Suzi Cottrell,Senior Partner,No,""
 328,THEMA Consulting Pty Ltd,Mia Mudge,Senior Partner,No,""
 328,THEMA Consulting Pty Ltd,Daniel Jackson,Senior Partner,No,""
-328,THEMA Consulting Pty Ltd,Maria Farris,Senior Analyst,No,""
 328,THEMA Consulting Pty Ltd,Koji Makino,Senior Analyst,No,""
 328,THEMA Consulting Pty Ltd,Nimita Arora,Senior Partner,No,""
 328,THEMA Consulting Pty Ltd,Brittany Maguire,Analyst,No,""

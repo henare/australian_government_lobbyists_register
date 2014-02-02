@@ -166,6 +166,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Bain and Company Inc
 338,Barton Deakin ,Buchanan Group
 338,Barton Deakin ,Smart Services CRC Pty Ltd
+338,Barton Deakin ,Post Office Agents Association Limited 
+338,Barton Deakin ,AARNet Pty Ltd
+338,Barton Deakin ,Ogilvy & Mather (Sydney) Pty Limited
 342,Bavaria Corporation Pty Ltd,Haigslea Finance Group Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
@@ -225,10 +228,11 @@ agency_id,agency_business_entity_name,client_name
 27,Cato Counsel Pty Ltd,Pacific Brands
 27,Cato Counsel Pty Ltd,Transgrid
 191,"Cemdia Pty, Ltd",NBNCo
-265,CGP solutions,INMARSAT Global Limited
-265,CGP solutions,ViaSat Inc
-265,CGP solutions,NewSat Limited
-265,CGP solutions,Motorola Solutions Inc
+265,CGP solutions Ltd,INMARSAT Global Limited
+265,CGP solutions Ltd,ViaSat Inc
+265,CGP solutions Ltd,NewSat Limited
+265,CGP solutions Ltd,Motorola Solutions Inc
+265,CGP solutions Ltd,Orange SA
 157,Chikarovski & Associates Pty Ltd,Association of Financial Advisers Ltd
 157,Chikarovski & Associates Pty Ltd,The MAC Group
 157,Chikarovski & Associates Pty Ltd,Stirling Bridge Capital Ltd
@@ -267,7 +271,6 @@ agency_id,agency_business_entity_name,client_name
 585,Corporate Health Services,Professional Opinions
 18,Corporate Words Australia Pty Limited,MEO Australia Limited
 18,Corporate Words Australia Pty Limited,Terrajoule Australis Pty Ltd
-545,Corpwrite Public Affairs ,Vertex Pharmaceuticals (Australia) Pty Ltd
 154,Cosway Australia Pty Ltd,Landis+Gyr
 154,Cosway Australia Pty Ltd,Virgin Group
 154,Cosway Australia Pty Ltd,Fletcher Building
@@ -370,7 +373,6 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Free TV Australia Ltd
 345,CSR Limited,Wilmar Sugar Australia Limited
 345,CSR Limited,Sugar Australia Limited
-153,Cultural Consulting,The Australian Boys Choral Institute
 386,Currie Communications,Global Change Institute
 386,Currie Communications,Wheat Quality Australia
 10,Cynergy Pty Ltd,Solastor Pty Ltd
@@ -406,8 +408,8 @@ agency_id,agency_business_entity_name,client_name
 16,Day & Hodge Associates Pty Ltd,Australian College of Nurse Practitioners
 572,Debra Susan Chalmers,TRY Australia
 611,deBullet Consulting LLC,Carrier Corporation
-277,Dinorden Pty Ltd,Fujitsu Australia Limited
 277,Dinorden Pty Ltd,Adani Mining Pty Ltd
+277,Dinorden Pty Ltd,CSC Australia Pty Limited
 360,Diplomacy Pty Limited,ADCO Constructions
 360,Diplomacy Pty Limited,Anindilyakwa Land Council
 360,Diplomacy Pty Limited,G21 - Geelong Regional Alliance
@@ -506,6 +508,7 @@ agency_id,agency_business_entity_name,client_name
 71,Essential Media Communications Pty Ltd,Gandangara aboriginal land council
 71,Essential Media Communications Pty Ltd,Sydney Aboriginal Services Ltd
 71,Essential Media Communications Pty Ltd,Bank mecu
+71,Essential Media Communications Pty Ltd,Australian Marine Conservation Society
 564,Etched Communications Pty Ltd,Nestle Australia
 564,Etched Communications Pty Ltd,Bellamy's Organic
 564,Etched Communications Pty Ltd,Plastics and Chemicals Industries Association
@@ -677,6 +680,8 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,MGM Wireless Limited
 59,Government Relations Australia Advisory Pty Ltd,Human Systems Asia Pacific Pty Ltd
 59,Government Relations Australia Advisory Pty Ltd,DrinkWise Australia Ltd
+59,Government Relations Australia Advisory Pty Ltd,AGL Energy Limited
+59,Government Relations Australia Advisory Pty Ltd,Clean Energy Council
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -732,102 +737,50 @@ agency_id,agency_business_entity_name,client_name
 469,Harford Consulting Pty Ltd,Australian Homestay Network
 406,Hartnett Consulting,Tasmanian Alkaloids Pty Ltd
 96,Hawker Britton Group Pty Ltd,Bombardier Transportation Australia
-96,Hawker Britton Group Pty Ltd,AGL Energy Limited
 96,Hawker Britton Group Pty Ltd,Singleton Ogilvy & Mather Holdings
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,Etcom
-96,Hawker Britton Group Pty Ltd,Juvenile Diabetes Research Foundation
 96,Hawker Britton Group Pty Ltd,Boehringer Ingelheim Pty Ltd
-96,Hawker Britton Group Pty Ltd,Aspen Medical
-96,Hawker Britton Group Pty Ltd,Association of Independent Schools of NSW
 96,Hawker Britton Group Pty Ltd,STW Group Ltd
-96,Hawker Britton Group Pty Ltd,Raytheon Australia
-96,Hawker Britton Group Pty Ltd,Australian Communication Exchange
 96,Hawker Britton Group Pty Ltd,Canada Steamship Lines Australia Pty Ltd
 96,Hawker Britton Group Pty Ltd,Mediacom
-96,Hawker Britton Group Pty Ltd,Amgen Australia Pty Ltd
 96,Hawker Britton Group Pty Ltd,AARNet
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
 96,Hawker Britton Group Pty Ltd,Harness Racing Australia
 96,Hawker Britton Group Pty Ltd,Bunnings
-96,Hawker Britton Group Pty Ltd,Peach Advertising
 96,Hawker Britton Group Pty Ltd,Officeworks
 96,Hawker Britton Group Pty Ltd,Crown Castle
-96,Hawker Britton Group Pty Ltd,Australian Primary Principal's Association
 96,Hawker Britton Group Pty Ltd,HOED
 96,Hawker Britton Group Pty Ltd,J Walter Thompson (JWT)
 96,Hawker Britton Group Pty Ltd,Corrs Chambers Westgarth
 96,Hawker Britton Group Pty Ltd,Quasar Resources Pty Ltd
 96,Hawker Britton Group Pty Ltd,Adelaide Airport Limited
 96,Hawker Britton Group Pty Ltd,Macquarie Group Limited
-96,Hawker Britton Group Pty Ltd,Pottinger
 96,Hawker Britton Group Pty Ltd,American Pork Export Trading Company
 96,Hawker Britton Group Pty Ltd,ZOO Group
 96,Hawker Britton Group Pty Ltd,amr interactive
-96,Hawker Britton Group Pty Ltd,University of New South Wales
 96,Hawker Britton Group Pty Ltd,The Brand Agency
 96,Hawker Britton Group Pty Ltd,AMP Limited
 96,Hawker Britton Group Pty Ltd,Canada Pension Plan Investment Board
-96,Hawker Britton Group Pty Ltd,Navitas Limited
 96,Hawker Britton Group Pty Ltd,Babcock Integrated Technology Australia
-96,Hawker Britton Group Pty Ltd,Global Green Plan Foundation
 96,Hawker Britton Group Pty Ltd,Australian Hotels Association (Victorian Branch)
-96,Hawker Britton Group Pty Ltd,Yum Restaurants Australia
 96,Hawker Britton Group Pty Ltd,Silcar Pty Ltd
-96,Hawker Britton Group Pty Ltd,Osteoporosis Australia
 96,Hawker Britton Group Pty Ltd,Medibank Health Solutions
-96,Hawker Britton Group Pty Ltd,Open Universities Australia Pty Ltd
-96,Hawker Britton Group Pty Ltd,Complementary Healthcare Council of Australia
 96,Hawker Britton Group Pty Ltd,Leighton Holdings
-96,Hawker Britton Group Pty Ltd,Alinta Energy
 96,Hawker Britton Group Pty Ltd,Lorne Sculpture
-96,Hawker Britton Group Pty Ltd,Motorola Australia
-96,Hawker Britton Group Pty Ltd,Clinical Trials Connect
 96,Hawker Britton Group Pty Ltd,The Adams Group
 96,Hawker Britton Group Pty Ltd,Domain Principal Group
 96,Hawker Britton Group Pty Ltd,The Alliance for Safe Children
 96,Hawker Britton Group Pty Ltd,Allygroup
 96,Hawker Britton Group Pty Ltd,Project Respect
-96,Hawker Britton Group Pty Ltd,Clanwilliam Aged Care
 96,Hawker Britton Group Pty Ltd,Phoenix Society Inc
-96,Hawker Britton Group Pty Ltd,Bombardier Recreational Products 
-96,Hawker Britton Group Pty Ltd,Broadband Industry Group 
-96,Hawker Britton Group Pty Ltd,ViiV Healthcare
-96,Hawker Britton Group Pty Ltd,Buchanan Group 
-96,Hawker Britton Group Pty Ltd,Palisade Investment Partners Limited 
 96,Hawker Britton Group Pty Ltd,Aurizon
 96,Hawker Britton Group Pty Ltd,Yellow Edge
-96,Hawker Britton Group Pty Ltd,RP Data 
-96,Hawker Britton Group Pty Ltd,St Vincent's Health Australia
-96,Hawker Britton Group Pty Ltd,Huon Aquaculture
-96,Hawker Britton Group Pty Ltd,Tasmanian Salmon Growers Association
-96,Hawker Britton Group Pty Ltd,Swisse Wellness Pty Ltd
-96,Hawker Britton Group Pty Ltd,Baulderstone
 96,Hawker Britton Group Pty Ltd,Shire of Cardinia 
-96,Hawker Britton Group Pty Ltd,IPAR
-96,Hawker Britton Group Pty Ltd,Australian Federation of AIDS Organisations 
-96,Hawker Britton Group Pty Ltd,Brand Tasmania 
-96,Hawker Britton Group Pty Ltd,Badjar Ogilvy 
-96,Hawker Britton Group Pty Ltd,Copyright Agency
-96,Hawker Britton Group Pty Ltd,Viscopy
-96,Hawker Britton Group Pty Ltd,Lutheran Education Australia
-96,Hawker Britton Group Pty Ltd,Dawn O'Neil and Associates
-96,Hawker Britton Group Pty Ltd,Heathgate Resources
-96,Hawker Britton Group Pty Ltd,Local Government Association of South Australia
-96,Hawker Britton Group Pty Ltd,TPG Capital
-96,Hawker Britton Group Pty Ltd,Partnership Victorian Family Relationship Centres
-96,Hawker Britton Group Pty Ltd,Knauf Insulation
-96,Hawker Britton Group Pty Ltd,Hemp Foods Australia
-96,Hawker Britton Group Pty Ltd,P Schoenfield Asset Management (PSAM)
 96,Hawker Britton Group Pty Ltd,Jewish Aid Australia 
-96,Hawker Britton Group Pty Ltd,Life Education Australia
-96,Hawker Britton Group Pty Ltd,Gunns Limited (Receivers and Managers Appointed)(In Liquidation)
-96,Hawker Britton Group Pty Ltd,CITIC Pacific Mining Management Pty Ltd
-96,Hawker Britton Group Pty Ltd,Dr Patrick D McGorry
-96,Hawker Britton Group Pty Ltd,The Pharmacy Guild of Australia
-96,Hawker Britton Group Pty Ltd,Soft Star Pty Limited
 96,Hawker Britton Group Pty Ltd,Australian Salary Packaging Industry Association
 96,Hawker Britton Group Pty Ltd,Abruzzo Club
+96,Hawker Britton Group Pty Ltd,Nextgen Group Holdings Pty Ltd
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,Genzyme
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -890,8 +843,6 @@ agency_id,agency_business_entity_name,client_name
 249,JaTaCam Holdings,Simons Ravden Lawyers
 249,JaTaCam Holdings,TMA Group
 586,Jenkins Engineering defence Systems Pty Ltd,Exelis Inc
-319,Jo Scard Pty Ltd,Diversity Council of Australia
-319,Jo Scard Pty Ltd,SBS Corporation
 319,Jo Scard Pty Ltd,Social Traders
 319,Jo Scard Pty Ltd,Black Dog Institute
 319,Jo Scard Pty Ltd,Kellogg (Australia)
@@ -919,6 +870,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,The Australian Charities Fund Operations Limited
 319,Jo Scard Pty Ltd,Australian Drug Foundation
 319,Jo Scard Pty Ltd,Scouts Australia
+319,Jo Scard Pty Ltd,Diversity Council Australia
 275,Jody Fassina ATF JAI Family Trust,Macquarie Group
 275,Jody Fassina ATF JAI Family Trust,Moss Capital
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
@@ -1020,6 +972,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Bureau of Steel Manufacturers of Australia Limited
 76,Kreab Gavin Anderson (Australia) Ltd,The Pharmacy Guild of Australia
 76,Kreab Gavin Anderson (Australia) Ltd,International Social Games Association (ISGA)
+76,Kreab Gavin Anderson (Australia) Ltd,The Banktech Group
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 570,Leaderboard Pty Ltd,Datacom Systems Pty Ltd
@@ -1048,7 +1001,6 @@ agency_id,agency_business_entity_name,client_name
 13,LOPAC Consulting Pty Limited,Kongsberg Defence Systems
 13,LOPAC Consulting Pty Limited,Kongsberg Maritime
 13,LOPAC Consulting Pty Limited,Supacat Ltd
-13,LOPAC Consulting Pty Limited,Combined Systems
 13,LOPAC Consulting Pty Limited,Hughes Network Systems
 13,LOPAC Consulting Pty Limited,Kongsberg Dynamic Systems
 13,LOPAC Consulting Pty Limited,PRONAL S A
@@ -1134,11 +1086,10 @@ agency_id,agency_business_entity_name,client_name
 356,Mr John Kindler,Pratt and Whitney Military Engines
 25,National Public Affairs Group,Air-conditioning and Refrigeration Equipment Manufacturers Association
 25,National Public Affairs Group,Lennox International
-229,Nayton Communication Pty Ltd,Pluton Resources Limited
 229,Nayton Communication Pty Ltd,Bauxite Alumina Joint Venture
-229,Nayton Communication Pty Ltd,Astro Resources Ltd
 229,Nayton Communication Pty Ltd,WA Onshore Gas group
 229,Nayton Communication Pty Ltd,Potash West Ltd
+229,Nayton Communication Pty Ltd,Australian Petroleum Production and Exploration Association Limited
 447,NETTALP Pty Ltd,NetApp Australia
 32,New Energy and  Resources Australia Pty Ltd,Australian Home Heating Association
 32,New Energy and  Resources Australia Pty Ltd,Mindax Limited
@@ -1420,11 +1371,11 @@ agency_id,agency_business_entity_name,client_name
 98,Res Publica Pty Ltd,Lion 
 98,Res Publica Pty Ltd,Priceline 
 497,Resolution Junction,Wavlink Incorporated
-497,Resolution Junction,The Oakleigh Centre
 497,Resolution Junction,Monash Mens Shed
 587,Richard Gilbert Corporate Advisory Pty Ltd,Perpetual Ltd
 587,Richard Gilbert Corporate Advisory Pty Ltd,Energy Industries Superannuation Scheme Pty Ltd
 587,Richard Gilbert Corporate Advisory Pty Ltd,Rule of Law Institute of Australia Inc
+587,Richard Gilbert Corporate Advisory Pty Ltd,National Australia Bank Limited
 35,Richardson Coutts,Merck Serono Australia Pty Ltd
 35,Richardson Coutts,Australian Associated Press
 35,Richardson Coutts,Intergraph
@@ -1464,6 +1415,9 @@ agency_id,agency_business_entity_name,client_name
 439,Royce (Vic) Pty Ltd,Melbourne Airport
 439,Royce (Vic) Pty Ltd,Basslink
 439,Royce (Vic) Pty Ltd,Steritech
+612,S2P2 Strategies,Intuit Corporation
+612,S2P2 Strategies,MasterCard Worldwide
+612,S2P2 Strategies,Family Online Safety Institute
 539,Sales Harvest Pty Ltd,Healix Australia
 539,Sales Harvest Pty Ltd,CareFlight Limited
 126,Salmon Odgers Family Trust,Australian Content Industry Group
@@ -1587,7 +1541,6 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,POSCO Australia
 66,Statecraft,KEPCO Australia
 66,Statecraft,Hume Coal
-66,Statecraft,Kellogg Australia
 66,Statecraft,Novartis
 66,Statecraft,Dimension Data
 66,Statecraft,Merck Sharp and Dohme Australia
@@ -1602,7 +1555,6 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,Asciano Limited
 66,Statecraft,Allergan
 66,Statecraft,Johnson and Johnson Medical
-66,Statecraft,Unity Resources Group
 66,Statecraft,WWF Australia
 66,Statecraft,KordaMentha Pty Ltd
 331,Stitch in Time (NT) Pty Ltd,Shorecorporate Pty Ltd
@@ -1618,6 +1570,7 @@ agency_id,agency_business_entity_name,client_name
 235,The Agenda Group Pty Ltd,Epworth Health Care
 235,The Agenda Group Pty Ltd,Regional Capitals Australia
 9,The Canberra Institute,Emirates Trading Australia
+9,The Canberra Institute,Australian Agricultural Resources
 292,The Civic Group Pty Ltd and Highchair Pty Ltd,Australian Music Association
 292,The Civic Group Pty Ltd and Highchair Pty Ltd,Prudentia Investments Pty Ltd
 292,The Civic Group Pty Ltd and Highchair Pty Ltd,Detained in Dubai
@@ -1694,7 +1647,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Approach Unit Trust,Hansen Yuncken Pty Ltd and Leighton Contractors Pty Ltd Joint Venture
 145,The Trustee for Bespoke Approach Unit Trust,Yancoal Australia Limited
 145,The Trustee for Bespoke Approach Unit Trust,Lend Lease Corporation Limited
-145,The Trustee for Bespoke Approach Unit Trust,Financial Planning Association of Australia Limited
 145,The Trustee for Bespoke Approach Unit Trust,Santos Ltd
 145,The Trustee for Bespoke Approach Unit Trust,Murray Goulburn Co-Operative Co. Limited 
 145,The Trustee for Bespoke Approach Unit Trust,Co-operative Bulk Handling Limited
@@ -1755,6 +1707,7 @@ agency_id,agency_business_entity_name,client_name
 328,THEMA Consulting Pty Ltd,sanofi aventis
 328,THEMA Consulting Pty Ltd,Allergan Australia
 328,THEMA Consulting Pty Ltd,Bayer Australia Ltd
+328,THEMA Consulting Pty Ltd,Lundbeck Australia Pty Ltd
 152,TJM Consulting,Optometrist Association Australia NSW Division
 152,TJM Consulting,Ace Gutters Pty Ltd
 152,TJM Consulting,NSW Gaelic Athletic Association Inc
@@ -1769,6 +1722,8 @@ agency_id,agency_business_entity_name,client_name
 203,Trustee for Consultum Trust,Leda Group
 203,Trustee for Consultum Trust,Verde Property Pty Ltd
 203,Trustee for Consultum Trust,Gold Coast Island Adventures
+203,Trustee for Consultum Trust,Telstra Corporation Ltd
+203,Trustee for Consultum Trust,Sotheby's International Realty
 161,Vanguard Consulting and Services Pty Ltd,Specialist Connect Pty Ltd (SCPL)
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
