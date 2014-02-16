@@ -5,6 +5,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
+37,Aequum Pty Ltd,Gary Scarrabelotti,Managing Director,No,""
 522,Alex Gosman Consulting,Alex Gosman,Principal,Yes,September 1990
 104,Alkar Pty Ltd,Allan King,Director,No,""
 415,APS Networking Pty Ltd,Anthony Stewart,Director,Yes,March 2011
@@ -50,6 +51,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 597,Birney Corporate Pty Ltd,Matt Birney,Managing Director,No,""
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl,Managing Director,No,""
 12,Border Management Advisory Services Pty Ltd,Les Jones,Managing Director,Yes,August 2000
+614,Bossy Group Pty Ltd,Peter Michael McMahon,Principal Consultant,Yes,November 2006
 6,Bramex Pty Ltd,Ross Ramsay (Mr M R Ramsay),Managing Director,Yes,June 1988
 6,Bramex Pty Ltd,Barbara Ramsay  (Mrs B Ramsay),Director,Yes,March 1988
 310,Broadcasting & Radio Technology Services,Robert Scott GREENEY,Director,Yes,August 2000
@@ -76,9 +78,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Kate Blunden,Senior Advisor,Yes,April 1999
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 27,Cato Counsel Pty Ltd,Sue Cato,Principal,No,""
-27,Cato Counsel Pty Ltd,Todd Hayward,Communications Advisor,No,""
-27,Cato Counsel Pty Ltd,David Symons,Senior Communications Advisor,No,""
-27,Cato Counsel Pty Ltd,Nino Tesoriero,Communications Advisor,No,""
+27,Cato Counsel Pty Ltd,Todd Hayward,Advisor,No,""
+27,Cato Counsel Pty Ltd,David Symons,Advisor,No,""
+27,Cato Counsel Pty Ltd,Nino Tesoriero,Advisor,No,""
+27,Cato Counsel Pty Ltd,Michael Ross,Advisor,No,""
+27,Cato Counsel Pty Ltd,John Brady,Advisor,No,""
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,No,""
@@ -163,6 +167,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 263,ED & Associates Pty Ltd,Edmund Ng,Director,No,""
 149,Edelman Public Relations Worldwide Pty Ltd,Craig Kershaw,Public Affairs Associate,No,""
 149,Edelman Public Relations Worldwide Pty Ltd,Nic Jarvis,Director,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Emma Mellow-Sandford,Account Manager,No,""
 184,"EDWARDS, RONALD FREDERICK",Ron Edwards,Director,No,""
 344,Electrotech Australia Pty Limited,Michael Smith,Operations Manager Navigation,No,""
 344,Electrotech Australia Pty Limited,John O'Toole,Operations Mnager,No,""
@@ -377,6 +382,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore,Director,Yes,November 2007
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Cameron Milner,Director,No,""
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Katie Ford,Senior Advisor,Yes,February 2012
+577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Madeline Simmonds,Associate/Practice Manager,No,""
 356,Mr John Kindler,John Walter Kindler,Owner,Yes,March 2004
 25,National Public Affairs Group,Stephen Anderson,Managing Director,No,""
 229,Nayton Communication Pty Ltd,John Nayton,Proprietor,No,""
@@ -392,16 +398,18 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Jeremy Vine,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
+618,Northbridge Infrastructure Pty Ltd,David Mullaly,Managing Director,No,""
+618,Northbridge Infrastructure Pty Ltd,Lucille James,Executive Officer,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
 86,Ogilvy PR Health,Michelle Parker,Director,No,""
 86,Ogilvy PR Health,Georgina Morris,Account Director,No,""
 86,Ogilvy PR Health,Alexander Chapman,Senior Consultant,No,""
-86,Ogilvy PR Health,Megan McCarthy,Account Executive,No,""
-86,Ogilvy PR Health,Sally Wiber,Account Director,No,""
+86,Ogilvy PR Health,Megan McCarthy,Senior Consultant,No,""
+86,Ogilvy PR Health,Sally Strautins,Senior Account Director,No,""
 86,Ogilvy PR Health,Emma Pearson,Account Manager,No,""
-86,Ogilvy PR Health,Julia MacQueen,Account Manager,No,""
+86,Ogilvy PR Health,Belinda Humphries,Account Manager,No,""
 86,Ogilvy PR Health,Samuel North,Media Director,No,""
 86,Ogilvy PR Health,Carly Vale,Account Executive,No,""
 144,"O'MALLEY, Susanne Patricia",Sue O'Malley,Medical Reimbursement Strategist,No,""
