@@ -42,6 +42,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Eacham Curry ,Managing Director (WA),Yes,February 2005
 338,Barton Deakin ,Melanie Brown,Research Analyst ,No,""
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
+338,Barton Deakin ,Alexander Clark,Research Analyst,No,""
 342,Bavaria Corporation Pty Ltd,Armand Richard von Stein,Managing Director,Yes,July 2009
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
@@ -86,6 +87,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,No,""
+157,Chikarovski & Associates Pty Ltd,Samantha Dybac,admin assistant,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
 215,"Clark, Kerren G",Kerren Clark,Principal,No,""
 475,Clifton Consulting Services Pty Ltd,John Ridley,Principal,No,""
@@ -168,7 +170,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 149,Edelman Public Relations Worldwide Pty Ltd,Craig Kershaw,Public Affairs Associate,No,""
 149,Edelman Public Relations Worldwide Pty Ltd,Nic Jarvis,Director,No,""
 149,Edelman Public Relations Worldwide Pty Ltd,Emma Mellow-Sandford,Account Manager,No,""
-184,"EDWARDS, RONALD FREDERICK",Ron Edwards,Director,No,""
 344,Electrotech Australia Pty Limited,Michael Smith,Operations Manager Navigation,No,""
 344,Electrotech Australia Pty Limited,John O'Toole,Operations Mnager,No,""
 344,Electrotech Australia Pty Limited,Stephen Penny,Sales Engineer,No,""
@@ -271,7 +272,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 469,Harford Consulting Pty Ltd,Maura Angle,Managing Director,No,""
-406,Hartnett Consulting,Brian Hartnett,Consultant,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
 96,Hawker Britton Group Pty Ltd,Daniel Pearson,Director,No,""
@@ -384,7 +384,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Katie Ford,Senior Advisor,Yes,February 2012
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Madeline Simmonds,Associate/Practice Manager,No,""
 356,Mr John Kindler,John Walter Kindler,Owner,Yes,March 2004
-25,National Public Affairs Group,Stephen Anderson,Managing Director,No,""
 229,Nayton Communication Pty Ltd,John Nayton,Proprietor,No,""
 447,NETTALP Pty Ltd,John Robert Platten,Director,No,""
 32,New Energy and  Resources Australia Pty Ltd,David Utting,Principal NZ & Australia,No,""
@@ -426,7 +425,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
 219,Policy Solutions Group Pty Ltd,Mark Sutton,Director ,No,""
-219,Policy Solutions Group Pty Ltd,Patrick Geoffrey Hallinan,Consultant,Yes,June 2013
 573,Politic Political Advisors,Thomas (Tom) Clive Wheelwright,Principal,Yes,June 1996
 318,Porter Novelli Australia Pty Ltd,Peter Kent,Managing Director,No,""
 318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Group Account Director,No,""
@@ -444,9 +442,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 220,Primary Communication Pty Ltd,Helen Thurloe,Account Director,No,""
 339,Principled Public Relations and Public Affairs,Erik A Locke,Director,Yes,September 2010
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Ian R. G. Knop AM,Managing Director,No,""
+109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Ian R. G. Knop AM,Director,No,""
 109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Brent Knevett,Consultant,Yes,September 2001
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Nick Melas,Associate Director,Yes,August 2000
+109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Nick Melas,Managing Director,Yes,August 2000
 84,Providence NDR Pty Ltd,Nigel Reeves,Director,No,""
 127,PRX Unit Trust,James Aanensen,Consultant,No,""
 127,PRX Unit Trust,Michael Kelly,Consultant,No,""
@@ -567,7 +565,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 408,The Six Hats - Investor Relations Pty Ltd,Anna Candler,Managing Consultant,No,""
 95,The Strategic Counsel Pty Ltd,Donna Staunton,Managing Director,No,""
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Consultant,No,""
-95,The Strategic Counsel Pty Ltd,John Cook,Consultant,No,""
 95,The Strategic Counsel Pty Ltd,Antonia Gleeson,Associate,No,""
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
 424,The Taylor Street Consultancy P/L,Tania Hyde,Director,No,""
@@ -613,6 +610,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher,Managing Director,No,""
 161,Vanguard Consulting and Services Pty Ltd,Timothy John Gallagher,Marketing Manager,No,""
 161,Vanguard Consulting and Services Pty Ltd,David Matthew Russell,Professional Communicator,No,""
+615,Wabsley Pty Ltd,Kel Watt,Managing Director,Yes,September 2013
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson,Director,No,""
 463,Walker Watterson Holdings Pty Ltd,Jonathan Englert,Senior Consultant,No,""
 463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Consultant,No,""
