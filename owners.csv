@@ -19,14 +19,15 @@ agency_id,agency_business_entity_name,owner_name
 379,assetpr,Julianne Dowling
 379,assetpr,Anthony Rasman
 613,Association Management Institute Pty Ltd,Gregory Albert Bondar
-315,AULCON consulting,merran auland
 63,AusAccess Unit Trust,Mark Ridgway (Consulting Canberra Pty Ltd)
 63,AusAccess Unit Trust,Kerrie Ridgway (Consulting Canberra Pty Ltd)
 590,Australia-China Associates Pty Ltd,Edward Lee
 590,Australia-China Associates Pty Ltd,James Miller
 233,Australian Industry Involvement Services,Bruno Parolin
 234,Australian Project Developments Pty. Ltd.,Rod Brown
-45,Australian Public Affairs Limited Partnership,Tracey Ann Cain
+45,Australian Public Affairs Limited Partnership,Australian Public Affairs Pty Ltd
+45,Australian Public Affairs Limited Partnership,Centre for Litigation Communications Pty Ltd
+45,Australian Public Affairs Limited Partnership,Strategic Issues Management Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,William John McDonald
 135,Australian Spectrum Consultants Pty Ltd,Megan Mary McDonald
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack
@@ -61,7 +62,6 @@ agency_id,agency_business_entity_name,owner_name
 52,Bush Consulting Services Pty Ltd,Simon James Bush
 438,Butcher and Co Pty Ltd,Andrew Butcher
 257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Garth Head
-553,Campaign Capital,Daniel Smith
 556,Capital Hill Advisory Pty Ltd,National Strategy Group
 601,Catherine McGovern,Catherine McGovern
 27,Cato Counsel Pty Ltd,Sue Cato
@@ -70,14 +70,11 @@ agency_id,agency_business_entity_name,owner_name
 265,CGP solutions Ltd,Roland Craig Holman
 265,CGP solutions Ltd,The Regent Square Group
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski
-113,CHRIS SCHACHT,CHRIS SCHACHT
 215,"Clark, Kerren G",Kerren Clark
-475,Clifton Consulting Services Pty Ltd,John Ridley
 79,CMAX Communications,Tara Taubenschlag
 472,Comsult(Aust) Pty Ltd,Leslie James Davey
 472,Comsult(Aust) Pty Ltd,Christine Margaret Davey
 142,Consilium International Group Pty Ltd,Michael Zarew
-585,Corporate Health Services,Doron Samuell
 18,Corporate Words Australia Pty Limited,Colin Fulton
 154,Cosway Australia Pty Ltd,Clemenger Group
 160,Cotterell Jannette Suzanne,Jannette S Cotterell 
@@ -113,7 +110,6 @@ agency_id,agency_business_entity_name,owner_name
 360,Diplomacy Pty Limited,Perry Street Pty Ltd
 454,Discourse Consulting Pty Ltd,Belinda Neal
 454,Discourse Consulting Pty Ltd,John Della Bosca
-151,DPL Medical Pty Limited,Oakclip Pty Ltd
 172,Dr Robert Horton,Robert Horton
 515,Dunns4 Consulting Pty Ltd,Stephen James Dunn
 515,Dunns4 Consulting Pty Ltd,Leonora Mary Dunn
@@ -177,16 +173,7 @@ agency_id,agency_business_entity_name,owner_name
 431,Guy Barnett Consulting Pty Ltd,Guy Barnett
 26,Halden Burns Pty Ltd,Anne Burns
 26,Halden Burns Pty Ltd,John Halden
-469,Harford Consulting Pty Ltd,Nicholas Harford
 96,Hawker Britton Group Pty Ltd,Singleton Ogilvy & Mather (Holdings) Pty Ltd
-96,Hawker Britton Group Pty Ltd,Erutuf Eruces Pty Ltd
-96,Hawker Britton Group Pty Ltd,Justin Di Lollo
-96,Hawker Britton Group Pty Ltd,Daniel Pearson
-96,Hawker Britton Group Pty Ltd,Rebecca Macken
-96,Hawker Britton Group Pty Ltd,David White
-96,Hawker Britton Group Pty Ltd,David Britton
-96,Hawker Britton Group Pty Ltd,Kirsten Jensen
-96,Hawker Britton Group Pty Ltd,Stephen Halliday
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle
 124,Helen & Mike O'Brien JP,Helen O'Brien and Mike O'Brien JP (Partnership)
 147,Herbert Geer,A.D ANAGNOSTOU & G BASSER & N.J CALLCOTT & R.J DONAZZAN & W.L FAZIO & M.J GATEHOUSE & others
@@ -206,8 +193,6 @@ agency_id,agency_business_entity_name,owner_name
 38,Intercorp Pty Ltd,Gymquest Pty Ltd
 222,Intermediary Consulting Pty Ltd,Debra Ann Beaton
 103,Ivydale Nominees Pty Ltd,Braden Park Pty Ltd
-249,JaTaCam Holdings,John Faker
-249,JaTaCam Holdings,Julie Faker
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Royden Jenkins
 319,Jo Scard Pty Ltd,Jo Scard
 319,Jo Scard Pty Ltd,Andrew Meares
@@ -265,10 +250,6 @@ agency_id,agency_business_entity_name,owner_name
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen
 444,Michael Megaw,Michael Curnow Megaw
-531,Migration Alliance Inc,Liana Justine Allan
-531,Migration Alliance Inc,Christopher Hugh Levingston
-531,Migration Alliance Inc,Holly Byrne
-531,Migration Alliance Inc,Brendan Darcy
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Cameron Milner
 356,Mr John Kindler,John Walter Kindler
@@ -290,7 +271,6 @@ agency_id,agency_business_entity_name,owner_name
 598,Oxley International,Alan Oxley
 598,Oxley International,Sandra Oxley
 309,Paramul Pty Ltd,Paul Lennon
-282,Paris Walter Pty Ltd,Kurt Kraues
 72,Parker & Partners Pty Ltd,STW Group Ltd
 72,Parker & Partners Pty Ltd,WPP plc
 72,Parker & Partners Pty Ltd,Ogilvy Public Relations Worldwide Pty Ltd
@@ -310,7 +290,6 @@ agency_id,agency_business_entity_name,owner_name
 84,Providence NDR Pty Ltd,Nigel Reeves
 127,PRX Unit Trust,Stephen Kerr
 89,Public Affairs Network Pty Ltd,Rosie Yeo
-68,Public Policy Solutions Pty Ltd,Christopher John Fry
 242,Purple Communications Australia Pty Ltd,Annette Ellis
 242,Purple Communications Australia Pty Ltd,Warrick Hazeldine
 242,Purple Communications Australia Pty Ltd,Ryan McKinlay
@@ -415,7 +394,6 @@ agency_id,agency_business_entity_name,owner_name
 117,The Trustee for the Bowden Family Trust,The Trustee for the Bowden Family Trust
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann
-199,The Trustee for The OneProfile Communications Unit Trust,OneProfile Communications Pty Ltd as Trustee for The OneProfile Communications Unit Trust
 610,The Trusteee for the SRKM Trust,David Ryan
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy
 328,THEMA Consulting Pty Ltd,Dominic Peter Tilden
