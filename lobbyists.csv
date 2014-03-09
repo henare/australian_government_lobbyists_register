@@ -106,25 +106,26 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 160,Cotterell Jannette Suzanne,Rachel Gilbertson,Researcher,No,""
 160,Cotterell Jannette Suzanne,Glenn Milne,Principal ,No,""
 160,Cotterell Jannette Suzanne,Anna Thompson,Policy Analyst,No,""
+160,Cotterell Jannette Suzanne,Hannah Purdy,Researcher,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Amanda Halliday,Senior Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Yuan Yuan Cheng,Manager Health Economics,No,""
+403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director,No,""
 329,Cox Inall Communications,Timothy Kevin Powell,Managing Director,No,""
 329,Cox Inall Communications,Sally Fraser,Group Account Director,No,""
 81,CPR Communications & Public Relations Pty Ltd,David Forman,Managing Director Government Relations,No,""
 81,CPR Communications & Public Relations Pty Ltd,William Forwood,Senior Advisor,No,""
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director Communications and Issues Management,No,""
-81,CPR Communications & Public Relations Pty Ltd,Jack Herbert,Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Senior Adviser,Yes,January 2007
 81,CPR Communications & Public Relations Pty Ltd,Wal Jurkiewicz,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Sally Leake,Senior Adviser,No,""
-81,CPR Communications & Public Relations Pty Ltd,Leanne Downing,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Leanne Joyce,Senior Advisor,No,""
 81,CPR Communications & Public Relations Pty Ltd,Evelyn Ek,Senior Adviser,Yes,October 2013
 81,CPR Communications & Public Relations Pty Ltd,Julia Diprose,Adviser,No,""
+81,CPR Communications & Public Relations Pty Ltd,Scott Howard,Adviser,No,""
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
@@ -218,6 +219,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1,Gambolling Pty Ltd,Barbara Carney,Director,Yes,June 2002
 506,Garrie Gibson,Garrie Gibson,Senior Consultant,Yes,March 1996
 375,Gell Southam Group Pty Ltd,Patrick Southam,Principal,No,""
+606,Genome Investigation Pty Ltd,Peter Hingston,Liaison Officer to MSAC,No,""
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
 33,George Brownbill Consulting Pty Ltd,George Metcalfe Brownbill,principal,Yes,July 1988
 33,George Brownbill Consulting Pty Ltd,Sharyn Freeman,Executive Assistant,No,""
@@ -259,8 +261,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 209,Gryphon Management Australia,Peter Rowe,Director,No,""
 209,Gryphon Management Australia,David Griffiths,Director,No,""
 209,Gryphon Management Australia,Keith Black,Director,No,""
-431,Guy Barnett Consulting Pty Ltd,Guy Barnett,Managing Director,Yes,June 2011
-431,Guy Barnett Consulting Pty Ltd,Caroline Donaghy,Executive Officer,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
@@ -285,7 +285,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
 20,InterCapital Group Pty Ltd,Garry Oliver,Director,No,""
 20,InterCapital Group Pty Ltd,John Kananghinis,Director,No,""
-38,Intercorp Pty Ltd,Sonnie Lipshut,Executive Chairman,No,""
+38,Intercorp Pty Ltd,Sonnie Lipshut,Chairman,No,""
 38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
 222,Intermediary Consulting Pty Ltd,Amy McGuire,Consultant,Yes,November 1996
 222,Intermediary Consulting Pty Ltd,Charles Beaton,Director,No,""
@@ -323,7 +323,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Sonia Yang,Associate,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Lucy Chamberlain,Associate Director ,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Amanda Buckley,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Research Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jessica McIntyre,Executive Assistant,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Daly,Associate,No,""
@@ -400,12 +399,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,Ogilvy PR Health,Belinda Humphries,Account Manager,No,""
 86,Ogilvy PR Health,Samuel North,Media Director,No,""
 86,Ogilvy PR Health,Carly Vale,Account Executive,No,""
+86,Ogilvy PR Health,Rachel Beck,Account Coordinator,No,""
 144,"O'MALLEY, Susanne Patricia",Sue O'Malley,Medical Reimbursement Strategist,No,""
 427,Owen International Pty Ltd,Leslie Goodridge,Managing Director,Yes,May 1994
 427,Owen International Pty Ltd,Andrew Orszulok,Technical Director,No,""
 427,Owen International Pty Ltd,Grant Pedder,Business Development Manager,Yes,May 2010
 309,Paramul Pty Ltd,Paul Lennon,Director,No,""
 72,Parker & Partners Pty Ltd,Hamish Li,Account Manager,No,""
+72,Parker & Partners Pty Ltd,Peta Lange,Account Manager,Yes,January 2009
 72,Parker & Partners Pty Ltd,Michael Hartmann,Director Government Relations,No,""
 72,Parker & Partners Pty Ltd,Arli Miller,Associate Director,No,""
 72,Parker & Partners Pty Ltd,Susan Redden Makatoa ,Group Managing Director Corporate,No,""
@@ -448,10 +449,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Richard Harris,Director,No,""
 242,Purple Communications Australia Pty Ltd,Erin Buckley,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Renee Wilkinson,Account Manager ,No,""
-242,Purple Communications Australia Pty Ltd,Zoey Tyson,Consultant,No,""
-242,Purple Communications Australia Pty Ltd,Gregory Galton,Associate Director ,No,""
 242,Purple Communications Australia Pty Ltd,Casey Hockey,Consultant ,No,""
-242,Purple Communications Australia Pty Ltd,Deidre Ellen Willmott,Executive Chairman ,No,""
 242,Purple Communications Australia Pty Ltd,Bob Stevens ,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Astrid Serventy,Account Manager ,Yes,October 2013
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
@@ -535,11 +533,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
 235,The Agenda Group Pty Ltd,Catherine McGovern,Senior Associate,Yes,May 2000
 9,The Canberra Institute,Peter Michael Conway,Director,No,""
-292,The Civic Group Pty Ltd and Highchair Pty Ltd,Ian Farrow,Senior Manager Public Policy,No,""
-292,The Civic Group Pty Ltd and Highchair Pty Ltd,Jason Aldworth,Director,No,""
-292,The Civic Group Pty Ltd and Highchair Pty Ltd,Andres Puig,Director,No,""
-292,The Civic Group Pty Ltd and Highchair Pty Ltd,Lucy Kozlowski,Consultant,No,""
-292,The Civic Group Pty Ltd and Highchair Pty Ltd,Paul Cormack,Consultant,No,""
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Ian Farrow,Senior Manager Public Policy,No,""
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Jason Aldworth,Director,No,""
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Andres Puig,Director,No,""
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Lucy Kozlowski,Consultant,No,""
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Paul Cormack,Consultant,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Julia Leeane Beck,Associate Principal,No,""
 560,The Hocking Group Pty Ltd,David Hocking,Director,No,""
