@@ -164,6 +164,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,RUOK Limited
 338,Barton Deakin ,INS Career Management
 338,Barton Deakin ,Nextgen Group Holdings Pty Ltd 
+338,Barton Deakin ,Ernst & Young
 342,Bavaria Corporation Pty Ltd,Haigslea Finance Group Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
@@ -219,6 +220,8 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Swinburne University of Technology
 556,Capital Hill Advisory Pty Ltd,Swinburne Online
 556,Capital Hill Advisory Pty Ltd,Online Education Services Pty Ltd
+556,Capital Hill Advisory Pty Ltd,AstraZeneca Pty Ltd
+556,Capital Hill Advisory Pty Ltd,Sanofi-Aventis Australia Pty Ltd
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 27,Cato Counsel Pty Ltd,Pacific Brands
 27,Cato Counsel Pty Ltd,Transgrid
@@ -232,6 +235,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,The MAC Group
 157,Chikarovski & Associates Pty Ltd,Stirling Bridge Capital Ltd
 157,Chikarovski & Associates Pty Ltd,Supercharge Batteries
+157,Chikarovski & Associates Pty Ltd,EJ Cooper and Son Pty Limited
 215,"Clark, Kerren G",BioGrid
 215,"Clark, Kerren G",Speech Pathology Australia
 215,"Clark, Kerren G",Bionics Institute
@@ -326,6 +330,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Zuffa LLC
 81,CPR Communications & Public Relations Pty Ltd,Australian Primary Principals Association
 81,CPR Communications & Public Relations Pty Ltd,Baptcare Ltd
+81,CPR Communications & Public Relations Pty Ltd,Hickory Group Pty Ltd
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 193,CRAKYL Pty Ltd,Future School
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
@@ -673,7 +678,6 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Newmont Mining Corporation 
 122,GRA Everingham Pty Ltd,MWH Global
 122,GRA Everingham Pty Ltd,Aurizon
-122,GRA Everingham Pty Ltd,Catholic Education Office of WA 
 122,GRA Everingham Pty Ltd,Clean Protocol
 122,GRA Everingham Pty Ltd,Inpex 
 122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers Australia Ltd (CAPEC)
@@ -681,6 +685,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Curtin University
 122,GRA Everingham Pty Ltd,Australia Treasury Management
 122,GRA Everingham Pty Ltd,World Clean Sports Organisation (The Clean Protocol) 
+122,GRA Everingham Pty Ltd,City of Wanneroo
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Buru Energy
@@ -884,9 +889,7 @@ agency_id,agency_business_entity_name,client_name
 115,KPMG,The Australian Federation of Travel Agents
 115,KPMG,Appco Group Australia Pty Ltd
 115,KPMG,Australian Mushroom Growers' Association Ltd
-115,KPMG,Global Blue Holdings AB
 115,KPMG,The Horticulture Taskforce
-115,KPMG,National Tourism Alliance
 115,KPMG,Kawasaki Heavy Industries Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,PTT Exploration and Production Public Company Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,APM
@@ -1081,6 +1084,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australian Pork Limited
 565,Newgate Communications Pty Limited,National Farmers Federation
 565,Newgate Communications Pty Limited,National Heavy Vehicle Regulator
+565,Newgate Communications Pty Limited,Chris O'Brien Lifehouse
 618,Northbridge Infrastructure Pty Ltd,Australian Postal Corporation
 618,Northbridge Infrastructure Pty Ltd,Mondelez Australia (Foods) Ltd
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
@@ -1350,6 +1354,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Moorebank Intermodal Company
 35,Richardson Coutts,Allocate Software
 35,Richardson Coutts,NuCoal Resources Ltd
+35,Richardson Coutts,Johnny Warren Football Foundation of New South Wales Limited
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
@@ -1488,6 +1493,7 @@ agency_id,agency_business_entity_name,client_name
 490,Staindl Strategic Pty Ltd,Gippsland Regional Leadership Group
 490,Staindl Strategic Pty Ltd,Latrobe Fertiliser Project Pty Ltd
 490,Staindl Strategic Pty Ltd,LD Network
+490,Staindl Strategic Pty Ltd,Aquaterro Advance Product Supplies
 66,Statecraft,Epilepsy Action Australia
 66,Statecraft,Cockatoo Coal
 66,Statecraft,POSCO Australia
@@ -1627,6 +1633,8 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,Transurban Group 
 420,The trustee for ECG Advisory Trust,Youth Care WA
 420,The trustee for ECG Advisory Trust,Peet Limited
+420,The trustee for ECG Advisory Trust,Macquarie Group Services Australia Pty Ltd
+420,The trustee for ECG Advisory Trust,McMillan Shakespeare Limited
 41,The Trustee for Hilton Valley Investment,Outdoor Education Group
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 41,The Trustee for Hilton Valley Investment,Clean Energy Council

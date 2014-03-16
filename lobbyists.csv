@@ -64,7 +64,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 88,Burson-Marsteller Pty. Ltd.,Carrie Cousins,Director,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
 438,Butcher and Co Pty Ltd,Andrew Butcher,Principal,No,""
-438,Butcher and Co Pty Ltd,Megan Fletcher,Director,No,""
 257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Garth Head,Director,Yes,October 2007
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Christopher Stone,Director Policy and Strategy,Yes,December 2007
@@ -314,7 +313,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 115,KPMG,Leigh Obradovic,Associate Director,Yes,December 2007
 115,KPMG,Mohammad Sharaf Hafiz Khan,Consultant,No,""
 115,KPMG,Langdon Patrick,Associate Director,No,""
-115,KPMG,Rhiannon Brand,Consultant,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Sandra Eccles,Partner  Office Head (Melbourne),Yes,December 1996
 76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Partner,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Hamish Arthur,Partner  Office Head (Canberra),No,""
@@ -432,8 +430,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 339,Principled Public Relations and Public Affairs,Erik A Locke,Director,Yes,September 2010
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
 109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Ian R. G. Knop AM,Director,No,""
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Brent Knevett,Consultant,Yes,September 2001
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Nick Melas,Managing Director,Yes,August 2000
+109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Nick Melas,Associate Director,Yes,August 2000
 84,Providence NDR Pty Ltd,Nigel Reeves,Director,No,""
 127,PRX Unit Trust,James Aanensen,Consultant,No,""
 127,PRX Unit Trust,Michael Kelly,Consultant,No,""
