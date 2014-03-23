@@ -89,13 +89,17 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,No,""
 157,Chikarovski & Associates Pty Ltd,Samantha Dybac,admin assistant,No,""
 215,"Clark, Kerren G",Kerren Clark,Principal,No,""
+475,Clifton Consulting Services Pty Ltd,John Ridley,Principal,No,""
+475,Clifton Consulting Services Pty Ltd,Ken Davis,Senior Consultant,No,""
+475,Clifton Consulting Services Pty Ltd,Louisa McPhee,Senior Consultant,No,""
+475,Clifton Consulting Services Pty Ltd,Philip Goslin,Senior Consultant,No,""
+475,Clifton Consulting Services Pty Ltd,Kerren Clark,Senior Consultant,No,""
 79,CMAX Communications,Tara Taubenschlag,Managing Director,No,""
 79,CMAX Communications,Christian Taubenschlag,Government Relations Adviser,Yes,October 2009
 79,CMAX Communications,Elke Purnell Mackenzie,Government Relations Adviser,Yes,June 2000
 79,CMAX Communications,Davina Langton,Government Relations Adviser,Yes,June 2009
 79,CMAX Communications,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
 79,CMAX Communications,Jacob Traeger,Account Executive,No,""
-79,CMAX Communications,Kate Pasterfield,Government Relations Adviser,Yes,July 2013
 79,CMAX Communications,Adele Langton,Government Relations Adviser,Yes,September 2013
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 142,Consilium International Group Pty Ltd,Michael Zarew,Managing Director,No,""
@@ -172,7 +176,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
 74,Enhance Corporate Pty Ltd,Samuel Sydney Doumany,Director,No,""
 15,Eric Walsh Pty Ltd,Eric John Walsh,Owner/Director,No,""
-71,Essential Media Communications Pty Ltd,Chris Perkins,Qld Manager,No,""
 71,Essential Media Communications Pty Ltd,Adrian Dodd,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Carla Stacey,Associate Director,No,""
 71,Essential Media Communications Pty Ltd,Claire O'Rourke,Account Director,Yes,December 2006
@@ -181,7 +184,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Olivia Greentree,Senior Account Manager,Yes,February 2013
 71,Essential Media Communications Pty Ltd,Alana Mew,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jackie Woods,Senior Account Manager,No,""
-71,Essential Media Communications Pty Ltd,Tony Douglas,Consultant,No,""
+71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
 71,Essential Media Communications Pty Ltd,Tim Norton,Account Manager,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,John Morton,Managing Director,No,""
@@ -196,7 +199,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 453,First State Advisors and Consultants ,David Zachary Miles ,Partner,No,""
 453,First State Advisors and Consultants ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
 453,First State Advisors and Consultants ,Gary Humphries ,Special Counsel ,No,""
-453,First State Advisors and Consultants ,Maree Davenport,Director Government Affairs Victoria ,Yes,November 2002
 453,First State Advisors and Consultants ,Christian Dunk,Government Relations Consultant ,No,""
 295,Five Corners Pty Ltd,Peter Robertson,Director - Five Coners Pty Ltd,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director,No,""
@@ -237,7 +239,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,Government Relations Australia Advisory Pty Ltd,Brent Crockford,Associate Director,Yes,December 2007
 59,Government Relations Australia Advisory Pty Ltd,Sean Alexander Johnson,Associate Director,Yes,December 2007
 59,Government Relations Australia Advisory Pty Ltd,Pamela Rosa Lombardi,Research and Executive Assistant,Yes,December 2007
-59,Government Relations Australia Advisory Pty Ltd,Mark John Christopher Smith,Associate,No,""
 59,Government Relations Australia Advisory Pty Ltd,David Llewellyn Reeves,Research and Policy Assistant,Yes,December 2007
 59,Government Relations Australia Advisory Pty Ltd,Jack Brady,Research and Policy Analyst,No,""
 59,Government Relations Australia Advisory Pty Ltd,Kary Alexander Petersen,Associate Director,Yes,October 2005
@@ -270,10 +271,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
-147,Herbert Geer,Gary Francis Punch,Special Counsel,Yes,March 1996
 8,Hill and Knowlton,Tim McPhail,Director,No,""
 8,Hill and Knowlton,Simeon Duncan,Director,Yes,November 2007
-8,Hill and Knowlton,Paul Plowman,CEO,No,""
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
 288,HUGO HALLIDAY PTY LTD,Nathaniel Smith,Senior Government Relations Consultant,No,""
@@ -293,7 +292,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 103,Ivydale Nominees Pty Ltd,Gail Riley,Office Manager,No,""
 103,Ivydale Nominees Pty Ltd,Des Riley,Director,No,""
 103,Ivydale Nominees Pty Ltd,Clint Ford,Senior Consultant,No,""
+623,Jack Knowles Consulting Pty Ltd ATF Knowles Family Trust,Jacqueline Knowles,Director,No,""
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
+586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,No,""
 319,Jo Scard Pty Ltd,Jo Scard,"Business Founder, former adviser to former Minister for Immigration & Citizenship until 14/9/10",Yes,September 2010
 319,Jo Scard Pty Ltd,Brigid Lombard,Administrator,No,""
 319,Jo Scard Pty Ltd,Genevieve Dwyer,Associate,No,""
@@ -309,6 +310,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 410,Justine Caines,Justine Caines,Principal,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 518,Kevin James Carroll,Kevin James Carroll,Regional Representative,Yes,June 1979
+621,KnowMinister.com Pty Ltd,Denise Frances Williams,Consultant,No,""
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
 115,KPMG,Leigh Obradovic,Associate Director,Yes,December 2007
 115,KPMG,Mohammad Sharaf Hafiz Khan,Consultant,No,""
@@ -333,6 +335,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Zackary McLennan,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jeff Sorrell,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Emily Minson,Associate Director,Yes,July 2008
+76,Kreab Gavin Anderson (Australia) Ltd,Travis Bell,Director,Yes,December 2007
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 570,Leaderboard Pty Ltd,Rodney Arthur Irvine,Managing Director,Yes,November 2007
 557,Leanne Joyce Consulting,Leanne Joyce,Public Affairs and Communications Consultant,No,""
@@ -344,7 +347,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 13,LOPAC Consulting Pty Limited,Robert Sidney Parker,Managing Director,Yes,June 2005
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
-80,MacGregor Public Relations,Renee Simon,Manager,No,""
 80,MacGregor Public Relations,John MacGregor,Managing Director,No,""
 80,MacGregor Public Relations,Marie McKinney,Consultant,No,""
 119,Macquarie Group Limited,Trevor Burns,Division Director Government Relations,Yes,June 1998
@@ -383,6 +385,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Jeremy Vine,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
+565,Newgate Communications Pty Limited,Emma Hawker,Executive Assistant,No,""
 618,Northbridge Infrastructure Pty Ltd,David Mullaly,Managing Director,No,""
 618,Northbridge Infrastructure Pty Ltd,Lucille James,Executive Officer,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
@@ -428,7 +431,16 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 220,Primary Communication Pty Ltd,Ian Zakon,Account Director  ,Yes,June 2011
 220,Primary Communication Pty Ltd,Helen Thurloe,Account Director,No,""
 339,Principled Public Relations and Public Affairs,Erik A Locke,Director,Yes,September 2010
+339,Principled Public Relations and Public Affairs,Jessica Sumich,Associate,Yes,June 2008
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
+100,Professional Public Relations Pty Ltd (PPR),Michael Pooley,General Manager - Sydney,No,""
+100,Professional Public Relations Pty Ltd (PPR),Richard Lazar,Managing Director,No,""
+100,Professional Public Relations Pty Ltd (PPR),Peter Harris,Executive Director Perth,No,""
+100,Professional Public Relations Pty Ltd (PPR),Nicole Moody,General Manager Perth,No,""
+100,Professional Public Relations Pty Ltd (PPR),Tim Larcombe,Senior Counsel Perth,No,""
+100,Professional Public Relations Pty Ltd (PPR),Mike Marren,Senior Counsel Perth,No,""
+100,Professional Public Relations Pty Ltd (PPR),Nick Gaff,Account Manager Perth,No,""
+100,Professional Public Relations Pty Ltd (PPR),Carla Shearman,Group Director Perth,No,""
 109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Ian R. G. Knop AM,Director,No,""
 109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Nick Melas,Associate Director,Yes,August 2000
 84,Providence NDR Pty Ltd,Nigel Reeves,Director,No,""
@@ -519,9 +531,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Jody Fassina,Director,Yes,April 2001
 66,Statecraft,Greg Holland,Director,Yes,April 1988
 66,Statecraft,Lucy Rayner,Associate Consultant,No,""
-66,Statecraft,Henry Tilly,Associate Consultant,No,""
 66,Statecraft,Georgie Mills,Consultant,No,""
-66,Statecraft,Jodie Varnai,Director,No,""
+66,Statecraft,Jodie Varnai,Director,Yes,November 2013
 331,Stitch in Time (NT) Pty Ltd,Robert Hew Macleod,Director,No,""
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
 385,Strategic Partnership Group (Aust) Pty Limited,Aileen Wiessner,Senior Consultant,Yes,December 2007
@@ -552,17 +563,18 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 424,The Taylor Street Consultancy P/L,Tania Hyde,Director,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Approach Unit Trust,Nick Bolkus,Partner,Yes,June 2005
-145,The Trustee for Bespoke Approach Unit Trust,Alexander Downer,Partner,Yes,July 2008
 145,The Trustee for Bespoke Approach Unit Trust,Caroline Rhodes,Deputy Managing Director,Yes,June 2010
 145,The Trustee for Bespoke Approach Unit Trust,Thomas Pagliaro,Associate,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Georgia Bradshaw,Researcher,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Anita Allen,Executive Coordinator,No,""
+145,The Trustee for Bespoke Approach Unit Trust,Paul Tierney,Senior Consultant,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Ian Smith,Partner,Yes,November 2006
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Caroline Rhodes,Consultant,Yes,June 2010
 589,The Trustee for Bespoke Territory Unit Trust,Thomas Pagliaro,Consultant,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Georgia Bradshaw,Consultant,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Anita Allen,Executive Coordinator,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Paul Tierney,Consultant,No,""
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 420,The trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
