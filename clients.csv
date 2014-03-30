@@ -163,6 +163,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,INS Career Management
 338,Barton Deakin ,Nextgen Group Holdings Pty Ltd 
 338,Barton Deakin ,Ernst & Young
+338,Barton Deakin ,Fujitsu Australia Ltd.
+338,Barton Deakin ,Expedia Inc
+338,Barton Deakin ,Honeywell Holdings Pty Ltd
 342,Bavaria Corporation Pty Ltd,Haigslea Finance Group Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
@@ -222,6 +225,8 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Sanofi-Aventis Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Bristol-Myers Squibb Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Pfizer Australia Pty Ltd
+556,Capital Hill Advisory Pty Ltd,Merck Sharp & Dohme (Australia) Pty Ltd
+556,Capital Hill Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 27,Cato Counsel Pty Ltd,Pacific Brands
 191,"Cemdia Pty, Ltd",NBNCo
@@ -418,6 +423,8 @@ agency_id,agency_business_entity_name,client_name
 454,Discourse Consulting Pty Ltd,NDS
 454,Discourse Consulting Pty Ltd,Life withour Barriers
 454,Discourse Consulting Pty Ltd,CG Consultiing
+624,Donna Edman,Hearing Care Industry Association
+624,Donna Edman,Abbott Australasia Pty Ltd
 172,Dr Robert Horton,Intelsat Corporation
 172,Dr Robert Horton,Inmarsat Corporation
 515,Dunns4 Consulting Pty Ltd,Sagem Defense Secutite
@@ -485,6 +492,7 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd,Nestle Australia
 564,Etched Communications Pty Ltd,Bellamy's Organic
 564,Etched Communications Pty Ltd,Plastics and Chemicals Industries Association
+564,Etched Communications Pty Ltd,Achieve Australia
 512,Ethical Strategies Pty Ltd,Cystic Fibrosis Australia
 512,Ethical Strategies Pty Ltd,Paul Hartmann Pty Limited
 324,FCC Partners,Chi - X
@@ -873,6 +881,7 @@ agency_id,agency_business_entity_name,client_name
 115,KPMG,Australian Mushroom Growers' Association Ltd
 115,KPMG,The Horticulture Taskforce
 115,KPMG,Kawasaki Heavy Industries Ltd
+115,KPMG,Evocca College
 76,Kreab Gavin Anderson (Australia) Ltd,PTT Exploration and Production Public Company Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,APM
 76,Kreab Gavin Anderson (Australia) Ltd,The Mirabel Foundation
@@ -922,6 +931,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,OceanaGold Corporation
 76,Kreab Gavin Anderson (Australia) Ltd,IGT (Australia) Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,SICPA Security Solutions SA
+76,Kreab Gavin Anderson (Australia) Ltd,Integra (Integrated Care)
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 570,Leaderboard Pty Ltd,Datacom Systems Pty Ltd
@@ -937,11 +947,10 @@ agency_id,agency_business_entity_name,client_name
 223,Leonie M. Short,Friends of the ABC
 223,Leonie M. Short,Australian Hand Therapy Association Inc
 223,Leonie M. Short,Australasian Council of Dental Schools 
-188,LESL Services Pty Ltd,PwC
 188,LESL Services Pty Ltd,Minter Ellison Lawyers
-188,LESL Services Pty Ltd,Qantas
 188,LESL Services Pty Ltd,Seven Group Holdings Ltd
 188,LESL Services Pty Ltd,The Gut Foundation (Pro Bono)
+188,LESL Services Pty Ltd,RA Corporation Pty Ltd
 204,Lighthouse Communications Group Pty Ltd,Clarius Group
 204,Lighthouse Communications Group Pty Ltd,oOH!media
 204,Lighthouse Communications Group Pty Ltd,Wolsley Private Equity
@@ -1196,16 +1205,18 @@ agency_id,agency_business_entity_name,client_name
 100,Professional Public Relations Pty Ltd (PPR),McDonald's Australia
 100,Professional Public Relations Pty Ltd (PPR),Dow Chemical
 100,Professional Public Relations Pty Ltd (PPR),National Packaging Covenant Industry Association
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Grocon Pty Ltd
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Metcash Trading Limited
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Macquarie Group
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,PPB Advisory
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,ATEC Rail Group
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Hobart International Airport Pty Ltd
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Computer Sciences Corporation
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Herbert Smith Freehills
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Calibre Global
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Derwent Executive
+622,Profile Consulting (Aust) Pty Ltd,ATEC Rail Group
+622,Profile Consulting (Aust) Pty Ltd,Calibre Global Pty Ltd
+622,Profile Consulting (Aust) Pty Ltd,CSC Australia
+622,Profile Consulting (Aust) Pty Ltd,Derwent Executive
+622,Profile Consulting (Aust) Pty Ltd,Grocon Pty Ltd
+622,Profile Consulting (Aust) Pty Ltd,Hobart International Airport
+622,Profile Consulting (Aust) Pty Ltd,Herbert Smith Freehills
+622,Profile Consulting (Aust) Pty Ltd,Hydro Tasmania
+622,Profile Consulting (Aust) Pty Ltd,Macquarie Group Limited
+622,Profile Consulting (Aust) Pty Ltd,Metcash Trading Limited
+622,Profile Consulting (Aust) Pty Ltd,National E Conveyancing Development Limited
+622,Profile Consulting (Aust) Pty Ltd,PPB Advisory 
 84,Providence NDR Pty Ltd,Brighton Council
 84,Providence NDR Pty Ltd,Dourias Group Holdings
 84,Providence NDR Pty Ltd,Derwent Park Developments
@@ -1257,6 +1268,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Metals X
 29,Pynfall Pty Ltd,Project System & Management GmbH
 446,R A Neilson and M Salmon,Garry and Marilyn Nicholas
+446,R A Neilson and M Salmon,TravelManagers Australia Pty Ltd
 492,Rachael Sweeney ,Regional Capitals Australia 
 492,Rachael Sweeney ,Victorian Wine Industry Association Inc (Wine Victoria)
 492,Rachael Sweeney ,Inner South Metropolitan Mayors Forum
@@ -1321,6 +1333,7 @@ agency_id,agency_business_entity_name,client_name
 98,Res Publica Pty Ltd,Lion 
 497,Resolution Junction,Wavlink Incorporated
 497,Resolution Junction,Monash Mens Shed
+600,RGG International Group,BICRM (South Africa)
 587,Richard Gilbert Corporate Advisory Pty Ltd,Perpetual Ltd
 587,Richard Gilbert Corporate Advisory Pty Ltd,Energy Industries Superannuation Scheme Pty Ltd
 587,Richard Gilbert Corporate Advisory Pty Ltd,Rule of Law Institute of Australia Inc
@@ -1364,6 +1377,7 @@ agency_id,agency_business_entity_name,client_name
 439,Royce (Vic) Pty Ltd,Melbourne Airport
 439,Royce (Vic) Pty Ltd,Basslink
 439,Royce (Vic) Pty Ltd,Steritech
+439,Royce (Vic) Pty Ltd,Reclink Australia
 612,S2P2 Strategies,Intuit Corporation
 612,S2P2 Strategies,MasterCard Worldwide
 612,S2P2 Strategies,Family Online Safety Institute
@@ -1427,9 +1441,6 @@ agency_id,agency_business_entity_name,client_name
 171,Shac Communications Pty Ltd ATF The Shac Trust,Pearls Australasia Pty Ltd
 171,Shac Communications Pty Ltd ATF The Shac Trust,MiiHome Now International Pty Ltd
 171,Shac Communications Pty Ltd ATF The Shac Trust,Global Road Technology Operations Pty Ltd
-571,Simpson Paterson Pty Ltd,Sinclair Brook
-571,Simpson Paterson Pty Ltd,Dimension Data plc
-571,Simpson Paterson Pty Ltd,The Handbury Group
 82,Socom Pty Ltd,Gippsland Local Government Network
 82,Socom Pty Ltd,The Interface Councils
 82,Socom Pty Ltd,South East Metro Councils
@@ -1656,7 +1667,6 @@ agency_id,agency_business_entity_name,client_name
 152,TJM Consulting,Optometrist Association Australia NSW Division
 540,TOURISM THINK TANK PTY LTD,CORAL BREEZE PTY LTD
 540,TOURISM THINK TANK PTY LTD,EATON PLACE PTY LTD
-540,TOURISM THINK TANK PTY LTD,Mango Beach Port Douglas Pty Ltd
 540,TOURISM THINK TANK PTY LTD,QRE Pty Ltd
 482,Transnational Consultancy and Training Services Pty Ltd,Bribie Bayside Cab Company Pty Ltd   DVA 
 203,Trustee for Consultum Trust,Pearls Australasia
@@ -1703,6 +1713,7 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,AMP Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Black Dog Institute
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Eakin McCaffery Cox Lawyers
 502,White House Communications,Vestas Australia Wind Technology Pty Ltd
 502,White House Communications,Amex Corporation
 502,White House Communications,Samaritan House

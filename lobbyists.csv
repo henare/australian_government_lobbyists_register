@@ -160,6 +160,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 360,Diplomacy Pty Limited,Adam Kilgour,Managing Director,No,""
 360,Diplomacy Pty Limited,Josh Williams,Director,No,""
 360,Diplomacy Pty Limited,Anthony Reed,Associate Director,No,""
+624,Donna Edman,Donna Therese Edman,CEO,Yes,March 1999
 172,Dr Robert Horton,Robert Horton,Principal,Yes,June 2005
 515,Dunns4 Consulting Pty Ltd,Stephen James Dunn,Managing Director,Yes,June 2010
 263,ED & Associates Pty Ltd,Edmund Ng,Director,No,""
@@ -441,8 +442,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 100,Professional Public Relations Pty Ltd (PPR),Mike Marren,Senior Counsel Perth,No,""
 100,Professional Public Relations Pty Ltd (PPR),Nick Gaff,Account Manager Perth,No,""
 100,Professional Public Relations Pty Ltd (PPR),Carla Shearman,Group Director Perth,No,""
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Ian R. G. Knop AM,Director,No,""
-109,Profile Management Consultants Pty Ltd as Trustee for Profile Trust,Nick Melas,Associate Director,Yes,August 2000
+622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop,Director,Yes,June 2006
+622,Profile Consulting (Aust) Pty Ltd,Nick Melas,Managing Director,Yes,December 2000
 84,Providence NDR Pty Ltd,Nigel Reeves,Director,No,""
 127,PRX Unit Trust,James Aanensen,Consultant,No,""
 127,PRX Unit Trust,Michael Kelly,Consultant,No,""
@@ -480,6 +481,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 98,Res Publica Pty Ltd,Gabriel McDowell,Managing Director,No,""
 98,Res Publica Pty Ltd,Angela Koutoulas, Account Director,Yes,January 2012
 497,Resolution Junction,Gregory Male,Director,Yes,September 2012
+600,RGG International Group,Ruregerero Garikai Gwaradzimba ,Global Practice Lead,No,""
 587,Richard Gilbert Corporate Advisory Pty Ltd,Richard Gilbert,Director,Yes,October 1994
 35,Richardson Coutts,John Richardson,Director,Yes,May 1995
 35,Richardson Coutts,Stephen Coutts,Director,No,""
@@ -513,8 +515,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 143,Sefiani Communications Group,Robyn Sefiani,Managing Director,No,""
 143,Sefiani Communications Group,Nicholas Owens,Director,No,""
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel,Company Director,Yes,July 2003
-571,Simpson Paterson Pty Ltd,Alister Irvine Paterson,Managing Director,No,""
-571,Simpson Paterson Pty Ltd,John Priestley Simpson,Managing Director,No,""
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Penny Kotsiovos,Consultant,No,""
 82,Socom Pty Ltd,Jennifer Cromarty,Account Director,No,""
@@ -557,7 +557,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 268,The Premier Communications Group Pty Ltd.,Suzanne Davies,Senior Advisor,No,""
 408,The Six Hats - Investor Relations Pty Ltd,Anna Candler,Managing Consultant,No,""
 95,The Strategic Counsel Pty Ltd,Donna Staunton,Managing Director,No,""
-95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Consultant,No,""
+95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Consultant,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,Antonia Gleeson,Associate,No,""
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
 424,The Taylor Street Consultancy P/L,Tania Hyde,Director,No,""
@@ -597,7 +597,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 328,THEMA Consulting Pty Ltd,Carmelina Guarnieri,Senior Analyst,No,""
 152,TJM Consulting,Thomas John McLaughlin,Proprietor,No,""
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS,CHAIRMAN,No,""
-540,TOURISM THINK TANK PTY LTD,STEPHEN ALAN BECKETT,CEO,Yes,March 2012
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering,Director,Yes,January 2000
 203,Trustee for Consultum Trust,Graham Staerk,Managing Director,Yes,April 1994
 161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher,Managing Director,No,""
