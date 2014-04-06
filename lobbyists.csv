@@ -35,7 +35,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Matt Hingerty,CEO and MD ,Yes,June 2012
 338,Barton Deakin ,David Alexander,Managing Director (Federal),Yes,November 2007
 338,Barton Deakin ,Daniel Wood,Consultant,No,""
-338,Barton Deakin ,Simon Thompson,Research Analyst,No,""
 338,Barton Deakin ,Kristian Galanti,Consultant ,No,""
 338,Barton Deakin ,Renee Hindmarsh,Director,Yes,November 2007
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
@@ -102,6 +101,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications,Jacob Traeger,Account Executive,No,""
 79,CMAX Communications,Adele Langton,Government Relations Adviser,Yes,September 2013
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
+625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Dave Coggin,Director,Yes,May 2010
+625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Anthony Hasluck,Director,No,""
 142,Consilium International Group Pty Ltd,Michael Zarew,Managing Director,No,""
 18,Corporate Words Australia Pty Limited,Colin Fulton,Principal,No,""
 154,Cosway Australia Pty Ltd,Tony Nagy,Director,No,""
@@ -247,6 +248,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,Government Relations Australia Advisory Pty Ltd,Nicolaos Xerakias,Associate Director,Yes,December 2007
 59,Government Relations Australia Advisory Pty Ltd,Karl Thomas Smith,Research and Policy Analyst,No,""
 59,Government Relations Australia Advisory Pty Ltd,Michael Chaitow,Research and Policy Analyst,Yes,January 2014
+59,Government Relations Australia Advisory Pty Ltd,Laura Elizabeth Turnley,Associate,No,""
 7,Government Relations Solutions Pty Ltd,David Scotland,Senior Consultant,No,""
 7,Government Relations Solutions Pty Ltd,WendyMatthew,Administration / Research,No,""
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
@@ -309,6 +311,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
 410,Justine Caines,Justine Caines,Principal,No,""
+616,Karen Jayne Foster,Karen Foster,Director,No,""
+616,Karen Jayne Foster,Amy Gibson,Strategic Communications Advisor,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 518,Kevin James Carroll,Kevin James Carroll,Regional Representative,Yes,June 1979
 621,KnowMinister.com Pty Ltd,Denise Frances Williams,Consultant,No,""
@@ -332,7 +336,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Karina Randall,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Suzanne Mercer,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Rebecca Piercy,Director,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Amy Vickers,Executive Associate,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Amy Vickers,Executive Associate,Yes,November 2011
 76,Kreab Gavin Anderson (Australia) Ltd,Zackary McLennan,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jeff Sorrell,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Emily Minson,Associate Director,Yes,July 2008
@@ -420,6 +424,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Peter Kent,Managing Director,No,""
 318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Group Account Director,No,""
 318,Porter Novelli Australia Pty Ltd,Damien Batey,Corporate Communications Lead,No,""
+318,Porter Novelli Australia Pty Ltd,Heather Wallace,Government Communications Lead,Yes,December 2013
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,David Begg,Director,No,""
 516,Premier State Consulting Pty Ltd,Natalie Christiansen,Manager â Governance & Strategic Planning,No,""
@@ -452,6 +457,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 127,PRX Unit Trust,Mark Kerr,Bercon,No,""
 127,PRX Unit Trust,Stephen Kerr,Chief Executive,No,""
 89,Public Affairs Network Pty Ltd,Rosie Yeo,Director,Yes,April 1995
+68,Public Policy Solutions Pty Ltd,Christopher John Fry,Director,No,""
 242,Purple Communications Australia Pty Ltd,Warrick Hazeldine,Managing Director,No,""
 242,Purple Communications Australia Pty Ltd,Caroline Thomson,Associate Director,No,""
 242,Purple Communications Australia Pty Ltd,Ryan McKinlay,Director,No,""
@@ -461,7 +467,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Renee Wilkinson,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Casey Hockey,Consultant ,No,""
 242,Purple Communications Australia Pty Ltd,Bob Stevens ,Account Manager ,No,""
-242,Purple Communications Australia Pty Ltd,Astrid Serventy,Account Manager ,Yes,October 2013
+242,Purple Communications Australia Pty Ltd,Astrid Serventy,Associate Director,Yes,October 2013
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 446,R A Neilson and M Salmon,Michael Salmon,Director,No,""
 446,R A Neilson and M Salmon,Ross Neilson,Director,No,""
@@ -527,7 +533,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
 66,Statecraft,Gavin Melvin,Director,Yes,December 2004
 66,Statecraft,Jonathon Moore,Senior Consultant,No,""
-66,Statecraft,Isobel Brown,Director,Yes,December 2010
 66,Statecraft,Jody Fassina,Director,Yes,April 2001
 66,Statecraft,Greg Holland,Director,Yes,April 1988
 66,Statecraft,Lucy Rayner,Associate Consultant,No,""
@@ -626,3 +631,4 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Taran Smith,Office Manager,No,""
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 180,Word Worker Pty Ltd,Lisa McDermott,Director,No,""
+627,yconsults group pty ltd,Yolanda Chorazyczewski,Legal Practitioner Director,No,""
