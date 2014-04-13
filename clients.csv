@@ -1,4 +1,7 @@
 agency_id,agency_business_entity_name,client_name
+629, A.M Joseph & B.J Sundell,Foreshore Protection Pty Ltd
+629, A.M Joseph & B.J Sundell,Hazel Hill Pty Ltd 
+629, A.M Joseph & B.J Sundell,Three Crowns Investments Pty Ltd
 594,23D pty ltd,Queensland Drilling Services
 442,4514 Avenue D Pty Ltd,Premier PR
 442,4514 Avenue D Pty Ltd,The Agenda Group (NSW) Pty Ltd
@@ -206,9 +209,6 @@ agency_id,agency_business_entity_name,client_name
 438,Butcher and Co Pty Ltd,Westpac Banking Corporation
 438,Butcher and Co Pty Ltd,GM Holden Ltd
 438,Butcher and Co Pty Ltd,Lend Lease Corporation Limited 
-257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Australian Volunteer Coast Guard
-257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Volunteer Fire Brigades Victoria
-257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Staindl Strategic
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Packaging Stewardship Forum
 556,Capital Hill Advisory Pty Ltd,Saputo Inc.
@@ -662,6 +662,7 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,Arrium Limited
 59,Government Relations Australia Advisory Pty Ltd,MM Kembla
 59,Government Relations Australia Advisory Pty Ltd,Australian Defence Apparel Pty Ltd
+59,Government Relations Australia Advisory Pty Ltd,National ELT Accreditation Scheme Limited
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -1526,7 +1527,6 @@ agency_id,agency_business_entity_name,client_name
 385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
 385,Strategic Partnership Group (Aust) Pty Limited,Linfox Pty Limited
 385,Strategic Partnership Group (Aust) Pty Limited,Baseplan Software Pty Limited
-385,Strategic Partnership Group (Aust) Pty Limited,National In Home Care Association
 385,Strategic Partnership Group (Aust) Pty Limited,Australian Fertility Medicine Foundation
 385,Strategic Partnership Group (Aust) Pty Limited,Performance English Pty Ltd
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
@@ -1736,8 +1736,6 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,Mundipharma Pty Ltd
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,Matrix on Board
-584,Willard Public Affairs Pty Limited,AR Contracting Services Pty Ltd
-584,Willard Public Affairs Pty Limited,MCA Management Services Pty Ltd
 584,Willard Public Affairs Pty Limited,United States Chamber of Commerce
 584,Willard Public Affairs Pty Limited,G.I Smoker and M.R Tudehope
 584,Willard Public Affairs Pty Limited,Sonic Healthcare Limited

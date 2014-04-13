@@ -1,4 +1,5 @@
 agency_id,agency_business_entity_name,lobbyist_name,position,former_government_representative,cessation_date
+629, A.M Joseph & B.J Sundell,Brett Sundell,Adviser,Yes,October 2013
 594,23D pty ltd,Simon Turner,Director,No,""
 442,4514 Avenue D Pty Ltd,Andrew Craig Blyth,Principal,Yes,March 2006
 362,89 Degrees East Pty Ltd,Annie O'Rourke,Director,Yes,September 2009
@@ -63,7 +64,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 88,Burson-Marsteller Pty. Ltd.,Carrie Cousins,Director,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
 438,Butcher and Co Pty Ltd,Andrew Butcher,Principal,No,""
-257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Garth Head,Director,Yes,October 2007
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Christopher Stone,Director Policy and Strategy,Yes,December 2007
 556,Capital Hill Advisory Pty Ltd,Claire Dawson,Manager Federal Government,Yes,December 2004
@@ -278,7 +278,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 8,Hill and Knowlton,Simeon Duncan,Director,Yes,November 2007
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
-288,HUGO HALLIDAY PTY LTD,Nathaniel Smith,Senior Government Relations Consultant,No,""
 288,HUGO HALLIDAY PTY LTD,Bill Pickering,Managing Director,No,""
 288,HUGO HALLIDAY PTY LTD,Michael Cooke,Senior Government Relations Consultant,Yes,May 2000
 510,huxley communications pty ltd,keri huxley,director,Yes,April 2010
@@ -409,7 +408,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 144,"O'MALLEY, Susanne Patricia",Sue O'Malley,Medical Reimbursement Strategist,No,""
 427,Owen International Pty Ltd,Leslie Goodridge,Managing Director,Yes,May 1994
 427,Owen International Pty Ltd,Andrew Orszulok,Technical Director,No,""
-427,Owen International Pty Ltd,Grant Pedder,Business Development Manager,Yes,May 2010
 309,Paramul Pty Ltd,Paul Lennon,Director,No,""
 72,Parker & Partners Pty Ltd,Hamish Li,Account Manager,No,""
 72,Parker & Partners Pty Ltd,Peta Lange,Account Manager,Yes,January 2009
@@ -516,6 +514,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 227,SAS Consulting Group Pty Ltd,Hon Larry Anthony,Director,Yes,October 2004
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Nicole Ireland ,Senior Consultant ,No,""
+227,SAS Consulting Group Pty Ltd,Malcolm Cole,Director Media and Communications,Yes,November 2007
 486,SCG Advisory Pty Ltd,Philip Dalidakis,Principal,Yes,May 2012
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
 143,Sefiani Communications Group,Robyn Sefiani,Managing Director,No,""
@@ -540,7 +539,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Jodie Varnai,Director,Yes,November 2013
 331,Stitch in Time (NT) Pty Ltd,Robert Hew Macleod,Director,No,""
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
-385,Strategic Partnership Group (Aust) Pty Limited,Aileen Wiessner,Senior Consultant,Yes,December 2007
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 235,The Agenda Group Pty Ltd,James McGarvey,Director,No,""
 235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
