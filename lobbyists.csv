@@ -93,13 +93,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 475,Clifton Consulting Services Pty Ltd,Louisa McPhee,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Philip Goslin,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Kerren Clark,Senior Consultant,No,""
-79,CMAX Communications,Tara Taubenschlag,Managing Director,No,""
-79,CMAX Communications,Christian Taubenschlag,Government Relations Adviser,Yes,October 2009
-79,CMAX Communications,Elke Purnell Mackenzie,Government Relations Adviser,Yes,June 2000
-79,CMAX Communications,Davina Langton,Government Relations Adviser,Yes,June 2009
-79,CMAX Communications,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
-79,CMAX Communications,Jacob Traeger,Account Executive,No,""
-79,CMAX Communications,Adele Langton,Government Relations Adviser,Yes,September 2013
+79,CMAX Communications Pty Ltd,Tara Taubenschlag,Managing Director,No,""
+79,CMAX Communications Pty Ltd,Christian Taubenschlag,Government Relations Adviser,Yes,October 2009
+79,CMAX Communications Pty Ltd,Elke Purnell Mackenzie,Government Relations Adviser,Yes,June 2000
+79,CMAX Communications Pty Ltd,Davina Langton,Government Relations Adviser,Yes,June 2009
+79,CMAX Communications Pty Ltd,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
+79,CMAX Communications Pty Ltd,Jacob Traeger,Account Executive,No,""
+79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Dave Coggin,Director,Yes,May 2010
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Anthony Hasluck,Director,No,""
@@ -111,6 +111,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 160,Cotterell Jannette Suzanne,Glenn Milne,Principal ,No,""
 160,Cotterell Jannette Suzanne,Anna Thompson,Policy Analyst,No,""
 160,Cotterell Jannette Suzanne,Hannah Purdy,Researcher,No,""
+160,Cotterell Jannette Suzanne,Michael Smith,Senior Consultant,Yes,December 1987
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
@@ -189,6 +190,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
 71,Essential Media Communications Pty Ltd,Tim Norton,Account Manager,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
+564,Etched Communications Pty Ltd,Peter Taueki,Account Manager,No,""
 512,Ethical Strategies Pty Ltd,John Morton,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,Jay Pleass,Account Director,Yes,August 2007
 324,FCC Partners,Hugh Fraser,Managing Director,No,""
@@ -373,7 +375,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 444,Michael Megaw,Michael Curnow Megaw,Owner,No,""
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore,Director,Yes,November 2007
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Cameron Milner,Director,No,""
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Katie Ford,Senior Advisor,Yes,February 2012
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Madeline Simmonds,Associate/Practice Manager,No,""
 356,Mr John Kindler,John Walter Kindler,Owner,Yes,March 2004
 229,Nayton Communication Pty Ltd,John Nayton,Proprietor,No,""
@@ -466,6 +467,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Casey Hockey,Consultant ,No,""
 242,Purple Communications Australia Pty Ltd,Bob Stevens ,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Astrid Serventy,Associate Director,Yes,October 2013
+242,Purple Communications Australia Pty Ltd,Karen Brown,Associate Director,Yes,March 2013
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 446,R A Neilson and M Salmon,Michael Salmon,Director,No,""
 446,R A Neilson and M Salmon,Ross Neilson,Director,No,""
@@ -515,6 +517,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Nicole Ireland ,Senior Consultant ,No,""
 227,SAS Consulting Group Pty Ltd,Malcolm Cole,Director Media and Communications,Yes,November 2007
+227,SAS Consulting Group Pty Ltd,Luke Giribon,Associate Director ,Yes,December 2001
 486,SCG Advisory Pty Ltd,Philip Dalidakis,Principal,Yes,May 2012
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
 143,Sefiani Communications Group,Robyn Sefiani,Managing Director,No,""
@@ -627,6 +630,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Matthew Moran,Director,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Senior Consultant,No,""
 584,Willard Public Affairs Pty Limited,Taran Smith,Office Manager,No,""
+584,Willard Public Affairs Pty Limited,Alex Gosman,Special Counsel,Yes,September 1990
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 180,Word Worker Pty Ltd,Lisa McDermott,Director,No,""
 627,yconsults group pty ltd,Yolanda Chorazyczewski,Legal Practitioner Director,No,""

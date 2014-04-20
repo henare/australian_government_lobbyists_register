@@ -2,6 +2,7 @@ agency_id,agency_business_entity_name,client_name
 629, A.M Joseph & B.J Sundell,Foreshore Protection Pty Ltd
 629, A.M Joseph & B.J Sundell,Hazel Hill Pty Ltd 
 629, A.M Joseph & B.J Sundell,Three Crowns Investments Pty Ltd
+629, A.M Joseph & B.J Sundell,Australian Reproductive Technologies Pty Ltd
 594,23D pty ltd,Queensland Drilling Services
 442,4514 Avenue D Pty Ltd,Premier PR
 442,4514 Avenue D Pty Ltd,The Agenda Group (NSW) Pty Ltd
@@ -241,21 +242,21 @@ agency_id,agency_business_entity_name,client_name
 215,"Clark, Kerren G",Bionics Institute
 475,Clifton Consulting Services Pty Ltd,Mecrus Pty Ltd
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
-79,CMAX Communications,Australian Coal Association
-79,CMAX Communications,Grains Council of Australia
-79,CMAX Communications,Pegasus Riding for the Disabled
-79,CMAX Communications,L3 Nautronix
-79,CMAX Communications,Stryker 
-79,CMAX Communications,Fortescue Metals Group 
-79,CMAX Communications,Association Mining and Exploration Companies
-79,CMAX Communications,Send Hope Not Flowers
-79,CMAX Communications,Recurrent Energy
-79,CMAX Communications,Northrop Grumman International
-79,CMAX Communications,Saab Systems
-79,CMAX Communications,Oracle Australia
-79,CMAX Communications,Northrop Grumman Australia
-79,CMAX Communications,BUILDINGSMART AUSTRALASIA INCORPORATED
-79,CMAX Communications,Livestock Shipping Services Pty Ltd 
+79,CMAX Communications Pty Ltd,Australian Coal Association
+79,CMAX Communications Pty Ltd,Grains Council of Australia
+79,CMAX Communications Pty Ltd,Pegasus Riding for the Disabled
+79,CMAX Communications Pty Ltd,L3 Nautronix
+79,CMAX Communications Pty Ltd,Stryker 
+79,CMAX Communications Pty Ltd,Fortescue Metals Group 
+79,CMAX Communications Pty Ltd,Association Mining and Exploration Companies
+79,CMAX Communications Pty Ltd,Send Hope Not Flowers
+79,CMAX Communications Pty Ltd,Recurrent Energy
+79,CMAX Communications Pty Ltd,Northrop Grumman International
+79,CMAX Communications Pty Ltd,Saab Systems
+79,CMAX Communications Pty Ltd,Oracle Australia
+79,CMAX Communications Pty Ltd,Northrop Grumman Australia
+79,CMAX Communications Pty Ltd,BUILDINGSMART AUSTRALASIA INCORPORATED
+79,CMAX Communications Pty Ltd,Livestock Shipping Services Pty Ltd 
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -494,6 +495,7 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd,Bellamy's Organic
 564,Etched Communications Pty Ltd,Plastics and Chemicals Industries Association
 564,Etched Communications Pty Ltd,Achieve Australia
+564,Etched Communications Pty Ltd, Interface Aust Pty Limited
 512,Ethical Strategies Pty Ltd,Cystic Fibrosis Australia
 512,Ethical Strategies Pty Ltd,Paul Hartmann Pty Limited
 324,FCC Partners,Chi - X
@@ -779,6 +781,7 @@ agency_id,agency_business_entity_name,client_name
 19,HTT Trust,The Institute of Certified Management Accountants
 19,HTT Trust,Smorgon Fuels
 19,HTT Trust,The Victor Smorgon Group
+19,HTT Trust,Southern Capital Corporation
 288,HUGO HALLIDAY PTY LTD,Gazcorp Pty Ltd
 288,HUGO HALLIDAY PTY LTD,Optometrists Association Australia NSW Division
 288,HUGO HALLIDAY PTY LTD,DSD Nominees Pty Ltd
@@ -825,6 +828,9 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Australian Drug Foundation
 319,Jo Scard Pty Ltd,Scouts Australia
 319,Jo Scard Pty Ltd,Diversity Council Australia
+319,Jo Scard Pty Ltd,QT Hotels and Resorts
+319,Jo Scard Pty Ltd,Energy Networks Association
+319,Jo Scard Pty Ltd,Lifestart Foundation
 275,Jody Fassina ATF JAI Family Trust,Moss Capital
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
@@ -878,6 +884,7 @@ agency_id,agency_business_entity_name,client_name
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Wilmar Sugar Australia Pty Ltd
 621,KnowMinister.com Pty Ltd,Sugar Australia Pty Ltd
+621,KnowMinister.com Pty Ltd,Australian Sugar Milling Council
 115,KPMG,The Cobra Group Pty Ltd
 115,KPMG,Distilled Spirits Industry Council of Australia Inc
 115,KPMG,The Australian Federation of Travel Agents
@@ -1089,6 +1096,7 @@ agency_id,agency_business_entity_name,client_name
 618,Northbridge Infrastructure Pty Ltd,Mondelez Australia (Foods) Ltd
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
+3,Oceanic Solutions Pty Ltd,Eca Robotics
 86,Ogilvy PR Health,Prostate Cancer Foundation of Australia
 86,Ogilvy PR Health,Merck Serono
 86,Ogilvy PR Health,Genzyme
@@ -1522,6 +1530,7 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,Allergan
 66,Statecraft,WWF Australia
 66,Statecraft,KordaMentha Pty Ltd
+66,Statecraft,Yieldbroker Pty Ltd
 331,Stitch in Time (NT) Pty Ltd,Shorecorporate Pty Ltd
 385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
 385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
