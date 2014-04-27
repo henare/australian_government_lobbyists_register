@@ -179,6 +179,8 @@ agency_id,agency_business_entity_name,client_name
 196,Bernard J Eades,Australian Made Campaign Ltd
 597,Birney Corporate Pty Ltd,Mondotalk
 597,Birney Corporate Pty Ltd,Rosco McGlashan (World Record Land Speed Challenge)
+597,Birney Corporate Pty Ltd,The Friendship Games
+597,Birney Corporate Pty Ltd,RV Sports Pty Ltd
 110,Bluegrass Consulting Pty Ltd,iTIC Australia Pty Ltd
 110,Bluegrass Consulting Pty Ltd,GPT Group 
 110,Bluegrass Consulting Pty Ltd,Reliance Rail 
@@ -224,6 +226,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Pfizer Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Merck Sharp & Dohme (Australia) Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd
+556,Capital Hill Advisory Pty Ltd,Assetlink Services Pty Ltd
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 27,Cato Counsel Pty Ltd,Pacific Brands
 191,"Cemdia Pty, Ltd",NBNCo
@@ -421,6 +424,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,OâDonnell Griffin
 360,Diplomacy Pty Limited,Haden
 360,Diplomacy Pty Limited,Resolve FM
+360,Diplomacy Pty Limited,Sensis Pty Ltd
 454,Discourse Consulting Pty Ltd,ADA
 454,Discourse Consulting Pty Ltd,NDS
 454,Discourse Consulting Pty Ltd,Life withour Barriers
@@ -628,7 +632,6 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,ALDI Stores
 59,Government Relations Australia Advisory Pty Ltd,First Solar
 59,Government Relations Australia Advisory Pty Ltd,Project Management Institute
-59,Government Relations Australia Advisory Pty Ltd,AAPT
 59,Government Relations Australia Advisory Pty Ltd,Archer Daniels Midland Company
 59,Government Relations Australia Advisory Pty Ltd,Vanguard Investments Australia Ltd
 59,Government Relations Australia Advisory Pty Ltd,SingTel Optus Pty Ltd
@@ -640,7 +643,6 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,Alexion Pharmaceuticals Australasia Pty Ltd
 59,Government Relations Australia Advisory Pty Ltd,Accolade Wines
 59,Government Relations Australia Advisory Pty Ltd,Michell Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,LCH.Clearnet
 59,Government Relations Australia Advisory Pty Ltd,Australian Meat Industry Council
 59,Government Relations Australia Advisory Pty Ltd,Anglicare SA
 59,Government Relations Australia Advisory Pty Ltd,Employers Mutual Ltd
@@ -831,6 +833,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,QT Hotels and Resorts
 319,Jo Scard Pty Ltd,Energy Networks Association
 319,Jo Scard Pty Ltd,Lifestart Foundation
+319,Jo Scard Pty Ltd,Quintessential Equities 023 Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Moss Capital
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
@@ -1386,6 +1389,9 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
 395,Right Angle Business Services Pty Ltd,Solar Juice Pty Ltd
 395,Right Angle Business Services Pty Ltd, Trina Solar Australia Pty Ltd 
+395,Right Angle Business Services Pty Ltd,SOLARGAIN Pty Ltd
+395,Right Angle Business Services Pty Ltd,Canadian Solar (Australia) Pty Ltd
+395,Right Angle Business Services Pty Ltd,Yingli Green Energy Australia Pty Ltd
 527,Robert J.L. Hawke & Associates Pty Ltd,Australia Sinofortune International Investment (Group) Pty Ltd (ACN 152 954 679)
 527,Robert J.L. Hawke & Associates Pty Ltd,Kimberley Agricultural Investment Pty Ltd (ACN 154 270 194)
 511,Robert Palmer,Australian Maritime College
@@ -1454,6 +1460,7 @@ agency_id,agency_business_entity_name,client_name
 143,Sefiani Communications Group,Western Sydney Institute
 143,Sefiani Communications Group,The Hospitals Contribution Fund of Australia (HCF)
 143,Sefiani Communications Group,Metlife Insurance Ltd
+143,Sefiani Communications Group,Pink Hope Community Limited
 171,Shac Communications Pty Ltd ATF The Shac Trust,Leighton Contractors
 171,Shac Communications Pty Ltd ATF The Shac Trust,Rheem
 171,Shac Communications Pty Ltd ATF The Shac Trust,World Firefighters Games
