@@ -73,7 +73,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,David Begg,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Senior Consultant,Yes,November 2007
 556,Capital Hill Advisory Pty Ltd,Scott Farlow,Director Public Affairs,No,""
-556,Capital Hill Advisory Pty Ltd,Kate Blunden,Senior Advisor,Yes,April 1999
 556,Capital Hill Advisory Pty Ltd,Natalie Christiansen,Manager Public Policy,No,""
 556,Capital Hill Advisory Pty Ltd,Ian Hancock,Government Policy Analyst,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
@@ -200,7 +199,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 214,FIPRA Australia Pty Limited,Madeleine Lewis,Account Executive,No,""
 214,FIPRA Australia Pty Limited,Shannan Manton,Account Executive,No,""
 453,First State Advisors and Consultants ,Joseph Tannous ,"Executive Director, Australia ",Yes,February 2004
-453,First State Advisors and Consultants ,David Zachary Miles ,Partner,No,""
 453,First State Advisors and Consultants ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
 453,First State Advisors and Consultants ,Gary Humphries ,Special Counsel ,No,""
 453,First State Advisors and Consultants ,Christian Dunk,Government Relations Consultant ,No,""
@@ -248,13 +246,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,Government Relations Australia Advisory Pty Ltd,Kary Alexander Petersen,Associate Director,Yes,October 2005
 59,Government Relations Australia Advisory Pty Ltd,Margo Delaney,Executive Assistant,No,""
 59,Government Relations Australia Advisory Pty Ltd,Nicolaos Xerakias,Associate Director,Yes,December 2007
-59,Government Relations Australia Advisory Pty Ltd,Karl Thomas Smith,Research and Policy Analyst,No,""
 59,Government Relations Australia Advisory Pty Ltd,Michael Chaitow,Research and Policy Analyst,Yes,January 2014
 59,Government Relations Australia Advisory Pty Ltd,Laura Elizabeth Turnley,Associate,No,""
 7,Government Relations Solutions Pty Ltd,David Scotland,Senior Consultant,No,""
 7,Government Relations Solutions Pty Ltd,WendyMatthew,Administration / Research,No,""
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
 125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
+630,GPotts,Geoff Potts,Principle,Yes,December 2004
 122,GRA Everingham Pty Ltd,Paul Everingham,Managing Director,Yes,February 2003
 122,GRA Everingham Pty Ltd,Jason Marocchi,Director,No,""
 122,GRA Everingham Pty Ltd,Hon John Dawkins AO,Director,Yes,November 1995
@@ -277,7 +275,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
 8,Hill and Knowlton,Tim McPhail,Director,No,""
-8,Hill and Knowlton,Simeon Duncan,Director,Yes,November 2007
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
 288,HUGO HALLIDAY PTY LTD,Bill Pickering,Managing Director,No,""
@@ -431,7 +428,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Tracey Hughes,Manager â Client Liaison,No,""
 516,Premier State Consulting Pty Ltd,Nick Campbell,Director,Yes,December 1999
 516,Premier State Consulting Pty Ltd,Ian Hancock,Analyst,No,""
-516,Premier State Consulting Pty Ltd,Kate Blunden,Senior Adviser,Yes,April 1999
 220,Primary Communication Pty Ltd,Jennifer Muir,General Manager,No,""
 220,Primary Communication Pty Ltd,Ian Zakon,Account Director  ,Yes,June 2011
 220,Primary Communication Pty Ltd,Helen Thurloe,Account Director,No,""
@@ -572,14 +568,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 145,The Trustee for Bespoke Approach Unit Trust,Caroline Rhodes,Deputy Managing Director,Yes,June 2010
 145,The Trustee for Bespoke Approach Unit Trust,Thomas Pagliaro,Associate,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Georgia Bradshaw,Researcher,No,""
-145,The Trustee for Bespoke Approach Unit Trust,Anita Allen,Executive Coordinator,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Paul Tierney,Senior Consultant,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Ian Smith,Partner,Yes,November 2006
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Caroline Rhodes,Consultant,Yes,June 2010
 589,The Trustee for Bespoke Territory Unit Trust,Thomas Pagliaro,Consultant,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Georgia Bradshaw,Consultant,No,""
-589,The Trustee for Bespoke Territory Unit Trust,Anita Allen,Executive Coordinator,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Paul Tierney,Consultant,No,""
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""

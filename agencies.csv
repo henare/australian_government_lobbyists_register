@@ -43,7 +43,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 88,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=88,Burson-Marsteller Pty. Ltd.,Burson-Marsteller,23001951515,2014-03-18
 52,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=52,Bush Consulting Services Pty Ltd,Bush-Consulting,71105001081,2014-01-22
 438,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=438,Butcher and Co Pty Ltd,Butcher and Co,19144522038,2012-05-01
-556,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=556,Capital Hill Advisory Pty Ltd,Capital Hill Advisory,39162434031,2014-04-24
+556,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=556,Capital Hill Advisory Pty Ltd,Capital Hill Advisory,39162434031,2013-09-04
 601,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=601,Catherine McGovern,Catherine McGovern,79157510884,2013-11-07
 27,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=27,Cato Counsel Pty Ltd,Cato Counsel,93103996952,2014-03-17
 191,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=191,"Cemdia Pty, Ltd",Cemdia,49006518412,2013-07-10
@@ -93,7 +93,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 512,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=512,Ethical Strategies Pty Ltd,Ethical Strategies,48 125 083 847,2014-01-23
 324,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=324,FCC Partners,FCC Partners,97104680588,2014-03-17
 214,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=214,FIPRA Australia Pty Limited,FIPRA Australia,50078482596,2014-01-22
-453,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=453,First State Advisors and Consultants ,First State Government and Corporate Relations ,99153936719,2013-12-06
+453,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=453,First State Advisors and Consultants ,First State Government and Corporate Relations ,99153936719,2012-01-30
 295,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=295,Five Corners Pty Ltd,Five Corners Pty Ltd,12075550971,2014-01-17
 202,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=202,Fowlstone Communications,Fowlstone Communications,74085739046,2013-11-13
 484,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=484,FPL Advisory Pty Ltd,FPL Advisory Pty Ltd,34 123 819 385,2014-03-17
@@ -111,16 +111,17 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 238,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=238,GIMC Consulting,GIMC Consulting,41317956923,2013-07-02
 150,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=150,Glide Pty Ltd,Glide Strategic,35009338407,2014-01-17
 561,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=561,Global Issues Group,Global Issues Group,66163887885,2013-07-01
-59,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=59,Government Relations Australia Advisory Pty Ltd,Government Relations Australia Advisory Pty Ltd,50082123822,2014-04-16
+59,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=59,Government Relations Australia Advisory Pty Ltd,Government Relations Australia Advisory Pty Ltd,50082123822,2013-12-09
 7,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=7,Government Relations Solutions Pty Ltd,GR Solutions,28125233543,2014-03-03
 125,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=125,Govstrat Pty Ltd,Govstrat,64964952044,2014-01-24
+630,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=630,GPotts,Potts and Associates,61631603285,2014-05-02
 122,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=122,GRA Everingham Pty Ltd,GRA Everingham Pty Ltd,56131702755,2014-03-26
 209,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=209,Gryphon Management Australia,Gryphon Management Australia,87109077607,2014-04-07
 26,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=26,Halden Burns Pty Ltd,Halden Burns Pty Ltd,48103657290,2014-02-12
 96,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=96,Hawker Britton Group Pty Ltd,Hawker Britton,79109681405,2014-02-28
 137,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=137,Health Communincations Australia Pty Limited,Health Communications Australia,87059613348,2014-02-12
 124,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=124,Helen & Mike O'Brien JP,Helen & Mike O'Brien JP,65791217178,2013-06-19
-8,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=8,Hill and Knowlton,Hill+Knowlton Strategies ,30008401134,2014-04-01
+8,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=8,Hill and Knowlton,Hill+Knowlton Strategies ,30008401134,2014-04-30
 19,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=19,HTT Trust,HTT Associates Pty Ltd,71312847351,2014-04-09
 288,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=288,HUGO HALLIDAY PTY LTD,Hugo Halliday Pty Ltd,19128669625,2014-03-17
 510,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=510,huxley communications pty ltd,huxley communications pty ltd,93142533426,2013-01-18
@@ -160,7 +161,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 258,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=258,Lyndon George Pty Ltd,Lyndon George,76139847055,2014-02-10
 80,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=80,MacGregor Public Relations,MacGregor Public Relations,18104844626,2013-09-23
 119,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=119,Macquarie Group Limited,Macquarie Group Limited,94122169279,2014-03-20
-578,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=578,Making The World A Better Place Pty Ltd,Making The World A Better Place Pty Ltd,13075789196,2014-02-09
+578,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=578,Making The World A Better Place Pty Ltd,Making The World A Better Place Pty Ltd,13075789196,2014-04-28
 245,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=245,Marketing Elements Pty Ltd,Marketing Elements Pty Ltd,86086302838,2013-06-17
 118,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=118,Markstone Group Pty Ltd,Markstone Group Pty Ltd,61106988970,2013-10-30
 187,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=187,Marlow Communications Pty Ltd,Marlow Communications Pty Ltd,39131696663,2014-03-19
@@ -193,7 +194,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 219,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=219,Policy Solutions Group Pty Ltd,The Agenda Group (NSW),71134917356,2013-11-18
 573,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=573,Politic Political Advisors,Politic.,"",2013-09-04
 318,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=318,Porter Novelli Australia Pty Ltd,Porter Novelli Melbourne,40 079 616 050,2014-03-17
-516,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=516,Premier State Consulting Pty Ltd,PremierState, 26 149 964 189,2014-01-22
+516,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=516,Premier State Consulting Pty Ltd,PremierState, 26 149 964 189,2013-10-16
 220,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=220,Primary Communication Pty Ltd,Primary Communication,62061627263,2014-03-17
 339,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=339,Principled Public Relations and Public Affairs,Principled Public Relations and Public Affairs,15146238048,2014-03-03
 283,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=283,Probity International Pty. Ltd,Probity International,77076174126,2013-07-10
@@ -242,7 +243,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 66,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=66,Statecraft,Statecraft Pty. Ltd.,90116598924,2014-04-17
 331,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=331,Stitch in Time (NT) Pty Ltd,Stitch in Time (NT) Pty Ltd,41 111 291 055,2013-10-01
 385,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=385,Strategic Partnership Group (Aust) Pty Limited,Strategic Partnership Group (Aust) Pty Limited,92 089 461 450,2011-04-27
-528,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=528,SYSTECH Consultants Pty Ltd,SYSTECH Consultants Pty Ltd,32008220577,2014-01-17
+528,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=528,SYSTECH Consultants Pty Ltd,SYSTECH Consultants Pty Ltd,32008220577,2014-04-29
 235,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=235,The Agenda Group Pty Ltd,The Agenda Group Pty Ltd,92118248892,2014-04-02
 9,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=9,The Canberra Institute,ACT Trading,59954528757,2014-01-26
 292,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,The Civic Group ,78729712484,2014-03-03
@@ -254,8 +255,8 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 408,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=408,The Six Hats - Investor Relations Pty Ltd,The Six Hats - Investor Relations,84 149 603 903,2013-09-18
 95,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=95,The Strategic Counsel Pty Ltd,The Strategic Counsel,41087883675,2014-03-24
 424,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=424,The Taylor Street Consultancy P/L,Taylor Street Advisory,25069333400,2014-01-20
-145,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=145,The Trustee for Bespoke Approach Unit Trust,Bespoke Approach,45156568237,2014-04-02
-589,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=589,The Trustee for Bespoke Territory Unit Trust,Bespoke Territory,31665863451,2014-03-20
+145,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=145,The Trustee for Bespoke Approach Unit Trust,Bespoke Approach,45156568237,2014-02-05
+589,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=589,The Trustee for Bespoke Territory Unit Trust,Bespoke Territory,31665863451,2014-02-05
 550,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=550,The Trustee for Connelly Project Resources,CPR Group,47850948625,2014-01-21
 420,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=420,The trustee for ECG Advisory Trust,ECG Advisory Solutions,93354249142,2014-03-21
 41,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=41,The Trustee for Hilton Valley Investment,Affairs of State,44230891629,2013-07-10
