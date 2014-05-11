@@ -140,7 +140,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Caravan; RV & Accommodation Industry of Australia Ltd
 338,Barton Deakin ,Citigroup Pty Limited
 338,Barton Deakin ,Australian Private Hospitals Association Limited
-338,Barton Deakin ,Foodbank NSW Limited 
 338,Barton Deakin ,Renew Initiatives Australia Limited 
 338,Barton Deakin ,Bowel Cancer Australia
 338,Barton Deakin ,C.H. Group Pty Ltd
@@ -148,7 +147,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Bain and Company Inc
 338,Barton Deakin ,Buchanan Group
 338,Barton Deakin ,Smart Services CRC Pty Ltd
-338,Barton Deakin ,Post Office Agents Association Limited 
 338,Barton Deakin ,AARNet Pty Ltd
 338,Barton Deakin ,Ogilvy & Mather (Sydney) Pty Limited
 338,Barton Deakin ,Thomas Kelly Youth Foundation Limited
@@ -166,6 +164,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Expedia Inc
 338,Barton Deakin ,Honeywell Holdings Pty Ltd
 338,Barton Deakin ,Inala
+338,Barton Deakin ,Australian Communication Exchange Limited
 342,Bavaria Corporation Pty Ltd,Haigslea Finance Group Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
@@ -342,6 +341,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Australian Primary Principals Association
 81,CPR Communications & Public Relations Pty Ltd,Baptcare Ltd
 81,CPR Communications & Public Relations Pty Ltd,Hickory Group Pty Ltd
+81,CPR Communications & Public Relations Pty Ltd,The Trustee for ADMINISTRATION  MARKETING SOLUTIONS TRUST (Chemists Warehouse/My Chemist Group)
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 193,CRAKYL Pty Ltd,Future School
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
@@ -568,6 +568,7 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
 333,FTI Consulting (Perth) Pty Ltd,New Energy Corporation
 333,FTI Consulting (Perth) Pty Ltd,Sirona Capital Management
+333,FTI Consulting (Perth) Pty Ltd,Digital CC Holdings Pty Ltd
 543,G. C. Advocacy Pty Ltd,Motor Traders Association NSW
 543,G. C. Advocacy Pty Ltd,Catholic Cemeteries Board
 141,G.CAMPBELL & K.L WEIL,Mount Gibson Iron Limited.
@@ -697,6 +698,8 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Australia Treasury Management
 122,GRA Everingham Pty Ltd,World Clean Sports Organisation (The Clean Protocol) 
 122,GRA Everingham Pty Ltd,City of Wanneroo
+122,GRA Everingham Pty Ltd,Baosteel Resources Australia Pty Ltd
+122,GRA Everingham Pty Ltd,University of Western Australia 
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Buru Energy
@@ -994,7 +997,6 @@ agency_id,agency_business_entity_name,client_name
 119,Macquarie Group Limited,Macquarie Pastoral Fund
 578,Making The World A Better Place Pty Ltd,Hear and Say Centre
 578,Making The World A Better Place Pty Ltd,Phoenix Eagle
-578,Making The World A Better Place Pty Ltd,Department of Prime Minister (Papua New Guinea Government)
 578,Making The World A Better Place Pty Ltd,OEPS (Open Excavation Protection System)
 578,Making The World A Better Place Pty Ltd,BPO Outfit Australia
 245,Marketing Elements Pty Ltd,National Council for Children Post-Separation
@@ -1383,6 +1385,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Allocate Software
 35,Richardson Coutts,NuCoal Resources Ltd
 35,Richardson Coutts,Johnny Warren Football Foundation of New South Wales Limited
+35,Richardson Coutts,Seafish Tasmania Pty Ltd
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
@@ -1522,6 +1525,7 @@ agency_id,agency_business_entity_name,client_name
 490,Staindl Strategic Pty Ltd,Latrobe Fertiliser Project Pty Ltd
 490,Staindl Strategic Pty Ltd,LD Network
 490,Staindl Strategic Pty Ltd,Aquaterro Advance Product Supplies
+490,Staindl Strategic Pty Ltd,Theon Sensors
 66,Statecraft,Epilepsy Action Australia
 66,Statecraft,Cockatoo Coal
 66,Statecraft,POSCO Australia

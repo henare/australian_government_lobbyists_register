@@ -208,11 +208,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
 484,FPL Advisory Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
 333,FTI Consulting (Perth) Pty Ltd,Cameron Morse,Senior Director Corporate and Public Affairs,No,""
-333,FTI Consulting (Perth) Pty Ltd,Michael Groves,Senior Consultant ,No,""
+333,FTI Consulting (Perth) Pty Ltd,Michael Groves,Director,No,""
 333,FTI Consulting (Perth) Pty Ltd,Katina Hodson Thomas,Director,Yes,September 2008
 333,FTI Consulting (Perth) Pty Ltd,Tara Nash,Consultant,No,""
 333,FTI Consulting (Perth) Pty Ltd,Paul Downie,Senior Managing Director,No,""
 333,FTI Consulting (Perth) Pty Ltd,Sarah Joseph,Senior Consultant,No,""
+333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Director,No,""
 543,G. C. Advocacy Pty Ltd,Geoffrey Corrigan,Director,Yes,March 2011
 141,G.CAMPBELL & K.L WEIL,George Campbell OAM.,CONSULTANT,No,""
 141,G.CAMPBELL & K.L WEIL,Kerrie Linda Weil,CONSULTANT (media),No,""
@@ -275,6 +276,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
 8,Hill and Knowlton,Tim McPhail,Director,No,""
+8,Hill and Knowlton,Megan Magill,Director,Yes,December 2007
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
 288,HUGO HALLIDAY PTY LTD,Bill Pickering,Managing Director,No,""
