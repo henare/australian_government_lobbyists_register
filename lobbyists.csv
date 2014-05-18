@@ -64,6 +64,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 88,Burson-Marsteller Pty. Ltd.,Carrie Cousins,Director,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
 438,Butcher and Co Pty Ltd,Andrew Butcher,Principal,No,""
+257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Garth Head,Director,Yes,October 2007
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Christopher Stone,Director Policy and Strategy,Yes,December 2007
 556,Capital Hill Advisory Pty Ltd,Claire Dawson,Manager Federal Government,Yes,December 2004
@@ -86,6 +87,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,No,""
 157,Chikarovski & Associates Pty Ltd,Samantha Dybac,admin assistant,No,""
+113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
 215,"Clark, Kerren G",Kerren Clark,Principal,No,""
 475,Clifton Consulting Services Pty Ltd,John Ridley,Principal,No,""
 475,Clifton Consulting Services Pty Ltd,Ken Davis,Senior Consultant,No,""
@@ -279,6 +281,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 8,Hill and Knowlton,Megan Magill,Director,Yes,December 2007
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
+288,HUGO HALLIDAY PTY LTD,Nathaniel Smith,Senior Government Relations Consultant,No,""
 288,HUGO HALLIDAY PTY LTD,Bill Pickering,Managing Director,No,""
 288,HUGO HALLIDAY PTY LTD,Michael Cooke,Senior Government Relations Consultant,Yes,May 2000
 510,huxley communications pty ltd,keri huxley,director,Yes,April 2010
@@ -301,6 +304,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Jo Scard,"Business Founder, former adviser to former Minister for Immigration & Citizenship until 14/9/10",Yes,September 2010
 319,Jo Scard Pty Ltd,Brigid Lombard,Administrator,No,""
 319,Jo Scard Pty Ltd,Genevieve Dwyer,Associate,No,""
+319,Jo Scard Pty Ltd,Fiona Wilson,Associate,No,""
 275,Jody Fassina ATF JAI Family Trust,Jody Fassina,Principal Consultant,Yes,April 2001
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
@@ -390,6 +394,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Emma Hawker,Executive Assistant,No,""
+565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 618,Northbridge Infrastructure Pty Ltd,David Mullaly,Managing Director,No,""
 618,Northbridge Infrastructure Pty Ltd,Lucille James,Executive Officer,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
@@ -406,6 +411,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,Ogilvy PR Health,Carly Vale,Account Executive,No,""
 86,Ogilvy PR Health,Rachel Beck,Account Coordinator,No,""
 144,"O'MALLEY, Susanne Patricia",Sue O'Malley,Medical Reimbursement Strategist,No,""
+632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 427,Owen International Pty Ltd,Leslie Goodridge,Managing Director,Yes,May 1994
 427,Owen International Pty Ltd,Andrew Orszulok,Technical Director,No,""
 309,Paramul Pty Ltd,Paul Lennon,Director,No,""
@@ -433,6 +439,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 220,Primary Communication Pty Ltd,Jennifer Muir,General Manager,No,""
 220,Primary Communication Pty Ltd,Ian Zakon,Account Director  ,Yes,June 2011
 220,Primary Communication Pty Ltd,Helen Thurloe,Account Director,No,""
+631,Primary Policy Partners,Andrew Gibbs,Founding Partner,Yes,January 2001
 339,Principled Public Relations and Public Affairs,Erik A Locke,Director,Yes,September 2010
 339,Principled Public Relations and Public Affairs,Jessica Sumich,Associate,Yes,June 2008
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
@@ -515,7 +522,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Nicole Ireland ,Senior Consultant ,No,""
 227,SAS Consulting Group Pty Ltd,Malcolm Cole,Director Media and Communications,Yes,November 2007
-227,SAS Consulting Group Pty Ltd,Luke Giribon,Associate Director ,Yes,December 2001
 486,SCG Advisory Pty Ltd,Philip Dalidakis,Principal,Yes,May 2012
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
 143,Sefiani Communications Group,Robyn Sefiani,Managing Director,No,""

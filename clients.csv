@@ -211,9 +211,11 @@ agency_id,agency_business_entity_name,client_name
 438,Butcher and Co Pty Ltd,Westpac Banking Corporation
 438,Butcher and Co Pty Ltd,GM Holden Ltd
 438,Butcher and Co Pty Ltd,Lend Lease Corporation Limited 
+257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Australian Volunteer Coast Guard
+257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Volunteer Fire Brigades Victoria
+257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Staindl Strategic
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Packaging Stewardship Forum
-556,Capital Hill Advisory Pty Ltd,Saputo Inc.
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
 556,Capital Hill Advisory Pty Ltd,Transfield Services (Australia) Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Swinburne University of Technology
@@ -239,6 +241,9 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Stirling Bridge Capital Ltd
 157,Chikarovski & Associates Pty Ltd,Supercharge Batteries
 157,Chikarovski & Associates Pty Ltd,EJ Cooper and Son Pty Limited
+113,CHRIS SCHACHT,PILATUS
+113,CHRIS SCHACHT,Vipac
+113,CHRIS SCHACHT,Liebherr Australia
 215,"Clark, Kerren G",BioGrid
 215,"Clark, Kerren G",Speech Pathology Australia
 215,"Clark, Kerren G",Bionics Institute
@@ -342,6 +347,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Baptcare Ltd
 81,CPR Communications & Public Relations Pty Ltd,Hickory Group Pty Ltd
 81,CPR Communications & Public Relations Pty Ltd,The Trustee for ADMINISTRATION  MARKETING SOLUTIONS TRUST (Chemists Warehouse/My Chemist Group)
+81,CPR Communications & Public Relations Pty Ltd,Housing Industry Association Limited
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 193,CRAKYL Pty Ltd,Future School
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
@@ -493,6 +499,7 @@ agency_id,agency_business_entity_name,client_name
 15,Eric Walsh Pty Ltd,Hong Kong Jockey Club
 15,Eric Walsh Pty Ltd,Ample Source International BVI (ASI)
 15,Eric Walsh Pty Ltd,Solar Free
+15,Eric Walsh Pty Ltd,China Rail
 71,Essential Media Communications Pty Ltd,Sydney Aboriginal Services Ltd
 71,Essential Media Communications Pty Ltd,Australian Marine Conservation Society
 564,Etched Communications Pty Ltd,Nestle Australia
@@ -838,6 +845,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Energy Networks Association
 319,Jo Scard Pty Ltd,Lifestart Foundation
 319,Jo Scard Pty Ltd,Quintessential Equities 023 Pty Ltd
+319,Jo Scard Pty Ltd,Apis Group Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Moss Capital
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
@@ -1065,6 +1073,7 @@ agency_id,agency_business_entity_name,client_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Bandanna Energy
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,AWX Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Linfox Proprietary Limited
+577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Investa Property Group
 356,Mr John Kindler,Pratt and Whitney Military Engines
 229,Nayton Communication Pty Ltd,Bauxite Alumina Joint Venture
 229,Nayton Communication Pty Ltd,WA Onshore Gas group
@@ -1125,6 +1134,7 @@ agency_id,agency_business_entity_name,client_name
 86,Ogilvy PR Health,Fitness First
 144,"O'MALLEY, Susanne Patricia",Carl Zeiss Pty Ltd
 144,"O'MALLEY, Susanne Patricia",MUH Operations No. 2 Limited
+632,One Degree Advisory,Edith Cowan University
 427,Owen International Pty Ltd,Cobham Tactical Communications and Surveillance
 427,Owen International Pty Ltd,Avon Protection
 427,Owen International Pty Ltd,L3 Communications Corporation Warrior Systems Division Insight Technology
@@ -1188,7 +1198,6 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Employers Mutual Limited
 516,Premier State Consulting Pty Ltd,Malabar Coal Pty Ltd
 516,Premier State Consulting Pty Ltd,Merivale Group (Hemmes Trading Pty Ltd)
-516,Premier State Consulting Pty Ltd,New South Wales Minerals Council Limited
 516,Premier State Consulting Pty Ltd,PricewaterhouseCoopers Australia Limited
 516,Premier State Consulting Pty Ltd,Spur Hill Management Pty Ltd
 516,Premier State Consulting Pty Ltd,Suncorp Group Limited
@@ -1214,6 +1223,9 @@ agency_id,agency_business_entity_name,client_name
 220,Primary Communication Pty Ltd,Elgas
 220,Primary Communication Pty Ltd,National Catholic Education Commission
 220,Primary Communication Pty Ltd,Belinda Mason Photography Pty Ltd
+631,Primary Policy Partners,Elliott Holdings Australia T/A Ellwaste
+631,Primary Policy Partners,MyJet Aviation Pty Ltd
+631,Primary Policy Partners,Chris Richards Group Pty Ltd
 339,Principled Public Relations and Public Affairs,Unitised Building
 339,Principled Public Relations and Public Affairs,Indigenous Apprenticeship Scheme
 339,Principled Public Relations and Public Affairs,CEPU PD
@@ -1386,6 +1398,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,NuCoal Resources Ltd
 35,Richardson Coutts,Johnny Warren Football Foundation of New South Wales Limited
 35,Richardson Coutts,Seafish Tasmania Pty Ltd
+35,Richardson Coutts,Australian Communications Exchange
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
@@ -1518,10 +1531,7 @@ agency_id,agency_business_entity_name,client_name
 490,Staindl Strategic Pty Ltd,Clean Energy Council
 490,Staindl Strategic Pty Ltd,Pacific Hydro
 490,Staindl Strategic Pty Ltd,Air Conditioning and Mechanical Contractors' Association of Australia (Victoria)
-490,Staindl Strategic Pty Ltd,Australian Traditional Medicine Society
 490,Staindl Strategic Pty Ltd,Sita Environmental Solutions
-490,Staindl Strategic Pty Ltd,East Gippsland Shire  Council
-490,Staindl Strategic Pty Ltd,Gippsland Regional Leadership Group
 490,Staindl Strategic Pty Ltd,Latrobe Fertiliser Project Pty Ltd
 490,Staindl Strategic Pty Ltd,LD Network
 490,Staindl Strategic Pty Ltd,Aquaterro Advance Product Supplies
@@ -1746,6 +1756,7 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Black Dog Institute
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Eakin McCaffery Cox Lawyers
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Caterpillar of Australia Pty Ltd 
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Nicoventures Australia Pty Limited
 502,White House Communications,Vestas Australia Wind Technology Pty Ltd
 502,White House Communications,Amex Corporation
 502,White House Communications,Samaritan House
