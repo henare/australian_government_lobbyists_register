@@ -50,6 +50,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,November 1987
 196,Bernard J Eades,Bernard Eades,Director,Yes,February 2011
 597,Birney Corporate Pty Ltd,Matt Birney,Managing Director,No,""
+626,Blackie McDonald Pty Ltd,Mark Lenyszyn,General Manager,No,""
+626,Blackie McDonald Pty Ltd,Anthony Blackie,Chairman,Yes,May 1986
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl,Managing Director,No,""
 12,Border Management Advisory Services Pty Ltd,Les Jones,Managing Director,Yes,August 2000
 614,Bossy Group Pty Ltd,Peter Michael McMahon,Principal Consultant,Yes,November 2006
@@ -416,9 +418,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 427,Owen International Pty Ltd,Andrew Orszulok,Technical Director,No,""
 309,Paramul Pty Ltd,Paul Lennon,Director,No,""
 72,Parker & Partners Pty Ltd,Hamish Li,Account Manager,No,""
-72,Parker & Partners Pty Ltd,Peta Lange,Account Manager,Yes,January 2009
+72,Parker & Partners Pty Ltd,Peta Lange,Associate Director,Yes,January 2009
 72,Parker & Partners Pty Ltd,Michael Hartmann,Director Government Relations,No,""
-72,Parker & Partners Pty Ltd,Arli Miller,Associate Director,No,""
+72,Parker & Partners Pty Ltd,Arli Miller,Director,No,""
 72,Parker & Partners Pty Ltd,Susan Redden Makatoa ,Group Managing Director Corporate,No,""
 304,Patrick Russell Consulting Pty Ltd,Dean Logan,CEO / Managing Director,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
@@ -555,7 +557,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Jason Aldworth,Director,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Andres Puig,Director,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Lucy Kozlowski,Consultant,No,""
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Paul Cormack,Consultant,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Julia Leeane Beck,Associate Principal,No,""
 560,The Hocking Group Pty Ltd,David Hocking,Director,No,""
@@ -570,7 +571,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Consultant,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,Antonia Gleeson,Associate,No,""
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
-424,The Taylor Street Consultancy P/L,Tania Hyde,Director,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Approach Unit Trust,Nick Bolkus,Partner,Yes,June 2005
 145,The Trustee for Bespoke Approach Unit Trust,Caroline Rhodes,Deputy Managing Director,Yes,June 2010
