@@ -9,6 +9,7 @@ agency_id,agency_business_entity_name,client_name
 442,4514 Avenue D Pty Ltd,Staging Connections Group Limited
 442,4514 Avenue D Pty Ltd,Henry Davis York
 442,4514 Avenue D Pty Ltd,The Trustee for Bell Communications Unit Trust
+442,4514 Avenue D Pty Ltd,Ferrier Hodgson
 362,89 Degrees East Pty Ltd,Australian News Channel
 362,89 Degrees East Pty Ltd,Brotherhood of St Laurence
 362,89 Degrees East Pty Ltd,Raising Children Network
@@ -234,6 +235,8 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Assetlink Services Pty Ltd
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
+601,Catherine McGovern,HammondCare
+601,Catherine McGovern,Meridian Energy Australia Pty Ltd
 27,Cato Counsel Pty Ltd,Pacific Brands
 191,"Cemdia Pty, Ltd",NBNCo
 265,CGP solutions Ltd,INMARSAT Global Limited
@@ -269,6 +272,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Northrop Grumman Australia
 79,CMAX Communications Pty Ltd,BUILDINGSMART AUSTRALASIA INCORPORATED
 79,CMAX Communications Pty Ltd,Livestock Shipping Services Pty Ltd 
+79,CMAX Communications Pty Ltd,National Capital Private Hospital
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -1262,6 +1266,7 @@ agency_id,agency_business_entity_name,client_name
 622,Profile Consulting (Aust) Pty Ltd,Metcash Trading Limited
 622,Profile Consulting (Aust) Pty Ltd,National E Conveyancing Development Limited
 622,Profile Consulting (Aust) Pty Ltd,PPB Advisory 
+622,Profile Consulting (Aust) Pty Ltd,MaximusSolutions Australia
 84,Providence NDR Pty Ltd,Brighton Council
 84,Providence NDR Pty Ltd,Dourias Group Holdings
 84,Providence NDR Pty Ltd,Derwent Park Developments
@@ -1412,6 +1417,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Johnny Warren Football Foundation of New South Wales Limited
 35,Richardson Coutts,Seafish Tasmania Pty Ltd
 35,Richardson Coutts,Australian Communications Exchange
+35,Richardson Coutts,Uber Australia Pty Ltd
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
@@ -1646,7 +1652,6 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,Lend Lease
 424,The Taylor Street Consultancy P/L,Intercontinental Hotels Group
 424,The Taylor Street Consultancy P/L,National Rugby League
-424,The Taylor Street Consultancy P/L,Parramatta City Council
 424,The Taylor Street Consultancy P/L,NRMA Motoring and Services 
 424,The Taylor Street Consultancy P/L,Brisbane Airport Corporation Pty Limited
 424,The Taylor Street Consultancy P/L,The Dockside Group 
