@@ -98,7 +98,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 475,Clifton Consulting Services Pty Ltd,Philip Goslin,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Kerren Clark,Senior Consultant,No,""
 79,CMAX Communications Pty Ltd,Tara Taubenschlag,Managing Director,No,""
-79,CMAX Communications Pty Ltd,Christian Taubenschlag,Government Relations Adviser,Yes,October 2009
+79,CMAX Communications Pty Ltd,Christian Taubenschlag,Managing Partner,Yes,October 2009
 79,CMAX Communications Pty Ltd,Elke Purnell Mackenzie,Government Relations Adviser,Yes,June 2000
 79,CMAX Communications Pty Ltd,Davina Langton,Government Relations Adviser,Yes,June 2009
 79,CMAX Communications Pty Ltd,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
@@ -294,9 +294,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 20,InterCapital Group Pty Ltd,John Kananghinis,Director,No,""
 38,Intercorp Pty Ltd,Sonnie Lipshut,Chairman,No,""
 38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
-222,Intermediary Consulting Pty Ltd,Amy McGuire,Consultant,Yes,November 1996
-222,Intermediary Consulting Pty Ltd,Charles Beaton,Director,No,""
-222,Intermediary Consulting Pty Ltd,Ruth Webber,Consultant,Yes,June 2008
 103,Ivydale Nominees Pty Ltd,Richard Taylor,Senior Consultant,No,""
 103,Ivydale Nominees Pty Ltd,Gail Riley,Office Manager,No,""
 103,Ivydale Nominees Pty Ltd,Des Riley,Director,No,""
@@ -398,6 +395,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Emma Hawker,Executive Assistant,No,""
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
+565,Newgate Communications Pty Limited,Simon Troeth,Associate Partner,Yes,November 2007
 618,Northbridge Infrastructure Pty Ltd,David Mullaly,Managing Director,No,""
 618,Northbridge Infrastructure Pty Ltd,Lucille James,Executive Officer,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""

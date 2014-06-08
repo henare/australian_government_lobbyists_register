@@ -170,6 +170,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Australian Communication Exchange Limited
 338,Barton Deakin ,Teekay Shipping (Australia) Pty Ltd
 338,Barton Deakin ,National Association of People With HIV Australia
+338,Barton Deakin ,KinCare Health Services Pty Ltd
+338,Barton Deakin ,IPAR Rehabilitation Pty Ltd
+338,Barton Deakin ,St George Community Housing Limited 
 342,Bavaria Corporation Pty Ltd,Haigslea Finance Group Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
@@ -687,6 +690,7 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,MM Kembla
 59,Government Relations Australia Advisory Pty Ltd,Australian Defence Apparel Pty Ltd
 59,Government Relations Australia Advisory Pty Ltd,National ELT Accreditation Scheme Limited
+59,Government Relations Australia Advisory Pty Ltd,FRV Services Australia Pty Ltd
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -828,8 +832,6 @@ agency_id,agency_business_entity_name,client_name
 20,InterCapital Group Pty Ltd,Australian Tyre Industry Council
 38,Intercorp Pty Ltd,Israel Aerospace Industries Limited
 38,Intercorp Pty Ltd,Plasan
-222,Intermediary Consulting Pty Ltd,Glaxo Smith Kline
-222,Intermediary Consulting Pty Ltd,British American Tobacco Australia
 103,Ivydale Nominees Pty Ltd,CHC Helicopters
 103,Ivydale Nominees Pty Ltd,Atlas Point Pty Ltd
 103,Ivydale Nominees Pty Ltd,Coogee Chemicals
@@ -971,6 +973,9 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,IGT (Australia) Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,SICPA Security Solutions SA
 76,Kreab Gavin Anderson (Australia) Ltd,Integra (Integrated Care)
+76,Kreab Gavin Anderson (Australia) Ltd,Australian Digital Currency Commerce Association (ADCCA)
+76,Kreab Gavin Anderson (Australia) Ltd,All Out
+76,Kreab Gavin Anderson (Australia) Ltd,Engineers Australia
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 570,Leaderboard Pty Ltd,Datacom Systems Pty Ltd
@@ -1485,6 +1490,8 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Carabella Resources Limited
 227,SAS Consulting Group Pty Ltd,Cochlear Limited
 227,SAS Consulting Group Pty Ltd,MAXNetwork
+227,SAS Consulting Group Pty Ltd,Indue Ltd
+227,SAS Consulting Group Pty Ltd,Consolidated Contracting Company Australia Pty Ltd
 486,SCG Advisory Pty Ltd,Linfox Australia Pty Ltd
 486,SCG Advisory Pty Ltd,DollarsDirect
 486,SCG Advisory Pty Ltd,SSL
