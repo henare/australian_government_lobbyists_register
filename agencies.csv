@@ -56,11 +56,11 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 475,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=475,Clifton Consulting Services Pty Ltd,Clifton Group,77076836792,2014-03-11
 79,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=79,CMAX Communications Pty Ltd,CMAX Advisory,73130740546,2014-05-28
 472,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=472,Comsult(Aust) Pty Ltd,Comsult(Aust),26 098 280 892,2013-06-17
-625,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Connect Government Relations,70123052736,2014-04-03
+625,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Connect Government Relations,70123052736,2014-06-09
 142,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=142,Consilium International Group Pty Ltd,Consilium International Group Pty Ltd,84094846358,2014-03-17
 18,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=18,Corporate Words Australia Pty Limited,Corporate Words,66149763900,2014-02-10
 154,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=154,Cosway Australia Pty Ltd,Cosway Australia Pty Ltd,62010527581,2014-02-06
-160,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=160,Cotterell Jannette Suzanne,Executive Counsel Australia,51364113263,2014-04-15
+160,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=160,Cotterell Jannette Suzanne,Executive Counsel Australia,51364113263,2014-06-03
 403,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=403,Covance Pty Ltd (Covance Market Access Services division),as above,99 003 613 134,2014-03-06
 329,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=329,Cox Inall Communications,Cox Inall Communications Pty Ltd,92103190085,2014-02-18
 81,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=81,CPR Communications & Public Relations Pty Ltd,CPR Communications & Public Relations Pty Ltd,94064357544,2014-05-16
@@ -86,7 +86,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 172,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=172,Dr Robert Horton,Horton Consulting,11798005465,2013-07-08
 515,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=515,Dunns4 Consulting Pty Ltd,Dunns4 Consulting Pty Ltd,96146192663,2013-07-15
 263,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=263,ED & Associates Pty Ltd,ED & Associates Pty Ltd,62141983324,2013-06-25
-149,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=149,Edelman Public Relations Worldwide Pty Ltd,Edelman,40004846100,2014-05-22
+149,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=149,Edelman Public Relations Worldwide Pty Ltd,Edelman,40004846100,2014-02-14
 344,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=344,Electrotech Australia Pty Limited,Electrotech Australia,99002989531,2014-01-17
 31,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=31,Endeavour Consulting Group Pty Ltd,Endeavour Consulting Group Pty Ltd,15351458331,2014-05-21
 74,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=74,Enhance Corporate Pty Ltd,Enhance Corporate,84095951134,2014-02-04
@@ -149,7 +149,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 518,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=518,Kevin James Carroll,Aero International Australia,"",2013-07-10
 621,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=621,KnowMinister.com Pty Ltd,Knowminister,26140833772,2014-04-09
 115,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=115,KPMG,KPMG,51194660183,2014-03-11
-76,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=76,Kreab Gavin Anderson (Australia) Ltd,Kreab Gavin Anderson,22003287643,2014-06-05
+76,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=76,Kreab Gavin Anderson (Australia) Ltd,Kreab Gavin Anderson,22003287643,2014-06-10
 465,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=465,LATAF CONSULTING ,JEFFREY HART,67151951250,2013-06-17
 570,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=570,Leaderboard Pty Ltd,Leaderboard,60165286653,2013-08-22
 557,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=557,Leanne Joyce Consulting,Leanne Joyce Consulting,45765782522,2013-09-19
@@ -208,7 +208,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 127,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=127,PRX Unit Trust,Public Relations Exchange,71595434578,2014-02-14
 89,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=89,Public Affairs Network Pty Ltd,Public Affairs Network,49083954072,2013-07-10
 68,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=68,Public Policy Solutions Pty Ltd,Public Policy Solutions Pty Ltd,41108538772,2014-04-04
-242,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=242,Purple Communications Australia Pty Ltd,Cannings Purple,37108802366,2014-04-02
+242,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=242,Purple Communications Australia Pty Ltd,Cannings Purple,37108802366,2014-06-10
 29,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=29,Pynfall Pty Ltd,Pynfall Pty Ltd,39008566943,2013-06-30
 446,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=446,R A Neilson and M Salmon,Salmon Neilson,43214601440,2014-03-28
 492,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=492,Rachael Sweeney ,Collective Position,38421146190,2014-03-17
