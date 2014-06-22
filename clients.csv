@@ -83,7 +83,6 @@ agency_id,agency_business_entity_name,client_name
 135,Australian Spectrum Consultants Pty Ltd,Qualcomm International
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,PoleStar SA
-135,Australian Spectrum Consultants Pty Ltd,Encompass Digital Media
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,General Electric Aviation
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Quickstep Holdings Ltd
@@ -188,6 +187,8 @@ agency_id,agency_business_entity_name,client_name
 597,Birney Corporate Pty Ltd,Rosco McGlashan (World Record Land Speed Challenge)
 597,Birney Corporate Pty Ltd,The Friendship Games
 597,Birney Corporate Pty Ltd,RV Sports Pty Ltd
+597,Birney Corporate Pty Ltd,John Squire
+597,Birney Corporate Pty Ltd,The South Guildford Action Group
 626,Blackie McDonald Pty Ltd,Hay Group
 110,Bluegrass Consulting Pty Ltd,iTIC Australia Pty Ltd
 110,Bluegrass Consulting Pty Ltd,GPT Group 
@@ -216,9 +217,6 @@ agency_id,agency_business_entity_name,client_name
 52,Bush Consulting Services Pty Ltd,Davidson Kempner Asia Ltd
 52,Bush Consulting Services Pty Ltd,Southern Oil
 438,Butcher and Co Pty Ltd,Telstra Corporation Limited
-438,Butcher and Co Pty Ltd,The Association of Australian Medical Research Institutes
-438,Butcher and Co Pty Ltd,Westpac Banking Corporation
-438,Butcher and Co Pty Ltd,GM Holden Ltd
 438,Butcher and Co Pty Ltd,Lend Lease Corporation Limited 
 257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Australian Volunteer Coast Guard
 257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Volunteer Fire Brigades Victoria
@@ -241,6 +239,8 @@ agency_id,agency_business_entity_name,client_name
 601,Catherine McGovern,HammondCare
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
 27,Cato Counsel Pty Ltd,Pacific Brands
+27,Cato Counsel Pty Ltd,Safegov
+27,Cato Counsel Pty Ltd,Sterling Early Education
 191,"Cemdia Pty, Ltd",NBNCo
 265,CGP solutions Ltd,INMARSAT Global Limited
 265,CGP solutions Ltd,ViaSat Inc
@@ -284,6 +284,7 @@ agency_id,agency_business_entity_name,client_name
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Rosslyn Hill Mining Pty Ltd
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Enirgi Group Corporation
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Japan Australia LNG (MIMI) Pty Ltd 
+625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Tronox Limited
 142,Consilium International Group Pty Ltd,SAP Australia
 142,Consilium International Group Pty Ltd,Senetas
 142,Consilium International Group Pty Ltd,UXC Limited
@@ -397,7 +398,6 @@ agency_id,agency_business_entity_name,client_name
 345,CSR Limited,Sugar Australia Limited
 153,Cultural Consulting,Murnis
 386,Currie Communications,Global Change Institute
-386,Currie Communications,Wheat Quality Australia
 10,Cynergy Pty Ltd,Solastor Pty Ltd
 10,Cynergy Pty Ltd,Lloyd Energy Systems Pty Ltd
 10,Cynergy Pty Ltd,Sentinel Pty Ltd
@@ -572,6 +572,7 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Hunter Investment Corporation Pty Ltd 
 453,First State Advisors and Consultants ,Advanced Algal Technologies Limited
 453,First State Advisors and Consultants ,Aspen Medical Pty Ltd 
+453,First State Advisors and Consultants ,Xiuyan Guan
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 202,Fowlstone Communications,WorleyParsons
@@ -595,7 +596,6 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Brierty Limited
 543,G. C. Advocacy Pty Ltd,Motor Traders Association NSW
 543,G. C. Advocacy Pty Ltd,Catholic Cemeteries Board
-141,G.CAMPBELL & K.L WEIL,Mount Gibson Iron Limited.
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Intel
 106,Galbraith & Company Pty Ltd,Juniper Networks
@@ -693,6 +693,7 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,Australian Defence Apparel Pty Ltd
 59,Government Relations Australia Advisory Pty Ltd,National ELT Accreditation Scheme Limited
 59,Government Relations Australia Advisory Pty Ltd,FRV Services Australia Pty Ltd
+59,Government Relations Australia Advisory Pty Ltd,Mercy Health
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -1503,10 +1504,8 @@ agency_id,agency_business_entity_name,client_name
 167,Scott & Beaumont Pty Ltd,WSLloyd
 143,Sefiani Communications Group,St George Bank
 143,Sefiani Communications Group,Special Olympics Australia
-143,Sefiani Communications Group,SITA Environmental Solutions
 143,Sefiani Communications Group,Western Sydney Institute
 143,Sefiani Communications Group,The Hospitals Contribution Fund of Australia (HCF)
-143,Sefiani Communications Group,Metlife Insurance Ltd
 143,Sefiani Communications Group,Pink Hope Community Limited
 171,Shac Communications Pty Ltd ATF The Shac Trust,Leighton Contractors
 171,Shac Communications Pty Ltd ATF The Shac Trust,Rheem
@@ -1628,15 +1627,10 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Rhomberg Rail Australia
 268,The Premier Communications Group Pty Ltd.,Phebra
 268,The Premier Communications Group Pty Ltd.,Astute Training
-268,The Premier Communications Group Pty Ltd.,ASR Pro Football
 268,The Premier Communications Group Pty Ltd.,IDraft Design Group
 268,The Premier Communications Group Pty Ltd.,Evolve Housing
-268,The Premier Communications Group Pty Ltd.,Hadcon Constructions
 268,The Premier Communications Group Pty Ltd.,Global Orthopaedic Technology
-268,The Premier Communications Group Pty Ltd.,Cassegrain Wines
-268,The Premier Communications Group Pty Ltd.,Funerals of Compassion
 268,The Premier Communications Group Pty Ltd.,VASP Group
-268,The Premier Communications Group Pty Ltd.,Resort Living Group
 268,The Premier Communications Group Pty Ltd.,Australasian Health Manufacturers and Development Association Incorporated
 268,The Premier Communications Group Pty Ltd.,Australian Nursing and Midwifery Federation 
 268,The Premier Communications Group Pty Ltd.,Bello Cafe Pty Ltd.
@@ -1680,6 +1674,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Approach Unit Trust,The Trustee for Julian Burton Burns Trust
 145,The Trustee for Bespoke Approach Unit Trust,Financial Planning Association of Australia Limited
 145,The Trustee for Bespoke Approach Unit Trust,The a2 Milk Company (Australia) Pty  Ltd
+145,The Trustee for Bespoke Approach Unit Trust,GenesisCare Pty Ltd
 589,The Trustee for Bespoke Territory Unit Trust,Charles Darwin University
 589,The Trustee for Bespoke Territory Unit Trust,Paspaley Group of Companies
 589,The Trustee for Bespoke Territory Unit Trust,Mobile LNG Pty Ltd
@@ -1720,13 +1715,11 @@ agency_id,agency_business_entity_name,client_name
 117,The Trustee for the Bowden Family Trust,Australian Self Medication Industry
 117,The Trustee for the Bowden Family Trust,Evans and Peck Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Mundipharma Pty Ltd
-256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Aspen Pharma Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Ego Pharamceuticals Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Convatec Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,ABBOTT DIABETESE CARE
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Astellas Australia Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Tolmar Australia Pty Ltd 
-256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Orphan Australia Pty Ltd
 610,The Trusteee for the SRKM Trust,Ngaanyatjarra Media (Aboriginal Corporation)
 240,The Write Connection Pty Ltd,Australian Technology Group of Universities
 240,The Write Connection Pty Ltd,InterGen (Australia)
@@ -1778,6 +1771,7 @@ agency_id,agency_business_entity_name,client_name
 428,Weber Shandwick Worldwide,Australian Aerospace Limited
 428,Weber Shandwick Worldwide,Ocean Spray
 428,Weber Shandwick Worldwide,Ticketmaster Australasia Pty Ltd
+428,Weber Shandwick Worldwide,FP Markets
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Boehringer Ingelheim Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd

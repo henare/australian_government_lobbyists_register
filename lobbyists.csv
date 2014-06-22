@@ -172,6 +172,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 263,ED & Associates Pty Ltd,Edmund Ng,Director,No,""
 149,Edelman Public Relations Worldwide Pty Ltd,Craig Kershaw,Public Affairs Associate,No,""
 149,Edelman Public Relations Worldwide Pty Ltd,Nic Jarvis,Director,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Frances Manfield,Account Manager,No,""
 344,Electrotech Australia Pty Limited,Michael Smith,Operations Manager Navigation,No,""
 344,Electrotech Australia Pty Limited,John O'Toole,Operations Mnager,No,""
 344,Electrotech Australia Pty Limited,Stephen Penny,Sales Engineer,No,""
@@ -219,8 +220,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Sarah Joseph,Senior Consultant,No,""
 333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Director,No,""
 543,G. C. Advocacy Pty Ltd,Geoffrey Corrigan,Director,Yes,March 2011
-141,G.CAMPBELL & K.L WEIL,George Campbell OAM.,CONSULTANT,No,""
-141,G.CAMPBELL & K.L WEIL,Kerrie Linda Weil,CONSULTANT (media),No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 106,Galbraith & Company Pty Ltd,Allan King,Partner,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,June 1979
@@ -256,6 +255,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 7,Government Relations Solutions Pty Ltd,David Scotland,Senior Consultant,No,""
 7,Government Relations Solutions Pty Ltd,WendyMatthew,Administration / Research,No,""
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
+125,Govstrat Pty Ltd,Damian Power,Director,No,""
 125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
 630,GPotts,Geoff Potts,Principle,Yes,December 2004
 122,GRA Everingham Pty Ltd,Paul Everingham,Managing Director,Yes,February 2003
@@ -627,8 +627,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 502,White House Communications,tony white,Principal,Yes,August 2011
 62,Wilkinson Group,Peter Wilkinson,Managing Director ,No,""
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
-584,Willard Public Affairs Pty Limited,Matthew Moran,Director,No,""
-584,Willard Public Affairs Pty Limited,Andrew Plumley,Senior Consultant,No,""
+584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
+584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
 584,Willard Public Affairs Pty Limited,Taran Smith,Office Manager,No,""
 584,Willard Public Affairs Pty Limited,Alex Gosman,Special Counsel,Yes,September 1990
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
