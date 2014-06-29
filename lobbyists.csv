@@ -422,6 +422,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Susan Redden Makatoa ,Group Managing Director Corporate,No,""
 304,Patrick Russell Consulting Pty Ltd,Dean Logan,CEO / Managing Director,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
+619,Plum White Consulting,Plum White,Director,No,""
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
 219,Policy Solutions Group Pty Ltd,Mark Sutton,Director ,No,""
 573,Politic Political Advisors,Thomas (Tom) Clive Wheelwright,Principal,Yes,June 1996
@@ -448,8 +449,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 100,Professional Public Relations Pty Ltd (PPR),Peter Harris,Executive Director Perth,No,""
 100,Professional Public Relations Pty Ltd (PPR),Nicole Moody,General Manager Perth,No,""
 100,Professional Public Relations Pty Ltd (PPR),Tim Larcombe,Senior Counsel Perth,No,""
-100,Professional Public Relations Pty Ltd (PPR),Mike Marren,Senior Counsel Perth,No,""
-100,Professional Public Relations Pty Ltd (PPR),Nick Gaff,Account Manager Perth,No,""
 100,Professional Public Relations Pty Ltd (PPR),Carla Shearman,Group Director Perth,No,""
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop,Director,Yes,June 2006
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas,Managing Director,Yes,December 2000
@@ -515,7 +514,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 126,Salmon Odgers Family Trust,Michael Salmon,Director,No,""
 607,Sand Technology Aust P/L,Ian Douglas Fowler,Director.,No,""
 276,Santo Santoro Consulting,The Hon Santo Santoro,Director,Yes,March 2007
-276,Santo Santoro Consulting,Mark Kaffir Powell,Partner,No,""
 498,Sapere,Nigel Trevor Reeves,Trustee ,No,""
 498,Sapere,Paul Anthony Lennon,Trustee,No,""
 227,SAS Consulting Group Pty Ltd,Hon Larry Anthony,Director,Yes,October 2004
@@ -581,6 +579,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 589,The Trustee for Bespoke Territory Unit Trust,Thomas Pagliaro,Consultant,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Georgia Bradshaw,Consultant,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Paul Tierney,Consultant,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Andrea Allen,Senior Associate,No,""
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 420,The trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
@@ -608,6 +607,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher,Managing Director,No,""
 161,Vanguard Consulting and Services Pty Ltd,Timothy John Gallagher,Marketing Manager,No,""
 161,Vanguard Consulting and Services Pty Ltd,David Matthew Russell,Professional Communicator,No,""
+635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing,Managing Director,No,""
 615,Wabsley Pty Ltd,Kel Watt,Managing Director,Yes,September 2013
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson,Director,No,""
 463,Walker Watterson Holdings Pty Ltd,Jonathan Englert,Senior Consultant,No,""
@@ -631,6 +631,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
 584,Willard Public Affairs Pty Limited,Taran Smith,Office Manager,No,""
 584,Willard Public Affairs Pty Limited,Alex Gosman,Special Counsel,Yes,September 1990
+584,Willard Public Affairs Pty Limited,Mary Andrew,Consultant,No,""
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 180,Word Worker Pty Ltd,Lisa McDermott,Director,No,""
+641,Wurley Group Pty Ltd,Sarah Bernice Griffin,Principal,No,""
 627,yconsults group pty ltd,Yolanda Chorazyczewski,Legal Practitioner Director,No,""

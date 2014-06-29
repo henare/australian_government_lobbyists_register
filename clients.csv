@@ -199,6 +199,7 @@ agency_id,agency_business_entity_name,client_name
 6,Bramex Pty Ltd,Iridium Satellite LLC and Iridium Subsidiary Corporations
 6,Bramex Pty Ltd,HCJB Global Voice Australia
 6,Bramex Pty Ltd,Mr Dick Smith
+6,Bramex Pty Ltd,Aireon (part owned by Iridium Satellite LLC)
 310,Broadcasting & Radio Technology Services,Commercial Radio Australia Limited
 549,BRUNSWICK MEDIA & STRATEGIC PTY. LTD.,Chiropractorsâ Association of Australia (National)
 131,BTelecom Pty Ltd,Digital River Networks Pty Ltd
@@ -365,6 +366,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Housing Industry Association Limited
 81,CPR Communications & Public Relations Pty Ltd,Jalin Realty Australia Pty Ltd
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
+99,Craigleed Pty Ltd,CSL Australia Pty Ltd
 193,CRAKYL Pty Ltd,Future School
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
 193,CRAKYL Pty Ltd,Rainbowforce Pty Ltd
@@ -499,6 +501,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Woolworths 
 31,Endeavour Consulting Group Pty Ltd,Google Australia 
 31,Endeavour Consulting Group Pty Ltd,Corum Group 
+31,Endeavour Consulting Group Pty Ltd,Salmat Limited 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Big Issue in Australia Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
@@ -694,6 +697,7 @@ agency_id,agency_business_entity_name,client_name
 59,Government Relations Australia Advisory Pty Ltd,National ELT Accreditation Scheme Limited
 59,Government Relations Australia Advisory Pty Ltd,FRV Services Australia Pty Ltd
 59,Government Relations Australia Advisory Pty Ltd,Mercy Health
+59,Government Relations Australia Advisory Pty Ltd,Genworth Mortgage Insurance Australia Limited
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -832,7 +836,7 @@ agency_id,agency_business_entity_name,client_name
 20,InterCapital Group Pty Ltd,BRP Australia
 20,InterCapital Group Pty Ltd,Polaris Sales Australia Pty Ltd
 20,InterCapital Group Pty Ltd,Chrysler Australia
-20,InterCapital Group Pty Ltd,Australian Tyre Industry Council
+20,InterCapital Group Pty Ltd,Tyre Stewardship Australia
 38,Intercorp Pty Ltd,Israel Aerospace Industries Limited
 38,Intercorp Pty Ltd,Plasan
 103,Ivydale Nominees Pty Ltd,CHC Helicopters
@@ -999,6 +1003,7 @@ agency_id,agency_business_entity_name,client_name
 188,LESL Services Pty Ltd,Seven Group Holdings Ltd
 188,LESL Services Pty Ltd,The Gut Foundation (Pro Bono)
 188,LESL Services Pty Ltd,RA Corporation Pty Ltd
+188,LESL Services Pty Ltd,Recoveries and Reconstruction (Aust) Pty Ltd
 204,Lighthouse Communications Group Pty Ltd,Clarius Group
 204,Lighthouse Communications Group Pty Ltd,oOH!media
 204,Lighthouse Communications Group Pty Ltd,Wolsley Private Equity
@@ -1334,6 +1339,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,URS Australia Pty Ltd
 242,Purple Communications Australia Pty Ltd,Metals X
 242,Purple Communications Australia Pty Ltd,Mercer Outsourcing (Australia) PTY LTD 
+242,Purple Communications Australia Pty Ltd,Australia China Business Council
 29,Pynfall Pty Ltd,Project System & Management GmbH
 446,R A Neilson and M Salmon,Garry and Marilyn Nicholas
 446,R A Neilson and M Salmon,TravelManagers Australia Pty Ltd
@@ -1675,8 +1681,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Approach Unit Trust,Financial Planning Association of Australia Limited
 145,The Trustee for Bespoke Approach Unit Trust,The a2 Milk Company (Australia) Pty  Ltd
 145,The Trustee for Bespoke Approach Unit Trust,GenesisCare Pty Ltd
-589,The Trustee for Bespoke Territory Unit Trust,Charles Darwin University
-589,The Trustee for Bespoke Territory Unit Trust,Paspaley Group of Companies
 589,The Trustee for Bespoke Territory Unit Trust,Mobile LNG Pty Ltd
 589,The Trustee for Bespoke Territory Unit Trust,Crocodile Gold Corp.
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
@@ -1708,6 +1712,7 @@ agency_id,agency_business_entity_name,client_name
 28,The Trustee for Markeit Family Trust,Modular Engineered Building Systems Pty Ltd
 28,The Trustee for Markeit Family Trust,Biocentral Laboratories
 28,The Trustee for Markeit Family Trust,Australian Infrastructure Developments
+28,The Trustee for Markeit Family Trust,BioFilm Solutions Pty Ltd
 595,The trustee for Paripi Trust,One Click Interactive Pty  Ltd
 595,The trustee for Paripi Trust,Ozzdocs
 117,The Trustee for the Bowden Family Trust,Group Training Australia
@@ -1748,6 +1753,9 @@ agency_id,agency_business_entity_name,client_name
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
 161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)
+635,Visionary  Enterprising Management Services Pty Ltd,Independent Supermarket Retailers Guild of South Australia 
+635,Visionary  Enterprising Management Services Pty Ltd,Service Skills Industry Alliance Inc.
+635,Visionary  Enterprising Management Services Pty Ltd,Foodland Promotions
 615,Wabsley Pty Ltd,The Ginnen Group
 463,Walker Watterson Holdings Pty Ltd,Riverbed
 463,Walker Watterson Holdings Pty Ltd,Nutanix
@@ -1793,7 +1801,6 @@ agency_id,agency_business_entity_name,client_name
 62,Wilkinson Group,Achieve Australia Ltd
 584,Willard Public Affairs Pty Limited,Mundipharma Pty Ltd
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
-584,Willard Public Affairs Pty Limited,Matrix on Board
 584,Willard Public Affairs Pty Limited,United States Chamber of Commerce
 584,Willard Public Affairs Pty Limited,G.I Smoker and M.R Tudehope
 584,Willard Public Affairs Pty Limited,Sonic Healthcare Limited
@@ -1804,4 +1811,5 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
 180,Word Worker Pty Ltd,Gosford City Council
+641,Wurley Group Pty Ltd,Ariosa Diagnostics Inc (www.ariosadx.com)
 627,yconsults group pty ltd,Telstra Corporation
