@@ -183,12 +183,6 @@ agency_id,agency_business_entity_name,client_name
 162,Belman Consulting Pty Ltd,Tenix Pty Limited
 196,Bernard J Eades,The Australian Institute of Export
 196,Bernard J Eades,Australian Made Campaign Ltd
-597,Birney Corporate Pty Ltd,Mondotalk
-597,Birney Corporate Pty Ltd,Rosco McGlashan (World Record Land Speed Challenge)
-597,Birney Corporate Pty Ltd,The Friendship Games
-597,Birney Corporate Pty Ltd,RV Sports Pty Ltd
-597,Birney Corporate Pty Ltd,John Squire
-597,Birney Corporate Pty Ltd,The South Guildford Action Group
 626,Blackie McDonald Pty Ltd,Hay Group
 110,Bluegrass Consulting Pty Ltd,iTIC Australia Pty Ltd
 110,Bluegrass Consulting Pty Ltd,GPT Group 
@@ -597,8 +591,6 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Sirona Capital Management
 333,FTI Consulting (Perth) Pty Ltd,Digital CC Holdings Pty Ltd
 333,FTI Consulting (Perth) Pty Ltd,Brierty Limited
-543,G. C. Advocacy Pty Ltd,Motor Traders Association NSW
-543,G. C. Advocacy Pty Ltd,Catholic Cemeteries Board
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Intel
 106,Galbraith & Company Pty Ltd,Juniper Networks
@@ -645,59 +637,14 @@ agency_id,agency_business_entity_name,client_name
 238,GIMC Consulting,Get Real Media
 150,Glide Pty Ltd,The Alliance for Children at Risk inc
 561,Global Issues Group,Refrigerants Australia
-59,Government Relations Australia Advisory Pty Ltd,Bupa Australia Group
-59,Government Relations Australia Advisory Pty Ltd,IDP Education Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,AECOM Australia
-59,Government Relations Australia Advisory Pty Ltd,Clemenger BBDO
-59,Government Relations Australia Advisory Pty Ltd,Pacific Brands
-59,Government Relations Australia Advisory Pty Ltd,Cobham Flight Operations & Services (Aust) / National Jet Systems
-59,Government Relations Australia Advisory Pty Ltd,QGC - a BG Group Business
-59,Government Relations Australia Advisory Pty Ltd,Airwave Solutions Australia
-59,Government Relations Australia Advisory Pty Ltd,Navantia SA
-59,Government Relations Australia Advisory Pty Ltd,Broadcast Australia
-59,Government Relations Australia Advisory Pty Ltd,Minerals and Metals Group
-59,Government Relations Australia Advisory Pty Ltd,General Atomics Aeronautical Systems Inc.
-59,Government Relations Australia Advisory Pty Ltd,ALDI Stores
-59,Government Relations Australia Advisory Pty Ltd,First Solar
-59,Government Relations Australia Advisory Pty Ltd,Project Management Institute
-59,Government Relations Australia Advisory Pty Ltd,Archer Daniels Midland Company
-59,Government Relations Australia Advisory Pty Ltd,Vanguard Investments Australia Ltd
-59,Government Relations Australia Advisory Pty Ltd,SingTel Optus Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,Maxxia Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,McMillan Shakespeare Group
-59,Government Relations Australia Advisory Pty Ltd,State Grid Corporation of China
-59,Government Relations Australia Advisory Pty Ltd,State Grid International Development
-59,Government Relations Australia Advisory Pty Ltd,Halliburton Energy Services
-59,Government Relations Australia Advisory Pty Ltd,Alexion Pharmaceuticals Australasia Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,Accolade Wines
-59,Government Relations Australia Advisory Pty Ltd,Michell Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,Australian Meat Industry Council
-59,Government Relations Australia Advisory Pty Ltd,Anglicare SA
-59,Government Relations Australia Advisory Pty Ltd,Employers Mutual Ltd
-59,Government Relations Australia Advisory Pty Ltd,TA Associates
-59,Government Relations Australia Advisory Pty Ltd,Gilead Sciences
-59,Government Relations Australia Advisory Pty Ltd,Chi-X Australia Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,BA Infrastructure
-59,Government Relations Australia Advisory Pty Ltd,Warren Centre for Advanced Engineering
-59,Government Relations Australia Advisory Pty Ltd,Forgacs Engineering Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,Australian Wagering Council
-59,Government Relations Australia Advisory Pty Ltd,Tasman Sinkware
-59,Government Relations Australia Advisory Pty Ltd,Fletcher Building (Australia) Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,Biogen Idec Australia Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,MGM Wireless Limited
-59,Government Relations Australia Advisory Pty Ltd,Human Systems Asia Pacific Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,DrinkWise Australia Ltd
-59,Government Relations Australia Advisory Pty Ltd,AGL Energy Limited
-59,Government Relations Australia Advisory Pty Ltd,Clean Energy Council
-59,Government Relations Australia Advisory Pty Ltd,Solar Systems Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,Austcane Energy Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,Arrium Limited
-59,Government Relations Australia Advisory Pty Ltd,MM Kembla
-59,Government Relations Australia Advisory Pty Ltd,Australian Defence Apparel Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,National ELT Accreditation Scheme Limited
-59,Government Relations Australia Advisory Pty Ltd,FRV Services Australia Pty Ltd
-59,Government Relations Australia Advisory Pty Ltd,Mercy Health
-59,Government Relations Australia Advisory Pty Ltd,Genworth Mortgage Insurance Australia Limited
+639,Gold City Corp Pty Ltd,Pluton Resources
+639,Gold City Corp Pty Ltd,The Friendship Games
+639,Gold City Corp Pty Ltd,RV Sport Pty Ltd
+639,Gold City Corp Pty Ltd,Rosco McGlashan (World Landspeed Challenge)
+639,Gold City Corp Pty Ltd,TFS Corporation
+639,Gold City Corp Pty Ltd,Senetas 
+639,Gold City Corp Pty Ltd,The Rose Hill Action Group
+639,Gold City Corp Pty Ltd,John Squire 
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -722,7 +669,6 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Aurizon
 122,GRA Everingham Pty Ltd,Clean Protocol
 122,GRA Everingham Pty Ltd,Inpex 
-122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers Australia Ltd (CAPEC)
 122,GRA Everingham Pty Ltd,Fortescue Metals Group Ltd
 122,GRA Everingham Pty Ltd,Curtin University
 122,GRA Everingham Pty Ltd,Australia Treasury Management
@@ -731,6 +677,56 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Baosteel Resources Australia Pty Ltd
 122,GRA Everingham Pty Ltd,University of Western Australia 
 122,GRA Everingham Pty Ltd,Sumich 
+59,GRACosway Pty Ltd,Bupa Australia Group
+59,GRACosway Pty Ltd,IDP Education Pty Ltd
+59,GRACosway Pty Ltd,AECOM Australia
+59,GRACosway Pty Ltd,Clemenger BBDO
+59,GRACosway Pty Ltd,Pacific Brands
+59,GRACosway Pty Ltd,Cobham Flight Operations & Services (Aust) / National Jet Systems
+59,GRACosway Pty Ltd,QGC - a BG Group Business
+59,GRACosway Pty Ltd,Airwave Solutions Australia
+59,GRACosway Pty Ltd,Navantia SA
+59,GRACosway Pty Ltd,Broadcast Australia
+59,GRACosway Pty Ltd,Minerals and Metals Group
+59,GRACosway Pty Ltd,General Atomics Aeronautical Systems Inc.
+59,GRACosway Pty Ltd,ALDI Stores
+59,GRACosway Pty Ltd,First Solar
+59,GRACosway Pty Ltd,Project Management Institute
+59,GRACosway Pty Ltd,Archer Daniels Midland Company
+59,GRACosway Pty Ltd,Vanguard Investments Australia Ltd
+59,GRACosway Pty Ltd,SingTel Optus Pty Ltd
+59,GRACosway Pty Ltd,Maxxia Pty Ltd
+59,GRACosway Pty Ltd,McMillan Shakespeare Group
+59,GRACosway Pty Ltd,State Grid Corporation of China
+59,GRACosway Pty Ltd,State Grid International Development
+59,GRACosway Pty Ltd,Halliburton Energy Services
+59,GRACosway Pty Ltd,Alexion Pharmaceuticals Australasia Pty Ltd
+59,GRACosway Pty Ltd,Accolade Wines
+59,GRACosway Pty Ltd,Michell Pty Ltd
+59,GRACosway Pty Ltd,TA Associates
+59,GRACosway Pty Ltd,Gilead Sciences
+59,GRACosway Pty Ltd,Chi-X Australia Pty Ltd
+59,GRACosway Pty Ltd,BA Infrastructure
+59,GRACosway Pty Ltd,Warren Centre for Advanced Engineering
+59,GRACosway Pty Ltd,Forgacs Engineering Pty Ltd
+59,GRACosway Pty Ltd,Australian Wagering Council
+59,GRACosway Pty Ltd,Tasman Sinkware
+59,GRACosway Pty Ltd,Fletcher Building (Australia) Pty Ltd
+59,GRACosway Pty Ltd,Biogen Idec Australia Pty Ltd
+59,GRACosway Pty Ltd,MGM Wireless Limited
+59,GRACosway Pty Ltd,Human Systems Asia Pacific Pty Ltd
+59,GRACosway Pty Ltd,DrinkWise Australia Ltd
+59,GRACosway Pty Ltd,AGL Energy Limited
+59,GRACosway Pty Ltd,Clean Energy Council
+59,GRACosway Pty Ltd,Solar Systems Pty Ltd
+59,GRACosway Pty Ltd,Austcane Energy Pty Ltd
+59,GRACosway Pty Ltd,Arrium Limited
+59,GRACosway Pty Ltd,MM Kembla
+59,GRACosway Pty Ltd,Australian Defence Apparel Pty Ltd
+59,GRACosway Pty Ltd,National ELT Accreditation Scheme Limited
+59,GRACosway Pty Ltd,FRV Services Australia Pty Ltd
+59,GRACosway Pty Ltd,Mercy Health
+59,GRACosway Pty Ltd,Genworth Mortgage Insurance Australia Limited
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Buru Energy
@@ -1763,6 +1759,11 @@ agency_id,agency_business_entity_name,client_name
 463,Walker Watterson Holdings Pty Ltd,BIS Shrapnel Pty Limited
 463,Walker Watterson Holdings Pty Ltd,Avaya Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,Motorola Solutions Australia Pty Limited
+463,Walker Watterson Holdings Pty Ltd,FireEye Inc.
+463,Walker Watterson Holdings Pty Ltd,Riverbed Technology
+463,Walker Watterson Holdings Pty Ltd,GoGet
+463,Walker Watterson Holdings Pty Ltd,Desire2Learn
+463,Walker Watterson Holdings Pty Ltd,Dimension Data
 97,Wayne Smith,Algae.Tec
 97,Wayne Smith,Renewable Energy Traders Australia
 97,Wayne Smith,REC Agents Association
@@ -1791,6 +1792,7 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Eakin McCaffery Cox Lawyers
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Caterpillar of Australia Pty Ltd 
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Nicoventures Australia Pty Limited
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,The Smith Family
 502,White House Communications,Vestas Australia Wind Technology Pty Ltd
 502,White House Communications,Amex Corporation
 502,White House Communications,Samaritan House
