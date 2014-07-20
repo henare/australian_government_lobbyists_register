@@ -43,6 +43,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Melanie Brown,Research Analyst ,No,""
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
 338,Barton Deakin ,Alexander Clark,Research Analyst,No,""
+338,Barton Deakin ,Amanda Robideau,Research Analyst,No,""
 342,Bavaria Corporation Pty Ltd,Armand Richard von Stein,Managing Director,Yes,July 2009
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
@@ -95,17 +96,15 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 475,Clifton Consulting Services Pty Ltd,Kerren Clark,Senior Consultant,No,""
 79,CMAX Communications Pty Ltd,Tara Taubenschlag,Managing Director,No,""
 79,CMAX Communications Pty Ltd,Christian Taubenschlag,Managing Partner,Yes,October 2009
-79,CMAX Communications Pty Ltd,Elke Purnell Mackenzie,Government Relations Adviser,Yes,June 2000
-79,CMAX Communications Pty Ltd,Davina Langton,Government Relations Adviser,Yes,June 2009
 79,CMAX Communications Pty Ltd,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
-79,CMAX Communications Pty Ltd,Jacob Traeger,Account Executive,No,""
-79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
+79,CMAX Communications Pty Ltd,Jacob Traeger,Account Manager,No,""
+79,CMAX Communications Pty Ltd,Mark Sjolander,Government Relations Adviser,Yes,April 2012
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Dave Coggin,Director,Yes,May 2010
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Anthony Hasluck,Director,No,""
 142,Consilium International Group Pty Ltd,Michael Zarew,Managing Director,No,""
+638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
 18,Corporate Words Australia Pty Limited,Colin Fulton,Principal,No,""
-154,Cosway Australia Pty Ltd,Tony Nagy,Director,No,""
 160,Cotterell Jannette Suzanne,Jannette Cotterell,Managing Director,No,""
 160,Cotterell Jannette Suzanne,Rachel Gilbertson,Researcher,No,""
 160,Cotterell Jannette Suzanne,Glenn Milne,Principal ,No,""
@@ -116,8 +115,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
-403,Covance Pty Ltd (Covance Market Access Services division),Amanda Halliday,Senior Manager Health Economics,No,""
-403,Covance Pty Ltd (Covance Market Access Services division),Yuan Yuan Cheng,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director,No,""
 329,Cox Inall Communications,Timothy Kevin Powell,Managing Director,No,""
 329,Cox Inall Communications,Sally Fraser,Group Account Director,No,""
@@ -283,7 +280,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
 288,HUGO HALLIDAY PTY LTD,Nathaniel Smith,Senior Government Relations Consultant,No,""
 288,HUGO HALLIDAY PTY LTD,Bill Pickering,Managing Director,No,""
-288,HUGO HALLIDAY PTY LTD,Michael Cooke,Senior Government Relations Consultant,Yes,May 2000
 510,huxley communications pty ltd,keri huxley,director,Yes,April 2010
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
@@ -344,8 +340,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Emily Minson,Associate Director,Yes,July 2008
 76,Kreab Gavin Anderson (Australia) Ltd,Travis Bell,Director,Yes,December 2007
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
+519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 570,Leaderboard Pty Ltd,Rodney Arthur Irvine,Managing Director,Yes,November 2007
-557,Leanne Joyce Consulting,Leanne Joyce,Public Affairs and Communications Consultant,No,""
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
 188,LESL Services Pty Ltd,Stephen Loosley,Director,Yes,May 1995
@@ -491,7 +487,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 35,Richardson Coutts,Stephen Coutts,Director,No,""
 35,Richardson Coutts,Shannan Manton,Consultant,No,""
 35,Richardson Coutts,Madeleine Lewis,Associate,No,""
-35,Richardson Coutts,Hiromasa Sano,Advisor,No,""
 44,Richglen Holdings Pty Ltd,Laurie Stroud,Chief Executive,Yes,June 1988
 395,Right Angle Business Services Pty Ltd,David Clarence Holland,Director,No,""
 395,Right Angle Business Services Pty Ltd,Susan Barbara Jeanes,Consultant,Yes,December 2001
@@ -518,6 +513,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
 143,Sefiani Communications Group,Robyn Sefiani,Managing Director,No,""
 143,Sefiani Communications Group,Nicholas Owens,Director,No,""
+143,Sefiani Communications Group,Susan Martin (nee Bourke),Senior Strategist Media and Government,No,""
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel,Company Director,Yes,July 2003
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Penny Kotsiovos,Consultant,No,""
@@ -613,7 +609,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 428,Weber Shandwick Worldwide,Jacquelynne Willcox,"Head of Public Affairs, Senior Strategic Counsel",No,""
 428,Weber Shandwick Worldwide,Eliza Newton,Senior Account Director,No,""
 428,Weber Shandwick Worldwide,Alistair Nicholas,Senior Advisor,Yes,October 2000
-428,Weber Shandwick Worldwide,Josh Wright,Advisor,Yes,April 2005
+428,Weber Shandwick Worldwide,Megan McCarthy,Account Supervisor,No,""
 428,Weber Shandwick Worldwide,Justin Yuen,Account Coordinator,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,CEO,No,""

@@ -83,8 +83,8 @@ agency_id,agency_business_entity_name,owner_name
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Hodgson Coggin Family Trust
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Clarity Corporate Communications Pty Ltd
 142,Consilium International Group Pty Ltd,Michael Zarew
+638,Contextual Communications Pty Ltd,Cassandra Scott
 18,Corporate Words Australia Pty Limited,Colin Fulton
-154,Cosway Australia Pty Ltd,Clemenger Group
 160,Cotterell Jannette Suzanne,Jannette S Cotterell 
 403,Covance Pty Ltd (Covance Market Access Services division),Covance Inc.
 329,Cox Inall Communications,Belgiovane Williams Mackay Pty Ltd
@@ -142,6 +142,7 @@ agency_id,agency_business_entity_name,owner_name
 512,Ethical Strategies Pty Ltd,John Morton
 324,FCC Partners,Hugh Fraser
 214,FIPRA Australia Pty Limited,David Lieberman
+214,FIPRA Australia Pty Limited,Richardson Coutts Pty Limited
 453,First State Advisors and Consultants ,St Joseph Enterprises 
 295,Five Corners Pty Ltd,Peter Robertson
 295,Five Corners Pty Ltd,Deborah Bell
@@ -150,7 +151,9 @@ agency_id,agency_business_entity_name,owner_name
 484,FPL Advisory Pty Ltd,Steve Cusworth
 333,FTI Consulting (Perth) Pty Ltd,FTI Consulting (Perth) Pty Ltd
 460,Gabrielle Trainor,Gabrielle Trainor
-106,Galbraith & Company Pty Ltd,ATLAS Holdings Unit Trust
+106,Galbraith & Company Pty Ltd,Alkar P/L
+106,Galbraith & Company Pty Ltd,Artsofar P/L
+106,Galbraith & Company Pty Ltd,T J Reilly Investments P/L
 1,Gambolling Pty Ltd,Stephen Carney
 1,Gambolling Pty Ltd,Barbara Carney
 506,Garrie Gibson,Garrie Gibson
@@ -211,15 +214,17 @@ agency_id,agency_business_entity_name,owner_name
 576,KENDAL AND ASSOCIATES,STEPHEN L KENDAL
 518,Kevin James Carroll,Kevin James Carroll
 621,KnowMinister.com Pty Ltd,Denise Frances Williams
+621,KnowMinister.com Pty Ltd,Martin Wallace Jones
 115,KPMG,The partners of KPMG change from time to time. A list of partners is available from KPMG on request.
 115,KPMG,If you would like a copy please contact Perry Atkins at pjatkins@kpmg.com.au
 76,Kreab Gavin Anderson (Australia) Ltd,GAV Management (Guernsey) Limited Partnership
 76,Kreab Gavin Anderson (Australia) Ltd,Magnora AB
 76,Kreab Gavin Anderson (Australia) Ltd,Omnicom Group Inc.
 465,LATAF CONSULTING ,Jeffrey Russell Hart
+519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE
+519,Lawrence Media Services Pty Ltd,Una Joanna LAWRENCE
 570,Leaderboard Pty Ltd,Rodney Arthur Irvine
 570,Leaderboard Pty Ltd,Louise Emily Irvine
-557,Leanne Joyce Consulting,Leanne Joyce
 4,Leisure SolutionsÂ®,Angus Muir Robinson
 4,Leisure SolutionsÂ®,Jeanette Ruth Robinson
 223,Leonie M. Short,Ms Leonie Marjorie Short
@@ -396,7 +401,6 @@ agency_id,agency_business_entity_name,owner_name
 550,The Trustee for Connelly Project Resources,Paul Francis Burrows
 420,The trustee for ECG Advisory Trust,GPJT Pty Ltd
 420,The trustee for ECG Advisory Trust,Jonnik Pty Ltd
-420,The trustee for ECG Advisory Trust,Phomadse Pty Ltd
 41,The Trustee for Hilton Valley Investment,The Trustee for Hilton Valley Investment
 28,The Trustee for Markeit Family Trust,Marilyn Gail Blyth
 28,The Trustee for Markeit Family Trust,Keith Alexander Blyth
@@ -405,6 +409,7 @@ agency_id,agency_business_entity_name,owner_name
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann
 610,The Trusteee for the SRKM Trust,David Ryan
+610,The Trusteee for the SRKM Trust,Kate MIlls
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy
 328,THEMA Consulting Pty Ltd,Dominic Peter Tilden
 152,TJM Consulting,Thomas John McLaughlin
