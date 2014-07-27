@@ -1,13 +1,9 @@
 agency_id,agency_business_entity_name,owner_name
-629, A.M Joseph & B.J Sundell,Brett Sundell
-629, A.M Joseph & B.J Sundell,Adam Joseph
 594,23D pty ltd,Simon Turner
 442,4514 Avenue D Pty Ltd,Andrew Blyth
-362,89 Degrees East Pty Ltd,Annie O'Rourke
 271,A D Evers-Buckland,Alan Evers-Buckland
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Keen Securities Pty Limited
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Tipford Pty Limited
-36,Aegis Consulting Group Pty Ltd,Vishal Beri
 37,Aequum Pty Ltd,Gary Francis Scarrabelotti
 522,Alex Gosman Consulting,Alex Gosman
 104,Alkar Pty Ltd,Allan King
@@ -20,7 +16,6 @@ agency_id,agency_business_entity_name,owner_name
 499,Asia Pacific Corporation Pty Ltd,Daniel Alexander Crooke
 379,assetpr,Julianne Dowling
 379,assetpr,Anthony Rasman
-613,Association Management Institute Pty Ltd,Gregory Albert Bondar
 63,AusAccess Unit Trust,Mark Ridgway (Consulting Canberra Pty Ltd)
 63,AusAccess Unit Trust,Kerrie Ridgway (Consulting Canberra Pty Ltd)
 590,Australia-China Associates Pty Ltd,Edward Lee
@@ -34,21 +29,16 @@ agency_id,agency_business_entity_name,owner_name
 135,Australian Spectrum Consultants Pty Ltd,Megan Mary McDonald
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Faye Lynette McCormack
-366,Baber Peters,Baber Roger Peters
 413,BAE Systems Australia Limited,BAE Systems plc
 513,Barry Charles Matson,Barry Charles Matson
 139,Bartholomew Quinn and Associates,David Quinn
 338,Barton Deakin ,Consolidated Investment Fund NO. 88 Pty Limited
 338,Barton Deakin ,Peter Edward James Collins
 338,Barton Deakin ,Singleton Ogilvy & Mather (Holdings) Pty Ltd 
-342,Bavaria Corporation Pty Ltd,Ortrud Yvonne von Stein
 186,BBS Communications Group Pty Ltd,Jane Edwards
 583,BDaaS Consulting Pty Ltd,The Trustee for Osmosis Family Trust
 162,Belman Consulting Pty Ltd,Liam Bathgate
 162,Belman Consulting Pty Ltd,Jeanne Bathgate
-196,Bernard J Eades,Bernard Eades
-626,Blackie McDonald Pty Ltd,Jenny McDonald
-626,Blackie McDonald Pty Ltd,Anthony Blackie
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl
 12,Border Management Advisory Services Pty Ltd,Leslie George Jones
 614,Bossy Group Pty Ltd,Nicole Martine Gill Cameron
@@ -64,7 +54,6 @@ agency_id,agency_business_entity_name,owner_name
 88,Burson-Marsteller Pty. Ltd.,WPP plc (100 per cent Beneficial Owner)
 52,Bush Consulting Services Pty Ltd,Simon James Bush
 438,Butcher and Co Pty Ltd,Andrew Butcher
-257,CAMCOM _ CAMPAIGN COMMUNICATIONS,Garth Head
 556,Capital Hill Advisory Pty Ltd,National Strategy Group
 601,Catherine McGovern,Catherine McGovern
 27,Cato Counsel Pty Ltd,Sue Cato
@@ -72,7 +61,6 @@ agency_id,agency_business_entity_name,owner_name
 265,CGP solutions Ltd,CPK Communications Pty Ltd
 265,CGP solutions Ltd,Roland Craig Holman
 265,CGP solutions Ltd,The Regent Square Group
-157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski
 113,CHRIS SCHACHT,CHRIS SCHACHT
 215,"Clark, Kerren G",Kerren Clark
 475,Clifton Consulting Services Pty Ltd,John Ridley
@@ -106,23 +94,17 @@ agency_id,agency_business_entity_name,owner_name
 10,Cynergy Pty Ltd,Margaret Jennifer Higgs
 221,Damian McGreevy Consulting Pty Ltd,Damian McGreevy
 569,Dargan Financial,Otto Dargan
-197,David Beddall and Associates Pty Ltd,David Peter Beddall
 129,David J Cass,David J Cass
 16,Day & Hodge Associates Pty Ltd,Stephen Hodge
 16,Day & Hodge Associates Pty Ltd,Adrienne Day-Hodge
 572,Debra Susan Chalmers,Debra Susan Chalmers
 611,deBullet Consulting LLC,Julian Russell de Bullet
-277,Dinorden Pty Ltd,Wendy Anne Myers
-277,Dinorden Pty Ltd,Wayne Christopher Myers
-360,Diplomacy Pty Limited,Park Avenue Management
-360,Diplomacy Pty Limited,Perry Street Pty Ltd
 454,Discourse Consulting Pty Ltd,Belinda Neal
 454,Discourse Consulting Pty Ltd,John Della Bosca
 624,Donna Edman,Donna Therese Edman
 172,Dr Robert Horton,Robert Horton
 515,Dunns4 Consulting Pty Ltd,Stephen James Dunn
 515,Dunns4 Consulting Pty Ltd,Leonora Mary Dunn
-263,ED & Associates Pty Ltd,Edmund Ng
 149,Edelman Public Relations Worldwide Pty Ltd,Edelman Europe Holdings BV
 344,Electrotech Australia Pty Limited,Stephen Renkert
 344,Electrotech Australia Pty Limited,Judith Margaret Renkert
@@ -130,7 +112,6 @@ agency_id,agency_business_entity_name,owner_name
 31,Endeavour Consulting Group Pty Ltd,Lexem Pty Ltd
 31,Endeavour Consulting Group Pty Ltd,Tomogen Pty Ltd
 74,Enhance Corporate Pty Ltd,James Peter Elder
-15,Eric Walsh Pty Ltd,Mr Eric Walsh
 71,Essential Media Communications Pty Ltd,Tony Douglas
 71,Essential Media Communications Pty Ltd,Elizabeth Lukin
 71,Essential Media Communications Pty Ltd,Peter Lewis
@@ -156,7 +137,6 @@ agency_id,agency_business_entity_name,owner_name
 106,Galbraith & Company Pty Ltd,T J Reilly Investments P/L
 1,Gambolling Pty Ltd,Stephen Carney
 1,Gambolling Pty Ltd,Barbara Carney
-506,Garrie Gibson,Garrie Gibson
 375,Gell Southam Group Pty Ltd,Patrick Southam
 606,Genome Investigation Pty Ltd,Guy Hingston
 185,Geoff Conlon,Geoff Conlon
@@ -183,8 +163,6 @@ agency_id,agency_business_entity_name,owner_name
 8,Hill and Knowlton,WPP Group
 19,HTT Trust,Helene Teichmann
 19,HTT Trust,Zachary Teichmann
-288,HUGO HALLIDAY PTY LTD,William Pickering
-510,huxley communications pty ltd,keri huxley
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen
 170,Intech Strategies P/L,Barry Batagol
 170,Intech Strategies P/L,B & J Family Trust
@@ -207,12 +185,9 @@ agency_id,agency_business_entity_name,owner_name
 241,John Cook,Dr John Cook
 78,John O'Connor and Associates Pty Ltd,Amanda O'Connor
 78,John O'Connor and Associates Pty Ltd,John O'Connor
-255,John Scott Barker,John Scott Barker
 264,"John, Susan Maree",Sue John
-410,Justine Caines,Justine Caines
 616,Karen Jayne Foster,Karen Foster
 576,KENDAL AND ASSOCIATES,STEPHEN L KENDAL
-518,Kevin James Carroll,Kevin James Carroll
 621,KnowMinister.com Pty Ltd,Denise Frances Williams
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones
 115,KPMG,The partners of KPMG change from time to time. A list of partners is available from KPMG on request.
@@ -243,15 +218,11 @@ agency_id,agency_business_entity_name,owner_name
 119,Macquarie Group Limited,Macquarie Group Ltd
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd
 245,Marketing Elements Pty Ltd,Cecelia Haddad
-118,Markstone Group Pty Ltd,Terry Cuddy
-118,Markstone Group Pty Ltd,Douglas Townsend
 187,Marlow Communications Pty Ltd,Christine Mary Anne Marlow
 187,Marlow Communications Pty Ltd,Stephen Nicholas Marlow
 425,Maser Defence Pty Ltd,Gareth Jones 
 425,Maser Defence Pty Ltd,Valerie Jones
 179,McGrane-Fitzgerald Unit Trust,McGrane-Fitzgerald Unit Trust
-201,Media Affairs,Norman Fay
-201,Media Affairs,George Hazim
 132,Megan Anwyl,Megan Anwyl
 34,michael hitchens consulting,michael hitchens
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale
@@ -261,9 +232,7 @@ agency_id,agency_business_entity_name,owner_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Cameron Milner
 356,Mr John Kindler,John Walter Kindler
-229,Nayton Communication Pty Ltd,Jonathan Frederick Nayton
 447,NETTALP Pty Ltd,John Robert Platten
-32,New Energy and  Resources Australia Pty Ltd,David Utting
 565,Newgate Communications Pty Limited,Porta Communications plc
 618,Northbridge Infrastructure Pty Ltd,E*scape Pty Ltd
 618,Northbridge Infrastructure Pty Ltd,Borlek Investments Pty Ltd
@@ -271,8 +240,6 @@ agency_id,agency_business_entity_name,owner_name
 429,NTEC Australia Pty. Ltd.,Mark Hollis
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar
 3,Oceanic Solutions Pty Ltd,Mrs Marguerite Ranicar
-86,Ogilvy PR Health,Ogilvy Public Relations Pty Ltd
-86,Ogilvy PR Health,Leon Beswick
 144,"O'MALLEY, Susanne Patricia",Sue O'Malley
 632,One Degree Advisory,Andrew Graham Farrant
 427,Owen International Pty Ltd,Leslie Goodridge
@@ -283,7 +250,6 @@ agency_id,agency_business_entity_name,owner_name
 72,Parker & Partners Pty Ltd,STW Group Ltd
 72,Parker & Partners Pty Ltd,WPP plc
 72,Parker & Partners Pty Ltd,Ogilvy Public Relations Worldwide Pty Ltd
-304,Patrick Russell Consulting Pty Ltd,Dean Logan
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway
 298,Pavilion Consulting Pty Ltd,Justin O'Sullivan
 619,Plum White Consulting,Victoria White
@@ -293,15 +259,11 @@ agency_id,agency_business_entity_name,owner_name
 318,Porter Novelli Australia Pty Ltd,Clemenger Group Limited
 516,Premier State Consulting Pty Ltd,National Strategy Group Pty Ltd
 220,Primary Communication Pty Ltd,Annabelle Warren 
-631,Primary Policy Partners,Andrew Gibbs
-339,Principled Public Relations and Public Affairs,Erik Aldar Locke
 283,Probity International Pty. Ltd,Mary Easson
 100,Professional Public Relations Pty Ltd (PPR),Expanded Media Holdings Pty Ltd 
 100,Professional Public Relations Pty Ltd (PPR),Richard Lazar
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas
-84,Providence NDR Pty Ltd,Debra Reeves
-84,Providence NDR Pty Ltd,Nigel Reeves
 127,PRX Unit Trust,Stephen Kerr
 89,Public Affairs Network Pty Ltd,Rosie Yeo
 68,Public Policy Solutions Pty Ltd,Christopher John Fry
@@ -317,16 +279,12 @@ agency_id,agency_business_entity_name,owner_name
 492,Rachael Sweeney ,Rachael Sweeney
 14,Ranicar and Nicholls Consulting,Nicholls and Nicholls Consulting Pty Ltd
 14,Ranicar and Nicholls Consulting,Oceanic Solutions Pty Ltd
-22,RedStick Strategic Communications,Allison Murphy
 563,"Reith, Peter Keaston","Reith, Peter Keaston"
 91,REPUBLIC Consulting,David Mair
 91,REPUBLIC Consulting,Liza-Jayne Loch
-24,Repute Communications and Associates Pty Ltd,Matthew Watson
-24,Repute Communications and Associates Pty Ltd,Rochelle Watson
 98,Res Publica Pty Ltd,Melissa Cullen
 98,Res Publica Pty Ltd,Gabriel McDowell
 497,Resolution Junction,Gregory Male
-600,RGG International Group,Ruregerero Garikai Gwaradzimba
 587,Richard Gilbert Corporate Advisory Pty Ltd,Richard Gilbert
 587,Richard Gilbert Corporate Advisory Pty Ltd,Sheila E Gilbert
 35,Richardson Coutts,Stephen Coutts Pty Ltd
@@ -335,20 +293,12 @@ agency_id,agency_business_entity_name,owner_name
 44,Richglen Holdings Pty Ltd,Patricia Stroud
 395,Right Angle Business Services Pty Ltd,David Clarence Holland
 395,Right Angle Business Services Pty Ltd,Linda Marion Holland
-527,Robert J.L. Hawke & Associates Pty Ltd,Tate Australia Pty Ltd (ACN 054 587 432)
-511,Robert Palmer,Robert Palmer
-67,Roland William Manning,Rollo Manning
 439,Royce (Vic) Pty Ltd,Peter Mahon
 439,Royce (Vic) Pty Ltd,Richard Amos
-612,S2P2 Strategies,Julie Elizabeth Inman Grant
-539,Sales Harvest Pty Ltd,Fraser Buchanan Allen
 126,Salmon Odgers Family Trust,Michael Salmon
 126,Salmon Odgers Family Trust,Carolyn Odgers
-607,Sand Technology Aust P/L,Ian Douglas Fowler.
 276,Santo Santoro Consulting,Santo Santoro
 276,Santo Santoro Consulting,L M Santoro
-498,Sapere,Nigel Trevor Reeves
-498,Sapere,Paul Anthony Lennon
 227,SAS Consulting Group Pty Ltd,CAS Management Australia Pty Ltd ATF Concetto Sciacca Investment Trust
 227,SAS Consulting Group Pty Ltd,Lawrence James Anthony & Jennifer Anne Anthony ATF Anthony Family Trust
 227,SAS Consulting Group Pty Ltd,Peter Costantini and Julie Catherine McLennan ATF PJC Investment Trust
@@ -367,24 +317,12 @@ agency_id,agency_business_entity_name,owner_name
 490,Staindl Strategic Pty Ltd,Philip Staindl
 66,Statecraft,Eupepsia Pty Ltd
 66,Statecraft,Priebe Family Trust
-331,Stitch in Time (NT) Pty Ltd,Robert Macleod
-331,Stitch in Time (NT) Pty Ltd,Pamela Macleod
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn
 528,SYSTECH Consultants Pty Ltd,Janine Carol Wirthensohn
 235,The Agenda Group Pty Ltd,Damian Mannix
 235,The Agenda Group Pty Ltd,James McGarvey - 
 9,The Canberra Institute,Peter Michael Conway
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Marco Gattino
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Jason Aldworth
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Andres Puig
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora Furman
-90,The Fifth Estate Consultancy Pty Ltd,Ian Robert Wiskin
-90,The Fifth Estate Consultancy Pty Ltd,Craig Michael Taylor
-90,The Fifth Estate Consultancy Pty Ltd,William John Hurditch
-560,The Hocking Group Pty Ltd,Jon Hocking
-560,The Hocking Group Pty Ltd,Jamie Hocking
-560,The Hocking Group Pty Ltd,David Hocking
 450,The Humphrey Company Pty Limited,Stephen John Youll
 450,The Humphrey Company Pty Limited,Jennifer Ruth Youll
 350,The Narrative Investments Pty Ltd,Anthony Fehon
@@ -401,7 +339,6 @@ agency_id,agency_business_entity_name,owner_name
 550,The Trustee for Connelly Project Resources,Paul Francis Burrows
 420,The trustee for ECG Advisory Trust,GPJT Pty Ltd
 420,The trustee for ECG Advisory Trust,Jonnik Pty Ltd
-41,The Trustee for Hilton Valley Investment,The Trustee for Hilton Valley Investment
 28,The Trustee for Markeit Family Trust,Marilyn Gail Blyth
 28,The Trustee for Markeit Family Trust,Keith Alexander Blyth
 595,The trustee for Paripi Trust,Mark Robert Lymb
@@ -411,12 +348,10 @@ agency_id,agency_business_entity_name,owner_name
 610,The Trusteee for the SRKM Trust,David Ryan
 610,The Trusteee for the SRKM Trust,Kate MIlls
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy
-328,THEMA Consulting Pty Ltd,Dominic Peter Tilden
 152,TJM Consulting,Thomas John McLaughlin
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS
 540,TOURISM THINK TANK PTY LTD,STEPHEN ALAN BECKETT
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering
-203,Trustee for Consultum Trust,Graham Staerk as trustee for Consultum Trust
 161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher
 161,Vanguard Consulting and Services Pty Ltd,Mrs Sharon Gallagher
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing
@@ -429,13 +364,10 @@ agency_id,agency_business_entity_name,owner_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew
-502,White House Communications,anthony john white
-62,Wilkinson Group,Peter Wilkinson
 584,Willard Public Affairs Pty Limited,Willard Consulting Pty Ltd ATF David Miles Family Trust
 584,Willard Public Affairs Pty Limited,Mijmo Pty Ltd ATF M & J Moran Family Trust
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell
 591,WILLIAM R & SUSAN V HASSELL,Susan Vicki Hassell
-180,Word Worker Pty Ltd,Lisa McDermott
 641,Wurley Group Pty Ltd,Sarah Bernice Griffin
 641,Wurley Group Pty Ltd,Wayne Francis Farmilo
 627,yconsults group pty ltd,Yolanda Chorazyczewski
