@@ -143,6 +143,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,IPAR Rehabilitation Pty Ltd
 338,Barton Deakin ,St George Community Housing Limited 
 338,Barton Deakin ,University of Western Sydney
+338,Barton Deakin ,Nearmap Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -232,6 +233,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,BUILDINGSMART AUSTRALASIA INCORPORATED
 79,CMAX Communications Pty Ltd,Livestock Shipping Services Pty Ltd 
 79,CMAX Communications Pty Ltd,National Capital Private Hospital
+79,CMAX Communications Pty Ltd,Wellspect Healthcare
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -453,6 +455,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Google Australia 
 31,Endeavour Consulting Group Pty Ltd,Corum Group 
 31,Endeavour Consulting Group Pty Ltd,Salmat Limited 
+31,Endeavour Consulting Group Pty Ltd,TX Australia Pty Ltd 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Big Issue in Australia Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
@@ -466,8 +469,8 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd,Plastics and Chemicals Industries Association
 564,Etched Communications Pty Ltd,Achieve Australia
 564,Etched Communications Pty Ltd, Interface Aust Pty Limited
-512,Ethical Strategies Pty Ltd,Cystic Fibrosis Australia
 512,Ethical Strategies Pty Ltd,Paul Hartmann Pty Limited
+512,Ethical Strategies Pty Ltd,Obesity Surgery Society of Australia and New Zealand
 324,FCC Partners,Chi - X
 324,FCC Partners,Morgan Stanley
 324,FCC Partners,Asia Pacific Stock Exchange
@@ -1254,6 +1257,7 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Canadian Solar (Australia) Pty Ltd
 395,Right Angle Business Services Pty Ltd,Yingli Green Energy Australia Pty Ltd
 395,Right Angle Business Services Pty Ltd,Senvion Australia Pty Ltd
+395,Right Angle Business Services Pty Ltd,Tasman Health Cannabinoids Pty Ltd 
 67,Roland William Manning,Batchelor Institute of Indigenous Tertiary Education
 67,Roland William Manning,Charles Darwin UniversityPharmacy Discipline
 67,Roland William Manning,Centre for Chronic Disease SOM UQ
@@ -1454,7 +1458,6 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,SAP Australia Pty Ltd
 145,The Trustee for Bespoke Approach Unit Trust,KKR
 145,The Trustee for Bespoke Approach Unit Trust,Genesee  Wyoming Australia
-145,The Trustee for Bespoke Approach Unit Trust,Sky City
 145,The Trustee for Bespoke Approach Unit Trust,Nyrstar
 145,The Trustee for Bespoke Approach Unit Trust,ASC Pty Ltd
 145,The Trustee for Bespoke Approach Unit Trust,Singapore Power

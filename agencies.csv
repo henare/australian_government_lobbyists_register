@@ -20,7 +20,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 413,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=413,BAE Systems Australia Limited,BAE Systems Australia Limited,29 008 423 005,2014-06-19
 513,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=513,Barry Charles Matson,SpectrumWise,42 263 453 761,2014-07-08
 139,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=139,Bartholomew Quinn and Associates,Bartholomew Quinn and Associates,97009584105,2014-06-23
-338,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=338,Barton Deakin ,Barton Deakin,65140067287,2014-07-16
+338,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=338,Barton Deakin ,Barton Deakin,65140067287,2014-08-04
 186,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=186,BBS Communications Group Pty Ltd,BBS Communications Group Pty Ltd,34010899779,2014-07-09
 583,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=583,BDaaS Consulting Pty Ltd,BdaaS Consulting,62164001969,2014-06-16
 162,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=162,Belman Consulting Pty Ltd,Belman Consulting,71133436665,2014-06-16
@@ -45,7 +45,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 113,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=113,CHRIS SCHACHT,CHRIS SCHACHT,19927269400,2014-07-10
 215,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=215,"Clark, Kerren G",Numbat Consulting,98879897568,2014-06-16
 475,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=475,Clifton Consulting Services Pty Ltd,Clifton Group,77076836792,2014-07-24
-79,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=79,CMAX Communications Pty Ltd,CMAX Advisory,73130740546,2013-10-16
+79,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=79,CMAX Communications Pty Ltd,CMAX Advisory,73130740546,2014-08-06
 472,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=472,Comsult(Aust) Pty Ltd,Comsult(Aust),26 098 280 892,2014-06-18
 625,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Connect Government Relations,70123052736,2014-07-07
 142,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=142,Consilium International Group Pty Ltd,Consilium International Group Pty Ltd,84094846358,2014-06-16
@@ -78,11 +78,11 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 263,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=263,ED & Associates Pty Ltd,ED & Associates Pty Ltd,62141983324,2014-07-02
 149,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=149,Edelman Public Relations Worldwide Pty Ltd,Edelman,40004846100,2014-07-11
 344,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=344,Electrotech Australia Pty Limited,Electrotech Australia,99002989531,2014-06-25
-31,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=31,Endeavour Consulting Group Pty Ltd,Endeavour Consulting Group Pty Ltd,15351458331,2014-06-23
+31,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=31,Endeavour Consulting Group Pty Ltd,Endeavour Consulting Group Pty Ltd,15351458331,2014-08-04
 74,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=74,Enhance Corporate Pty Ltd,Enhance Corporate,84095951134,2014-06-16
 71,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=71,Essential Media Communications Pty Ltd,Essential Media Communications Pty Ltd,48074671462,2011-08-05
 564,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=564,Etched Communications Pty Ltd,Etched Communications Pty Ltd,95164204111,2014-06-16
-512,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=512,Ethical Strategies Pty Ltd,Ethical Strategies,48 125 083 847,2014-07-10
+512,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=512,Ethical Strategies Pty Ltd,Ethical Strategies,48 125 083 847,2014-08-06
 324,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=324,FCC Partners,FCC Partners,97104680588,2014-03-17
 214,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=214,FIPRA Australia Pty Limited,FIPRA Australia,50078482596,2014-07-14
 453,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=453,First State Advisors and Consultants ,First State Government and Corporate Relations ,99153936719,2014-07-07
@@ -195,7 +195,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 587,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=587,Richard Gilbert Corporate Advisory Pty Ltd,RGCA,13137409039,2014-07-17
 35,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=35,Richardson Coutts,Richardson Coutts Pty Ltd,20126507211,2014-07-21
 44,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=44,Richglen Holdings Pty Ltd,Richglen Holdings Pty Ltd,73008641530,2014-06-30
-395,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=395,Right Angle Business Services Pty Ltd,Jeanes Holland and Associates ,41 059 328 853,2014-07-01
+395,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=395,Right Angle Business Services Pty Ltd,Jeanes Holland and Associates ,41 059 328 853,2014-08-05
 67,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=67,Roland William Manning,RWM Consultancy,16685169690,2014-07-30
 439,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=439,Royce (Vic) Pty Ltd,Royce (Vic) Pty Ltd,28659256311,2014-07-10
 126,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=126,Salmon Odgers Family Trust,Salmon Communications Pty Ltd,46653260366,2014-07-02
@@ -224,7 +224,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 408,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=408,The Six Hats - Investor Relations Pty Ltd,The Six Hats - Investor Relations,84 149 603 903,2014-06-16
 95,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=95,The Strategic Counsel Pty Ltd,The Strategic Counsel,41087883675,2014-07-10
 424,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=424,The Taylor Street Consultancy P/L,Taylor Street Advisory,25069333400,2014-07-14
-145,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=145,The Trustee for Bespoke Approach Unit Trust,Bespoke Approach,45156568237,2014-07-08
+145,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=145,The Trustee for Bespoke Approach Unit Trust,Bespoke Approach,45156568237,2014-08-01
 589,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=589,The Trustee for Bespoke Territory Unit Trust,Bespoke Territory,31665863451,2014-06-20
 550,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=550,The Trustee for Connelly Project Resources,CPR Group,47850948625,2014-07-01
 420,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=420,The trustee for ECG Advisory Trust,ECG Advisory Solutions,93354249142,2014-07-10
