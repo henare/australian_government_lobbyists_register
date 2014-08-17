@@ -1,9 +1,12 @@
 agency_id,agency_business_entity_name,owner_name
+629, A.M Joseph & B.J Sundell,Brett Sundell
+629, A.M Joseph & B.J Sundell,Adam Joseph
 594,23D pty ltd,Simon Turner
 442,4514 Avenue D Pty Ltd,Andrew Blyth
 271,A D Evers-Buckland,Alan Evers-Buckland
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Keen Securities Pty Limited
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Tipford Pty Limited
+36,Aegis Consulting Group Pty Ltd,Vishal Beri
 37,Aequum Pty Ltd,Gary Francis Scarrabelotti
 522,Alex Gosman Consulting,Alex Gosman
 104,Alkar Pty Ltd,Allan King
@@ -51,7 +54,6 @@ agency_id,agency_business_entity_name,owner_name
 310,Broadcasting & Radio Technology Services,Robert Scott GREENEY
 549,BRUNSWICK MEDIA & STRATEGIC PTY. LTD.,RONAN LEE
 131,BTelecom Pty Ltd,Sarina Le
-524,Burke Denis Gabriel,Denis Gabriel Burke
 88,Burson-Marsteller Pty. Ltd.,CHAFMA B.V. (100% Direct Shareholder)
 88,Burson-Marsteller Pty. Ltd.,WPP plc (100 per cent Beneficial Owner)
 52,Bush Consulting Services Pty Ltd,Simon James Bush
@@ -90,7 +92,6 @@ agency_id,agency_business_entity_name,owner_name
 105,CreditWise Pty Ltd,Stephen Mark Edwards
 580,Crosby Textor Research Strategies Results,Crosby Pty Ltd
 580,Crosby Textor Research Strategies Results,Rotxet Pty Ltd
-345,CSR Limited,CSR Limited
 153,Cultural Consulting,Mr Peter O'Neill OAM
 153,Cultural Consulting,Dr. Robert Goodfellow
 386,Currie Communications,Mark Andrew Paterson
@@ -242,6 +243,7 @@ agency_id,agency_business_entity_name,owner_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Cameron Milner
 356,Mr John Kindler,John Walter Kindler
+229,Nayton Communication Pty Ltd,Jonathan Frederick Nayton
 447,NETTALP Pty Ltd,John Robert Platten
 565,Newgate Communications Pty Limited,Porta Communications plc
 618,Northbridge Infrastructure Pty Ltd,E*scape Pty Ltd
@@ -260,6 +262,7 @@ agency_id,agency_business_entity_name,owner_name
 72,Parker & Partners Pty Ltd,STW Group Ltd
 72,Parker & Partners Pty Ltd,WPP plc
 72,Parker & Partners Pty Ltd,Ogilvy Public Relations Worldwide Pty Ltd
+304,Patrick Russell Consulting Pty Ltd,Dean Logan
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway
 298,Pavilion Consulting Pty Ltd,Justin O'Sullivan
 619,Plum White Consulting,Victoria White
@@ -304,6 +307,7 @@ agency_id,agency_business_entity_name,owner_name
 44,Richglen Holdings Pty Ltd,Patricia Stroud
 395,Right Angle Business Services Pty Ltd,David Clarence Holland
 395,Right Angle Business Services Pty Ltd,Linda Marion Holland
+527,Robert J.L. Hawke & Associates Pty Ltd,Tate Australia Pty Ltd (ACN 054 587 432)
 67,Roland William Manning,Rollo Manning
 439,Royce (Vic) Pty Ltd,Peter Mahon
 439,Royce (Vic) Pty Ltd,Richard Amos

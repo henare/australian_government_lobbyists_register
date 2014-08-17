@@ -1,8 +1,10 @@
 agency_id,agency_business_entity_name,lobbyist_name,position,former_government_representative,cessation_date
+629, A.M Joseph & B.J Sundell,Brett Sundell,Adviser,Yes,October 2013
 594,23D pty ltd,Simon Turner,Director,No,""
 442,4514 Avenue D Pty Ltd,Andrew Craig Blyth,Principal,Yes,March 2006
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
+36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
 37,Aequum Pty Ltd,Gary Scarrabelotti,Managing Director,No,""
 522,Alex Gosman Consulting,Alex Gosman,Principal,Yes,September 1990
 104,Alkar Pty Ltd,Allan King,Director,No,""
@@ -51,7 +53,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 549,BRUNSWICK MEDIA & STRATEGIC PTY. LTD.,RONAN LEE,DIRECTOR,No,""
 131,BTelecom Pty Ltd,Sarina Le,Director,No,""
 131,BTelecom Pty Ltd,Greg Fonti,General Manager,No,""
-524,Burke Denis Gabriel,Denis Gabriel Burke,Director,Yes,August 2006
 88,Burson-Marsteller Pty. Ltd.,Christine Jones,Managing Director,No,""
 88,Burson-Marsteller Pty. Ltd.,Carrie Cousins,Director,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
@@ -130,7 +131,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Carrington Brigham,Online and Campaign Consultant,No,""
 580,Crosby Textor Research Strategies Results,Nicholas Nogarotto,Business Development Manager,No,""
 580,Crosby Textor Research Strategies Results,Catherine Beachley,Consultant,No,""
-345,CSR Limited,Martin Jones,General Manager Government Relations,No,""
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
 153,Cultural Consulting,Dr. Robert Goodfellow,Principal Consultant,No,""
 386,Currie Communications,Craig Little,Senior Consultant,No,""
@@ -282,26 +282,23 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 616,Karen Jayne Foster,Amy Gibson,Strategic Communications Advisor,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 621,KnowMinister.com Pty Ltd,Denise Frances Williams,Consultant,No,""
+621,KnowMinister.com Pty Ltd,Martin Wallace Jones,Managing Director,No,""
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
 115,KPMG,Leigh Obradovic,Associate Director,Yes,December 2007
 115,KPMG,Mohammad Sharaf Hafiz Khan,Consultant,No,""
 115,KPMG,Langdon Patrick,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Sandra Eccles,Partner  Office Head (Melbourne),Yes,December 1996
-76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Partner,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Hamish Arthur,Partner  Office Head (Canberra),No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Armon Hicks,Managing Partner Australia/NZ,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Partner Office Head (Brisbane),No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Armon Hicks,Managing Partner Australia,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Geoff Brennan,Senior Advisor,Yes,April 1996
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Sonia Yang,Associate,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Lucy Chamberlain,Associate Director ,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Research Director,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jessica McIntyre,Executive Assistant,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Daly,Associate,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Gavin Clancy,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Lars Madsen,Executive Associate,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Karina Randall,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Suzanne Mercer,Director,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Rebecca Piercy,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Amy Vickers,Executive Associate,Yes,November 2011
 76,Kreab Gavin Anderson (Australia) Ltd,Zackary McLennan,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jeff Sorrell,Associate Director,No,""
@@ -313,6 +310,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
 188,LESL Services Pty Ltd,Stephen Loosley,Director,Yes,May 1995
+204,Lighthouse Communications Group Pty Ltd,Peter Laidlaw,Managing Director,No,""
 529,Lobbying Australia,Peter Forbes,Peter Forbes,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
@@ -320,6 +318,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 80,MacGregor Public Relations,John MacGregor,Managing Director,No,""
 80,MacGregor Public Relations,Marie McKinney,Consultant,No,""
 119,Macquarie Group Limited,Trevor Burns,Division Director Government Relations,Yes,June 1998
+119,Macquarie Group Limited,Kristine Neill,Executive Director Corporate Communications,No,""
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd,Managing Director,Yes,March 1996
 245,Marketing Elements Pty Ltd,Cecelia Haddad,Director,No,""
 187,Marlow Communications Pty Ltd,Stephen Nicholas Marlow,Managing Director,No,""
@@ -339,6 +338,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Cameron Milner,Director,No,""
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Madeline Simmonds,Associate/Practice Manager,No,""
 356,Mr John Kindler,John Walter Kindler,Owner,Yes,March 2004
+229,Nayton Communication Pty Ltd,John Nayton,Proprietor,No,""
 447,NETTALP Pty Ltd,John Robert Platten,Director,No,""
 565,Newgate Communications Pty Limited,Brian Tyson,Managing Partner,No,""
 565,Newgate Communications Pty Limited,Feyi Akindoyeni,Partner,No,""
@@ -364,6 +364,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Hamish Li,Account Manager,No,""
 72,Parker & Partners Pty Ltd,Michael Hartmann,Director Government Relations,No,""
 72,Parker & Partners Pty Ltd,Arli Miller,Director,No,""
+304,Patrick Russell Consulting Pty Ltd,Dean Logan,CEO / Managing Director,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
 619,Plum White Consulting,Plum White,Director,No,""
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -435,6 +436,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 44,Richglen Holdings Pty Ltd,Laurie Stroud,Chief Executive,Yes,June 1988
 395,Right Angle Business Services Pty Ltd,David Clarence Holland,Director,No,""
 395,Right Angle Business Services Pty Ltd,Susan Barbara Jeanes,Consultant,Yes,December 2001
+527,Robert J.L. Hawke & Associates Pty Ltd,The Hon Robert James Lee Hawke AC,Consultant,Yes,February 1992
+527,Robert J.L. Hawke & Associates Pty Ltd,Ian David Kellaway,Secretary,No,""
 67,Roland William Manning,Rollo Manning,Principal,No,""
 439,Royce (Vic) Pty Ltd,Peter Mahon,Chief Executive,No,""
 439,Royce (Vic) Pty Ltd,Richard Amos,Managing Director,No,""
@@ -523,6 +526,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 328,THEMA Consulting Pty Ltd,Nimita Arora,Senior Partner,No,""
 328,THEMA Consulting Pty Ltd,Brittany Maguire,Analyst,No,""
 328,THEMA Consulting Pty Ltd,Carmelina Guarnieri,Senior Analyst,No,""
+328,THEMA Consulting Pty Ltd,Matthew Needham,Senior Analyst,No,""
+328,THEMA Consulting Pty Ltd,Meredith Edwards ,Senior Partner,No,""
+328,THEMA Consulting Pty Ltd,Nathan Fox,Senior Analyst,No,""
 152,TJM Consulting,Thomas John McLaughlin,Proprietor,No,""
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS,CHAIRMAN,No,""
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering,Director,Yes,January 2000
@@ -531,6 +537,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 161,Vanguard Consulting and Services Pty Ltd,David Matthew Russell,General Manager,No,""
 161,Vanguard Consulting and Services Pty Ltd,Julie Ann Sawyer,Manager Communication and Policy,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing,Managing Director,No,""
+635,Visionary  Enterprising Management Services Pty Ltd,Graham Alexander Ingerson,Government Relations Specialist,No,""
 615,Wabsley Pty Ltd,Kel Watt,Managing Director,Yes,September 2013
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson,Director,No,""
 463,Walker Watterson Holdings Pty Ltd,Jonathan Englert,Senior Consultant,No,""
