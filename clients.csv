@@ -205,6 +205,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Merck Sharp & Dohme (Australia) Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Assetlink Services Pty Ltd
+558,Catherine Emma Rocchi,Farming Champions
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,HammondCare
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
@@ -335,6 +336,8 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Housing Industry Association Limited
 81,CPR Communications & Public Relations Pty Ltd,Jalin Realty Australia Pty Ltd
 81,CPR Communications & Public Relations Pty Ltd,Asia Pacific Business Coalition on AIDS
+81,CPR Communications & Public Relations Pty Ltd,Moulis Legal 
+81,CPR Communications & Public Relations Pty Ltd,Twig Australia New Zealand
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
 193,CRAKYL Pty Ltd,Future School
@@ -392,6 +395,8 @@ agency_id,agency_business_entity_name,client_name
 569,Dargan Financial,Benny Lagazo Dubria Jr
 569,Dargan Financial,Kishore Bhatu
 569,Dargan Financial,Grant Anthony Martin
+197,David Beddall and Associates Pty Ltd,Franchisee Association of Australia Inc
+197,David Beddall and Associates Pty Ltd,Brisbane Grammar School
 129,David J Cass,Australian Hotels Association (NSW)
 16,Day & Hodge Associates Pty Ltd,Hologic (Australia) Pty Ltd
 16,Day & Hodge Associates Pty Ltd,The Cycling Promotion Fund
@@ -694,6 +699,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Adelaide Capital Partners Pty Ltd
 59,GRACosway Pty Ltd,Elders Limited
 59,GRACosway Pty Ltd,RateSetter Australia Pty Limited
+59,GRACosway Pty Ltd,HPS Services Pty Ltd
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Buru Energy
@@ -943,9 +949,8 @@ agency_id,agency_business_entity_name,client_name
 258,Lyndon George Pty Ltd,Thoroughbred Breeders NSW Ltd
 258,Lyndon George Pty Ltd,Hunter Thoroughbred Breeders Association
 80,MacGregor Public Relations,Pearl Consortium
-80,MacGregor Public Relations,Sharpe Brothers
-80,MacGregor Public Relations,Cubic Corporation
 80,MacGregor Public Relations,BT Australasia Pty Ltd
+80,MacGregor Public Relations,Cubic Transportation Systems
 119,Macquarie Group Limited,Macquarie Pastoral Fund
 578,Making The World A Better Place Pty Ltd,Hear and Say Centre
 578,Making The World A Better Place Pty Ltd,Phoenix Eagle
@@ -1045,6 +1050,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,National Farmers Federation
 565,Newgate Communications Pty Limited,National Heavy Vehicle Regulator
 565,Newgate Communications Pty Limited,Chris O'Brien Lifehouse
+565,Newgate Communications Pty Limited,Qantas Airways Limited
 618,Northbridge Infrastructure Pty Ltd,Australian Postal Corporation
 618,Northbridge Infrastructure Pty Ltd,Mondelez Australia (Foods) Ltd
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
@@ -1420,6 +1426,11 @@ agency_id,agency_business_entity_name,client_name
 385,Strategic Partnership Group (Aust) Pty Limited,Baseplan Software Pty Limited
 385,Strategic Partnership Group (Aust) Pty Limited,Australian Fertility Medicine Foundation
 385,Strategic Partnership Group (Aust) Pty Limited,Performance English Pty Ltd
+642,StratHouse Pty Ltd,Telstra Limited
+642,StratHouse Pty Ltd,GMHBA Limited
+642,StratHouse Pty Ltd,Northern Futures
+642,StratHouse Pty Ltd,EYEfi Pty Ltd
+642,StratHouse Pty Ltd,City of Greater Geelong
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
 528,SYSTECH Consultants Pty Ltd,Airbus Defence and Space
 235,The Agenda Group Pty Ltd,Epworth Health Care

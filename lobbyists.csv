@@ -5,6 +5,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
+36,Aegis Consulting Group Pty Ltd,Thomas William Forrest,Special Counsel,No,""
 37,Aequum Pty Ltd,Gary Scarrabelotti,Managing Director,No,""
 522,Alex Gosman Consulting,Alex Gosman,Principal,Yes,September 1990
 104,Alkar Pty Ltd,Allan King,Director,No,""
@@ -67,6 +68,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Ian Hancock,Government Policy Analyst,No,""
 556,Capital Hill Advisory Pty Ltd,Lauren Gain,Advisor,No,""
 556,Capital Hill Advisory Pty Ltd,Christine Kirk,Executive Assistant,No,""
+558,Catherine Emma Rocchi,Cate Rocchi,CEO,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 27,Cato Counsel Pty Ltd,Sue Cato,Principal,No,""
 27,Cato Counsel Pty Ltd,Todd Hayward,Advisor,No,""
@@ -139,6 +141,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 10,Cynergy Pty Ltd,Norman Bruce Higgs,Managing Director,No,""
 221,Damian McGreevy Consulting Pty Ltd,Damian McGreevy,Principal,Yes,March 2009
 569,Dargan Financial,Otto Dargan,Director,No,""
+197,David Beddall and Associates Pty Ltd,David Beddall,Managing Director,Yes,October 1998
 129,David J Cass,David J Cass,Lobbyist,No,""
 16,Day & Hodge Associates Pty Ltd,Stephen Hodge,Director,No,""
 16,Day & Hodge Associates Pty Ltd,Adrienne Day-Hodge,Director,No,""
@@ -316,7 +319,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
 80,MacGregor Public Relations,John MacGregor,Managing Director,No,""
-80,MacGregor Public Relations,Marie McKinney,Consultant,No,""
 119,Macquarie Group Limited,Trevor Burns,Division Director Government Relations,Yes,June 1998
 119,Macquarie Group Limited,Kristine Neill,Executive Director Corporate Communications,No,""
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd,Managing Director,Yes,March 1996
@@ -472,6 +474,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Georgie Mills,Consultant,No,""
 66,Statecraft,Jodie Varnai,Director,Yes,November 2013
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
+642,StratHouse Pty Ltd,James Baird,Director,Yes,November 2007
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 235,The Agenda Group Pty Ltd,James McGarvey,Director,No,""
 235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
