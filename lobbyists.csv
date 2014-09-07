@@ -91,6 +91,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
 79,CMAX Communications Pty Ltd,Jacob Traeger,Account Manager,No,""
 79,CMAX Communications Pty Ltd,Mark Sjolander,Government Relations Adviser,Yes,April 2012
+79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Dave Coggin,Director,Yes,May 2010
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Anthony Hasluck,Director,No,""
@@ -180,9 +181,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 512,Ethical Strategies Pty Ltd,John Morton,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,Jay Pleass,Account Director,Yes,August 2007
 324,FCC Partners,Hugh Fraser,Managing Director,No,""
-214,FIPRA Australia Pty Limited,David Lieberman,Principal,No,""
-214,FIPRA Australia Pty Limited,John Richardson,Consultant,No,""
-214,FIPRA Australia Pty Limited,Stephen Coutts,Consultant,No,""
+214,FIPRA Australia Pty Limited,David Lieberman,Director,No,""
+214,FIPRA Australia Pty Limited,John Richardson,Principal,No,""
+214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
 214,FIPRA Australia Pty Limited,Madeleine Lewis,Account Executive,No,""
 214,FIPRA Australia Pty Limited,Shannan Manton,Account Executive,No,""
 453,First State Advisors and Consultants ,Joseph Tannous ,"Executive Director, Australia ",Yes,February 2004
@@ -283,6 +284,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 241,John Cook,Dr John Cook,Principal,Yes,April 2009
 78,John O'Connor and Associates Pty Ltd,John O'Connor,Director,No,""
 264,"John, Susan Maree",Sue John,Principal,No,""
+410,Justine Caines,Justine Caines,Principal,No,""
 616,Karen Jayne Foster,Amy Gibson,Strategic Communications Advisor,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 621,KnowMinister.com Pty Ltd,Denise Frances Williams,Consultant,No,""
@@ -470,11 +472,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
 66,Statecraft,Gavin Melvin,Director,Yes,December 2004
 66,Statecraft,Jonathon Moore,Senior Consultant,No,""
-66,Statecraft,Jody Fassina,Director,Yes,April 2001
 66,Statecraft,Greg Holland,Director,Yes,April 1988
 66,Statecraft,Lucy Rayner,Associate Consultant,No,""
 66,Statecraft,Georgie Mills,Consultant,No,""
-66,Statecraft,Jodie Varnai,Director,Yes,November 2013
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
 642,StratHouse Pty Ltd,James Baird,Director,Yes,November 2007
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
@@ -561,6 +561,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Partner,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Kerry Walter Sibraa,Senior Counsel,Yes,May 1998
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Julie Louise Sibraa,Senior Counsel,Yes,December 2009
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Executive,No,""
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
