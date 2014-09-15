@@ -225,6 +225,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Civeo
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
+343,City Public Relations Pty Ltd,Asbestos Compensation Fund
 215,"Clark, Kerren G",BioGrid
 215,"Clark, Kerren G",Speech Pathology Australia
 215,"Clark, Kerren G",Bionics Institute
@@ -258,6 +259,9 @@ agency_id,agency_business_entity_name,client_name
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Enirgi Group Corporation
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Japan Australia LNG (MIMI) Pty Ltd 
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Tronox Limited
+625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Delaware North Companies Inc.
+625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Northern Rise Village Services Pty Ltd.
+625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,El Questro Wilderness Park
 142,Consilium International Group Pty Ltd,SAP Australia
 142,Consilium International Group Pty Ltd,Senetas
 142,Consilium International Group Pty Ltd,UXC Limited
@@ -446,11 +450,11 @@ agency_id,agency_business_entity_name,client_name
 149,Edelman Public Relations Worldwide Pty Ltd,Mars Inc
 149,Edelman Public Relations Worldwide Pty Ltd,Symantec (Australia) Pty Ltd
 344,Electrotech Australia Pty Limited,Northrop Grumman Overseas Service Corporation
+650,Elomeno PR,UrbanGrowth NSW
 31,Endeavour Consulting Group Pty Ltd,Australian Orthopaedic Association
 31,Endeavour Consulting Group Pty Ltd,Rio Tinto Ltd
 31,Endeavour Consulting Group Pty Ltd,Christmas Island Phosphates
 31,Endeavour Consulting Group Pty Ltd,Energy Resources Australia Ltd
-31,Endeavour Consulting Group Pty Ltd,Incitec Pivot Pty Ltd
 31,Endeavour Consulting Group Pty Ltd,American Express International Incorporated
 31,Endeavour Consulting Group Pty Ltd,Northern Land Council
 31,Endeavour Consulting Group Pty Ltd,The Shell Company of Australia Ltd
@@ -508,7 +512,6 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Demigold Pty Ltd 
 453,First State Advisors and Consultants ,Direct Freight Express Pty ltd 
 453,First State Advisors and Consultants ,Cracknell and Lonergan Architects Pty Ltd 
-453,First State Advisors and Consultants ,Mars Property Group 
 453,First State Advisors and Consultants ,George Concord Pty Ltd 
 453,First State Advisors and Consultants ,Eloura Holdings 
 453,First State Advisors and Consultants ,Samstone Pty Ltd 
@@ -543,6 +546,7 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Xiuyan Guan
 453,First State Advisors and Consultants ,Deafness Forum Ltd. (Pro Bono)
 453,First State Advisors and Consultants ,Affordable Community Housing Limited
+453,First State Advisors and Consultants ,Caption It Pty Ltd 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 202,Fowlstone Communications,WorleyParsons
@@ -647,6 +651,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,University of Western Australia 
 122,GRA Everingham Pty Ltd,Sumich 
 122,GRA Everingham Pty Ltd,Eco Shark Barrier
+122,GRA Everingham Pty Ltd,Australian Finance Group (AFG)
 59,GRACosway Pty Ltd,Bupa Australia Group
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
@@ -706,6 +711,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Elders Limited
 59,GRACosway Pty Ltd,RateSetter Australia Pty Limited
 59,GRACosway Pty Ltd,HPS Services Pty Ltd
+59,GRACosway Pty Ltd,Olex Australia Pty Ltd
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Buru Energy
@@ -771,12 +777,8 @@ agency_id,agency_business_entity_name,client_name
 8,Hill and Knowlton,Coca Cola South Pacific
 8,Hill and Knowlton,InSinkErator
 8,Hill and Knowlton,LEO Pharma
-8,Hill and Knowlton,Compass Group
 8,Hill and Knowlton,Intuit
-8,Hill and Knowlton,Digital Post Australia
 8,Hill and Knowlton,Enirgi Metal Group Pty Ltd
-8,Hill and Knowlton,Wynyard Group
-8,Hill and Knowlton,Computershare Ltd
 8,Hill and Knowlton,The Wrigley Company Pty Ltd
 8,Hill and Knowlton,Comcast/NBC Universal
 19,HTT Trust,The Institute of Certified Management Accountants
@@ -916,6 +918,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Engineers Australia
 76,Kreab Gavin Anderson (Australia) Ltd,Fundraising Institute Australia
 76,Kreab Gavin Anderson (Australia) Ltd,Australian Pork Limited (APL)
+76,Kreab Gavin Anderson (Australia) Ltd,Australian Home Heating Association
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1237,6 +1240,10 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Regis Resources
 242,Purple Communications Australia Pty Ltd,Silver Lake Resources
 242,Purple Communications Australia Pty Ltd,St Barbara Limited
+242,Purple Communications Australia Pty Ltd,Phoenix Gold Pty Ltd
+242,Purple Communications Australia Pty Ltd,Gold Fields Australia Pty Limited
+242,Purple Communications Australia Pty Ltd,Millennium Minerals Limited
+242,Purple Communications Australia Pty Ltd,Ramelius Resources Limited
 29,Pynfall Pty Ltd,Project System & Management GmbH
 446,R A Neilson and M Salmon,Garry and Marilyn Nicholas
 446,R A Neilson and M Salmon,TravelManagers Australia Pty Ltd
@@ -1254,6 +1261,7 @@ agency_id,agency_business_entity_name,client_name
 91,REPUBLIC Consulting,Stella Travel Services
 91,REPUBLIC Consulting,Insead
 91,REPUBLIC Consulting,American Express
+24,Repute Communications and Associates Pty Ltd,RichmondPRA
 98,Res Publica Pty Ltd,Transurban
 98,Res Publica Pty Ltd,The Australian Private Equity & Venture Capital Association (AVCAL)
 98,Res Publica Pty Ltd,Plenary Group Australia
@@ -1318,6 +1326,7 @@ agency_id,agency_business_entity_name,client_name
 439,Royce (Vic) Pty Ltd,Steritech
 439,Royce (Vic) Pty Ltd,Reclink Australia
 439,Royce (Vic) Pty Ltd,Optometry Australia
+439,Royce (Vic) Pty Ltd,Symbion Pharmacy Services
 607,Sand Technology Aust P/L,Serpentine Jarrahdale Council 
 607,Sand Technology Aust P/L,Western Refrigeration 74
 607,Sand Technology Aust P/L,Local Chambers of Commerce and Industry. (Inc)
@@ -1541,6 +1550,7 @@ agency_id,agency_business_entity_name,client_name
 550,The Trustee for Connelly Project Resources,Pine River Holdings P/L
 550,The Trustee for Connelly Project Resources,Maroochydore Sands P/L
 550,The Trustee for Connelly Project Resources,Cement Australia Pty Limited
+653,THE TRUSTEE FOR DAB HAND TRUST  THE TRUSTEE FOR P.GARDNER.COM.AU UNIT TRUST,Dig and Fish PTY LTD
 420,The trustee for ECG Advisory Trust,Wesfarmers
 420,The trustee for ECG Advisory Trust,Cambridge ESOL
 420,The trustee for ECG Advisory Trust,Dubai Ports World Australia
@@ -1642,6 +1652,7 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Nicoventures Australia Pty Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,The Smith Family
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,ThyssenKrupp Marine Systems Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Mundipharma Pty Ltd
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,United States Chamber of Commerce

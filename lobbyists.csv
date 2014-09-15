@@ -80,12 +80,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,No,""
 157,Chikarovski & Associates Pty Ltd,Samantha Dybac,admin assistant,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
+343,City Public Relations Pty Ltd,Tim Allerton,Managing Director,No,""
 215,"Clark, Kerren G",Kerren Clark,Principal,No,""
 475,Clifton Consulting Services Pty Ltd,John Ridley,Principal,No,""
 475,Clifton Consulting Services Pty Ltd,Ken Davis,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Louisa McPhee,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Philip Goslin,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Kerren Clark,Senior Consultant,No,""
+475,Clifton Consulting Services Pty Ltd,Simone Gandur,Senior Consultant,No,""
 79,CMAX Communications Pty Ltd,Tara Taubenschlag,Managing Director,No,""
 79,CMAX Communications Pty Ltd,Christian Taubenschlag,Managing Partner,Yes,October 2009
 79,CMAX Communications Pty Ltd,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
@@ -101,9 +103,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 160,Cotterell Jannette Suzanne,Jannette Cotterell,Managing Director,No,""
 160,Cotterell Jannette Suzanne,Rachel Gilbertson,Researcher,No,""
 160,Cotterell Jannette Suzanne,Glenn Milne,Principal ,No,""
-160,Cotterell Jannette Suzanne,Anna Thompson,Policy Analyst,No,""
+160,Cotterell Jannette Suzanne,Anna Minson,Policy Analyst,No,""
 160,Cotterell Jannette Suzanne,Hannah Purdy,Researcher,No,""
 160,Cotterell Jannette Suzanne,Alexandra Hall,Researcher,No,""
+160,Cotterell Jannette Suzanne,Serena Beaumont Owles,Senior Consultant,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
@@ -122,7 +125,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 81,CPR Communications & Public Relations Pty Ltd,Leanne Joyce,Senior Advisor,No,""
 81,CPR Communications & Public Relations Pty Ltd,Evelyn Ek,Senior Adviser,Yes,October 2013
 81,CPR Communications & Public Relations Pty Ltd,Julia Diprose,Adviser,No,""
-81,CPR Communications & Public Relations Pty Ltd,Scott Howard,Adviser,No,""
+81,CPR Communications & Public Relations Pty Ltd,Scott Howard,Adviser,Yes,October 2013
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
@@ -164,6 +167,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 344,Electrotech Australia Pty Limited,Chris Taylor,Sales Engineer,No,""
 344,Electrotech Australia Pty Limited,Stephen Renkert,General Manager,No,""
 344,Electrotech Australia Pty Limited,Judy Renkert,Director,No,""
+650,Elomeno PR,Suzanne Davies,Communications Director,No,""
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
 31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Partner,Yes,June 1986
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,October 2007
@@ -254,11 +258,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 96,Hawker Britton Group Pty Ltd,Daniel Pearson,Director,No,""
 96,Hawker Britton Group Pty Ltd,Moshe Same,Research Analyst,No,""
 96,Hawker Britton Group Pty Ltd,Alice Crawford,Research Analyst,No,""
+96,Hawker Britton Group Pty Ltd,Philip Reed,Director,No,""
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
 8,Hill and Knowlton,Tim McPhail,Director,No,""
-8,Hill and Knowlton,Megan Magill,Director,Yes,December 2007
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
@@ -355,7 +359,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Jeremy Vine,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
-565,Newgate Communications Pty Limited,Emma Hawker,Executive Assistant,No,""
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 565,Newgate Communications Pty Limited,Simon Troeth,Associate Partner,Yes,November 2007
 618,Northbridge Infrastructure Pty Ltd,David Mullaly,Managing Director,No,""
@@ -428,6 +431,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 563,"Reith, Peter Keaston",Peter Keaston Reith,Sole Trader,Yes,November 2001
 91,REPUBLIC Consulting,David Mair,Director,No,""
 91,REPUBLIC Consulting,Liza-Jayne Loch,Director,No,""
+24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
 98,Res Publica Pty Ltd,Chris Fry,Associate Director,No,""
 98,Res Publica Pty Ltd,Natalie Helm,Senior Account Manager,No,""
 98,Res Publica Pty Ltd,Gabriel McDowell,Managing Director,No,""
@@ -515,6 +519,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 550,The Trustee for Connelly Project Resources,Michael Peter Connelly,Director,No,""
+653,THE TRUSTEE FOR DAB HAND TRUST  THE TRUSTEE FOR P.GARDNER.COM.AU UNIT TRUST,PAUL ALBERT GARDNER,PRINCIPAL,No,""
+653,THE TRUSTEE FOR DAB HAND TRUST  THE TRUSTEE FOR P.GARDNER.COM.AU UNIT TRUST,DEBORAH ANNE BEALE,PRINCIPAL,No,""
 420,The trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
 420,The trustee for ECG Advisory Trust,Jonathan Epstein,Director,Yes,November 2007
 28,The Trustee for Markeit Family Trust,Keith Blyth,Managing Director,No,""
