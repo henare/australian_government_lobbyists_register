@@ -8,11 +8,13 @@ base_url = 'http://lobbyists.pmc.gov.au/'
 table = agent.get("#{base_url}who_register.cfm").at(:table)
 
 agencies = table.at(:tbody).search(:tr).map do |row|
+  last_updated = row.search(:td)[4].inner_text.strip.empty? ? '' : Date.parse(row.search(:td)[4].inner_text)
+
   {url: base_url + row.search(:td)[1].at(:a).attr(:href),
    business_entity_name: row.search(:td)[1].inner_text,
    trading_name: row.search(:td)[2].inner_text,
    abn: row.search(:td)[3].inner_text,
-   details_last_updated: Date.parse(row.search(:td)[4].inner_text)}
+   details_last_updated: last_updated}
 end
 
 agencies_csv = CSV.new(File.open('agencies.csv', 'w'), write_headers: true, headers: ['id', 'url', 'business_entity_name', 'trading_name', 'abn', 'details_last_updated'])
