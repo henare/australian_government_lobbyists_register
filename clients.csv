@@ -260,7 +260,6 @@ agency_id,agency_business_entity_name,client_name
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Delaware North Companies Inc.
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Northern Rise Village Services Pty Ltd.
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,El Questro Wilderness Park
-142,Consilium International Group Pty Ltd,SAP Australia
 142,Consilium International Group Pty Ltd,Senetas
 142,Consilium International Group Pty Ltd,UXC Limited
 638,Contextual Communications Pty Ltd,HealthCert International
@@ -344,6 +343,8 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Coogee Energy
 81,CPR Communications & Public Relations Pty Ltd,Campbell Park Property Developments Pty Ltd
 81,CPR Communications & Public Relations Pty Ltd,Melbourne Writer's Festival Inc
+81,CPR Communications & Public Relations Pty Ltd,ABB Australia Pty Limited 
+81,CPR Communications & Public Relations Pty Ltd,Association of anti Virus Asia Researchers 
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
 193,CRAKYL Pty Ltd,Future School
@@ -522,7 +523,6 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Southern United Minerals Pty Ltd 
 453,First State Advisors and Consultants ,Greenacre Business Park Pty Ltd 
 453,First State Advisors and Consultants ,Pinpoint Marketing Pty Ltd 
-453,First State Advisors and Consultants ,Flower Power Group Pty Ltd
 453,First State Advisors and Consultants ,Romtech Pty Ltd 
 453,First State Advisors and Consultants ,Thiess Pty Ltd 
 453,First State Advisors and Consultants ,Polio (Australia) 
@@ -568,6 +568,8 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Sirona Capital Management
 333,FTI Consulting (Perth) Pty Ltd,Digital CC Holdings Pty Ltd
 333,FTI Consulting (Perth) Pty Ltd,Brierty Limited
+333,FTI Consulting (Perth) Pty Ltd,CHC Helicopters (Australia)
+333,FTI Consulting (Perth) Pty Ltd,Centre for Surrogate Parenting Inc
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Intel
 106,Galbraith & Company Pty Ltd,Juniper Networks
@@ -713,6 +715,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,RateSetter Australia Pty Limited
 59,GRACosway Pty Ltd,HPS Services Pty Ltd
 59,GRACosway Pty Ltd,Olex Australia Pty Ltd
+59,GRACosway Pty Ltd,Lexmark International (Australia) Pty Limited
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Buru Energy
@@ -796,6 +799,7 @@ agency_id,agency_business_entity_name,client_name
 20,InterCapital Group Pty Ltd,Polaris Sales Australia Pty Ltd
 20,InterCapital Group Pty Ltd,Chrysler Australia
 20,InterCapital Group Pty Ltd,Tyre Stewardship Australia
+20,InterCapital Group Pty Ltd,BMW Australia
 38,Intercorp Pty Ltd,Israel Aerospace Industries Limited
 38,Intercorp Pty Ltd,Plasan
 103,Ivydale Nominees Pty Ltd,Coogee Chemicals
@@ -967,6 +971,8 @@ agency_id,agency_business_entity_name,client_name
 578,Making The World A Better Place Pty Ltd,Hear and Say Centre
 578,Making The World A Better Place Pty Ltd,Phoenix Eagle
 578,Making The World A Better Place Pty Ltd,BPO Outfit Australia
+578,Making The World A Better Place Pty Ltd,FairGo4All
+578,Making The World A Better Place Pty Ltd,Global Projects Group Australia
 245,Marketing Elements Pty Ltd,Domestic Violence NSW
 245,Marketing Elements Pty Ltd,National Child Protection Alliance
 187,Marlow Communications Pty Ltd,Altona Energy
@@ -1063,6 +1069,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,National Heavy Vehicle Regulator
 565,Newgate Communications Pty Limited,Chris O'Brien Lifehouse
 565,Newgate Communications Pty Limited,Qantas Airways Limited
+565,Newgate Communications Pty Limited,Tatts Group Limited
 618,Northbridge Infrastructure Pty Ltd,Australian Postal Corporation
 618,Northbridge Infrastructure Pty Ltd,Mondelez Australia (Foods) Ltd
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
@@ -1371,7 +1378,6 @@ agency_id,agency_business_entity_name,client_name
 143,Sefiani Communications Group,Teachers Mutual Bank
 171,Shac Communications Pty Ltd ATF The Shac Trust,Leighton Contractors
 171,Shac Communications Pty Ltd ATF The Shac Trust,Rheem
-171,Shac Communications Pty Ltd ATF The Shac Trust,World Firefighters Games
 171,Shac Communications Pty Ltd ATF The Shac Trust,Sunland Group
 171,Shac Communications Pty Ltd ATF The Shac Trust,JELDWEN Australia Pty Ltd
 171,Shac Communications Pty Ltd ATF The Shac Trust,Nimrod Resources
@@ -1382,6 +1388,7 @@ agency_id,agency_business_entity_name,client_name
 171,Shac Communications Pty Ltd ATF The Shac Trust,Marrom Investments Pty Ltd
 171,Shac Communications Pty Ltd ATF The Shac Trust,Elmstone Property Group
 171,Shac Communications Pty Ltd ATF The Shac Trust,Mckenzie Bond
+171,Shac Communications Pty Ltd ATF The Shac Trust,ASF Group
 82,Socom Pty Ltd,Gippsland Local Government Network
 82,Socom Pty Ltd,The Interface Councils
 82,Socom Pty Ltd,Australian Golf Industry Council
@@ -1640,6 +1647,7 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,The Smith Family
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,ThyssenKrupp Marine Systems Australia Pty Ltd
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,BMW Group Financial Services
 584,Willard Public Affairs Pty Limited,Mundipharma Pty Ltd
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,United States Chamber of Commerce

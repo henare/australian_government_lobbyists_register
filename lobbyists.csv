@@ -269,7 +269,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
-20,InterCapital Group Pty Ltd,Garry Oliver,Director,No,""
+20,InterCapital Group Pty Ltd,Garry Oliver,Shareholder,No,""
 20,InterCapital Group Pty Ltd,John Kananghinis,Director,No,""
 38,Intercorp Pty Ltd,Sonnie Lipshut,Chairman,No,""
 38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
@@ -324,7 +324,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
 188,LESL Services Pty Ltd,Stephen Loosley,Director,Yes,May 1995
 204,Lighthouse Communications Group Pty Ltd,Peter Laidlaw,Managing Director,No,""
-529,Lobbying Australia,Peter Forbes,Peter Forbes,No,""
+529,Lobbying Australia,Peter Forbes,Managing Director,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
@@ -355,7 +355,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Feyi Akindoyeni,Partner,No,""
 565,Newgate Communications Pty Limited,Jodie Brough,Partner,No,""
 565,Newgate Communications Pty Limited,Michael van Maanen,Partner,Yes,February 2008
-565,Newgate Communications Pty Limited,Sophie Travers,Consultant,No,""
+565,Newgate Communications Pty Limited,Sophie Travers,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Matthew Francis,Associate Partner,Yes,May 2011
 565,Newgate Communications Pty Limited,Sara Hourigan,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Jeremy Vine,Senior Consultant,No,""
@@ -480,6 +480,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Greg Holland,Director,Yes,April 1988
 66,Statecraft,Lucy Rayner,Associate Consultant,No,""
 66,Statecraft,Georgie Mills,Consultant,No,""
+66,Statecraft,Sophie Turnbull,Consultant,No,""
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
 642,StratHouse Pty Ltd,James Baird,Director,Yes,November 2007
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
