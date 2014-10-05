@@ -158,6 +158,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,St George Community Housing Limited 
 338,Barton Deakin ,University of Western Sydney
 338,Barton Deakin ,Nearmap Ltd
+338,Barton Deakin ,Ferrier Hodgson
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -211,7 +212,6 @@ agency_id,agency_business_entity_name,client_name
 27,Cato Counsel Pty Ltd,Safegov
 27,Cato Counsel Pty Ltd,Sterling Early Education
 191,"Cemdia Pty, Ltd",NBNCo
-265,CGP solutions Ltd,INMARSAT Global Limited
 265,CGP solutions Ltd,ViaSat Inc
 265,CGP solutions Ltd,NewSat Limited
 265,CGP solutions Ltd,Motorola Solutions Inc
@@ -385,8 +385,8 @@ agency_id,agency_business_entity_name,client_name
 221,Damian McGreevy Consulting Pty Ltd,Daintree Estates
 221,Damian McGreevy Consulting Pty Ltd,Solar Silicon Resources Group
 221,Damian McGreevy Consulting Pty Ltd,Legend International Holdings
-221,Damian McGreevy Consulting Pty Ltd,Ella Bay Developments Pty Ltd
 221,Damian McGreevy Consulting Pty Ltd,Fullshare International (Australia) Pty Ltd
+221,Damian McGreevy Consulting Pty Ltd,Australian Solar Council
 569,Dargan Financial,Isma Ahmed
 569,Dargan Financial,Nassif Isaac
 569,Dargan Financial,Peter Rafidi
@@ -445,6 +445,7 @@ agency_id,agency_business_entity_name,client_name
 149,Edelman Public Relations Worldwide Pty Ltd,University of New South Wales Medical
 149,Edelman Public Relations Worldwide Pty Ltd,Mars Inc
 149,Edelman Public Relations Worldwide Pty Ltd,Symantec (Australia) Pty Ltd
+149,Edelman Public Relations Worldwide Pty Ltd,100 Lives Limited
 344,Electrotech Australia Pty Limited,Northrop Grumman Overseas Service Corporation
 650,Elomeno PR,UrbanGrowth NSW
 31,Endeavour Consulting Group Pty Ltd,Australian Orthopaedic Association
@@ -825,6 +826,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Relationships Australia
 319,Jo Scard Pty Ltd,McGrath Foundation
 319,Jo Scard Pty Ltd,Community Broadcasting Association of Australia
+319,Jo Scard Pty Ltd,Congress of Aboriginal & Torres Strait Islander Nurses & Midwives
 275,Jody Fassina ATF JAI Family Trust,Moss Capital
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
@@ -1031,7 +1033,6 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,YELLOW BRICK ROAD WEALTH MANAGEMENT PTY LIMITED
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Venture Minerals
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Adani Mining Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Bandanna Energy
@@ -1634,6 +1635,7 @@ agency_id,agency_business_entity_name,client_name
 428,Weber Shandwick Worldwide,Ocean Spray
 428,Weber Shandwick Worldwide,Ticketmaster Australasia Pty Ltd
 428,Weber Shandwick Worldwide,FP Markets
+428,Weber Shandwick Worldwide,Economic Development Board of South Australia
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Church of Scientology Australia
@@ -1652,7 +1654,6 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,United States Chamber of Commerce
 584,Willard Public Affairs Pty Limited,G.I Smoker and M.R Tudehope
-584,Willard Public Affairs Pty Limited,Sonic Healthcare Limited
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Mary Smoker and Amanda Fairjones Partnership
 584,Willard Public Affairs Pty Limited,McBeath Pharmacy Westmead Pty Limited

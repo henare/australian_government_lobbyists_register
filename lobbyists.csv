@@ -243,14 +243,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Luke Aaron Myers,Director,No,""
 59,GRACosway Pty Ltd,Brent Crockford,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
-59,GRACosway Pty Ltd,Pamela Rosa Lombardi,Research and Executive Assistant,Yes,December 2007
-59,GRACosway Pty Ltd,David Llewellyn Reeves,Research and Policy Assistant,Yes,December 2007
-59,GRACosway Pty Ltd,Jack Brady,Research and Policy Analyst,No,""
+59,GRACosway Pty Ltd,Pamela Rosa Lombardi,Research and Policy Analyst,Yes,December 2007
+59,GRACosway Pty Ltd,Jack Brady,Research and Policy Coordinator,No,""
 59,GRACosway Pty Ltd,Kary Alexander Petersen,Director,Yes,October 2005
 59,GRACosway Pty Ltd,Margo Delaney,Executive Assistant,No,""
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Michael Chaitow,Research and Policy Analyst,Yes,January 2014
 59,GRACosway Pty Ltd,Laura Elizabeth Turnley,Associate,No,""
+59,GRACosway Pty Ltd,Peter Greenwood,Director,Yes,December 2007
 209,Gryphon Management Australia,Peter Rowe,Director,No,""
 209,Gryphon Management Australia,Keith Black,Director,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
@@ -563,7 +563,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 428,Weber Shandwick Worldwide,Eliza Newton,Senior Account Director,No,""
 428,Weber Shandwick Worldwide,Alistair Nicholas,Senior Advisor,Yes,October 2000
 428,Weber Shandwick Worldwide,Megan McCarthy,Account Supervisor,No,""
-428,Weber Shandwick Worldwide,Justin Yuen,Account Coordinator,No,""
+428,Weber Shandwick Worldwide,Justin Yuen,Consultant,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,CEO,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Partner,No,""
