@@ -2,6 +2,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 629, A.M Joseph & B.J Sundell,Brett Sundell,Adviser,Yes,October 2013
 594,23D pty ltd,Simon Turner,Director,No,""
 442,4514 Avenue D Pty Ltd,Andrew Craig Blyth,Principal,Yes,March 2006
+362,89 Degrees East Pty Ltd,Annie O'Rourke,Director,Yes,September 2009
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
@@ -49,6 +50,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 614,Bossy Group Pty Ltd,Peter Michael McMahon,Principal Consultant,Yes,November 2006
 6,Bramex Pty Ltd,Ross Ramsay (Mr M R Ramsay),Managing Director,Yes,June 1988
 6,Bramex Pty Ltd,Barbara Ramsay  (Mrs B Ramsay),Director,Yes,March 1988
+657,Brent William Knevett,Brent William Knevett,Managing Principal,Yes,October 2001
 310,Broadcasting & Radio Technology Services,Robert Scott GREENEY,Director,Yes,August 2000
 549,BRUNSWICK MEDIA & STRATEGIC PTY. LTD.,RONAN LEE,DIRECTOR,No,""
 131,BTelecom Pty Ltd,Sarina Le,Director,No,""
@@ -225,6 +227,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
 125,Govstrat Pty Ltd,Damian Power,Director,No,""
 125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
+125,Govstrat Pty Ltd,Neil Hamilton Smith,Senior Adviser,No,""
 630,GPotts,Geoff Potts,Principle,Yes,December 2004
 122,GRA Everingham Pty Ltd,Paul Everingham,Managing Director,Yes,February 2003
 122,GRA Everingham Pty Ltd,Jason Marocchi,Director,No,""
@@ -307,7 +310,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Lucy Chamberlain,Associate Director ,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Director,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Jessica McIntyre,Executive Assistant,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Jessica McIntyre,Office Manager,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Daly,Associate,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Gavin Clancy,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Lars Madsen,Executive Associate,No,""
@@ -556,7 +559,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Jonathan Englert,Consultant,No,""
 463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Consultant,No,""
 463,Walker Watterson Holdings Pty Ltd,Hrvoje Ferle,Consultant,No,""
-463,Walker Watterson Holdings Pty Ltd, Lilia Alexeevna Guan,Consultant ,No,""
 463,Walker Watterson Holdings Pty Ltd, Sidar Thams,Admin/Operations,No,""
 97,Wayne Smith,Wayne Christopher Smith,Director,No,""
 428,Weber Shandwick Worldwide,Jacquelynne Willcox,"Head of Public Affairs, Senior Strategic Counsel",No,""
