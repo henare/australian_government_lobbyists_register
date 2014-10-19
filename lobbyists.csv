@@ -254,13 +254,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Michael Chaitow,Research and Policy Analyst,Yes,January 2014
 59,GRACosway Pty Ltd,Laura Elizabeth Turnley,Associate,No,""
 59,GRACosway Pty Ltd,Peter Greenwood,Director,Yes,December 2007
+59,GRACosway Pty Ltd,Matthew Ryan Mackay,Research and Policy Analyst,No,""
 209,Gryphon Management Australia,Peter Rowe,Director,No,""
 209,Gryphon Management Australia,Keith Black,Director,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
-96,Hawker Britton Group Pty Ltd,Daniel Pearson,Director,No,""
 96,Hawker Britton Group Pty Ltd,Moshe Same,Research Analyst,No,""
 96,Hawker Britton Group Pty Ltd,Alice Crawford,Research Analyst,No,""
 96,Hawker Britton Group Pty Ltd,Philip Reed,Director,No,""
@@ -366,6 +366,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 565,Newgate Communications Pty Limited,Simon Troeth,Associate Partner,Yes,November 2007
+565,Newgate Communications Pty Limited,Duncan McGauchie,Associate Partner,No,""
+565,Newgate Communications Pty Limited,Philippa Crowther,Executive Assistant,No,""
 618,Northbridge Infrastructure Pty Ltd,David Mullaly,Managing Director,No,""
 618,Northbridge Infrastructure Pty Ltd,Lucille James,Executive Officer,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
@@ -528,6 +530,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 653,THE TRUSTEE FOR DAB HAND TRUST  THE TRUSTEE FOR P.GARDNER.COM.AU UNIT TRUST,DEBORAH ANNE BEALE,PRINCIPAL,No,""
 420,The trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
 420,The trustee for ECG Advisory Trust,Jonathan Epstein,Director,Yes,November 2007
+41,The Trustee for Hilton Valley Investment,Alistair Urquhart,Director,No,""
 28,The Trustee for Markeit Family Trust,Keith Blyth,Managing Director,No,""
 595,The trustee for Paripi Trust,Mark Robert Lymb,Trustee,No,""
 117,The Trustee for the Bowden Family Trust,Bob Bowden,Chief Executive,No,""

@@ -55,6 +55,7 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Aboriginal AG-Arts Residency Kenmore Limited
 63,AusAccess Unit Trust,Genesys Labs
 63,AusAccess Unit Trust,Berrigan District Aged Care Association
+63,AusAccess Unit Trust,Kacomm Communications Pty Ltd
 590,Australia-China Associates Pty Ltd,Macquarie Grammar School Ltd
 590,Australia-China Associates Pty Ltd,Macquarie Business School Pty Ltd
 233,Australian Industry Involvement Services,General Electric Aviation
@@ -169,6 +170,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Nearmap Ltd
 338,Barton Deakin ,Ferrier Hodgson
 338,Barton Deakin ,Life Without Barriers
+338,Barton Deakin ,Company B Limited
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -218,6 +220,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Assetlink Services Pty Ltd
 558,Catherine Emma Rocchi,Farming Champions
+558,Catherine Emma Rocchi,Northern Land Council
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,HammondCare
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
@@ -279,7 +282,6 @@ agency_id,agency_business_entity_name,client_name
 18,Corporate Words Australia Pty Limited,MEO Australia Limited
 160,Cotterell Jannette Suzanne,The Australian and New Zealand Association of Oral and Maxillofacial Surgeons
 160,Cotterell Jannette Suzanne,Private Cancer Physicians of Australia
-160,Cotterell Jannette Suzanne,Genworth Financial
 160,Cotterell Jannette Suzanne,Community Pharmacy Chemotherapy Services Group
 160,Cotterell Jannette Suzanne,National Association of Specialist Obstetricians and Gynaecologists
 160,Cotterell Jannette Suzanne,Australian Aged Care Association
@@ -310,6 +312,7 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Victorian Automobile Chamber of Commerce
 160,Cotterell Jannette Suzanne,Pharmacy Guild of Australia
 160,Cotterell Jannette Suzanne,The Bionics Institute
+160,Cotterell Jannette Suzanne,Genworth Mortgage Insurance Australia Limited
 403,Covance Pty Ltd (Covance Market Access Services division),Janssen Cilag Pty Ltd
 329,Cox Inall Communications,Sydney Fish Market
 299,CPI Strategic Pty Ltd,Costa Group of Companies
@@ -731,6 +734,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Lexmark International (Australia) Pty Limited
 59,GRACosway Pty Ltd,Arrhythmia Alliance - Australia Ltd
 59,GRACosway Pty Ltd,Australian Alpaca Association Ltd
+59,GRACosway Pty Ltd,Small Pelagic Fisheries Industry Association
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Gold Fields
@@ -1160,7 +1164,6 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Suncorp Group Limited
 516,Premier State Consulting Pty Ltd,Transfield Services (Australia) Pty Ltd
 516,Premier State Consulting Pty Ltd,Young Menâs Christian Association of Sydney
-516,Premier State Consulting Pty Ltd,Brookfield Multiplex
 516,Premier State Consulting Pty Ltd,Echo Entertainment Group Limited
 516,Premier State Consulting Pty Ltd,Mounties Group
 516,Premier State Consulting Pty Ltd,Amalgamated Holdings Limited
@@ -1518,6 +1521,7 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,NHD HOldCo Pty Ltd
 95,The Strategic Counsel Pty Ltd,bioCSL Pty Limited
 95,The Strategic Counsel Pty Ltd,Cancer Drugs Alliance Limited
+95,The Strategic Counsel Pty Ltd,OPTUM HEALTH & TECHNOLOGY (AUSTRALIA) PTY LTD
 424,The Taylor Street Consultancy P/L,Capella Capital
 424,The Taylor Street Consultancy P/L,Lend Lease
 424,The Taylor Street Consultancy P/L,Intercontinental Hotels Group
