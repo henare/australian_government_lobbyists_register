@@ -144,8 +144,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Buchanan Group
 338,Barton Deakin ,Smart Services CRC Pty Ltd
 338,Barton Deakin ,AARNet Pty Ltd
-338,Barton Deakin ,Ogilvy & Mather (Sydney) Pty Limited
-338,Barton Deakin ,Thomas Kelly Youth Foundation Limited
 338,Barton Deakin ,The Alliance for Safe Children
 338,Barton Deakin ,Heathgate Resources Pty Ltd
 338,Barton Deakin ,Ally Group
@@ -171,6 +169,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Ferrier Hodgson
 338,Barton Deakin ,Life Without Barriers
 338,Barton Deakin ,Company B Limited
+338,Barton Deakin ,The ORS Group Pty Ltd
+338,Barton Deakin ,Gulf Savannah Development Inc. 
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -219,6 +219,8 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Merck Sharp & Dohme (Australia) Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Assetlink Services Pty Ltd
+556,Capital Hill Advisory Pty Ltd,William Hill Australia
+556,Capital Hill Advisory Pty Ltd,Unity Resources Group Pty Ltd
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,Northern Land Council
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
@@ -237,6 +239,8 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Supercharge Batteries
 157,Chikarovski & Associates Pty Ltd,EJ Cooper and Son Pty Limited
 157,Chikarovski & Associates Pty Ltd,Civeo
+658,Chris Drummer ,Rhonda Joy Deep
+658,Chris Drummer ,Australian Mobile Dental Care
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 343,City Public Relations Pty Ltd,Asbestos Compensation Fund
@@ -942,6 +946,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Fundraising Institute Australia
 76,Kreab Gavin Anderson (Australia) Ltd,Australian Pork Limited (APL)
 76,Kreab Gavin Anderson (Australia) Ltd,Australian Home Heating Association
+76,Kreab Gavin Anderson (Australia) Ltd,National Association of Steel-Framed Housing (NASH)
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1059,6 +1064,7 @@ agency_id,agency_business_entity_name,client_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,CSC Australia Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Gas Energy Australia
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Johnson and Johnson Pty Ltd
+577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,BOC Limited
 356,Mr John Kindler,Pratt and Whitney Military Engines
 229,Nayton Communication Pty Ltd,Bauxite Alumina Joint Venture
 229,Nayton Communication Pty Ltd,WA Onshore Gas group
@@ -1170,18 +1176,18 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Gloucester Resources Limited
 220,Primary Communication Pty Ltd,The Butterfly Foundation
 220,Primary Communication Pty Ltd,Scouts Australia
-220,Primary Communication Pty Ltd,Sustainability Victoria
 220,Primary Communication Pty Ltd,National Eating Disorders Collaboration
 220,Primary Communication Pty Ltd,Delta Electricity Renewable Project
 220,Primary Communication Pty Ltd,Gas Industry Alliance
 220,Primary Communication Pty Ltd,Education Testing Service
 220,Primary Communication Pty Ltd,Hunter Institute of Mental Health
-220,Primary Communication Pty Ltd,Consulting Surveyors National
 220,Primary Communication Pty Ltd,Elgas
 220,Primary Communication Pty Ltd,National Catholic Education Commission
 220,Primary Communication Pty Ltd,Belinda Mason Photography Pty Ltd
 220,Primary Communication Pty Ltd,Professional Standards Council
 220,Primary Communication Pty Ltd,Council of International Students Australia
+220,Primary Communication Pty Ltd,Mental Health Commission of NSW
+220,Primary Communication Pty Ltd,Reachout.com
 631,Primary Policy Partners,Elliott Holdings Australia T/A Ellwaste
 631,Primary Policy Partners,MyJet Aviation Pty Ltd
 631,Primary Policy Partners,Chris Richards Group Pty Ltd
@@ -1512,16 +1518,15 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,Hearing Care Industry Association
 95,The Strategic Counsel Pty Ltd,Australian Pharmaceutical Industries Ltd
 95,The Strategic Counsel Pty Ltd,Aspen Medical Pty Ltd
-95,The Strategic Counsel Pty Ltd,Genomic Health Inc
 95,The Strategic Counsel Pty Ltd,Servier Laboratories (Aust) Pty Ltd
 95,The Strategic Counsel Pty Ltd,Vision Eye Institute
 95,The Strategic Counsel Pty Ltd,Abbott Australasia.Pty Ltd
 95,The Strategic Counsel Pty Ltd,Post and Antenatal Depression Association 
 95,The Strategic Counsel Pty Ltd,Fresenius Kabi Australia Pty Ltd
-95,The Strategic Counsel Pty Ltd,NHD HOldCo Pty Ltd
 95,The Strategic Counsel Pty Ltd,bioCSL Pty Limited
-95,The Strategic Counsel Pty Ltd,Cancer Drugs Alliance Limited
 95,The Strategic Counsel Pty Ltd,OPTUM HEALTH & TECHNOLOGY (AUSTRALIA) PTY LTD
+95,The Strategic Counsel Pty Ltd,ASG Group Limited
+95,The Strategic Counsel Pty Ltd,CSL Limited
 424,The Taylor Street Consultancy P/L,Capella Capital
 424,The Taylor Street Consultancy P/L,Lend Lease
 424,The Taylor Street Consultancy P/L,Intercontinental Hotels Group
