@@ -190,6 +190,7 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Sutherland Global Services
 657,Brent William Knevett,Jadu Software
 657,Brent William Knevett,Sutherland Healthcare Solutions
+657,Brent William Knevett,Accuvio
 310,Broadcasting & Radio Technology Services,Commercial Radio Australia Limited
 549,BRUNSWICK MEDIA & STRATEGIC PTY. LTD.,Chiropractorsâ Association of Australia (National)
 131,BTelecom Pty Ltd,Digital River Networks Pty Ltd
@@ -318,6 +319,8 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Pharmacy Guild of Australia
 160,Cotterell Jannette Suzanne,The Bionics Institute
 160,Cotterell Jannette Suzanne,Genworth Mortgage Insurance Australia Limited
+160,Cotterell Jannette Suzanne,Melanoma Patients Australia
+160,Cotterell Jannette Suzanne,100 Lives Limited (An Armenian Anniversary Project) 
 403,Covance Pty Ltd (Covance Market Access Services division),Janssen Cilag Pty Ltd
 329,Cox Inall Communications,Sydney Fish Market
 299,CPI Strategic Pty Ltd,Costa Group of Companies
@@ -499,6 +502,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Corum Group 
 31,Endeavour Consulting Group Pty Ltd,Salmat Limited 
 31,Endeavour Consulting Group Pty Ltd,TX Australia Pty Ltd 
+31,Endeavour Consulting Group Pty Ltd,Australian National University 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Big Issue in Australia Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
@@ -741,6 +745,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Arrhythmia Alliance - Australia Ltd
 59,GRACosway Pty Ltd,Australian Alpaca Association Ltd
 59,GRACosway Pty Ltd,Small Pelagic Fisheries Industry Association
+59,GRACosway Pty Ltd,Nexans Olex
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Gold Fields
@@ -850,6 +855,8 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,McGrath Foundation
 319,Jo Scard Pty Ltd,Community Broadcasting Association of Australia
 319,Jo Scard Pty Ltd,Congress of Aboriginal & Torres Strait Islander Nurses & Midwives
+319,Jo Scard Pty Ltd,The Royal Australian and New Zealand College of Radiologists
+319,Jo Scard Pty Ltd,Gundaroo Community Association
 275,Jody Fassina ATF JAI Family Trust,Moss Capital
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
@@ -1095,6 +1102,8 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Chris O'Brien Lifehouse
 565,Newgate Communications Pty Limited,Qantas Airways Limited
 565,Newgate Communications Pty Limited,Tatts Group Limited
+565,Newgate Communications Pty Limited,Sydney Airport Corporation Limited
+565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
 618,Northbridge Infrastructure Pty Ltd,Australian Postal Corporation
 618,Northbridge Infrastructure Pty Ltd,Mondelez Australia (Foods) Ltd
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
@@ -1391,6 +1400,7 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Consolidated Contracting Company Australia Pty Ltd
 227,SAS Consulting Group Pty Ltd,Groundworks Australia Pty. Ltd.
 227,SAS Consulting Group Pty Ltd,MAX Solutions
+227,SAS Consulting Group Pty Ltd,State Grid Corporation of China
 486,SCG Advisory Pty Ltd,Linfox Australia Pty Ltd
 486,SCG Advisory Pty Ltd,DollarsDirect
 486,SCG Advisory Pty Ltd,Space Systems/Loral
@@ -1535,6 +1545,7 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,OPTUM HEALTH & TECHNOLOGY (AUSTRALIA) PTY LTD
 95,The Strategic Counsel Pty Ltd,ASG Group Limited
 95,The Strategic Counsel Pty Ltd,CSL Limited
+95,The Strategic Counsel Pty Ltd,CSL Behring (Australia) Pty Ltd
 424,The Taylor Street Consultancy P/L,Capella Capital
 424,The Taylor Street Consultancy P/L,Lend Lease
 424,The Taylor Street Consultancy P/L,Intercontinental Hotels Group

@@ -34,7 +34,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,David Alexander,Managing Director (Federal),Yes,November 2007
 338,Barton Deakin ,Daniel Wood,Consultant,No,""
 338,Barton Deakin ,Kristian Galanti,Consultant ,No,""
-338,Barton Deakin ,Renee Hindmarsh,Director,Yes,November 2007
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
 338,Barton Deakin ,Eacham Curry ,Managing Director (WA),Yes,February 2005
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
@@ -161,6 +160,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 360,Diplomacy Pty Limited,Adam Kilgour,Managing Director,Yes,July 1993
 360,Diplomacy Pty Limited,Josh Williams,Director,No,""
 360,Diplomacy Pty Limited,Anthony Reed,Associate Director,No,""
+454,Discourse Consulting Pty Ltd,Belinda Neal,Director,Yes,August 2010
+454,Discourse Consulting Pty Ltd,John Della Bosca,Director,No,""
 624,Donna Edman,Donna Therese Edman,CEO,Yes,March 1999
 172,Dr Robert Horton,Robert Horton,Principal,Yes,June 2005
 515,Dunns4 Consulting Pty Ltd,Stephen James Dunn,Managing Director,Yes,June 2010
@@ -288,6 +289,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Genevieve Dwyer,Associate,No,""
 319,Jo Scard Pty Ltd,Fiona Wilson,Associate,No,""
 319,Jo Scard Pty Ltd,Jackie Hanafie,Associate,No,""
+319,Jo Scard Pty Ltd,Shreya Bakhshi,Associate,No,""
 275,Jody Fassina ATF JAI Family Trust,Jody Fassina,Principal Consultant,Yes,April 2001
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
@@ -332,6 +334,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 529,Lobbying Australia,Peter Forbes,Managing Director,No,""
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Kirsten Marks,Healthcare Consultant,No,""
+566,London Agency Pty Ltd,Cary Ann Moore,Account Manager,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
@@ -486,7 +489,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
 66,Statecraft,Gavin Melvin,Director,Yes,December 2004
 66,Statecraft,Jonathon Moore,Senior Consultant,No,""
-66,Statecraft,Greg Holland,Director,Yes,April 1988
 66,Statecraft,Lucy Rayner,Associate Consultant,No,""
 66,Statecraft,Sophie Turnbull,Consultant,No,""
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
