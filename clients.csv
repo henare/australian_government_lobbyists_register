@@ -171,6 +171,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Company B Limited
 338,Barton Deakin ,The ORS Group Pty Ltd
 338,Barton Deakin ,Gulf Savannah Development Inc. 
+338,Barton Deakin ,Spotless Group Limited
+338,Barton Deakin ,Lockheed Martin Overseas Corporation
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -223,6 +225,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,William Hill Australia
 556,Capital Hill Advisory Pty Ltd,Unity Resources Group Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Glencore Coal Assets Australia Pty Ltd
+556,Capital Hill Advisory Pty Ltd,Headland Preservation Group
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,Northern Land Council
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
@@ -321,6 +324,7 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Genworth Mortgage Insurance Australia Limited
 160,Cotterell Jannette Suzanne,Melanoma Patients Australia
 160,Cotterell Jannette Suzanne,100 Lives Limited (An Armenian Anniversary Project) 
+160,Cotterell Jannette Suzanne,Adopt Change (Adoption Awareness Ltd) pro bono
 403,Covance Pty Ltd (Covance Market Access Services division),Janssen Cilag Pty Ltd
 329,Cox Inall Communications,Sydney Fish Market
 299,CPI Strategic Pty Ltd,Costa Group of Companies
@@ -547,7 +551,6 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,George Concord Pty Ltd 
 453,First State Advisors and Consultants ,Eloura Holdings 
 453,First State Advisors and Consultants ,Samstone Pty Ltd 
-453,First State Advisors and Consultants ,Southern United Minerals Pty Ltd 
 453,First State Advisors and Consultants ,Greenacre Business Park Pty Ltd 
 453,First State Advisors and Consultants ,Pinpoint Marketing Pty Ltd 
 453,First State Advisors and Consultants ,Romtech Pty Ltd 
@@ -696,7 +699,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,ALDI Stores
 59,GRACosway Pty Ltd,First Solar
 59,GRACosway Pty Ltd,Project Management Institute
-59,GRACosway Pty Ltd,Archer Daniels Midland Company
 59,GRACosway Pty Ltd,Vanguard Investments Australia Ltd
 59,GRACosway Pty Ltd,SingTel Optus Pty Ltd
 59,GRACosway Pty Ltd,Maxxia Pty Ltd
@@ -709,7 +711,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Michell Pty Ltd
 59,GRACosway Pty Ltd,TA Associates
 59,GRACosway Pty Ltd,Gilead Sciences
-59,GRACosway Pty Ltd,Chi-X Australia Pty Ltd
 59,GRACosway Pty Ltd,BA Infrastructure
 59,GRACosway Pty Ltd,Warren Centre for Advanced Engineering
 59,GRACosway Pty Ltd,Forgacs Engineering Pty Ltd
@@ -721,23 +722,12 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Human Systems Asia Pacific Pty Ltd
 59,GRACosway Pty Ltd,DrinkWise Australia Ltd
 59,GRACosway Pty Ltd,AGL Energy Limited
-59,GRACosway Pty Ltd,Clean Energy Council
 59,GRACosway Pty Ltd,Solar Systems Pty Ltd
-59,GRACosway Pty Ltd,Austcane Energy Pty Ltd
 59,GRACosway Pty Ltd,Arrium Limited
-59,GRACosway Pty Ltd,MM Kembla
-59,GRACosway Pty Ltd,Australian Defence Apparel Pty Ltd
-59,GRACosway Pty Ltd,National ELT Accreditation Scheme Limited
 59,GRACosway Pty Ltd,FRV Services Australia Pty Ltd
 59,GRACosway Pty Ltd,Mercy Health
 59,GRACosway Pty Ltd,Genworth Mortgage Insurance Australia Limited
-59,GRACosway Pty Ltd,Virgin Group
 59,GRACosway Pty Ltd,Energy Developments
-59,GRACosway Pty Ltd,Wet'n'Wild Sydney
-59,GRACosway Pty Ltd,First State Super / FSS Trustee Corporation
-59,GRACosway Pty Ltd,Wealth Resources Pty Ltd
-59,GRACosway Pty Ltd,Adelaide Capital Partners Pty Ltd
-59,GRACosway Pty Ltd,Elders Limited
 59,GRACosway Pty Ltd,RateSetter Australia Pty Limited
 59,GRACosway Pty Ltd,HPS Services Pty Ltd
 59,GRACosway Pty Ltd,Olex Australia Pty Ltd
@@ -857,6 +847,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Congress of Aboriginal & Torres Strait Islander Nurses & Midwives
 319,Jo Scard Pty Ltd,The Royal Australian and New Zealand College of Radiologists
 319,Jo Scard Pty Ltd,Gundaroo Community Association
+319,Jo Scard Pty Ltd,Indigenous Community Volunteers Limited
 275,Jody Fassina ATF JAI Family Trust,Moss Capital
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
@@ -1104,6 +1095,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Tatts Group Limited
 565,Newgate Communications Pty Limited,Sydney Airport Corporation Limited
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
+565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
 618,Northbridge Infrastructure Pty Ltd,Australian Postal Corporation
 618,Northbridge Infrastructure Pty Ltd,Mondelez Australia (Foods) Ltd
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
@@ -1120,6 +1112,7 @@ agency_id,agency_business_entity_name,client_name
 427,Owen International Pty Ltd,Esterline Defense Technologies
 427,Owen International Pty Ltd,Aeronautical and General Instruments Ltd
 427,Owen International Pty Ltd,NBC Group
+598,Oxley International,Papua New Guinea Forest Industries Association (Inc)
 309,Paramul Pty Ltd,Steritech
 309,Paramul Pty Ltd,Dourias Group Holdings
 309,Paramul Pty Ltd,Brighton Council
@@ -1301,6 +1294,7 @@ agency_id,agency_business_entity_name,client_name
 91,REPUBLIC Consulting,Insead
 91,REPUBLIC Consulting,American Express
 24,Repute Communications and Associates Pty Ltd,RichmondPRA
+24,Repute Communications and Associates Pty Ltd,FARSTAD SHIPPING (INDIAN PACIFIC) PTY. LTD
 98,Res Publica Pty Ltd,Transurban
 98,Res Publica Pty Ltd,The Australian Private Equity & Venture Capital Association (AVCAL)
 98,Res Publica Pty Ltd,Plenary Group Australia
