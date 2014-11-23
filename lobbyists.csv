@@ -59,7 +59,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 88,Burson-Marsteller Pty. Ltd.,Carrie Cousins,Director,No,""
 88,Burson-Marsteller Pty. Ltd.,Alexis Roitman,Director,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
-438,Butcher and Co Pty Ltd,Andrew Butcher,Principal,No,""
 654,C2hills Investments Pty Limited,dana margaret gardner,consultant,No,""
 654,C2hills Investments Pty Limited,Cara Leanne Dale,Director/Consultant,No,""
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
@@ -82,7 +81,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,No,""
-157,Chikarovski & Associates Pty Ltd,Samantha Dybac,admin assistant,No,""
+157,Chikarovski & Associates Pty Ltd,Samantha Dybac,Corporate Affairs,No,""
 658,Chris Drummer ,Christopher John Drummer,CEO,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
 343,City Public Relations Pty Ltd,Tim Allerton,Managing Director,No,""
@@ -213,6 +212,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Katina Hodson Thomas,Director,Yes,September 2008
 333,FTI Consulting (Perth) Pty Ltd,Tara Nash,Consultant,No,""
 333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Director,No,""
+661,G and A Commercial Services Pty Ltd,Geoffrey Graeme Leigh,Director,No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 106,Galbraith & Company Pty Ltd,Allan King,Partner,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,June 1979
@@ -291,6 +291,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Fiona Wilson,Associate,No,""
 319,Jo Scard Pty Ltd,Jackie Hanafie,Associate,No,""
 319,Jo Scard Pty Ltd,Shreya Bakhshi,Associate,No,""
+319,Jo Scard Pty Ltd,Kristy De Camps,Senior Associate,No,""
 275,Jody Fassina ATF JAI Family Trust,Jody Fassina,Principal Consultant,Yes,April 2001
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
@@ -485,6 +486,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 82,Socom Pty Ltd,Penny Kotsiovos,Consultant,No,""
 82,Socom Pty Ltd,Jennifer Cromarty,Account Director,No,""
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
+660,Sporting Manangement Concepts,Ben Tatterson,Director,No,""
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
 108,ST CLAIR Anthony William,Tony StClair,Director,No,""
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
@@ -514,15 +516,15 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 268,The Premier Communications Group Pty Ltd.,Ross Grove,Senior Advisor,No,""
 408,The Six Hats - Investor Relations Pty Ltd,Anna Candler,Managing Consultant,No,""
 95,The Strategic Counsel Pty Ltd,Donna Staunton,Managing Director,No,""
-95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Consultant,Yes,March 1999
+95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,Antonia Gleeson,Associate,No,""
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Approach Unit Trust,Nick Bolkus,Partner,Yes,June 2005
-145,The Trustee for Bespoke Approach Unit Trust,Caroline Rhodes,Deputy Managing Director,Yes,June 2010
+145,The Trustee for Bespoke Approach Unit Trust,Caroline Rhodes,Managing Director,Yes,June 2010
 145,The Trustee for Bespoke Approach Unit Trust,Thomas Pagliaro,Associate,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Georgia Bradshaw,Researcher,No,""
-145,The Trustee for Bespoke Approach Unit Trust,Paul Tierney,Senior Consultant,No,""
+145,The Trustee for Bespoke Approach Unit Trust,Paul Tierney,Managing Director,No,""
 145,The Trustee for Bespoke Approach Unit Trust,John Olsen,Special Advisor,Yes,April 2009
 589,The Trustee for Bespoke Territory Unit Trust,Ian Smith,Partner,Yes,November 2006
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Partner,No,""
@@ -586,9 +588,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
-584,Willard Public Affairs Pty Limited,Taran Smith,Office Manager,No,""
 584,Willard Public Affairs Pty Limited,Alex Gosman,Special Counsel,Yes,September 1990
 584,Willard Public Affairs Pty Limited,Mary Andrew,Consultant,No,""
+584,Willard Public Affairs Pty Limited,Jaimi Jarvis,Office Manager,No,""
+584,Willard Public Affairs Pty Limited,Doug Johns,Director,No,""
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 641,Wurley Group Pty Ltd,Sarah Bernice Griffin,Principal,No,""
 627,yconsults group pty ltd,Yolanda Chorazyczewski,Legal Practitioner Director,No,""

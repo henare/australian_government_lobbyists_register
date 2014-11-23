@@ -87,6 +87,9 @@ agency_id,agency_business_entity_name,client_name
 513,Barry Charles Matson,FE Technologies
 513,Barry Charles Matson,Spectrovation.Com LLC
 513,Barry Charles Matson,The Trustee for the Reed Licensing Trust
+513,Barry Charles Matson,DJ Consulting Services Limited Company number 04129551 12 Tybenham Road London SW193LA United Kingdo
+513,Barry Charles Matson,Inmarsat Global Limited 99 City Road London EC1Y 1AX England  http://www.inmarsat.com/
+513,Barry Charles Matson,Inmarsat Australia PTY Limited ABN 19 090 853 080
 139,Bartholomew Quinn and Associates,Waterfront Business Community
 139,Bartholomew Quinn and Associates,Shaw Contracting
 139,Bartholomew Quinn and Associates,Norske Skog
@@ -209,8 +212,6 @@ agency_id,agency_business_entity_name,client_name
 52,Bush Consulting Services Pty Ltd,Fujitsu
 52,Bush Consulting Services Pty Ltd,Telstra
 52,Bush Consulting Services Pty Ltd,Southern Oil
-438,Butcher and Co Pty Ltd,Telstra Corporation Limited
-438,Butcher and Co Pty Ltd,Lend Lease Corporation Limited 
 654,C2hills Investments Pty Limited,Rivcott Pty Limited
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
@@ -244,6 +245,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Supercharge Batteries
 157,Chikarovski & Associates Pty Ltd,EJ Cooper and Son Pty Limited
 157,Chikarovski & Associates Pty Ltd,Civeo
+157,Chikarovski & Associates Pty Ltd,Salini Impregilo
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian Mobile Dental Care
 113,CHRIS SCHACHT,PILATUS
@@ -599,6 +601,7 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Brierty Limited
 333,FTI Consulting (Perth) Pty Ltd,CHC Helicopters (Australia)
 333,FTI Consulting (Perth) Pty Ltd,Centre for Surrogate Parenting Inc
+661,G and A Commercial Services Pty Ltd,Sabelberg Morcos Lawyers
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Intel
 106,Galbraith & Company Pty Ltd,Juniper Networks
@@ -736,6 +739,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Australian Alpaca Association Ltd
 59,GRACosway Pty Ltd,Small Pelagic Fisheries Industry Association
 59,GRACosway Pty Ltd,Nexans Olex
+59,GRACosway Pty Ltd,Royal Australian College of General Practitioners
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Gold Fields
@@ -1089,7 +1093,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Outdoor Media Association
 565,Newgate Communications Pty Limited,Australian Pork Limited
 565,Newgate Communications Pty Limited,National Farmers Federation
-565,Newgate Communications Pty Limited,National Heavy Vehicle Regulator
 565,Newgate Communications Pty Limited,Chris O'Brien Lifehouse
 565,Newgate Communications Pty Limited,Qantas Airways Limited
 565,Newgate Communications Pty Limited,Tatts Group Limited
@@ -1341,7 +1344,6 @@ agency_id,agency_business_entity_name,client_name
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
-395,Right Angle Business Services Pty Ltd,H2O Conservation Solutions Pty Ltd
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
 395,Right Angle Business Services Pty Ltd,Solar Juice Pty Ltd
 395,Right Angle Business Services Pty Ltd, Trina Solar Australia Pty Ltd 
@@ -1349,7 +1351,7 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Canadian Solar (Australia) Pty Ltd
 395,Right Angle Business Services Pty Ltd,Yingli Green Energy Australia Pty Ltd
 395,Right Angle Business Services Pty Ltd,Senvion Australia Pty Ltd
-395,Right Angle Business Services Pty Ltd,Tasman Health Cannabinoids Pty Ltd 
+395,Right Angle Business Services Pty Ltd,Arts Access Australia
 527,Robert J.L. Hawke & Associates Pty Ltd,Australia Sinofortune International Investment (Group) Pty Ltd (ACN 152 954 679)
 527,Robert J.L. Hawke & Associates Pty Ltd,Kimberley Agricultural Investment Pty Ltd (ACN 154 270 194)
 67,Roland William Manning,Batchelor Institute of Indigenous Tertiary Education
@@ -1432,6 +1434,9 @@ agency_id,agency_business_entity_name,client_name
 225,SPIER CONSULTING P/L,AHA
 225,SPIER CONSULTING P/L,MANILDRA GROUP
 225,SPIER CONSULTING P/L,AUSTRALIAN NEWSAGENTS FEDERATION
+660,Sporting Manangement Concepts,Tennis Australia
+660,Sporting Manangement Concepts,West Coast Eagles
+660,Sporting Manangement Concepts,Geelong Football Club
 239,Sports Hydrant Pty Ltd,AMP
 239,Sports Hydrant Pty Ltd,DFA Australia
 239,Sports Hydrant Pty Ltd,Virgin Blue Group of Airlines
