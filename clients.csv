@@ -227,6 +227,8 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Unity Resources Group Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Glencore Coal Assets Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Headland Preservation Group
+556,Capital Hill Advisory Pty Ltd,Sharelife Australia Limited
+556,Capital Hill Advisory Pty Ltd,Australian Remittance and Currency Providers Association
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,Northern Land Council
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
@@ -275,6 +277,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Livestock Shipping Services Pty Ltd 
 79,CMAX Communications Pty Ltd,National Capital Private Hospital
 79,CMAX Communications Pty Ltd,Wellspect Healthcare
+79,CMAX Communications Pty Ltd,Australian Petroleum Production & Exploration Association
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -456,6 +459,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,Sensis Pty Ltd
 360,Diplomacy Pty Limited,Trivantage Group Pty Ltd
 360,Diplomacy Pty Limited,Platinum Equity LLC
+360,Diplomacy Pty Limited,The Salvation Army Australia Eastern Territory General Work  
 454,Discourse Consulting Pty Ltd,ADA
 454,Discourse Consulting Pty Ltd,NDS
 454,Discourse Consulting Pty Ltd,Life withour Barriers
@@ -740,6 +744,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Small Pelagic Fisheries Industry Association
 59,GRACosway Pty Ltd,Nexans Olex
 59,GRACosway Pty Ltd,Royal Australian College of General Practitioners
+59,GRACosway Pty Ltd,Primo Smallgoods
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Gold Fields
@@ -886,6 +891,15 @@ agency_id,agency_business_entity_name,client_name
 78,John O'Connor and Associates Pty Ltd,Dried Fruits Australia
 78,John O'Connor and Associates Pty Ltd,Simcoa Operations Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Bisalloy Steel Group Limited
+255,John Scott Barker,Stornoway
+255,John Scott Barker,Font PR
+255,John Scott Barker,Marsh Pty Ltd
+255,John Scott Barker,Cuthbertson Bros
+255,John Scott Barker,St Anns Homes Inc
+255,John Scott Barker,Veolia Environmental Services
+255,John Scott Barker,Roberts Ltd
+255,John Scott Barker,Winemaking Tasmania Pty Ltd
+255,John Scott Barker,Houstons Farm 
 264,"John, Susan Maree",Bioventus Australia Pty Ltd
 410,Justine Caines,American Express International Incorporated
 410,Justine Caines,Leading Age Services Australia
@@ -1055,6 +1069,7 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,RPM Project Management 
 132,Megan Anwyl,NG Media
 132,Megan Anwyl,Malya Yutturingu
+132,Megan Anwyl,Shire of Ashburton
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Kimberley Land Council
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083

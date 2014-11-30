@@ -39,7 +39,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 88,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=88,Burson-Marsteller Pty. Ltd.,Burson-Marsteller,23001951515,2014-09-16
 52,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=52,Bush Consulting Services Pty Ltd,Bush-Consulting,71105001081,2014-07-10
 654,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=654,C2hills Investments Pty Limited,C2Hills Investments Pty Limited,93156511607,2014-09-19
-556,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=556,Capital Hill Advisory Pty Ltd,Capital Hill Advisory,39162434031,2014-11-11
+556,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=556,Capital Hill Advisory Pty Ltd,Capital Hill Advisory,39162434031,2014-11-24
 558,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=558,Catherine Emma Rocchi,Cate Rocchi Communications,22015752889,2014-08-22
 601,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=601,Catherine McGovern,Catherine McGovern,79157510884,2014-06-16
 27,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=27,Cato Counsel Pty Ltd,Cato Counsel,93103996952,2014-06-17
@@ -51,7 +51,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 343,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=343,City Public Relations Pty Ltd,City Public Relations Pty Ltd,82053153996,2010-12-15
 215,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=215,"Clark, Kerren G",Numbat Consulting,98879897568,2014-06-16
 475,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=475,Clifton Consulting Services Pty Ltd,Clifton Group,77076836792,2014-09-05
-79,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=79,CMAX Communications Pty Ltd,CMAX Advisory,73130740546,2014-11-10
+79,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=79,CMAX Communications Pty Ltd,CMAX Advisory,73130740546,2014-11-21
 472,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=472,Comsult(Aust) Pty Ltd,Comsult(Aust),26 098 280 892,2014-06-18
 625,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Connect Government Relations,70123052736,2014-09-05
 142,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=142,Consilium International Group Pty Ltd,Consilium International Group Pty Ltd,84094846358,2014-09-22
@@ -76,7 +76,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 16,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=16,Day & Hodge Associates Pty Ltd,Day & Hodge Associates Pty Ltd,28088863852,2014-06-18
 572,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=572,Debra Susan Chalmers,K.I.S.S. Communications and Events,11014577633,2014-07-09
 611,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=611,deBullet Consulting LLC,deBullet Consulting LLC,"",2014-07-08
-360,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=360,Diplomacy Pty Limited,Diplomacy,17148998645,2014-08-14
+360,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=360,Diplomacy Pty Limited,Diplomacy,17148998645,2014-11-21
 454,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=454,Discourse Consulting Pty Ltd,Discourse Consulting Pty Ltd,49090692014,2014-06-16
 624,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=624,Donna Edman,Astute Advocacy,60366005776,2014-06-20
 172,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=172,Dr Robert Horton,Horton Consulting,11798005465,2014-06-16
@@ -114,7 +114,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 125,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=125,Govstrat Pty Ltd,Govstrat,64964952044,2014-10-09
 630,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=630,GPotts,Potts and Associates,61631603285,2014-09-16
 122,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=122,GRA Everingham Pty Ltd,GRA Everingham Pty Ltd,56131702755,2014-09-05
-59,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=59,GRACosway Pty Ltd,GRACosway Pty Ltd,50082123822,2014-11-18
+59,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=59,GRACosway Pty Ltd,GRACosway Pty Ltd,50082123822,2014-11-24
 209,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=209,Gryphon Management Australia,Third House,87109077607,2014-10-06
 26,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=26,Halden Burns Pty Ltd,Halden Burns Pty Ltd,48103657290,2014-07-08
 96,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=96,Hawker Britton Group Pty Ltd,Hawker Britton,79109681405,2010-05-28
@@ -135,6 +135,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 101,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=101,John Connolly & Partners Pty Limited,John Connolly & Partners,50056165827,2014-06-30
 241,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=241,John Cook,John Cook,98997265041,2014-06-17
 78,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=78,John O'Connor and Associates Pty Ltd,John O'Connor and Associates Pty Ltd,39098650241,2014-07-08
+255,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=255,John Scott Barker,John Barker and Associates,23969141298,2014-11-21
 264,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=264,"John, Susan Maree",Open Sesame Consulting,16498754924,2014-06-23
 410,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=410,Justine Caines,New Paradigm Consulting,74 017 698 338,2014-07-25
 616,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=616,Karen Jayne Foster,o2 Media,51483430772,2014-06-18
@@ -161,7 +162,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 425,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=425,Maser Defence Pty Ltd,Maser Defence Pty Ltd,65144079612,2014-06-30
 179,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=179,McGrane-Fitzgerald Unit Trust,Hennessy-Hawks Consulting,83586804536,2014-06-30
 201,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=201,Media Affairs,Media Affairs,51379388993,2014-03-17
-132,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=132,Megan Anwyl,Anwyl Consulting,13159060561,2014-07-11
+132,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=132,Megan Anwyl,Anwyl Consulting,13159060561,2014-11-24
 452,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=452,Michael Johnson Associates Pty Limited,Michael Johnson Associates Pty Limited,65003644657,2014-09-10
 444,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=444,Michael Megaw,Michael Megaw,38917883987,2014-07-12
 577,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Next Level Strategic Services,20540952496,2014-10-20
