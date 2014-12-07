@@ -176,6 +176,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Gulf Savannah Development Inc. 
 338,Barton Deakin ,Spotless Group Limited
 338,Barton Deakin ,Lockheed Martin Overseas Corporation
+338,Barton Deakin ,Children's Medical Research Institute
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -229,6 +230,8 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Headland Preservation Group
 556,Capital Hill Advisory Pty Ltd,Sharelife Australia Limited
 556,Capital Hill Advisory Pty Ltd,Australian Remittance and Currency Providers Association
+556,Capital Hill Advisory Pty Ltd,Employers Mutual Management Pty Ltd
+556,Capital Hill Advisory Pty Ltd,PPB Advisory
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,Northern Land Council
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
@@ -398,7 +401,6 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Cape York Group Limited
 580,Crosby Textor Research Strategies Results,Leda Holdings Pty Ltd
 580,Crosby Textor Research Strategies Results,Mortlake Consolidated Pty Ltd
-580,Crosby Textor Research Strategies Results,Parramatta Leaguesâ Club Ltd
 580,Crosby Textor Research Strategies Results,QGC Pty Ltd
 580,Crosby Textor Research Strategies Results,Reconciliation Australia Limited
 580,Crosby Textor Research Strategies Results,Taemas Group Pty Ltd
@@ -587,6 +589,7 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Affordable Community Housing Limited
 453,First State Advisors and Consultants ,Caption It Pty Ltd 
 453,First State Advisors and Consultants ,Compass Housing Services Co Ltd
+453,First State Advisors and Consultants ,AndrÃ© Nobbs 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 202,Fowlstone Communications,WorleyParsons
@@ -760,6 +763,8 @@ agency_id,agency_business_entity_name,client_name
 26,Halden Burns Pty Ltd,City of Kwinana
 26,Halden Burns Pty Ltd,Hills Orchard Improvement Group Inc
 26,Halden Burns Pty Ltd,Australian Coral Farms
+26,Halden Burns Pty Ltd,Shire of Ashburton
+26,Halden Burns Pty Ltd,Snowdale Holdings Pty Ltd
 96,Hawker Britton Group Pty Ltd,Singleton Ogilvy & Mather Holdings
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,Etcom
@@ -1070,6 +1075,8 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,NG Media
 132,Megan Anwyl,Malya Yutturingu
 132,Megan Anwyl,Shire of Ashburton
+132,Megan Anwyl,Quintiq Pty Ltd
+132,Megan Anwyl,Norwest Energy NL
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Kimberley Land Council
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
@@ -1080,7 +1087,6 @@ agency_id,agency_business_entity_name,client_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Bandanna Energy
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,AWX Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Linfox Proprietary Limited
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Investa Property Group
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,CSC Australia Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Gas Energy Australia
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Johnson and Johnson Pty Ltd
@@ -1215,6 +1221,8 @@ agency_id,agency_business_entity_name,client_name
 631,Primary Policy Partners,MyJet Aviation Pty Ltd
 631,Primary Policy Partners,Chris Richards Group Pty Ltd
 631,Primary Policy Partners,Cohuna Aviation Club Inc
+631,Primary Policy Partners,WILLIAMSON ASSOCIATES RECOVERY AND TRADING SERVICES
+631,Primary Policy Partners,HTT CORPORATION
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 283,Probity International Pty. Ltd,ZTE (AUSTRALIA) PTY LTD
@@ -1244,11 +1252,8 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Plenary Group
 127,PRX Unit Trust,Intralot Australia
 127,PRX Unit Trust,Maxxia
-127,PRX Unit Trust,MIssion Australia
-127,PRX Unit Trust,Contango Capital Partners
 127,PRX Unit Trust,J P Downey  and Co
 127,PRX Unit Trust,Cardel Pty Ltd
-127,PRX Unit Trust,Tronos Jet Maintenance
 127,PRX Unit Trust,A Gas
 127,PRX Unit Trust,BrainLink Services
 127,PRX Unit Trust,Nexia Australia
@@ -1258,6 +1263,11 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Tyresmart Australia Pty Ltd
 127,PRX Unit Trust,Sunshine Groupe
 127,PRX Unit Trust,Apply Direct
+127,PRX Unit Trust,Jamieson Coote Bonds
+127,PRX Unit Trust,Australian Jumping Racing Association
+127,PRX Unit Trust,TWUSUPER
+127,PRX Unit Trust,Trenerry Property Group
+127,PRX Unit Trust,Mission Australia
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Transurban Ltd
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
@@ -1571,8 +1581,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Approach Unit Trust,KKR
 145,The Trustee for Bespoke Approach Unit Trust,Genesee  Wyoming Australia
 145,The Trustee for Bespoke Approach Unit Trust,Nyrstar
-145,The Trustee for Bespoke Approach Unit Trust,ASC Pty Ltd
-145,The Trustee for Bespoke Approach Unit Trust,Singapore Power
 145,The Trustee for Bespoke Approach Unit Trust,Hansen Yuncken Pty Ltd and Leighton Contractors Pty Ltd Joint Venture
 145,The Trustee for Bespoke Approach Unit Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Approach Unit Trust,Santos Ltd
@@ -1631,8 +1639,11 @@ agency_id,agency_business_entity_name,client_name
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,ABBOTT DIABETESE CARE
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Astellas Australia Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Tolmar Australia Pty Ltd 
+256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Aspen Pharmacare Australia Pty Ltd A.B.N. 51 096 236 985
+256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,TEVA Pharma Australia Pty Ltd ABN 169 715 664
 610,The Trusteee for the SRKM Trust,Ngaanyatjarra Media (Aboriginal Corporation)
 610,The Trusteee for the SRKM Trust,Kalgoorlie Creche Inc.
+610,The Trusteee for the SRKM Trust,Goldfields Masonic Homes Inc.
 240,The Write Connection Pty Ltd,Australian Technology Group of Universities
 240,The Write Connection Pty Ltd,InterGen (Australia)
 240,The Write Connection Pty Ltd,SA Power Networks 
@@ -1718,6 +1729,5 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
-641,Wurley Group Pty Ltd,Ariosa Diagnostics Inc (www.ariosadx.com)
 641,Wurley Group Pty Ltd,Varian Medical Systems
 627,yconsults group pty ltd,Telstra Corporation
