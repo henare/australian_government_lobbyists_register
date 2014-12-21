@@ -197,7 +197,9 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Jadu Software
 657,Brent William Knevett,Sutherland Healthcare Solutions
 657,Brent William Knevett,Accuvio
+657,Brent William Knevett,Fivium
 310,Broadcasting & Radio Technology Services,Commercial Radio Australia Limited
+662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 549,BRUNSWICK MEDIA & STRATEGIC PTY. LTD.,Chiropractorsâ Association of Australia (National)
 131,BTelecom Pty Ltd,Digital River Networks Pty Ltd
 131,BTelecom Pty Ltd,Dragnet Internet Services Pty Ltd
@@ -232,6 +234,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Australian Remittance and Currency Providers Association
 556,Capital Hill Advisory Pty Ltd,Employers Mutual Management Pty Ltd
 556,Capital Hill Advisory Pty Ltd,PPB Advisory
+556,Capital Hill Advisory Pty Ltd,Stuart Alexander & Co Pty Ltd
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,Northern Land Council
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
@@ -694,6 +697,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Sumich 
 122,GRA Everingham Pty Ltd,Eco Shark Barrier
 122,GRA Everingham Pty Ltd,Australian Finance Group (AFG)
+122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
 59,GRACosway Pty Ltd,Bupa Australia Group
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
@@ -1092,6 +1096,7 @@ agency_id,agency_business_entity_name,client_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Gas Energy Australia
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Johnson and Johnson Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,BOC Limited
+577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Careers Australia Group Limited
 356,Mr John Kindler,Pratt and Whitney Military Engines
 229,Nayton Communication Pty Ltd,Bauxite Alumina Joint Venture
 229,Nayton Communication Pty Ltd,WA Onshore Gas group
@@ -1116,7 +1121,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australian Pork Limited
 565,Newgate Communications Pty Limited,National Farmers Federation
 565,Newgate Communications Pty Limited,Chris O'Brien Lifehouse
-565,Newgate Communications Pty Limited,Qantas Airways Limited
 565,Newgate Communications Pty Limited,Tatts Group Limited
 565,Newgate Communications Pty Limited,Sydney Airport Corporation Limited
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
@@ -1173,6 +1177,7 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,Microsoft Pty Ltd
 72,Parker & Partners Pty Ltd,BioCSL (Australia) Pty Ltd
 72,Parker & Partners Pty Ltd,Teva Pharmaceutical Industries LTD
+72,Parker & Partners Pty Ltd,PHILIPS ELECTRONICS AUSTRALIA LIMITED
 304,Patrick Russell Consulting Pty Ltd,Small to Medium Enterprise Australia
 304,Patrick Russell Consulting Pty Ltd,Australian Marine Alliance
 304,Patrick Russell Consulting Pty Ltd,Australian Marine Engine Council
@@ -1715,7 +1720,6 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,ThyssenKrupp Marine Systems Australia Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,BMW Group Financial Services
-584,Willard Public Affairs Pty Limited,Mundipharma Pty Ltd
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,United States Chamber of Commerce
 584,Willard Public Affairs Pty Limited,G.I Smoker and M.R Tudehope
@@ -1726,6 +1730,7 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,Audi Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Volkswagen Group Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Porsche Cars Australia Pty Ltd
+584,Willard Public Affairs Pty Limited,Poche Centres for Indigenous Health
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
