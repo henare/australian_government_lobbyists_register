@@ -108,14 +108,12 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,CUB Pty Ltd
 338,Barton Deakin ,Indue
 338,Barton Deakin ,Harness Racing Australia Inc
-338,Barton Deakin ,Leighton Holdings Limited
 338,Barton Deakin ,Cure for Life Foundation
 338,Barton Deakin ,Camp Quality
 338,Barton Deakin ,Open Universities Australia
 338,Barton Deakin ,Aspen Medical
 338,Barton Deakin ,Playtika Ltd
 338,Barton Deakin ,International Social Games Coalition
-338,Barton Deakin ,Domain Principal Group
 338,Barton Deakin ,Trility
 338,Barton Deakin ,Australian Centre for Healthcare Governance
 338,Barton Deakin ,Canada Pension Plan Investment Board
@@ -142,7 +140,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Renew Initiatives Australia Limited 
 338,Barton Deakin ,Bowel Cancer Australia
 338,Barton Deakin ,C.H. Group Pty Ltd
-338,Barton Deakin ,The Benevolent Society
 338,Barton Deakin ,Bain and Company Inc
 338,Barton Deakin ,Buchanan Group
 338,Barton Deakin ,Smart Services CRC Pty Ltd
@@ -177,6 +174,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Spotless Group Limited
 338,Barton Deakin ,Lockheed Martin Overseas Corporation
 338,Barton Deakin ,Children's Medical Research Institute
+338,Barton Deakin ,Opal Aged Care
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -198,6 +196,8 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Sutherland Healthcare Solutions
 657,Brent William Knevett,Accuvio
 657,Brent William Knevett,Fivium
+657,Brent William Knevett,Crown Project Services Pty Limited
+657,Brent William Knevett,Anderson Morgan (Devonport) Pty Ltd
 310,Broadcasting & Radio Technology Services,Commercial Radio Australia Limited
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 549,BRUNSWICK MEDIA & STRATEGIC PTY. LTD.,Chiropractorsâ Association of Australia (National)
@@ -754,6 +754,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Royal Australian College of General Practitioners
 59,GRACosway Pty Ltd,Primo Smallgoods
 59,GRACosway Pty Ltd,CCCC International Holding Limited
+59,GRACosway Pty Ltd,Sensis Pty Ltd
+59,GRACosway Pty Ltd,BioMarin Pharmaceutical Australia Pty Ltd
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Gold Fields
@@ -1083,6 +1085,7 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,Shire of Ashburton
 132,Megan Anwyl,Quintiq Pty Ltd
 132,Megan Anwyl,Norwest Energy NL
+132,Megan Anwyl,BC Iron
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Kimberley Land Council
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
@@ -1275,6 +1278,8 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,TWUSUPER
 127,PRX Unit Trust,Trenerry Property Group
 127,PRX Unit Trust,Mission Australia
+127,PRX Unit Trust,Edge Loyalty
+127,PRX Unit Trust,Placer Property
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Transurban Ltd
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
@@ -1598,6 +1603,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Approach Unit Trust,Victoria International Container Terminal Limited 
 145,The Trustee for Bespoke Approach Unit Trust,Common Ground Adelaide 
 145,The Trustee for Bespoke Approach Unit Trust,Association of Australian Medical Research Institutes
+145,The Trustee for Bespoke Approach Unit Trust,BAE Systems Australia
 589,The Trustee for Bespoke Territory Unit Trust,Mobile LNG Pty Ltd
 589,The Trustee for Bespoke Territory Unit Trust,Crocodile Gold Corp.
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
@@ -1737,4 +1743,5 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
 641,Wurley Group Pty Ltd,Varian Medical Systems
+641,Wurley Group Pty Ltd,Edwards Lifesciences Pty Ltd
 627,yconsults group pty ltd,Telstra Corporation
