@@ -11,6 +11,8 @@ agency_id,agency_business_entity_name,owner_name
 522,Alex Gosman Consulting,Alex Gosman
 104,Alkar Pty Ltd,Allan King
 104,Alkar Pty Ltd,Karen King
+666,APEC Lawyers and Consultants Pty Ltd.,Mr. Kam Sham LEUNG
+666,APEC Lawyers and Consultants Pty Ltd.,Mr. Johnathan Chi Ngai SIU
 415,APS Networking Pty Ltd,Anthony Stewart
 588,Argos Consulting,Brett Robin Hilder
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke
@@ -129,7 +131,6 @@ agency_id,agency_business_entity_name,owner_name
 31,Endeavour Consulting Group Pty Ltd,Lexem Pty Ltd
 31,Endeavour Consulting Group Pty Ltd,Tomogen Pty Ltd
 74,Enhance Corporate Pty Ltd,James Peter Elder
-15,Eric Walsh Pty Ltd,Mr Eric Walsh
 663,Espresso Communications,Corrie McLeod
 71,Essential Media Communications Pty Ltd,Tony Douglas
 71,Essential Media Communications Pty Ltd,Peter Lewis
@@ -256,8 +257,6 @@ agency_id,agency_business_entity_name,owner_name
 229,Nayton Communication Pty Ltd,Jonathan Frederick Nayton
 447,NETTALP Pty Ltd,John Robert Platten
 565,Newgate Communications Pty Limited,Porta Communications plc
-618,Northbridge Infrastructure Pty Ltd,E*scape Pty Ltd
-618,Northbridge Infrastructure Pty Ltd,Borlek Investments Pty Ltd
 429,NTEC Australia Pty. Ltd.,Christian Groves
 429,NTEC Australia Pty. Ltd.,Mark Hollis
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar
@@ -297,7 +296,6 @@ agency_id,agency_business_entity_name,owner_name
 242,Purple Communications Australia Pty Ltd,Richard Harris
 242,Purple Communications Australia Pty Ltd,STW Group
 242,Purple Communications Australia Pty Ltd,Lishman Nominees Pty Ltd
-29,Pynfall Pty Ltd,Hannelore Duczek
 446,R A Neilson and M Salmon,Michael Salmon
 446,R A Neilson and M Salmon,Ross Neilson
 492,Rachael Sweeney ,Rachael Sweeney
