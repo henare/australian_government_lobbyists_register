@@ -47,7 +47,6 @@ agency_id,agency_business_entity_name,owner_name
 626,Blackie McDonald Pty Ltd,Jenny McDonald
 626,Blackie McDonald Pty Ltd,Anthony Blackie
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl
-12,Border Management Advisory Services Pty Ltd,Leslie George Jones
 614,Bossy Group Pty Ltd,Nicole Martine Gill Cameron
 614,Bossy Group Pty Ltd,McMahon Family Trust
 614,Bossy Group Pty Ltd,Peter Michael McMahon
@@ -209,6 +208,7 @@ agency_id,agency_business_entity_name,owner_name
 410,Justine Caines,Justine Caines
 616,Karen Jayne Foster,Karen Foster
 576,KENDAL AND ASSOCIATES,STEPHEN L KENDAL
+518,Kevin James Carroll,Kevin James Carroll
 621,KnowMinister.com Pty Ltd,Denise Frances Williams
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones
 115,KPMG,The partners of KPMG change from time to time. A list of partners is available from KPMG on request.
@@ -321,6 +321,8 @@ agency_id,agency_business_entity_name,owner_name
 67,Roland William Manning,Rollo Manning
 439,Royce (Vic) Pty Ltd,Peter Mahon
 439,Royce (Vic) Pty Ltd,Richard Amos
+669,Royce Communications Pty Ltd,Peter Mahon
+669,Royce Communications Pty Ltd,Richard Amos
 126,Salmon Odgers Family Trust,Michael Salmon
 126,Salmon Odgers Family Trust,Carolyn Odgers
 607,Sand Technology Aust P/L,Ian Douglas Fowler.
@@ -379,6 +381,7 @@ agency_id,agency_business_entity_name,owner_name
 28,The Trustee for Markeit Family Trust,Marilyn Gail Blyth
 28,The Trustee for Markeit Family Trust,Keith Alexander Blyth
 595,The trustee for Paripi Trust,Mark Robert Lymb
+668,The Trustee for Sandra Eccles Family Trust,Sandra Joy Eccles
 117,The Trustee for the Bowden Family Trust,The Trustee for the Bowden Family Trust
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann

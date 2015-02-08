@@ -30,7 +30,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Grahame Morris,Federal Director ,Yes,September 1997
 338,Barton Deakin ,Amanda Parker,Consultant,No,""
 338,Barton Deakin ,John Griffin,Director,Yes,February 1997
-338,Barton Deakin ,Patrick Mc Grath,Consultant,Yes,July 2012
+338,Barton Deakin ,Patrick McGrath,Consultant,Yes,July 2012
 338,Barton Deakin ,Matt Hingerty,CEO and MD ,Yes,June 2012
 338,Barton Deakin ,David Alexander,Managing Director (Federal),Yes,November 2007
 338,Barton Deakin ,Daniel Wood,Consultant,No,""
@@ -39,14 +39,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Eacham Curry ,Managing Director (WA),Yes,February 2005
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
 338,Barton Deakin ,Alexander Clark,Research Analyst,No,""
-338,Barton Deakin ,James Coward,Research Assistant,No,""
+338,Barton Deakin ,James Coward,Research Analyst,No,""
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
 162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,November 1987
 626,Blackie McDonald Pty Ltd,Anthony Blackie,Chairman,Yes,May 1986
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl,Managing Director,No,""
-12,Border Management Advisory Services Pty Ltd,Les Jones,Managing Director,Yes,August 2000
 614,Bossy Group Pty Ltd,Peter Michael McMahon,Principal Consultant,Yes,November 2006
 6,Bramex Pty Ltd,Ross Ramsay (Mr M R Ramsay),Managing Director,Yes,June 1988
 6,Bramex Pty Ltd,Barbara Ramsay  (Mrs B Ramsay),Director,Yes,March 1988
@@ -123,7 +122,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Senior Adviser,Yes,January 2007
 81,CPR Communications & Public Relations Pty Ltd,William Forwood,Strategic Counsel,No,""
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
-81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Senior Adviser,Yes,January 2007
+81,CPR Communications & Public Relations Pty Ltd,Kate Thwaites,Senior Adviser,Yes,October 2013
 81,CPR Communications & Public Relations Pty Ltd,Sally Leake,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Leanne Joyce,Senior Adviser,No,""
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
@@ -184,18 +183,18 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Alana Mew,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jackie Woods,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
+71,Essential Media Communications Pty Ltd,Elisa Fernandes Carvalho,Communications Consultant,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,John Morton,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,Jay Pleass,Account Director,Yes,August 2007
 324,FCC Partners,Hugh Fraser,Managing Director,No,""
 214,FIPRA Australia Pty Limited,David Lieberman,Director,No,""
-214,FIPRA Australia Pty Limited,John Richardson,Principal,No,""
+214,FIPRA Australia Pty Limited,John Richardson,Principal,Yes,May 1995
 214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
 214,FIPRA Australia Pty Limited,Madeleine Lewis,Account Executive,No,""
 214,FIPRA Australia Pty Limited,Shannan Manton,Account Executive,No,""
 453,First State Advisors and Consultants ,Joseph Tannous ,"Executive Director, Australia ",Yes,February 2004
 453,First State Advisors and Consultants ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
-453,First State Advisors and Consultants ,Gary Humphries ,Special Counsel ,No,""
 453,First State Advisors and Consultants ,Christian Dunk,Government Relations Consultant ,No,""
 295,Five Corners Pty Ltd,Peter Robertson,Director - Five Coners Pty Ltd,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director,No,""
@@ -297,6 +296,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 410,Justine Caines,Justine Caines,Principal,No,""
 616,Karen Jayne Foster,Amy Gibson,Strategic Communications Advisor,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
+518,Kevin James Carroll,Kevin James Carroll,Regional Representative,Yes,June 1979
 621,KnowMinister.com Pty Ltd,Denise Frances Williams,Consultant,No,""
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones,Managing Director,No,""
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
@@ -308,7 +308,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Geoff Brennan,Senior Advisor,Yes,April 1996
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Lucy Chamberlain,Associate Director ,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Director,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Director / Head of Government Relations,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jessica McIntyre,Office Manager,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Daly,Associate,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Gavin Clancy,Director,No,""
@@ -346,9 +346,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 201,Media Affairs,George Hazim,Director,No,""
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
-452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Managing Partner,No,""
+452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander,Partner,No,""
-452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Partner,No,""
+452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Managing Partner,No,""
 452,Michael Johnson Associates Pty Limited,Ian Michael RossGowan,Director,No,""
 444,Michael Megaw,Michael Curnow Megaw,Owner,No,""
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore,Director,Yes,November 2007
@@ -462,6 +462,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 439,Royce (Vic) Pty Ltd,Peter Mahon,Chief Executive,No,""
 439,Royce (Vic) Pty Ltd,Richard Amos,Managing Director,No,""
 439,Royce (Vic) Pty Ltd,Matthew Mahon,General Manager,No,""
+669,Royce Communications Pty Ltd,Peter Mahon,Chief Executive,No,""
+669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
+669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
 126,Salmon Odgers Family Trust,Michael Salmon,Director,No,""
 607,Sand Technology Aust P/L,Ian Douglas Fowler,Director.,No,""
 276,Santo Santoro Consulting,The Hon Santo Santoro,Director,Yes,March 2007
@@ -501,6 +504,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Lucy Kozlowski,Consultant,Yes,November 2010
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora furman,Senior Manager Campaigns,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Anne Treasure,Senior Account Executive,No,""
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Travers Purton,Senior Account Executive,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
@@ -514,16 +518,17 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 145,The Trustee for Bespoke Approach Unit Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Approach Unit Trust,Nick Bolkus,Partner,Yes,June 2005
 145,The Trustee for Bespoke Approach Unit Trust,Caroline Rhodes,Managing Director,Yes,June 2010
-145,The Trustee for Bespoke Approach Unit Trust,Thomas Pagliaro,Associate,No,""
-145,The Trustee for Bespoke Approach Unit Trust,Georgia Bradshaw,Researcher,No,""
+145,The Trustee for Bespoke Approach Unit Trust,Thomas Pagliaro,Consultant,No,""
+145,The Trustee for Bespoke Approach Unit Trust,Georgia Bradshaw,Associate,No,""
 145,The Trustee for Bespoke Approach Unit Trust,Paul Tierney,Managing Director,No,""
 145,The Trustee for Bespoke Approach Unit Trust,John Olsen,Special Advisor,Yes,April 2009
 589,The Trustee for Bespoke Territory Unit Trust,Ian Smith,Partner,Yes,November 2006
-589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Partner,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Managing Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Caroline Rhodes,Consultant,Yes,June 2010
-589,The Trustee for Bespoke Territory Unit Trust,Thomas Pagliaro,Consultant,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Thomas Pagliaro,Associate,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Georgia Bradshaw,Consultant,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Paul Tierney,Consultant,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Michael Burgess,Partner,No,""
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 550,The Trustee for Connelly Project Resources,Michael Peter Connelly,Director,No,""
@@ -534,6 +539,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 41,The Trustee for Hilton Valley Investment,Alistair Urquhart,Director,No,""
 28,The Trustee for Markeit Family Trust,Keith Blyth,Managing Director,No,""
 595,The trustee for Paripi Trust,Mark Robert Lymb,Trustee,No,""
+668,The Trustee for Sandra Eccles Family Trust,Sandra Joy Eccles,Director ,Yes,January 1999
 117,The Trustee for the Bowden Family Trust,Bob Bowden,Chief Executive,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann,Senior Health Economist,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann,Director,No,""
