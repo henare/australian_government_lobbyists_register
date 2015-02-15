@@ -22,6 +22,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 45,Australian Public Affairs Limited Partnership,Rodney Frail,Director  Media and Issues Management,No,""
 45,Australian Public Affairs Limited Partnership,Philip McCall,Director  Public Relations,No,""
 45,Australian Public Affairs Limited Partnership,Rachel Fry,Senior Consultant  Regulatory Affairs,Yes,November 2010
+45,Australian Public Affairs Limited Partnership,Liam Bathgate,Director  Regulatory Affairs,Yes,March 1983
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack,Director,Yes,June 2001
 413,BAE Systems Australia Limited,John Viskic,Business Development Manager,No,""
@@ -284,6 +285,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Fiona Wilson,Associate,No,""
 319,Jo Scard Pty Ltd,Jackie Hanafie,Associate,No,""
 319,Jo Scard Pty Ltd,Kristy De Camps,Senior Associate,No,""
+319,Jo Scard Pty Ltd,Alexandra Dickens,Associate,No,""
 275,Jody Fassina ATF JAI Family Trust,Jody Fassina,Principal Consultant,Yes,April 2001
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
@@ -330,6 +332,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Kirsten Marks,Healthcare Consultant,No,""
 566,London Agency Pty Ltd,Cary Ann Moore,Account Manager,No,""
+566,London Agency Pty Ltd,Annette Stenhouse,Account Manager,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
@@ -459,9 +462,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 527,Robert J.L. Hawke & Associates Pty Ltd,The Hon Robert James Lee Hawke AC,Consultant,Yes,February 1992
 527,Robert J.L. Hawke & Associates Pty Ltd,Ian David Kellaway,Secretary,No,""
 67,Roland William Manning,Rollo Manning,Principal,No,""
-439,Royce (Vic) Pty Ltd,Peter Mahon,Chief Executive,No,""
-439,Royce (Vic) Pty Ltd,Richard Amos,Managing Director,No,""
-439,Royce (Vic) Pty Ltd,Matthew Mahon,General Manager,No,""
 669,Royce Communications Pty Ltd,Peter Mahon,Chief Executive,No,""
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
@@ -480,6 +480,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Penny Kotsiovos,Consultant,No,""
 82,Socom Pty Ltd,Jennifer Cromarty,Account Director,No,""
+82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 660,Sporting Manangement Concepts,Ben Tatterson,Director,No,""
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
@@ -574,7 +575,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 428,Weber Shandwick Worldwide,Eliza Newton,Senior Account Director,No,""
 428,Weber Shandwick Worldwide,Alistair Nicholas,Senior Advisor,Yes,October 2000
 428,Weber Shandwick Worldwide,Megan McCarthy,Account Supervisor,No,""
-428,Weber Shandwick Worldwide,Justin Yuen,Consultant,No,""
+428,Weber Shandwick Worldwide,Justin Yuen,Senior Consultant,No,""
+428,Weber Shandwick Worldwide,Belinda White,Senior Account Director,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,CEO,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Partner,No,""
