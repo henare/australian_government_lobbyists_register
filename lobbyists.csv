@@ -9,6 +9,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 37,Aequum Pty Ltd,Gary Scarrabelotti,Managing Director,No,""
 522,Alex Gosman Consulting,Alex Gosman,Principal,Yes,September 1990
 104,Alkar Pty Ltd,Allan King,Director,No,""
+671,ALSADA TECHNOLOGY PTY. LIMITED ,ALAN FUNG,DIRECTOR,No,""
 666,APEC Lawyers and Consultants Pty Ltd.,Mr. Kam Sham LEUNG,Managing Director,No,""
 666,APEC Lawyers and Consultants Pty Ltd.,Mr. Johnathan Chi Ngai SIU,Chairman,No,""
 415,APS Networking Pty Ltd,Anthony Stewart,Director,Yes,March 2011
@@ -133,12 +134,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Campaign and Research Consultant,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
 580,Crosby Textor Research Strategies Results,Peter Shmigel,Senior Consultant (Community),No,""
-580,Crosby Textor Research Strategies Results,George Brougham,Campaign Assistant,No,""
+580,Crosby Textor Research Strategies Results,George Brougham,Campaign Consultant,No,""
 580,Crosby Textor Research Strategies Results,Carrington Brigham,Online and Campaign Consultant,No,""
-580,Crosby Textor Research Strategies Results,Nicholas Nogarotto,Business Development Manager,No,""
 580,Crosby Textor Research Strategies Results,Catherine Beachley,Consultant,No,""
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
-153,Cultural Consulting,Dr. Robert Goodfellow,Principal Consultant,No,""
+153,Cultural Consulting,Dr Robert Goodfellow,Principal Consultant,No,""
 386,Currie Communications,Craig Little,Senior Consultant,No,""
 386,Currie Communications,Mark Paterson,Principal,No,""
 386,Currie Communications,Susan McNair,Managing Director,No,""
@@ -177,6 +177,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 663,Espresso Communications,Corrie McLeod ,Managing Director ,No,""
 663,Espresso Communications,James Riley ,Strategy and Engagement ,No,""
 663,Espresso Communications,Matthew Overington,Group Account Director,No,""
+663,Espresso Communications,Gabriel Wong ,Senior Account Director,No,""
 663,Espresso Communications,Amanda Conroy ,Account Director,No,""
 71,Essential Media Communications Pty Ltd,Adrian Dodd,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
@@ -259,12 +260,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
-96,Hawker Britton Group Pty Ltd,Alice Crawford,Research Analyst,No,""
+96,Hawker Britton Group Pty Ltd,Sonia Arakkal,Research Analyst,No,""
 96,Hawker Britton Group Pty Ltd,Philip Reed,Director,No,""
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
-8,Hill and Knowlton,Tim McPhail,Director,No,""
 8,Hill and Knowlton,Michelle Curley,Head of Corporate,No,""
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
@@ -328,7 +328,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
 188,LESL Services Pty Ltd,Stephen Loosley,Director,Yes,May 1995
 204,Lighthouse Communications Group Pty Ltd,Peter Laidlaw,Managing Director,No,""
-529,Lobbying Australia,Peter Forbes,Managing Director,No,""
+529,Lobbying Australia Pty Ltd,Peter Forbes,Managing Director,No,""
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Kirsten Marks,Healthcare Consultant,No,""
 566,London Agency Pty Ltd,Cary Ann Moore,Account Manager,No,""
@@ -376,8 +376,17 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Philippa Crowther,Executive Assistant,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
+86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
+86,Ogilvy PR Health,Georgina Morris,Account Director,No,""
+86,Ogilvy PR Health,Sally Strautins,Senior Account Director,No,""
+86,Ogilvy PR Health,Emma Pearson,Account Manager,No,""
+86,Ogilvy PR Health,Carly Vale,Account Executive,No,""
+86,Ogilvy PR Health,Rachel Beck,Account Coordinator,No,""
+86,Ogilvy PR Health,Emma Connors,Senior Media Strategist,No,""
+86,Ogilvy PR Health,Rachel Stanton,Senior Account Manager,No,""
 144,"O'MALLEY, Susanne Patricia",Sue O'Malley,Medical Reimbursement Strategist,No,""
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
+670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
 427,Owen International Pty Ltd,Leslie Goodridge,Managing Director,Yes,May 1994
 598,Oxley International,Alan Robert Oxley,Director,Yes,January 1989
 309,Paramul Pty Ltd,Paul Lennon,Director,No,""
@@ -392,9 +401,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
 219,Policy Solutions Group Pty Ltd,Mark Sutton,Director ,No,""
 573,Politic Political Advisors,Thomas (Tom) Clive Wheelwright,Principal,Yes,June 1996
-318,Porter Novelli Australia Pty Ltd,Peter Kent,Managing Director,No,""
-318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Group Account Director,No,""
-318,Porter Novelli Australia Pty Ltd,Damien Batey,Corporate Communications Lead,No,""
+318,Porter Novelli Australia Pty Ltd,Peter Kent,Chief Executive,No,""
+318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Managing Partner,No,""
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,David Begg,Director,No,""
 516,Premier State Consulting Pty Ltd,Natalie Fitzpatrick,Manager â Governance & Strategic Planning,No,""
@@ -438,7 +446,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 446,R A Neilson and M Salmon,Michael Salmon,Director,No,""
 446,R A Neilson and M Salmon,Ross Neilson,Director,No,""
 492,Rachael Sweeney ,Rachael Sweeney,Director,No,""
-492,Rachael Sweeney ,Lauren Robinson,Consultant,No,""
+492,Rachael Sweeney ,Ashleigh Gilchrist,Consultant,No,""
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 563,"Reith, Peter Keaston",Peter Keaston Reith,Sole Trader,Yes,November 2001
@@ -481,6 +489,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 82,Socom Pty Ltd,Penny Kotsiovos,Consultant,No,""
 82,Socom Pty Ltd,Jennifer Cromarty,Account Director,No,""
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
+82,Socom Pty Ltd,Danny McDonald,Associate Director,Yes,December 2012
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 660,Sporting Manangement Concepts,Ben Tatterson,Director,No,""
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
@@ -492,6 +501,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Jonathon Moore,Senior Consultant,No,""
 66,Statecraft,Lucy Rayner,Associate Consultant,No,""
 66,Statecraft,Sophie Turnbull,Consultant,No,""
+66,Statecraft,Jackson Busse,Associate Consultant,No,""
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
 642,StratHouse Pty Ltd,James Baird,Director,Yes,November 2007
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
