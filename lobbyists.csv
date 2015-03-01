@@ -1,6 +1,4 @@
 agency_id,agency_business_entity_name,lobbyist_name,position,former_government_representative,cessation_date
-629, A.M Joseph & B.J Sundell,Brett Sundell,Adviser,Yes,October 2013
-594,23D pty ltd,Simon Turner,Director,No,""
 362,89 Degrees East Pty Ltd,Annie O'Rourke,Director,Yes,September 2009
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
@@ -17,7 +15,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke,Director,Yes,August 2004
 379,assetpr,Anthony Rasman,Strategic Counsel,No,""
 63,AusAccess Unit Trust,Mark Ridgway,Chairman,Yes,May 1994
-590,Australia-China Associates Pty Ltd,James Miller,Director,No,""
 233,Australian Industry Involvement Services,Bruno Parolin,Consultant,Yes,November 1990
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
 45,Australian Public Affairs Limited Partnership,Rodney Frail,Director  Media and Issues Management,No,""
@@ -45,14 +42,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
-162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,November 1987
+162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,March 1983
 626,Blackie McDonald Pty Ltd,Anthony Blackie,Chairman,Yes,May 1986
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl,Managing Director,No,""
 614,Bossy Group Pty Ltd,Peter Michael McMahon,Principal Consultant,Yes,November 2006
 6,Bramex Pty Ltd,Ross Ramsay (Mr M R Ramsay),Managing Director,Yes,June 1988
 6,Bramex Pty Ltd,Barbara Ramsay  (Mrs B Ramsay),Director,Yes,March 1988
 657,Brent William Knevett,Brent William Knevett,Managing Principal,Yes,October 2001
-310,Broadcasting & Radio Technology Services,Robert Scott GREENEY,Director,Yes,August 2000
 662,BroadSpectrum Consultants Pty Ltd,Andrew James King,Director,No,""
 131,BTelecom Pty Ltd,Sarina Le,Director,No,""
 131,BTelecom Pty Ltd,Greg Fonti,General Manager,No,""
@@ -72,7 +68,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Lauren Gain,Advisor,No,""
 556,Capital Hill Advisory Pty Ltd,Christine Kirk,Executive Assistant,No,""
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Consultant,No,""
-558,Catherine Emma Rocchi,Cate Rocchi,CEO,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 27,Cato Counsel Pty Ltd,Sue Cato,Principal,No,""
 27,Cato Counsel Pty Ltd,Todd Hayward,Advisor,No,""
@@ -84,7 +79,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 157,Chikarovski & Associates Pty Ltd,Samantha Dybac,Corporate Affairs,No,""
 658,Chris Drummer ,Christopher John Drummer,CEO,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
-343,City Public Relations Pty Ltd,Tim Allerton,Managing Director,No,""
 215,"Clark, Kerren G",Kerren Clark,Principal,No,""
 475,Clifton Consulting Services Pty Ltd,John Ridley,Principal,No,""
 475,Clifton Consulting Services Pty Ltd,Ken Davis,Senior Consultant,No,""
@@ -200,6 +194,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 453,First State Advisors and Consultants ,Christian Dunk,Government Relations Consultant ,No,""
 295,Five Corners Pty Ltd,Peter Robertson,Director - Five Coners Pty Ltd,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director,No,""
+217,Fordham Management Pty Ltd,Peter Fordham,Director,No,""
 202,Fowlstone Communications,Geoff Fowlstone,Principal ,No,""
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
 484,FPL Advisory Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
@@ -208,21 +203,17 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Katina Hodson Thomas,Director,Yes,September 2008
 333,FTI Consulting (Perth) Pty Ltd,Tara Nash,Consultant,No,""
 333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Director,No,""
-661,G and A Commercial Services Pty Ltd,Geoffrey Graeme Leigh,Director,No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 106,Galbraith & Company Pty Ltd,Allan King,Partner,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,June 1979
 1,Gambolling Pty Ltd,Barbara Carney,Director,Yes,June 2002
 375,Gell Southam Group Pty Ltd,Patrick Southam,Principal,No,""
-606,Genome Investigation Pty Ltd,Peter Hingston,Liaison Officer to MSAC,No,""
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
-33,George Brownbill Consulting Pty Ltd,George Metcalfe Brownbill,principal,Yes,July 1988
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
 150,Glide Pty Ltd,Gail White,Senior Consultant,No,""
 150,Glide Pty Ltd,Michael Woodhouse,Director,No,""
 561,Global Issues Group,Gregory Rowe Picker,Director,Yes,January 2009
 639,Gold City Corp Pty Ltd,Matt Birney,Managing Director,No,""
-7,Government Relations Solutions Pty Ltd,David Scotland,Senior Consultant,No,""
 7,Government Relations Solutions Pty Ltd,WendyMatthew,Administration / Research,No,""
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
 125,Govstrat Pty Ltd,Damian Power,Director,No,""
@@ -296,7 +287,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
 410,Justine Caines,Justine Caines,Principal,No,""
-616,Karen Jayne Foster,Amy Gibson,Strategic Communications Advisor,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 518,Kevin James Carroll,Kevin James Carroll,Regional Representative,Yes,June 1979
 621,KnowMinister.com Pty Ltd,Denise Frances Williams,Consultant,No,""
@@ -389,7 +379,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
 427,Owen International Pty Ltd,Leslie Goodridge,Managing Director,Yes,May 1994
 598,Oxley International,Alan Robert Oxley,Director,Yes,January 1989
-309,Paramul Pty Ltd,Paul Lennon,Director,No,""
 72,Parker & Partners Pty Ltd,Hamish Li,Account Manager,No,""
 72,Parker & Partners Pty Ltd,Michael Hartmann,Director Government Relations,No,""
 72,Parker & Partners Pty Ltd,Arli Miller,Director,No,""
@@ -403,6 +392,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 573,Politic Political Advisors,Thomas (Tom) Clive Wheelwright,Principal,Yes,June 1996
 318,Porter Novelli Australia Pty Ltd,Peter Kent,Chief Executive,No,""
 318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Managing Partner,No,""
+318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Partner,No,""
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,David Begg,Director,No,""
 516,Premier State Consulting Pty Ltd,Natalie Fitzpatrick,Manager â Governance & Strategic Planning,No,""
@@ -416,12 +406,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 220,Primary Communication Pty Ltd,Jesse Krncevic,Account Manager,No,""
 631,Primary Policy Partners,Andrew Gibbs,Founding Partner,Yes,January 2001
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
-100,Professional Public Relations Pty Ltd (PPR),Michael Pooley,General Manager - Sydney,No,""
-100,Professional Public Relations Pty Ltd (PPR),Richard Lazar,Managing Director,No,""
-100,Professional Public Relations Pty Ltd (PPR),Peter Harris,Executive Director Perth,No,""
-100,Professional Public Relations Pty Ltd (PPR),Nicole Moody,General Manager Perth,No,""
-100,Professional Public Relations Pty Ltd (PPR),Tim Larcombe,Senior Counsel Perth,No,""
-100,Professional Public Relations Pty Ltd (PPR),Carla Shearman,Group Director Perth,No,""
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop,Director,Yes,June 2006
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas,Managing Director,Yes,December 2000
 127,PRX Unit Trust,James Aanensen,Consultant,No,""
@@ -484,6 +468,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 143,Sefiani Communications Group,Robyn Sefiani,Managing Director,No,""
 143,Sefiani Communications Group,Nicholas Owens,Director,No,""
 143,Sefiani Communications Group,Susan Martin (nee Bourke),Senior Strategist Media and Government,No,""
+676,Sesimic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
+676,Sesimic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
+676,Sesimic Asia Pacific Pty Ltd,Andrew John Hazell,Business and Operations Manager,No,""
+676,Sesimic Asia Pacific Pty Ltd,Damian Edwin Mullany,Senior Technician,No,""
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel,Company Director,Yes,July 2003
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Penny Kotsiovos,Consultant,No,""
@@ -493,6 +481,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 660,Sporting Manangement Concepts,Ben Tatterson,Director,No,""
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
+665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
 108,ST CLAIR Anthony William,Tony StClair,Director,No,""
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
 490,Staindl Strategic Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
@@ -516,6 +505,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora furman,Senior Manager Campaigns,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Anne Treasure,Senior Account Executive,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Travers Purton,Senior Account Executive,No,""
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Kathryn Hall,Senior Account executive,Yes,September 2010
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
@@ -526,13 +516,15 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 95,The Strategic Counsel Pty Ltd,The Hon. Dr Michael Wooldridge,Advisor,Yes,October 2001
 95,The Strategic Counsel Pty Ltd,Yvette Alexander Ross,Associate,No,""
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
-145,The Trustee for Bespoke Approach Unit Trust,Ian Smith,Partner,Yes,November 2006
-145,The Trustee for Bespoke Approach Unit Trust,Nick Bolkus,Partner,Yes,June 2005
-145,The Trustee for Bespoke Approach Unit Trust,Caroline Rhodes,Managing Director,Yes,June 2010
-145,The Trustee for Bespoke Approach Unit Trust,Thomas Pagliaro,Consultant,No,""
-145,The Trustee for Bespoke Approach Unit Trust,Georgia Bradshaw,Associate,No,""
-145,The Trustee for Bespoke Approach Unit Trust,Paul Tierney,Managing Director,No,""
-145,The Trustee for Bespoke Approach Unit Trust,John Olsen,Special Advisor,Yes,April 2009
+424,The Taylor Street Consultancy P/L,Vanessa Pilla,Senior Advisor,No,""
+424,The Taylor Street Consultancy P/L,Adam Leto,Senior Advisor,No,""
+145,The Trustee for Bespoke Business Trust,Ian Smith,Partner,Yes,November 2006
+145,The Trustee for Bespoke Business Trust,Nick Bolkus,Partner,Yes,June 2005
+145,The Trustee for Bespoke Business Trust,Caroline Rhodes,Managing Director,Yes,June 2010
+145,The Trustee for Bespoke Business Trust,Thomas Pagliaro,Consultant,No,""
+145,The Trustee for Bespoke Business Trust,Georgia Bradshaw,Associate,No,""
+145,The Trustee for Bespoke Business Trust,Paul Tierney,Managing Director,No,""
+145,The Trustee for Bespoke Business Trust,John Olsen,Special Advisor,Yes,April 2009
 589,The Trustee for Bespoke Territory Unit Trust,Ian Smith,Partner,Yes,November 2006
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Managing Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Caroline Rhodes,Consultant,Yes,June 2010
@@ -568,13 +560,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 152,TJM Consulting,Thomas John McLaughlin,Proprietor,No,""
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS,CHAIRMAN,No,""
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering,Director,Yes,January 2000
-161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher,Managing Director,No,""
-161,Vanguard Consulting and Services Pty Ltd,Timothy John Gallagher,General Manager,No,""
-161,Vanguard Consulting and Services Pty Ltd,David Matthew Russell,General Manager,No,""
-161,Vanguard Consulting and Services Pty Ltd,Julie Ann Sawyer,Manager Communication and Policy,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing,Managing Director,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Graham Alexander Ingerson,Government Relations Specialist,No,""
-615,Wabsley Pty Ltd,Kel Watt,Managing Director,Yes,September 2013
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson,Director,No,""
 463,Walker Watterson Holdings Pty Ltd,Jonathan Englert,Consultant,No,""
 463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Consultant,No,""

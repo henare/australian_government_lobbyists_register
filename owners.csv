@@ -1,7 +1,4 @@
 agency_id,agency_business_entity_name,owner_name
-629, A.M Joseph & B.J Sundell,Brett Sundell
-629, A.M Joseph & B.J Sundell,Adam Joseph
-594,23D pty ltd,Simon Turner
 362,89 Degrees East Pty Ltd,Annie O'Rourke
 271,A D Evers-Buckland,Alan Evers-Buckland
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Keen Securities Pty Limited
@@ -24,8 +21,6 @@ agency_id,agency_business_entity_name,owner_name
 379,assetpr,Anthony Rasman
 63,AusAccess Unit Trust,Mark Ridgway (Consulting Canberra Pty Ltd)
 63,AusAccess Unit Trust,Kerrie Ridgway (Consulting Canberra Pty Ltd)
-590,Australia-China Associates Pty Ltd,Edward Lee
-590,Australia-China Associates Pty Ltd,James Miller
 233,Australian Industry Involvement Services,Bruno Parolin
 234,Australian Project Developments Pty. Ltd.,Rod Brown
 45,Australian Public Affairs Limited Partnership,Australian Public Affairs Pty Ltd
@@ -54,7 +49,6 @@ agency_id,agency_business_entity_name,owner_name
 6,Bramex Pty Ltd,Mrs Barbara Ramsay
 6,Bramex Pty Ltd,Mr Mervyn Ross Ramsay 
 657,Brent William Knevett,Brent William Knevett
-310,Broadcasting & Radio Technology Services,Robert Scott GREENEY
 662,BroadSpectrum Consultants Pty Ltd,Andrew James King
 662,BroadSpectrum Consultants Pty Ltd,Peggy Marie King
 131,BTelecom Pty Ltd,Sarina Le
@@ -64,7 +58,6 @@ agency_id,agency_business_entity_name,owner_name
 654,C2hills Investments Pty Limited,cara leanne dale
 654,C2hills Investments Pty Limited,glen anthony dale
 556,Capital Hill Advisory Pty Ltd,National Strategy Group
-558,Catherine Emma Rocchi,Cate Rocchi
 601,Catherine McGovern,Catherine McGovern
 27,Cato Counsel Pty Ltd,Sue Cato
 191,"Cemdia Pty, Ltd",Hendrik Prins
@@ -74,7 +67,6 @@ agency_id,agency_business_entity_name,owner_name
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski
 658,Chris Drummer ,Christopher John Drummer
 113,CHRIS SCHACHT,CHRIS SCHACHT
-343,City Public Relations Pty Ltd,Tim Allerton
 215,"Clark, Kerren G",Kerren Clark
 475,Clifton Consulting Services Pty Ltd,John Ridley
 79,CMAX Communications Pty Ltd,Tara Taubenschlag
@@ -143,12 +135,12 @@ agency_id,agency_business_entity_name,owner_name
 453,First State Advisors and Consultants ,St Joseph Enterprises 
 295,Five Corners Pty Ltd,Peter Robertson
 295,Five Corners Pty Ltd,Deborah Bell
+217,Fordham Management Pty Ltd,Peter Fordham 
+217,Fordham Management Pty Ltd,Rita Fordham
 202,Fowlstone Communications,Janene Fowlstone
 202,Fowlstone Communications,Geoff Fowlstone
 484,FPL Advisory Pty Ltd,Steve Cusworth
 333,FTI Consulting (Perth) Pty Ltd,FTI Consulting (Perth) Pty Ltd
-661,G and A Commercial Services Pty Ltd,Geoffrey Graeme Leigh
-661,G and A Commercial Services Pty Ltd,Andree Patrice Leigh
 460,Gabrielle Trainor,Gabrielle Trainor
 106,Galbraith & Company Pty Ltd,Alkar P/L
 106,Galbraith & Company Pty Ltd,Artsofar P/L
@@ -156,9 +148,7 @@ agency_id,agency_business_entity_name,owner_name
 1,Gambolling Pty Ltd,Stephen Carney
 1,Gambolling Pty Ltd,Barbara Carney
 375,Gell Southam Group Pty Ltd,Patrick Southam
-606,Genome Investigation Pty Ltd,Guy Hingston
 185,Geoff Conlon,Geoff Conlon
-33,George Brownbill Consulting Pty Ltd,George Brownbill
 238,GIMC Consulting,Gregory Cupitt
 150,Glide Pty Ltd,Michael Woodhouse
 561,Global Issues Group,Gregory Rowe Picker
@@ -207,7 +197,6 @@ agency_id,agency_business_entity_name,owner_name
 255,John Scott Barker,John Scott Barker
 264,"John, Susan Maree",Sue John
 410,Justine Caines,Justine Caines
-616,Karen Jayne Foster,Karen Foster
 576,KENDAL AND ASSOCIATES,STEPHEN L KENDAL
 518,Kevin James Carroll,Kevin James Carroll
 621,KnowMinister.com Pty Ltd,Denise Frances Williams
@@ -273,7 +262,6 @@ agency_id,agency_business_entity_name,owner_name
 427,Owen International Pty Ltd,Andrew Orszulok
 598,Oxley International,Alan Oxley
 598,Oxley International,Sandra Oxley
-309,Paramul Pty Ltd,Paul Lennon
 72,Parker & Partners Pty Ltd,STW Group Ltd
 72,Parker & Partners Pty Ltd,WPP plc
 72,Parker & Partners Pty Ltd,Ogilvy Public Relations Worldwide Pty Ltd
@@ -289,8 +277,6 @@ agency_id,agency_business_entity_name,owner_name
 220,Primary Communication Pty Ltd,Annabelle Warren 
 631,Primary Policy Partners,Andrew Gibbs
 283,Probity International Pty. Ltd,Mary Easson
-100,Professional Public Relations Pty Ltd (PPR),Expanded Media Holdings Pty Ltd 
-100,Professional Public Relations Pty Ltd (PPR),Richard Lazar
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas
 127,PRX Unit Trust,Stephen Kerr
@@ -341,12 +327,14 @@ agency_id,agency_business_entity_name,owner_name
 143,Sefiani Communications Group,Nicholas Owens
 143,Sefiani Communications Group,Robyn Sefiani
 143,Sefiani Communications Group,Francesca Boase
+676,Sesimic Asia Pacific Pty Ltd,Mitcham Holdings Ltd
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel
 82,Socom Pty Ltd,David Hawkins
 225,SPIER CONSULTING P/L, LUCINDA SPIER
 225,SPIER CONSULTING P/L,HANK SPIER
 660,Sporting Manangement Concepts,Gary Gray
 239,Sports Hydrant Pty Ltd,Andrew Turnbull
+665,Spring Street Advisory,Kenneth Andrew McAlpine
 108,ST CLAIR Anthony William,Tony StClair
 490,Staindl Strategic Pty Ltd,Philip Staindl
 66,Statecraft,Eupepsia Pty Ltd
@@ -371,7 +359,7 @@ agency_id,agency_business_entity_name,owner_name
 408,The Six Hats - Investor Relations Pty Ltd,Anna Candler
 95,The Strategic Counsel Pty Ltd,Donna Staunton
 424,The Taylor Street Consultancy P/L,Christopher Brown
-145,The Trustee for Bespoke Approach Unit Trust,Bespoke Approach Pty Ltd as trustee for Bespoke Approach Unit Trust
+145,The Trustee for Bespoke Business Trust,Bespoke Approach Pty Ltd as trustee for Bespoke Business
 589,The Trustee for Bespoke Territory Unit Trust,Bespoke Territory Pty Ltd as trustee for Bespoke Territory Unit Trust
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly
 550,The Trustee for Connelly Project Resources,Peter John Connelly
@@ -396,11 +384,8 @@ agency_id,agency_business_entity_name,owner_name
 152,TJM Consulting,Thomas John McLaughlin
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering
-161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher
-161,Vanguard Consulting and Services Pty Ltd,Mrs Sharon Gallagher
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing
 635,Visionary  Enterprising Management Services Pty Ltd,Valerie Yvonne Shearing
-615,Wabsley Pty Ltd,Kel Watt
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson
 463,Walker Watterson Holdings Pty Ltd,James Watterson 
 97,Wayne Smith,Wayne Smith
