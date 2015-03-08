@@ -208,6 +208,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,June 1979
 1,Gambolling Pty Ltd,Barbara Carney,Director,Yes,June 2002
 375,Gell Southam Group Pty Ltd,Patrick Southam,Principal,No,""
+606,Genome Investigation Pty Ltd,Peter Hingston,Liaison Officer to MSAC,No,""
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
 150,Glide Pty Ltd,Gail White,Senior Consultant,No,""
@@ -245,6 +246,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Peter Greenwood,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Matthew Ryan Mackay,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Isabella Rose McDougall,Research and Policy Analyst,No,""
+59,GRACosway Pty Ltd,Duncan Thomas McDonald,Research and Policy Analyst,No,""
 209,Gryphon Management Australia,Peter Rowe,Director,No,""
 209,Gryphon Management Australia,Keith Black,Director,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
@@ -259,6 +261,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 8,Hill and Knowlton,Michelle Curley,Head of Corporate,No,""
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 19,HTT Trust,Zachary Teichmann,Joint Managing Director,No,""
+674,Ian Peregrine Desborough,Ian Desborough,Principal,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
 20,InterCapital Group Pty Ltd,Garry Oliver,Shareholder,No,""
@@ -304,8 +307,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Jessica McIntyre,Office Manager,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Daly,Associate,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Gavin Clancy,Director,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Lars Madsen,Executive Associate,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Suzanne Mercer,Director,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Lars Madsen,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Amy Vickers,Executive Associate,Yes,November 2011
 76,Kreab Gavin Anderson (Australia) Ltd,Zackary McLennan,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jeff Sorrell,Associate Director,No,""
@@ -355,7 +357,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Jodie Brough,Partner,No,""
 565,Newgate Communications Pty Limited,Michael van Maanen,Partner,Yes,February 2008
 565,Newgate Communications Pty Limited,Sophie Travers,Senior Consultant,No,""
-565,Newgate Communications Pty Limited,Matthew Francis,Associate Partner,Yes,May 2011
 565,Newgate Communications Pty Limited,Sara Hourigan,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Jeremy Vine,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
@@ -560,8 +561,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 152,TJM Consulting,Thomas John McLaughlin,Proprietor,No,""
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS,CHAIRMAN,No,""
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering,Director,Yes,January 2000
+161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher,Managing Director,No,""
+161,Vanguard Consulting and Services Pty Ltd,Timothy John Gallagher,General Manager,No,""
+161,Vanguard Consulting and Services Pty Ltd,David Matthew Russell,General Manager,No,""
+161,Vanguard Consulting and Services Pty Ltd,Julie Ann Sawyer,Manager Communication and Policy,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing,Managing Director,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Graham Alexander Ingerson,Government Relations Specialist,No,""
+615,Wabsley Pty Ltd,Kel Watt,Managing Director,Yes,September 2013
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson,Director,No,""
 463,Walker Watterson Holdings Pty Ltd,Jonathan Englert,Consultant,No,""
 463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Consultant,No,""

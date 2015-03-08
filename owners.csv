@@ -148,6 +148,7 @@ agency_id,agency_business_entity_name,owner_name
 1,Gambolling Pty Ltd,Stephen Carney
 1,Gambolling Pty Ltd,Barbara Carney
 375,Gell Southam Group Pty Ltd,Patrick Southam
+606,Genome Investigation Pty Ltd,Guy Hingston
 185,Geoff Conlon,Geoff Conlon
 238,GIMC Consulting,Gregory Cupitt
 150,Glide Pty Ltd,Michael Woodhouse
@@ -171,6 +172,7 @@ agency_id,agency_business_entity_name,owner_name
 8,Hill and Knowlton,WPP Group
 19,HTT Trust,Helene Teichmann
 19,HTT Trust,Zachary Teichmann
+674,Ian Peregrine Desborough,Ian Desborough
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen
 170,Intech Strategies P/L,Barry Batagol
 170,Intech Strategies P/L,B & J Family Trust
@@ -321,7 +323,8 @@ agency_id,agency_business_entity_name,owner_name
 227,SAS Consulting Group Pty Ltd,CAS Management Australia Pty Ltd ATF Concetto Sciacca Investment Trust
 227,SAS Consulting Group Pty Ltd,Lawrence James Anthony & Jennifer Anne Anthony ATF Anthony Family Trust
 227,SAS Consulting Group Pty Ltd,Peter Costantini and Julie Catherine McLennan ATF PJC Investment Trust
-486,SCG Advisory Pty Ltd,Dalidakis Family Trust
+486,SCG Advisory Pty Ltd,Stephen John Newnham
+486,SCG Advisory Pty Ltd,Frederick John Brown
 167,Scott & Beaumont Pty Ltd,Glenda & Richard Gartrell
 143,Sefiani Communications Group,Sarah Craig
 143,Sefiani Communications Group,Nicholas Owens
@@ -384,8 +387,11 @@ agency_id,agency_business_entity_name,owner_name
 152,TJM Consulting,Thomas John McLaughlin
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering
+161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher
+161,Vanguard Consulting and Services Pty Ltd,Mrs Sharon Gallagher
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing
 635,Visionary  Enterprising Management Services Pty Ltd,Valerie Yvonne Shearing
+615,Wabsley Pty Ltd,Kel Watt
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson
 463,Walker Watterson Holdings Pty Ltd,James Watterson 
 97,Wayne Smith,Wayne Smith

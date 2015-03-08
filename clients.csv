@@ -493,6 +493,7 @@ agency_id,agency_business_entity_name,client_name
 663,Espresso Communications,Wynyard Group
 71,Essential Media Communications Pty Ltd,Australian Marine Conservation Society
 71,Essential Media Communications Pty Ltd,National Union of Students
+71,Essential Media Communications Pty Ltd,Defence Teaming Centre
 564,Etched Communications Pty Ltd,Nestle Australia
 564,Etched Communications Pty Ltd,Bellamy's Organic
 564,Etched Communications Pty Ltd,Achieve Australia
@@ -550,6 +551,7 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Caption It Pty Ltd 
 453,First State Advisors and Consultants ,Compass Housing Services Co Ltd
 453,First State Advisors and Consultants ,AndrÃ© Nobbs 
+453,First State Advisors and Consultants ,Nicovations Australia
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 217,Fordham Management Pty Ltd,Primary Health Care Limited
@@ -587,6 +589,7 @@ agency_id,agency_business_entity_name,client_name
 375,Gell Southam Group Pty Ltd,Kores Australia
 375,Gell Southam Group Pty Ltd,Volvo Car Australia
 375,Gell Southam Group Pty Ltd,Wallarah 2 Coal Project
+606,Genome Investigation Pty Ltd,Agendia
 185,Geoff Conlon,H & D srl
 185,Geoff Conlon,Solar Brokers Associated
 185,Geoff Conlon,Evolvo srl
@@ -688,6 +691,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Middle Head Healthcare Pty Ltd
 59,GRACosway Pty Ltd,Australian Oil Recyclers Association Limited 
 59,GRACosway Pty Ltd,Stolthaven Australasia Pty Ltd
+59,GRACosway Pty Ltd,Suncorp Group Limited
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Gold Fields
@@ -761,6 +765,7 @@ agency_id,agency_business_entity_name,client_name
 19,HTT Trust,Smorgon Fuels
 19,HTT Trust,The Victor Smorgon Group
 19,HTT Trust,Southern Capital Corporation
+674,Ian Peregrine Desborough,Bunge Agribusiness Australia  
 541,Innovative Electronics Pty Ltd,ESA/Inmarsat
 541,Innovative Electronics Pty Ltd,CSIRO
 170,Intech Strategies P/L,Elbit Systems Ltd
@@ -915,6 +920,7 @@ agency_id,agency_business_entity_name,client_name
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
+519,Lawrence Media Services Pty Ltd,V.O.I.C.C.E.
 570,Leaderboard Pty Ltd,Datacom Systems Pty Ltd
 4,Leisure SolutionsÂ®,Ecotourism Australia Ltd (Geotourism Forum)
 223,Leonie M. Short,Australian Council of Social Service
@@ -1051,12 +1057,12 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Outdoor Media Association
 565,Newgate Communications Pty Limited,Australian Pork Limited
 565,Newgate Communications Pty Limited,National Farmers Federation
-565,Newgate Communications Pty Limited,Chris O'Brien Lifehouse
 565,Newgate Communications Pty Limited,Tatts Group Limited
 565,Newgate Communications Pty Limited,Sydney Airport Corporation Limited
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
 565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
 565,Newgate Communications Pty Limited,Mondelez Australia Pty Ltd
+565,Newgate Communications Pty Limited,Wilmar Sugar Australia Limited
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
 3,Oceanic Solutions Pty Ltd,Eca Robotics
@@ -1416,6 +1422,7 @@ agency_id,agency_business_entity_name,client_name
 239,Sports Hydrant Pty Ltd,Australian Olympic Committee
 665,Spring Street Advisory,Vestas Australian Wind Technology Pty Ltd
 665,Spring Street Advisory,Olex Australia Pty Ltd
+665,Spring Street Advisory,Infoxchange
 108,ST CLAIR Anthony William,MBDenergy
 108,ST CLAIR Anthony William,Envest Eco City Pty Ltd
 490,Staindl Strategic Pty Ltd,Pacific Hydro
@@ -1519,7 +1526,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,The Trustee for Julian Burton Burns Trust
 145,The Trustee for Bespoke Business Trust,Financial Planning Association of Australia Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
-145,The Trustee for Bespoke Business Trust,Victoria International Container Terminal Limited 
 145,The Trustee for Bespoke Business Trust,Common Ground Adelaide 
 145,The Trustee for Bespoke Business Trust,Association of Australian Medical Research Institutes
 145,The Trustee for Bespoke Business Trust,BAE Systems Australia
@@ -1594,11 +1600,17 @@ agency_id,agency_business_entity_name,client_name
 540,TOURISM THINK TANK PTY LTD,EATON PLACE PTY LTD
 540,TOURISM THINK TANK PTY LTD,QRE Pty Ltd
 482,Transnational Consultancy and Training Services Pty Ltd,Bribie Bayside Cab Company Pty Ltd   DVA 
+161,Vanguard Consulting and Services Pty Ltd,Specialist Connect Pty Ltd (SCPL)
+161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
+161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
+161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)
 635,Visionary  Enterprising Management Services Pty Ltd,Service Skills Industry Alliance Inc.
 635,Visionary  Enterprising Management Services Pty Ltd,Foodland Promotions
 635,Visionary  Enterprising Management Services Pty Ltd,IGA (Metcash Trading Limited)
 635,Visionary  Enterprising Management Services Pty Ltd,The Fourth Force Pty Ltd (trading as Drake Supermarkets)
 635,Visionary  Enterprising Management Services Pty Ltd,South Australian Independent Retailers Inc 
+615,Wabsley Pty Ltd,The Ginnen Group
+615,Wabsley Pty Ltd,Oncology Massage Training
 463,Walker Watterson Holdings Pty Ltd,Nutanix
 463,Walker Watterson Holdings Pty Ltd,Emerson Network Power Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,BIS Shrapnel Pty Limited
