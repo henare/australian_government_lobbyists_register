@@ -249,6 +249,7 @@ agency_id,agency_business_entity_name,client_name
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 113,CHRIS SCHACHT,PMB Defence
+113,CHRIS SCHACHT,Basetec Services Pty Ltd
 215,"Clark, Kerren G",BioGrid
 215,"Clark, Kerren G",Bionics Institute
 475,Clifton Consulting Services Pty Ltd,Mecrus Pty Ltd
@@ -274,6 +275,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Wellspect Healthcare
 79,CMAX Communications Pty Ltd,Australian Petroleum Production & Exploration Association
 79,CMAX Communications Pty Ltd,Innovex Solutions
+79,CMAX Communications Pty Ltd,DefenceSA
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -782,6 +784,7 @@ agency_id,agency_business_entity_name,client_name
 103,Ivydale Nominees Pty Ltd,Coogee Chemicals
 623,Jack Knowles Consulting Pty Ltd ATF Knowles Family Trust,National Farmers' Federation Ltd
 586,Jenkins Engineering defence Systems Pty Ltd,Exelis Inc
+675,Jennifer Spark,Nan Hai Culture & Media (Australia) Pty Ltd 
 319,Jo Scard Pty Ltd,Kellogg (Australia)
 319,Jo Scard Pty Ltd,Homebirth Australia
 319,Jo Scard Pty Ltd,Maternity Coalition
@@ -917,6 +920,9 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Olympus Solutions
 76,Kreab Gavin Anderson (Australia) Ltd,Dropbox Australia
 76,Kreab Gavin Anderson (Australia) Ltd,Intel Security
+76,Kreab Gavin Anderson (Australia) Ltd,Cancer Drugs Alliance
+76,Kreab Gavin Anderson (Australia) Ltd,Red Dust Role Models
+76,Kreab Gavin Anderson (Australia) Ltd,Coal Reuse
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1035,6 +1041,7 @@ agency_id,agency_business_entity_name,client_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,BOC Limited
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Careers Australia Group Limited
 356,Mr John Kindler,Pratt and Whitney Military Engines
+677,Naylor Phillip Gordon,Mortgage and Finance Association of Australia
 229,Nayton Communication Pty Ltd,WA Onshore Gas group
 229,Nayton Communication Pty Ltd,Potash West Ltd
 229,Nayton Communication Pty Ltd,Australian Petroleum Production and Exploration Association Limited
@@ -1063,6 +1070,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
 565,Newgate Communications Pty Limited,Mondelez Australia Pty Ltd
 565,Newgate Communications Pty Limited,Wilmar Sugar Australia Limited
+565,Newgate Communications Pty Limited,Uber
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
 3,Oceanic Solutions Pty Ltd,Eca Robotics
@@ -1314,6 +1322,8 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Uber Australia Pty Ltd
 35,Richardson Coutts,Spotless Group Holdings Limited
 35,Richardson Coutts,Sustain Community Housing
+35,Richardson Coutts,Clovis Capital Company
+35,Richardson Coutts,TrueNorth Advantage
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
@@ -1367,6 +1377,7 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Consolidated Contracting Company Australia Pty Ltd
 227,SAS Consulting Group Pty Ltd,Groundworks Australia Pty. Ltd.
 227,SAS Consulting Group Pty Ltd,MAX Solutions
+227,SAS Consulting Group Pty Ltd,Wanda Ridong (Gold Coast) Development Pty Ltd
 486,SCG Advisory Pty Ltd,Linfox Australia Pty Ltd
 486,SCG Advisory Pty Ltd,DollarsDirect
 486,SCG Advisory Pty Ltd,Space Systems/Loral
@@ -1378,7 +1389,11 @@ agency_id,agency_business_entity_name,client_name
 143,Sefiani Communications Group,The Hospitals Contribution Fund of Australia (HCF)
 143,Sefiani Communications Group,Pink Hope Community Limited
 143,Sefiani Communications Group,Teachers Mutual Bank
+676,Sesimic Asia Pacific Pty Ltd,L3 Klein Associates
 676,Sesimic Asia Pacific Pty Ltd,Norbit
+676,Sesimic Asia Pacific Pty Ltd,Teledyne Reson
+676,Sesimic Asia Pacific Pty Ltd,Knudsen
+676,Sesimic Asia Pacific Pty Ltd,Applanix
 171,Shac Communications Pty Ltd ATF The Shac Trust,Nimrod Resources
 171,Shac Communications Pty Ltd ATF The Shac Trust,Habitat Early Learning
 171,Shac Communications Pty Ltd ATF The Shac Trust,MiiHome Now International Pty Ltd
@@ -1553,6 +1568,7 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,Australia Pacific Airports Corporation Ltd
 420,The trustee for ECG Advisory Trust, Dun and Bradstreet (Australia) Pty Ltd
 420,The trustee for ECG Advisory Trust,National Automotive Leasing and Salary Packaging Association
+420,The trustee for ECG Advisory Trust,Lion Pty Limited
 41,The Trustee for Hilton Valley Investment,Outdoor Education Group
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 28,The Trustee for Markeit Family Trust,Gambit Technologies
@@ -1564,6 +1580,7 @@ agency_id,agency_business_entity_name,client_name
 595,The trustee for Paripi Trust,Ozzdocs
 668,The Trustee for Sandra Eccles Family Trust,The Mirabel Foundation
 668,The Trustee for Sandra Eccles Family Trust,BlueScope Steel Limited
+668,The Trustee for Sandra Eccles Family Trust,PTTEP Australasia Pty Ltd
 117,The Trustee for the Bowden Family Trust,Group Training Australia
 117,The Trustee for the Bowden Family Trust,TAFE Directors Australia
 117,The Trustee for the Bowden Family Trust,Australian Self Medication Industry
@@ -1661,8 +1678,8 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,Audi Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Volkswagen Group Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Porsche Cars Australia Pty Ltd
-584,Willard Public Affairs Pty Limited,Poche Centres for Indigenous Health
 584,Willard Public Affairs Pty Limited,ATEC Rail Group Pty Ltd 
+584,Willard Public Affairs Pty Limited,Poche Centre for Indigenous Health
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
