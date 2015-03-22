@@ -32,7 +32,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Patrick McGrath,Consultant,Yes,July 2012
 338,Barton Deakin ,Matt Hingerty,CEO and MD ,Yes,June 2012
 338,Barton Deakin ,David Alexander,Managing Director (Federal),Yes,November 2007
-338,Barton Deakin ,Daniel Wood,Consultant,No,""
 338,Barton Deakin ,Kristian Galanti,Consultant ,No,""
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
 338,Barton Deakin ,Eacham Curry ,Managing Director (WA),Yes,February 2005
@@ -207,7 +206,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 106,Galbraith & Company Pty Ltd,Allan King,Partner,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,June 1979
-1,Gambolling Pty Ltd,Barbara Carney,Director,Yes,June 2002
 375,Gell Southam Group Pty Ltd,Patrick Southam,Principal,No,""
 606,Genome Investigation Pty Ltd,Peter Hingston,Liaison Officer to MSAC,No,""
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
@@ -492,7 +490,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
 66,Statecraft,Gavin Melvin,Director,Yes,December 2004
 66,Statecraft,Jonathon Moore,Senior Consultant,No,""
-66,Statecraft,Lucy Rayner,Associate Consultant,No,""
 66,Statecraft,Sophie Turnbull,Consultant,No,""
 66,Statecraft,Jackson Busse,Associate Consultant,No,""
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
@@ -566,6 +563,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 152,TJM Consulting,Thomas John McLaughlin,Proprietor,No,""
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS,CHAIRMAN,No,""
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering,Director,Yes,January 2000
+680,TSB Advisory Pty Ltd,Trevor John Burns,Director,Yes,June 1998
 161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher,Managing Director,No,""
 161,Vanguard Consulting and Services Pty Ltd,Timothy John Gallagher,General Manager,No,""
 161,Vanguard Consulting and Services Pty Ltd,David Matthew Russell,General Manager,No,""
@@ -579,7 +577,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Hrvoje Ferle,Consultant,No,""
 463,Walker Watterson Holdings Pty Ltd, Sidar Thams,Admin/Operations,No,""
 97,Wayne Smith,Wayne Christopher Smith,Director,No,""
-428,Weber Shandwick Worldwide,Jacquelynne Willcox,"Head of Public Affairs, Senior Strategic Counsel",No,""
+428,Weber Shandwick Worldwide,Jacquelynne Willcox,"Head of Corporate Public Affairs, Senior Strategic Counsel",No,""
 428,Weber Shandwick Worldwide,Eliza Newton,Senior Account Director,No,""
 428,Weber Shandwick Worldwide,Alistair Nicholas,Senior Advisor,Yes,October 2000
 428,Weber Shandwick Worldwide,Megan McCarthy,Account Supervisor,No,""
