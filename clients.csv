@@ -239,6 +239,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,EJ Cooper and Son Pty Limited
 157,Chikarovski & Associates Pty Ltd,Civeo
 157,Chikarovski & Associates Pty Ltd,Salini Impregilo
+157,Chikarovski & Associates Pty Ltd,Australian Renewable Fuels Limited
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian Mobile Dental Care
 113,CHRIS SCHACHT,PILATUS
@@ -497,6 +498,7 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd, Interface Aust Pty Limited
 512,Ethical Strategies Pty Ltd,Hepatitis Australia
 512,Ethical Strategies Pty Ltd,Nutricia Australia
+512,Ethical Strategies Pty Ltd,AbbVie Pty Ltd
 324,FCC Partners,Chi - X
 324,FCC Partners,Morgan Stanley
 324,FCC Partners,Asia Pacific Stock Exchange
@@ -566,6 +568,7 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Digital CC Holdings Pty Ltd
 333,FTI Consulting (Perth) Pty Ltd,Brierty Limited
 333,FTI Consulting (Perth) Pty Ltd,CHC Helicopters (Australia)
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,JBS Australia Pty Ltd 
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Juniper Networks
 106,Galbraith & Company Pty Ltd,Tabcorp
@@ -687,6 +690,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Australian Oil Recyclers Association Limited 
 59,GRACosway Pty Ltd,Stolthaven Australasia Pty Ltd
 59,GRACosway Pty Ltd,Suncorp Group Limited
+59,GRACosway Pty Ltd,Newcrest Mining Limited
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Gold Fields
@@ -1118,6 +1122,7 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,BioCSL (Australia) Pty Ltd
 72,Parker & Partners Pty Ltd,Teva Pharmaceutical Industries LTD
 72,Parker & Partners Pty Ltd,PHILIPS ELECTRONICS AUSTRALIA LIMITED
+72,Parker & Partners Pty Ltd,Netflix Australia Pty Ltd
 304,Patrick Russell Consulting Pty Ltd,Small to Medium Enterprise Australia
 304,Patrick Russell Consulting Pty Ltd,Australian Marine Alliance
 304,Patrick Russell Consulting Pty Ltd,Australian Marine Engine Council
@@ -1132,8 +1137,7 @@ agency_id,agency_business_entity_name,client_name
 546,Policy Australia Pty Ltd,Australian Digital Alliance
 219,Policy Solutions Group Pty Ltd,HDY
 219,Policy Solutions Group Pty Ltd,Assistive Technology Suppliers Australasia
-219,Policy Solutions Group Pty Ltd,SITA 
-219,Policy Solutions Group Pty Ltd,Ferrier Hodgson
+219,Policy Solutions Group Pty Ltd,Intuit
 573,Politic Political Advisors,Bower Group Asia
 318,Porter Novelli Australia Pty Ltd,HVP Plantations
 318,Porter Novelli Australia Pty Ltd,General Mills Australia
@@ -1385,6 +1389,8 @@ agency_id,agency_business_entity_name,client_name
 171,Shac Communications Pty Ltd ATF The Shac Trust,ATCO Structures and Logistics 
 171,Shac Communications Pty Ltd ATF The Shac Trust,Wanda Ridong (Gold Coast) Development Pty Ltd
 171,Shac Communications Pty Ltd ATF The Shac Trust,Devcorp 
+681,Simeon Duncan,Intuit Inc.
+681,Simeon Duncan,Intuit Australia
 82,Socom Pty Ltd,Gippsland Local Government Network
 82,Socom Pty Ltd,The Interface Councils
 82,Socom Pty Ltd,Australian Golf Industry Council
