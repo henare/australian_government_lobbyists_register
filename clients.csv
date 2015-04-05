@@ -135,7 +135,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Fujitsu Australia Ltd.
 338,Barton Deakin ,Expedia Inc
 338,Barton Deakin ,Honeywell Holdings Pty Ltd
-338,Barton Deakin ,Inala
 338,Barton Deakin ,Teekay Shipping (Australia) Pty Ltd
 338,Barton Deakin ,National Association of People With HIV Australia
 338,Barton Deakin ,KinCare Health Services Pty Ltd
@@ -163,6 +162,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Murdoch Childrens Research Institute
 338,Barton Deakin ,Higgins Coatings Pty Ltd
 338,Barton Deakin ,Social Traders Ltd
+338,Barton Deakin ,Coca Cola Amatil
+338,Barton Deakin ,CHC Helicopters Australia
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -271,6 +272,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Wellspect Healthcare
 79,CMAX Communications Pty Ltd,Innovex Solutions
 79,CMAX Communications Pty Ltd,DefenceSA
+79,CMAX Communications Pty Ltd,RAYGEN Resources Pty Ltd
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -365,6 +367,10 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Abbotsford Convent Foundation 
 81,CPR Communications & Public Relations Pty Ltd,Greenfleet Australia
 81,CPR Communications & Public Relations Pty Ltd,Mink Apartments Pty Ltd
+683,Craig Emerson Economics Pty Ltd,AGL Energy
+683,Craig Emerson Economics Pty Ltd,Santos
+683,Craig Emerson Economics Pty Ltd,Wesfarmers
+683,Craig Emerson Economics Pty Ltd,Coles Supermarkets Australia
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
 193,CRAKYL Pty Ltd,Future School
@@ -450,6 +456,8 @@ agency_id,agency_business_entity_name,client_name
 149,Edelman Public Relations Worldwide Pty Ltd,Mars Inc
 149,Edelman Public Relations Worldwide Pty Ltd,Symantec (Australia) Pty Ltd
 149,Edelman Public Relations Worldwide Pty Ltd,100 Lives Limited
+149,Edelman Public Relations Worldwide Pty Ltd,Australian Hearing
+149,Edelman Public Relations Worldwide Pty Ltd,Chris O'Brien Lifehouse
 344,Electrotech Australia Pty Limited,Northrop Grumman Overseas Service Corporation
 650,Elomeno PR,UrbanGrowth NSW
 31,Endeavour Consulting Group Pty Ltd,Australian Orthopaedic Association
@@ -569,6 +577,7 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Brierty Limited
 333,FTI Consulting (Perth) Pty Ltd,CHC Helicopters (Australia)
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,JBS Australia Pty Ltd 
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Nimble Australia Pty Ltd 
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Juniper Networks
 106,Galbraith & Company Pty Ltd,Tabcorp
@@ -1074,7 +1083,6 @@ agency_id,agency_business_entity_name,client_name
 86,Ogilvy PR Health,3M Australia
 86,Ogilvy PR Health,Australian Association of Pathology Practices
 86,Ogilvy PR Health,Garvan Research Foundation
-86,Ogilvy PR Health,St George Hospital
 86,Ogilvy PR Health,Fitness First
 86,Ogilvy PR Health,Johnson and Johnson Medical
 86,Ogilvy PR Health,Philips Healthcare
@@ -1135,6 +1143,7 @@ agency_id,agency_business_entity_name,client_name
 619,Plum White Consulting,Rare Cancers Australia
 619,Plum White Consulting,Cancer Drugs Alliance
 546,Policy Australia Pty Ltd,Australian Digital Alliance
+546,Policy Australia Pty Ltd,Netflix
 219,Policy Solutions Group Pty Ltd,HDY
 219,Policy Solutions Group Pty Ltd,Assistive Technology Suppliers Australasia
 219,Policy Solutions Group Pty Ltd,Intuit
@@ -1247,6 +1256,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Gold Fields Australia Pty Limited
 242,Purple Communications Australia Pty Ltd,Millennium Minerals Limited
 242,Purple Communications Australia Pty Ltd,Ramelius Resources Limited
+242,Purple Communications Australia Pty Ltd,Providence Housing
 446,R A Neilson and M Salmon,Garry and Marilyn Nicholas
 446,R A Neilson and M Salmon,TravelManagers Australia Pty Ltd
 492,Rachael Sweeney ,Regional Capitals Australia 
@@ -1309,6 +1319,8 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Sustain Community Housing
 35,Richardson Coutts,Clovis Capital Company
 35,Richardson Coutts,TrueNorth Advantage
+35,Richardson Coutts,Atanaskovic Hartnell
+35,Richardson Coutts,Goals A and N
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
