@@ -91,6 +91,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Jacob Traeger,Account Manager,No,""
 79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
 79,CMAX Communications Pty Ltd,Davina Langton,Government Relations Advisor,Yes,June 2009
+79,CMAX Communications Pty Ltd,Daniel Grant,Government Relations Advisor,No,""
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Dave Coggin,Director,Yes,May 2010
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Anthony Hasluck,Director,No,""
@@ -206,6 +207,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Tara Nash,Consultant,No,""
 333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Director,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Samantha Magnusson ,Senior Director ,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Sarah Browne,Senior Director ,No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 106,Galbraith & Company Pty Ltd,Allan King,Partner,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,June 1979
@@ -342,6 +344,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 425,Maser Defence Pty Ltd,Jamie Johnson,Business Development Manager,Yes,June 2011
 179,McGrane-Fitzgerald Unit Trust,Robert Hennessy-Hawks,Lobbyist,No,""
 201,Media Affairs,George Hazim,Director,No,""
+684,Medina Capital,Hilal Yassine,Managing Director,No,""
+684,Medina Capital,Mounir Kiwan,Senior Advisor,No,""
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Partner,No,""
@@ -377,6 +381,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,Ogilvy PR Health,Rachel Beck,Account Executive,No,""
 86,Ogilvy PR Health,Emma Connors,Senior Media Strategist,No,""
 86,Ogilvy PR Health,Rachel Stanton,Account Director,No,""
+86,Ogilvy PR Health,Danielle Cesta,Senior Consultant,No,""
 144,"O'MALLEY, Susanne Patricia",Sue O'Malley,Medical Reimbursement Strategist,No,""
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
@@ -460,7 +465,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
 126,Salmon Odgers Family Trust,Michael Salmon,Director,No,""
 607,Sand Technology Aust P/L,Ian Douglas Fowler,Director.,No,""
-276,Santo Santoro Consulting,The Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Hon Larry Anthony,Director,Yes,October 2004
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Malcolm Cole,Director Media and Communications,Yes,November 2007

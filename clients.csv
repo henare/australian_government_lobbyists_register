@@ -102,7 +102,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,ViiV Healthcare
 338,Barton Deakin ,Medibank Health Solutions Pty Ltd
 338,Barton Deakin ,Crown Castle Australia Pty Limited
-338,Barton Deakin ,Healthscope Limited
 338,Barton Deakin ,Northgate Public Services Pty Ltd
 338,Barton Deakin ,Royal Agricultural Society of NSW
 338,Barton Deakin ,Yum! Restaurants Australia Pty Limited 
@@ -286,6 +285,9 @@ agency_id,agency_business_entity_name,client_name
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Northern Rise Village Services Pty Ltd.
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,El Questro Wilderness Park
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Merchant Overseas Logistics Pty Ltd
+625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Lynas Corporation
+625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Mirvac Group
+625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,West Australian Football Commission
 142,Consilium International Group Pty Ltd,Senetas
 142,Consilium International Group Pty Ltd,UXC Limited
 638,Contextual Communications Pty Ltd,HealthCert International
@@ -578,6 +580,7 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,CHC Helicopters (Australia)
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,JBS Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Nimble Australia Pty Ltd 
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Juniper Networks
 106,Galbraith & Company Pty Ltd,Tabcorp
@@ -700,6 +703,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Stolthaven Australasia Pty Ltd
 59,GRACosway Pty Ltd,Suncorp Group Limited
 59,GRACosway Pty Ltd,Newcrest Mining Limited
+59,GRACosway Pty Ltd,ClearView Wealth Limited
 209,Gryphon Management Australia,Brookfield Rail
 209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Gold Fields
@@ -999,6 +1003,7 @@ agency_id,agency_business_entity_name,client_name
 201,Media Affairs,Benitec Biopharma
 201,Media Affairs,CheckUp Australia
 201,Media Affairs,Caravan Industry Association of Victoria
+684,Medina Capital,Qatar Airways
 132,Megan Anwyl,Seadrill
 132,Megan Anwyl,Citic Pacific Mining Management
 132,Megan Anwyl,Extension Hill Pty Ltd
@@ -1066,6 +1071,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Mondelez Australia Pty Ltd
 565,Newgate Communications Pty Limited,Wilmar Sugar Australia Limited
 565,Newgate Communications Pty Limited,Uber
+565,Newgate Communications Pty Limited,Carnival Australia
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
 3,Oceanic Solutions Pty Ltd,Eca Robotics
@@ -1321,6 +1327,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,TrueNorth Advantage
 35,Richardson Coutts,Atanaskovic Hartnell
 35,Richardson Coutts,Goals A and N
+35,Richardson Coutts,Partners in Performance
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
@@ -1345,22 +1352,6 @@ agency_id,agency_business_entity_name,client_name
 669,Royce Communications Pty Ltd,Belgravia Leisure
 607,Sand Technology Aust P/L,Serpentine Jarrahdale Council 
 607,Sand Technology Aust P/L,Western Refrigeration 74
-276,Santo Santoro Consulting,NEC Australia Pty Ltd
-276,Santo Santoro Consulting,Gerard Lighting Group Limited
-276,Santo Santoro Consulting,Restaurant and Catering Australia
-276,Santo Santoro Consulting,Technology One
-276,Santo Santoro Consulting,Mantle Group
-276,Santo Santoro Consulting,Mckenzie Aged Care Group
-276,Santo Santoro Consulting,Port of Brisbane
-276,Santo Santoro Consulting,Aurizon Rail
-276,Santo Santoro Consulting,Intalock Technologies Pty Ltd
-276,Santo Santoro Consulting,Winslow Group
-276,Santo Santoro Consulting,Careers Australia Group Limited
-276,Santo Santoro Consulting,Infigen Energy Limited
-276,Santo Santoro Consulting,Haibin Property (Australia) Pty Ltd
-276,Santo Santoro Consulting,Diabetes Smart Pty Ltd
-276,Santo Santoro Consulting,Springfield Land Corporation 
-276,Santo Santoro Consulting,Mates in Construction (Aust) Limited
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ERM Power Pty Ltd
 227,SAS Consulting Group Pty Ltd,SEQ Catchments
@@ -1521,7 +1512,6 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,Fresenius Kabi Australia Pty Ltd
 95,The Strategic Counsel Pty Ltd,bioCSL Pty Limited
 95,The Strategic Counsel Pty Ltd,OPTUM HEALTH & TECHNOLOGY (AUSTRALIA) PTY LTD
-95,The Strategic Counsel Pty Ltd,ASG Group Limited
 95,The Strategic Counsel Pty Ltd,CSL Limited
 95,The Strategic Counsel Pty Ltd,CSL Behring (Australia) Pty Ltd
 424,The Taylor Street Consultancy P/L,Lend Lease
@@ -1545,6 +1535,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Asciano Limited
 145,The Trustee for Bespoke Business Trust,Toll Holdings Limited
 145,The Trustee for Bespoke Business Trust,Evergrande Real Estate Group Limited
+145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1579,6 +1570,7 @@ agency_id,agency_business_entity_name,client_name
 668,The Trustee for Sandra Eccles Family Trust,The Mirabel Foundation
 668,The Trustee for Sandra Eccles Family Trust,BlueScope Steel Limited
 668,The Trustee for Sandra Eccles Family Trust,PTTEP Australasia Pty Ltd
+668,The Trustee for Sandra Eccles Family Trust,Crescent Capital Partners
 117,The Trustee for the Bowden Family Trust,Group Training Australia
 117,The Trustee for the Bowden Family Trust,TAFE Directors Australia
 117,The Trustee for the Bowden Family Trust,Australian Self Medication Industry
@@ -1617,6 +1609,7 @@ agency_id,agency_business_entity_name,client_name
 482,Transnational Consultancy and Training Services Pty Ltd,Bribie Bayside Cab Company Pty Ltd   DVA 
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
+680,TSB Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd (Novartis Oncology)
 161,Vanguard Consulting and Services Pty Ltd,Specialist Connect Pty Ltd (SCPL)
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
