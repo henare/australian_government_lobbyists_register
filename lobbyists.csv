@@ -21,6 +21,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 45,Australian Public Affairs Limited Partnership,Philip McCall,Director  Public Relations,No,""
 45,Australian Public Affairs Limited Partnership,Rachel Fry,Senior Consultant  Regulatory Affairs,Yes,November 2010
 45,Australian Public Affairs Limited Partnership,Liam Bathgate,Director  Regulatory Affairs,Yes,March 1983
+45,Australian Public Affairs Limited Partnership,Michael Gleeson,Senior Consultant  Government Relations,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack,Director,Yes,June 2001
 413,BAE Systems Australia Limited,John Viskic,Business Development Manager,No,""
@@ -130,7 +131,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
 580,Crosby Textor Research Strategies Results,Peter Shmigel,Senior Consultant (Community),No,""
 580,Crosby Textor Research Strategies Results,George Brougham,Campaign Consultant,No,""
-580,Crosby Textor Research Strategies Results,Carrington Brigham,Online and Campaign Consultant,No,""
 580,Crosby Textor Research Strategies Results,Catherine Beachley,Consultant,No,""
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
 153,Cultural Consulting,Dr Robert Goodfellow,Principal Consultant,No,""
@@ -252,7 +252,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Isabella Rose McDougall,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Duncan Thomas McDonald,Research and Policy Analyst,No,""
 209,Gryphon Management Australia,Peter Rowe,Director,No,""
-209,Gryphon Management Australia,Keith Black,Director,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
@@ -285,6 +284,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Jackie Hanafie,Associate,No,""
 319,Jo Scard Pty Ltd,Kristy De Camps,Senior Associate,No,""
 319,Jo Scard Pty Ltd,Alexandra Dickens,Associate,No,""
+319,Jo Scard Pty Ltd,Nina Ravenscroft,Associate,No,""
 275,Jody Fassina ATF JAI Family Trust,Jody Fassina,Principal Consultant,Yes,April 2001
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
@@ -465,6 +465,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
 126,Salmon Odgers Family Trust,Michael Salmon,Director,No,""
 607,Sand Technology Aust P/L,Ian Douglas Fowler,Director.,No,""
+685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Hon Larry Anthony,Director,Yes,October 2004
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Malcolm Cole,Director Media and Communications,Yes,November 2007

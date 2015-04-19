@@ -84,11 +84,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Apple
 338,Barton Deakin ,Yellow Edge
 338,Barton Deakin ,Motorola
-338,Barton Deakin ,Total Environment Centre
 338,Barton Deakin ,Adobe
 338,Barton Deakin ,AIME Mentoring
 338,Barton Deakin ,CUB Pty Ltd
-338,Barton Deakin ,Indue
 338,Barton Deakin ,Harness Racing Australia Inc
 338,Barton Deakin ,Cure for Life Foundation
 338,Barton Deakin ,Camp Quality
@@ -163,6 +161,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Social Traders Ltd
 338,Barton Deakin ,Coca Cola Amatil
 338,Barton Deakin ,CHC Helicopters Australia
+338,Barton Deakin ,Sportsbet Pty Ltd
+338,Barton Deakin ,QBE Insurance Group Limited
+338,Barton Deakin ,National Children's and Youth Law Centre
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -561,6 +562,7 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Compass Housing Services Co Ltd
 453,First State Advisors and Consultants ,AndrÃ© Nobbs 
 453,First State Advisors and Consultants ,Nicovations Australia
+453,First State Advisors and Consultants ,British American Tobacco Australia Ltd
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 217,Fordham Management Pty Ltd,Primary Health Care Limited
@@ -649,7 +651,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
-59,GRACosway Pty Ltd,Pacific Brands
 59,GRACosway Pty Ltd,Cobham Flight Operations & Services (Aust) / National Jet Systems
 59,GRACosway Pty Ltd,QGC - a BG Group Business
 59,GRACosway Pty Ltd,Airwave Solutions Australia
@@ -704,8 +705,11 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Suncorp Group Limited
 59,GRACosway Pty Ltd,Newcrest Mining Limited
 59,GRACosway Pty Ltd,ClearView Wealth Limited
+59,GRACosway Pty Ltd,Wesfarmers Limited
+59,GRACosway Pty Ltd,DP World Australia Ltd
+59,GRACosway Pty Ltd,Mulpha Australia Limited
+59,GRACosway Pty Ltd,Kerzner International
 209,Gryphon Management Australia,Brookfield Rail
-209,Gryphon Management Australia,Hess Exploration Australia
 209,Gryphon Management Australia,Gold Fields
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
@@ -822,6 +826,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Marrickville Community Training Centre Inc
 319,Jo Scard Pty Ltd,Consumers Health Forum of Australia ABN 82 146 988 927
 319,Jo Scard Pty Ltd,Lyme Disease Association of Australia ABN 46 417 706 647
+319,Jo Scard Pty Ltd,Centre for Social Impact ABN 57 195 873 179
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -1352,6 +1357,20 @@ agency_id,agency_business_entity_name,client_name
 669,Royce Communications Pty Ltd,Belgravia Leisure
 607,Sand Technology Aust P/L,Serpentine Jarrahdale Council 
 607,Sand Technology Aust P/L,Western Refrigeration 74
+685,Sanlaan Pty Ltd,NEC Australia
+685,Sanlaan Pty Ltd,Restaurant and Catering Australia
+685,Sanlaan Pty Ltd,Technology One
+685,Sanlaan Pty Ltd,Mantle Group
+685,Sanlaan Pty Ltd,Mckenzie Aged Care Group
+685,Sanlaan Pty Ltd,Port of Brisbane
+685,Sanlaan Pty Ltd,Aurizon Rail
+685,Sanlaan Pty Ltd,Intalock Technologies Pty Ltd
+685,Sanlaan Pty Ltd,Careers Australia Group Limited
+685,Sanlaan Pty Ltd,Infigen Energy Limited
+685,Sanlaan Pty Ltd,Haibin Property (Australia) Pty Ltd
+685,Sanlaan Pty Ltd,Diabetes Smart Pty Ltd
+685,Sanlaan Pty Ltd,Springfield Land Corporation
+685,Sanlaan Pty Ltd,Mates In Construction (Aust) Limited
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ERM Power Pty Ltd
 227,SAS Consulting Group Pty Ltd,SEQ Catchments
