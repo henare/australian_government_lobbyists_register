@@ -66,6 +66,7 @@ agency_id,agency_business_entity_name,client_name
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,PoleStar SA
 135,Australian Spectrum Consultants Pty Ltd,Thales Alenia Space
+135,Australian Spectrum Consultants Pty Ltd,Thales Australia
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,General Electric Aviation
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Quickstep Holdings Ltd
@@ -150,7 +151,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Opal Aged Care
 338,Barton Deakin ,Adults Surviving Child Abuse
 338,Barton Deakin ,Orica Australia Pty Ltd
-338,Barton Deakin ,ADV6 Pty Ltd
 338,Barton Deakin ,Mark Moran Group Pty Ltd
 338,Barton Deakin ,Early Learning and Care Council of Australia Inc
 338,Barton Deakin ,Private Healthcare Australia Limited
@@ -165,6 +165,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Sportsbet Pty Ltd
 338,Barton Deakin ,QBE Insurance Group Limited
 338,Barton Deakin ,National Children's and Youth Law Centre
+338,Barton Deakin ,Ashley Services Group Limited
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -523,7 +524,6 @@ agency_id,agency_business_entity_name,client_name
 214,FIPRA Australia Pty Limited,FIPRA International UK
 214,FIPRA Australia Pty Limited,FIPRA Europe Brussels
 214,FIPRA Australia Pty Limited,Veritec Solutions USA
-214,FIPRA Australia Pty Limited,Uber Australia Pty Limited
 214,FIPRA Australia Pty Limited,KaComm Communications Pty Limited
 214,FIPRA Australia Pty Limited,Cerus Inc
 453,First State Advisors and Consultants ,Cemento Pty Ltd 
@@ -712,8 +712,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,DP World Australia Ltd
 59,GRACosway Pty Ltd,Mulpha Australia Limited
 59,GRACosway Pty Ltd,Kerzner International
-209,Gryphon Management Australia,Brookfield Rail
-209,Gryphon Management Australia,Gold Fields
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1470,7 +1468,6 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,AbbVie Pty Ltd
 66,Statecraft,WWF Australia
 66,Statecraft,KordaMentha Pty Ltd
-66,Statecraft,Asciano
 66,Statecraft,Yancoal
 385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
 385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
