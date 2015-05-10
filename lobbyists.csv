@@ -72,7 +72,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 27,Cato Counsel Pty Ltd,Sue Cato,Principal,No,""
 27,Cato Counsel Pty Ltd,Todd Hayward,Advisor,No,""
 27,Cato Counsel Pty Ltd,David Symons,Advisor,No,""
-27,Cato Counsel Pty Ltd,Michael Ross,Advisor,No,""
 27,Cato Counsel Pty Ltd,Andrew Bourke,Advisor,Yes,October 2013
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
@@ -120,7 +119,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 81,CPR Communications & Public Relations Pty Ltd,William Forwood,Strategic Counsel,No,""
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
 81,CPR Communications & Public Relations Pty Ltd,Kate Thwaites,Senior Adviser,Yes,October 2013
-81,CPR Communications & Public Relations Pty Ltd,Sally Leake,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Leanne Joyce,Senior Adviser,No,""
 683,Craig Emerson Economics Pty Ltd,Craig Emerson,Managing Director,Yes,September 2013
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
@@ -235,7 +233,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Richard Victor King,Partner,Yes,February 2000
 59,GRACosway Pty Ltd,Alexander Cramb,Partner,Yes,January 2008
 59,GRACosway Pty Ltd,Paolo Giovanni Bini,Partner,Yes,November 1995
-59,GRACosway Pty Ltd,Timothy Neil Ryan,Partner,No,""
 59,GRACosway Pty Ltd,Kirsten Mulley,Partner,No,""
 59,GRACosway Pty Ltd,Leslie Graham Timar,CEO,No,""
 59,GRACosway Pty Ltd,Trista Rochelle Grainger,Consultant,No,""
@@ -501,6 +498,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Jonathon Moore,Senior Consultant,No,""
 66,Statecraft,Sophie Turnbull,Consultant,No,""
 66,Statecraft,Jackson Busse,Associate Consultant,No,""
+66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""
+66,Statecraft,Clare Wellesley Wesley,Associate Consultant,No,""
+66,Statecraft,Greg Holland,Director,Yes,June 1988
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
 642,StratHouse Pty Ltd,James Baird,Director,Yes,November 2007
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
@@ -604,8 +604,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
 584,Willard Public Affairs Pty Limited,Alex Gosman,Special Counsel,Yes,September 1990
 584,Willard Public Affairs Pty Limited,Mary Andrew,Consultant,No,""
-584,Willard Public Affairs Pty Limited,Jaimi Jarvis,Office Manager,No,""
 584,Willard Public Affairs Pty Limited,Doug Johns,Director,No,""
+584,Willard Public Affairs Pty Limited,Rosemary Apps,Office Manager,No,""
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 641,Wurley Group Pty Ltd,Sarah Bernice Griffin,Principal,No,""
 627,yconsults group pty ltd,Yolanda Chorazyczewski,Legal Practitioner Director,No,""
