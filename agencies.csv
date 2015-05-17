@@ -109,7 +109,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 125,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=125,Govstrat Pty Ltd,Govstrat,64964952044,2015-01-19
 630,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=630,GPotts,Potts and Associates,61631603285,2015-02-17
 122,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=122,GRA Everingham Pty Ltd,GRA Everingham Pty Ltd,56131702755,2015-03-18
-59,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=59,GRACosway Pty Ltd,GRACosway Pty Ltd,50082123822,2010-06-09
+59,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=59,GRACosway Pty Ltd,GRACosway Pty Ltd,50082123822,2015-05-14
 26,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=26,Halden Burns Pty Ltd,Halden Burns Pty Ltd,48103657290,2015-02-11
 96,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=96,Hawker Britton Group Pty Ltd,Hawker Britton,79109681405,2015-05-01
 137,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=137,Health Communincations Australia Pty Limited,Health Communications Australia,87059613348,2014-07-11
@@ -125,7 +125,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 623,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=623,Jack Knowles Consulting Pty Ltd ATF Knowles Family Trust,Jack Knowles Consulting,33794078360,2014-06-23
 586,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=586,Jenkins Engineering defence Systems Pty Ltd,JEDS,40003842126,2015-01-20
 675,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=675,Jennifer Spark,Spark Communications,12632094956,2015-03-12
-319,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=319,Jo Scard Pty Ltd,Fifty Acres - The Communications Agency,29145634224,2015-05-07
+319,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=319,Jo Scard Pty Ltd,Fifty Acres - The Communications Agency,29145634224,2015-05-13
 275,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=275,Jody Fassina ATF JAI Family Trust,JF Consulting,63241306970,2015-02-11
 56,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=56,John C Blackwell,John Blackwell and Associates,40344935470,2014-07-04
 101,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=101,John Connolly & Partners Pty Limited,John Connolly & Partners,50056165827,2015-05-08
@@ -133,12 +133,12 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 78,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=78,John O'Connor and Associates Pty Ltd,John O'Connor and Associates Pty Ltd,39098650241,2015-02-11
 255,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=255,John Scott Barker,John Barker and Associates,23969141298,2015-01-19
 264,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=264,"John, Susan Maree",Open Sesame Consulting,16498754924,2014-06-23
-410,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=410,Justine Caines,New Paradigm Consulting,74 017 698 338,2015-01-19
+410,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=410,Justine Caines,New Paradigm Consulting,74 017 698 338,2015-05-14
 576,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=576,KENDAL AND ASSOCIATES,KENDAL AND ASSOCIATES,"",2014-06-23
 518,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=518,Kevin James Carroll,Aero International Australia,"",2015-02-04
 621,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=621,KnowMinister.com Pty Ltd,Knowminister,26140833772,2015-01-19
 115,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=115,KPMG,KPMG,51194660183,2013-05-20
-76,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=76,Kreab Gavin Anderson (Australia) Ltd,Kreab,22003287643,2015-05-07
+76,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=76,Kreab Gavin Anderson (Australia) Ltd,Kreab,22003287643,2015-05-13
 465,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=465,LATAF CONSULTING ,JEFFREY HART,67151951250,2014-07-10
 519,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=519,Lawrence Media Services Pty Ltd,Lawrence Media Services Pty Ltd,25102956990,2015-02-27
 570,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=570,Leaderboard Pty Ltd,Leaderboard,60165286653,2014-07-11
@@ -229,9 +229,10 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 385,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=385,Strategic Partnership Group (Aust) Pty Limited,Strategic Partnership Group (Aust) Pty Limited,92 089 461 450,2014-07-11
 642,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=642,StratHouse Pty Ltd,StratHouse Pty Ltd,50169154358,2015-02-20
 528,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=528,SYSTECH Consultants Pty Ltd,SYSTECH Consultants Pty Ltd,32008220577,2014-07-01
+688,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=688,Taurus Marketing Pty Ltd,Taurus,62102812000,2015-05-12
 235,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=235,The Agenda Group Pty Ltd,The Agenda Group Pty Ltd,92118248892,2015-04-03
 9,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=9,The Canberra Institute,ACT Trading,59954528757,2014-06-26
-292,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,The Civic Group ,78729712484,2015-02-24
+292,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,The Civic Group ,78729712484,2015-02-03
 90,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=90,The Fifth Estate Consultancy Pty Ltd,The Fifth Estate,51069838222,2015-01-19
 450,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=450,The Humphrey Company Pty Limited,Stephen Youll Consulting,85 499 693 667,2014-07-04
 268,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=268,The Premier Communications Group Pty Ltd.,The Premier Communications Group,73137508555,2015-02-11
