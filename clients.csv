@@ -640,6 +640,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Eco Shark Barrier
 122,GRA Everingham Pty Ltd,Australian Finance Group (AFG)
 122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
+122,GRA Everingham Pty Ltd,Chamber of Commerce and Industry of Western Australia Inc
 59,GRACosway Pty Ltd,Bupa Australia Group
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
@@ -823,6 +824,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Centre for Social Impact ABN 57 195 873 179
 319,Jo Scard Pty Ltd,All Together Now 74 144 510 556
 319,Jo Scard Pty Ltd,Gundaroo Music Festival 36 229 476 464 
+319,Jo Scard Pty Ltd,CareWest Ltd 13 160 259 512
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -1074,6 +1076,8 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Uber
 565,Newgate Communications Pty Limited,Carnival Australia
 565,Newgate Communications Pty Limited,Reachout Australia
+565,Newgate Communications Pty Limited,Pernod Ricard Winemakers Pty Ltd
+565,Newgate Communications Pty Limited,Treasury Wine Estates Limited
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
 3,Oceanic Solutions Pty Ltd,Eca Robotics
@@ -1446,7 +1450,6 @@ agency_id,agency_business_entity_name,client_name
 108,ST CLAIR Anthony William,MBDenergy
 108,ST CLAIR Anthony William,Envest Eco City Pty Ltd
 490,Staindl Strategic Pty Ltd,Pacific Hydro
-490,Staindl Strategic Pty Ltd,Sita Environmental Solutions
 490,Staindl Strategic Pty Ltd,LD Network
 490,Staindl Strategic Pty Ltd,Nimble Australia Pty Ltd
 490,Staindl Strategic Pty Ltd,Keppel Prince Engineering Pty Ltd
@@ -1661,7 +1664,6 @@ agency_id,agency_business_entity_name,client_name
 428,Weber Shandwick Worldwide,FP Markets
 428,Weber Shandwick Worldwide,Economic Development Board of South Australia
 428,Weber Shandwick Worldwide,Macquarie University 
-428,Weber Shandwick Worldwide,MasterCard 
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Church of Scientology Australia
