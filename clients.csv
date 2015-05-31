@@ -58,9 +58,10 @@ agency_id,agency_business_entity_name,client_name
 234,Australian Project Developments Pty. Ltd.,Jerilderie Shire Council
 45,Australian Public Affairs Limited Partnership,Aviagen Australia Pty Ltd
 45,Australian Public Affairs Limited Partnership,Aviagen NZ Ltd
-45,Australian Public Affairs Limited Partnership,Wesley Institute
-45,Australian Public Affairs Limited Partnership,Indiana Wesleyan University
 45,Australian Public Affairs Limited Partnership,Red Bull GbmH
+45,Australian Public Affairs Limited Partnership,Excelsia College
+45,Australian Public Affairs Limited Partnership,Access Testing Pty Ltd
+45,Australian Public Affairs Limited Partnership,IWU Holdings LLC
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Qualcomm International
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
@@ -168,6 +169,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Ashley Services Group Limited
 338,Barton Deakin ,Metgasco Ltd
 338,Barton Deakin ,Palace Cinemas Nominees Pty Ltd
+338,Barton Deakin ,Tata Consultancy Services Limited
+338,Barton Deakin ,Association of Market and Social Research Organisations
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -225,7 +228,6 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,PPB Advisory
 556,Capital Hill Advisory Pty Ltd,Stuart Alexander & Co Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Queensland Investment Corporation
-556,Capital Hill Advisory Pty Ltd,Creating Australia
 556,Capital Hill Advisory Pty Ltd,Xerox Business Services LLC and its Affiliates
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,HammondCare
@@ -238,6 +240,7 @@ agency_id,agency_business_entity_name,client_name
 265,CGP solutions Ltd,ViaSat Inc
 265,CGP solutions Ltd,NewSat Limited
 265,CGP solutions Ltd,Motorola Solutions Inc
+265,CGP solutions Ltd,OmniSpace LLC
 157,Chikarovski & Associates Pty Ltd,Association of Financial Advisers Ltd
 157,Chikarovski & Associates Pty Ltd,Stirling Bridge Capital Ltd
 157,Chikarovski & Associates Pty Ltd,Supercharge Batteries
@@ -339,6 +342,7 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,State Grid Corporation of China
 160,Cotterell Jannette Suzanne,eBay International AG
 160,Cotterell Jannette Suzanne,PayPal Australia
+160,Cotterell Jannette Suzanne,LEO Pharma Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Janssen Cilag Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Novartis Pharmaceuticals Australia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
@@ -641,33 +645,26 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Australian Finance Group (AFG)
 122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
 122,GRA Everingham Pty Ltd,Chamber of Commerce and Industry of Western Australia Inc
-59,GRACosway Pty Ltd,Bupa Australia Group
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
 59,GRACosway Pty Ltd,Cobham Flight Operations & Services (Aust) / National Jet Systems
-59,GRACosway Pty Ltd,QGC - a BG Group Business
 59,GRACosway Pty Ltd,Airwave Solutions Australia
 59,GRACosway Pty Ltd,Navantia SA
 59,GRACosway Pty Ltd,Broadcast Australia
 59,GRACosway Pty Ltd,Minerals and Metals Group
 59,GRACosway Pty Ltd,General Atomics Aeronautical Systems Inc.
 59,GRACosway Pty Ltd,ALDI Stores
-59,GRACosway Pty Ltd,First Solar
 59,GRACosway Pty Ltd,Project Management Institute
-59,GRACosway Pty Ltd,Vanguard Investments Australia Ltd
 59,GRACosway Pty Ltd,SingTel Optus Pty Ltd
 59,GRACosway Pty Ltd,Maxxia Pty Ltd
 59,GRACosway Pty Ltd,McMillan Shakespeare Group
 59,GRACosway Pty Ltd,Halliburton Energy Services
 59,GRACosway Pty Ltd,Alexion Pharmaceuticals Australasia Pty Ltd
-59,GRACosway Pty Ltd,Michell Pty Ltd
-59,GRACosway Pty Ltd,TA Associates
 59,GRACosway Pty Ltd,Gilead Sciences
 59,GRACosway Pty Ltd,BA Infrastructure
 59,GRACosway Pty Ltd,Warren Centre for Advanced Engineering
 59,GRACosway Pty Ltd,Forgacs Engineering Pty Ltd
-59,GRACosway Pty Ltd,Australian Wagering Council
 59,GRACosway Pty Ltd,Tasman Sinkware
 59,GRACosway Pty Ltd,Fletcher Building (Australia) Pty Ltd
 59,GRACosway Pty Ltd,Biogen Idec Australia Pty Ltd
@@ -682,7 +679,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,RateSetter Australia Pty Limited
 59,GRACosway Pty Ltd,HPS Services Pty Ltd
 59,GRACosway Pty Ltd,Olex Australia Pty Ltd
-59,GRACosway Pty Ltd,Lexmark International (Australia) Pty Limited
 59,GRACosway Pty Ltd,Arrhythmia Alliance - Australia Ltd
 59,GRACosway Pty Ltd,Small Pelagic Fisheries Industry Association
 59,GRACosway Pty Ltd,Nexans Olex
@@ -703,6 +699,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,DP World Australia Ltd
 59,GRACosway Pty Ltd,Mulpha Australia Limited
 59,GRACosway Pty Ltd,Kerzner International
+59,GRACosway Pty Ltd,German Australian Chamber of Industry and Commerce Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -777,6 +774,7 @@ agency_id,agency_business_entity_name,client_name
 19,HTT Trust,The Victor Smorgon Group
 19,HTT Trust,Southern Capital Corporation
 674,Ian Peregrine Desborough,Bunge Agribusiness Australia  
+674,Ian Peregrine Desborough,Grain Producers Australia Limited
 541,Innovative Electronics Pty Ltd,ESA/Inmarsat
 541,Innovative Electronics Pty Ltd,CSIRO
 170,Intech Strategies P/L,Elbit Systems Ltd
@@ -889,7 +887,6 @@ agency_id,agency_business_entity_name,client_name
 115,KPMG,ACTE Pty Ltd
 115,KPMG,Global Blue Holdings AB
 76,Kreab Gavin Anderson (Australia) Ltd,PTT Exploration and Production Public Company Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,Santos
 76,Kreab Gavin Anderson (Australia) Ltd,Ramsay Health Care
 76,Kreab Gavin Anderson (Australia) Ltd,BlueScope Steel Limited
 76,Kreab Gavin Anderson (Australia) Ltd,ATM Industry Reference Group
@@ -1330,6 +1327,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Atanaskovic Hartnell
 35,Richardson Coutts,Goals A and N
 35,Richardson Coutts,Partners in Performance
+35,Richardson Coutts,Mallinckrodt Pharmaceuticals Inc 
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,Eastern Iron Limited
@@ -1543,7 +1541,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Nyrstar
 145,The Trustee for Bespoke Business Trust,Hansen Yuncken Pty Ltd and Leighton Contractors Pty Ltd Joint Venture
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
-145,The Trustee for Bespoke Business Trust,Santos Ltd
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
 145,The Trustee for Bespoke Business Trust,Association of Australian Medical Research Institutes
 145,The Trustee for Bespoke Business Trust,BAE Systems Australia
@@ -1551,6 +1548,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Toll Holdings Limited
 145,The Trustee for Bespoke Business Trust,Evergrande Real Estate Group Limited
 145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
+145,The Trustee for Bespoke Business Trust,Arrium Ltd
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1631,6 +1629,7 @@ agency_id,agency_business_entity_name,client_name
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
 161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)
+689,Vicom Australia Pty Ltd,Aeroflex a Cobham Company
 635,Visionary  Enterprising Management Services Pty Ltd,Service Skills Industry Alliance Inc.
 635,Visionary  Enterprising Management Services Pty Ltd,Foodland Promotions
 635,Visionary  Enterprising Management Services Pty Ltd,IGA (Metcash Trading Limited)

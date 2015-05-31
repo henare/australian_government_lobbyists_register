@@ -68,6 +68,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Lauren Gain,Advisor,No,""
 556,Capital Hill Advisory Pty Ltd,Christine Kirk,Executive Assistant,No,""
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Consultant,No,""
+556,Capital Hill Advisory Pty Ltd,Nick Tyrrell,Managing Director Canberra,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 27,Cato Counsel Pty Ltd,Sue Cato,Principal,No,""
 27,Cato Counsel Pty Ltd,Todd Hayward,Advisor,No,""
@@ -302,6 +303,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 115,KPMG,Mohammad Sharaf Hafiz Khan,Consultant,No,""
 115,KPMG,Langdon Patrick,Associate Director,No,""
 115,KPMG,James Owen Thomas,Consultant,No,""
+115,KPMG,Sarah Newport ,Manager ,Yes,June 2007
 76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Managing Partner Australia,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Geoff Brennan,Senior Advisor,Yes,April 1996
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
@@ -411,6 +413,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Ian Hancock,Analyst,No,""
 516,Premier State Consulting Pty Ltd,Lauren Gain,Advisor,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
+516,Premier State Consulting Pty Ltd,Nick Tyrrell,Managing Director Canberra,No,""
 220,Primary Communication Pty Ltd,Jennifer Muir,General Manager,No,""
 220,Primary Communication Pty Ltd,Ian Zakon,Account Director  ,Yes,June 2011
 220,Primary Communication Pty Ltd,Jesse Krncevic,Account Manager,No,""
@@ -582,6 +585,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 161,Vanguard Consulting and Services Pty Ltd,Timothy John Gallagher,General Manager,No,""
 161,Vanguard Consulting and Services Pty Ltd,David Matthew Russell,General Manager,No,""
 161,Vanguard Consulting and Services Pty Ltd,Julie Ann Sawyer,Manager Communication and Policy,No,""
+689,Vicom Australia Pty Ltd,Roger Michael Kane,General Manager,No,""
+689,Vicom Australia Pty Ltd,David Harris Pearce,Region Manager Aviation and Defence,Yes,August 2006
+689,Vicom Australia Pty Ltd,Bruce Campbell Williams,Director,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing,Managing Director,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Graham Alexander Ingerson,Government Relations Specialist,No,""
 615,Wabsley Pty Ltd,Kel Watt,Managing Director,Yes,September 2013
