@@ -229,6 +229,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Stuart Alexander & Co Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Queensland Investment Corporation
 556,Capital Hill Advisory Pty Ltd,Xerox Business Services LLC and its Affiliates
+556,Capital Hill Advisory Pty Ltd,Mundipharma Pty Ltd
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,HammondCare
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
@@ -367,6 +368,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Mink Apartments Pty Ltd
 81,CPR Communications & Public Relations Pty Ltd,Al-Taqwa College
 81,CPR Communications & Public Relations Pty Ltd,4Hume
+81,CPR Communications & Public Relations Pty Ltd,Rural City of Wangaratta
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Santos
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
@@ -385,6 +387,7 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Corporate Health Services Pty Ltd
 580,Crosby Textor Research Strategies Results,Reconciliation Australia Limited
 580,Crosby Textor Research Strategies Results,Free TV Australia Ltd
+580,Crosby Textor Research Strategies Results,Distilled Spirits Industry Council of Australia Inc.
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
 386,Currie Communications,Global Change Institute
@@ -490,6 +493,9 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,TX Australia Pty Ltd 
 31,Endeavour Consulting Group Pty Ltd,Australian National University 
 31,Endeavour Consulting Group Pty Ltd,City West Property Holdings 
+31,Endeavour Consulting Group Pty Ltd,Charles Sturt University 
+31,Endeavour Consulting Group Pty Ltd,La Trobe University 
+31,Endeavour Consulting Group Pty Ltd,Murray Darling Medical School
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -700,6 +706,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Mulpha Australia Limited
 59,GRACosway Pty Ltd,Kerzner International
 59,GRACosway Pty Ltd,German Australian Chamber of Industry and Commerce Ltd
+59,GRACosway Pty Ltd,Southern Shark Industry Alliance Inc
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -873,9 +880,7 @@ agency_id,agency_business_entity_name,client_name
 518,Kevin James Carroll,Aero International Inc. VA USA
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Wilmar Sugar Australia Pty Ltd
-621,KnowMinister.com Pty Ltd,Sugar Australia Pty Ltd
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
-621,KnowMinister.com Pty Ltd,Australian Sugar Industry Alliance Limited
 115,KPMG,The Cobra Group Pty Ltd
 115,KPMG,Distilled Spirits Industry Council of Australia Inc
 115,KPMG,The Australian Federation of Travel Agents
@@ -1367,7 +1372,6 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Springfield Land Corporation
 685,Sanlaan Pty Ltd,Mates In Construction (Aust) Limited
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
-227,SAS Consulting Group Pty Ltd,ERM Power Pty Ltd
 227,SAS Consulting Group Pty Ltd,SEQ Catchments
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,Shenhua Watermark 
@@ -1376,8 +1380,6 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Services Trades Queensland (STQ)
 227,SAS Consulting Group Pty Ltd,Cochlear Limited
 227,SAS Consulting Group Pty Ltd,Indue Ltd
-227,SAS Consulting Group Pty Ltd,Consolidated Contracting Company Australia Pty Ltd
-227,SAS Consulting Group Pty Ltd,Groundworks Australia Pty. Ltd.
 227,SAS Consulting Group Pty Ltd,MAX Solutions
 227,SAS Consulting Group Pty Ltd,Wanda Ridong (Gold Coast) Development Pty Ltd
 227,SAS Consulting Group Pty Ltd,Welldog Pty Ltd
@@ -1502,7 +1504,6 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Asahi Premium Beverages Pty Ltd
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Australian Multicultural Community Services
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Musical Futures Australia
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,H R Nicholls Society
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,DomaCom Limited
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
@@ -1549,6 +1550,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Evergrande Real Estate Group Limited
 145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
 145,The Trustee for Bespoke Business Trust,Arrium Ltd
+145,The Trustee for Bespoke Business Trust,Alinta Servco Pty Ltd
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1625,6 +1627,9 @@ agency_id,agency_business_entity_name,client_name
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
 680,TSB Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd (Novartis Oncology)
+680,TSB Advisory Pty Ltd,Australian Brandenburg Orchestra
+680,TSB Advisory Pty Ltd,Teranet Holdings LP
+680,TSB Advisory Pty Ltd,Borealis Infrastructure Australia Pty Ltd
 161,Vanguard Consulting and Services Pty Ltd,Specialist Connect Pty Ltd (SCPL)
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association

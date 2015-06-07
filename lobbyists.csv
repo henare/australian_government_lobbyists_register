@@ -116,7 +116,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 329,Cox Inall Communications,Timothy Kevin Powell,Managing Director,No,""
 299,CPI Strategic Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
 299,CPI Strategic Pty Ltd,Frederick John Brown,Director,Yes,November 2007
-81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Senior Adviser,Yes,January 2007
+81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director Government Relations,Yes,January 2007
 81,CPR Communications & Public Relations Pty Ltd,William Forwood,Strategic Counsel,No,""
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
 81,CPR Communications & Public Relations Pty Ltd,Kate Thwaites,Senior Adviser,Yes,October 2013
@@ -125,10 +125,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
-580,Crosby Textor Research Strategies Results,Yaron Finkelstein,Group Director,Yes,February 2006
-580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Campaign and Research Consultant,No,""
+580,Crosby Textor Research Strategies Results,Yaron Finkelstein,Chief Executive Officer Australasia ,Yes,February 2006
+580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Senior Consultant,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
-580,Crosby Textor Research Strategies Results,Peter Shmigel,Senior Consultant (Community),No,""
+580,Crosby Textor Research Strategies Results,Peter Shmigel,Director Communities,No,""
 580,Crosby Textor Research Strategies Results,George Brougham,Campaign Consultant,No,""
 580,Crosby Textor Research Strategies Results,Catherine Beachley,Consultant,No,""
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
@@ -182,6 +182,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Elisa Fernandes Carvalho,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Communications Consultant,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
+564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 512,Ethical Strategies Pty Ltd,John Morton,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,Jay Pleass,Account Director,Yes,August 2007
 324,FCC Partners,Hugh Fraser,Managing Director,No,""
@@ -207,6 +208,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Director,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Samantha Magnusson ,Senior Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Sarah Browne,Senior Director ,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Steve Murphy ,Senior Director ,No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 106,Galbraith & Company Pty Ltd,Allan King,Partner,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,June 1979
@@ -228,7 +230,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 122,GRA Everingham Pty Ltd,Jason Marocchi,Director,No,""
 122,GRA Everingham Pty Ltd,Amanda Reid,Director,Yes,January 2002
 122,GRA Everingham Pty Ltd,Kareece van der Woude,Client Support,No,""
-122,GRA Everingham Pty Ltd,Alex Temby,Associate Director,No,""
 122,GRA Everingham Pty Ltd,Hon Eric Ripper,Chairman,No,""
 122,GRA Everingham Pty Ltd,Peter Michael McMahon,Senior Consultant,Yes,November 2006
 59,GRACosway Pty Ltd,Richard Victor King,Partner,Yes,February 2000
@@ -242,7 +243,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Jack Brady,Research and Policy Coordinator,No,""
 59,GRACosway Pty Ltd,Kary Alexander Petersen,Director,Yes,October 2005
-59,GRACosway Pty Ltd,Margo Delaney,Executive Assistant,No,""
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Laura Elizabeth Turnley,Associate,No,""
 59,GRACosway Pty Ltd,Peter Greenwood,Director,Yes,December 2007
@@ -308,7 +308,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Geoff Brennan,Senior Advisor,Yes,April 1996
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Lucy Chamberlain,Associate Director ,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Director / Head of Government Relations,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jessica McIntyre,Office Manager,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Daly,Executive Associate,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Gavin Clancy,Director,No,""
@@ -377,6 +376,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Sam Deans,Consultant,No,""
 565,Newgate Communications Pty Limited,Helen Moreland,Associate Partner,Yes,April 2015
 565,Newgate Communications Pty Limited,Libby Roberts,Account Executive,No,""
+565,Newgate Communications Pty Limited,Gail Morgan,Associate Partner,Yes,May 2006
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
@@ -473,7 +473,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Hon Larry Anthony,Director,Yes,October 2004
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
-227,SAS Consulting Group Pty Ltd,Malcolm Cole,Director Media and Communications,Yes,November 2007
 486,SCG Advisory Pty Ltd,Frederick John Brown,Director,Yes,September 2007
 486,SCG Advisory Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
