@@ -171,6 +171,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Palace Cinemas Nominees Pty Ltd
 338,Barton Deakin ,Tata Consultancy Services Limited
 338,Barton Deakin ,Association of Market and Social Research Organisations
+338,Barton Deakin ,Unisys Australia Pty Limited
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -707,6 +708,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Kerzner International
 59,GRACosway Pty Ltd,German Australian Chamber of Industry and Commerce Ltd
 59,GRACosway Pty Ltd,Southern Shark Industry Alliance Inc
+59,GRACosway Pty Ltd,Idemitsu Australia Resources Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -928,6 +930,9 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Copyright Agency 
 76,Kreab Gavin Anderson (Australia) Ltd,Mapbox 
 76,Kreab Gavin Anderson (Australia) Ltd,Infant Nutrition Council
+76,Kreab Gavin Anderson (Australia) Ltd,Intel Australia Pty Ltd
+76,Kreab Gavin Anderson (Australia) Ltd,Informotion Pty Ltd
+76,Kreab Gavin Anderson (Australia) Ltd,Macquarie Group Limited 
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1080,6 +1085,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Reachout Australia
 565,Newgate Communications Pty Limited,Pernod Ricard Winemakers Pty Ltd
 565,Newgate Communications Pty Limited,Treasury Wine Estates Limited
+565,Newgate Communications Pty Limited,Foxtel Management Pty Limited
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
 3,Oceanic Solutions Pty Ltd,Eca Robotics
@@ -1671,7 +1677,6 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Church of Scientology Australia
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,No TasWind Farm Group
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,AMP Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Black Dog Institute
@@ -1681,6 +1686,7 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,ThyssenKrupp Marine Systems Australia Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,BMW Group Financial Services
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Fairview Architectural Pty Ltd
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,United States Chamber of Commerce
 584,Willard Public Affairs Pty Limited,G.I Smoker and M.R Tudehope
