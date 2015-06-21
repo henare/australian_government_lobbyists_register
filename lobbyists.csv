@@ -28,7 +28,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 513,Barry Charles Matson,Barry Charles Matson,Chief Consultant,Yes,February 2003
 139,Bartholomew Quinn and Associates,David Quinn,Managing Director,No,""
 338,Barton Deakin ,Grahame Morris,Federal Director ,Yes,September 1997
-338,Barton Deakin ,Amanda Parker,Consultant,No,""
 338,Barton Deakin ,John Griffin,Director,Yes,February 1997
 338,Barton Deakin ,Patrick McGrath,Consultant,Yes,July 2012
 338,Barton Deakin ,Matt Hingerty,CEO and MD ,Yes,June 2012
@@ -191,7 +190,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
 214,FIPRA Australia Pty Limited,Madeleine Lewis,Account Executive,No,""
 214,FIPRA Australia Pty Limited,Shannan Manton,Account Executive,No,""
-453,First State Advisors and Consultants ,Joseph Tannous ,"Executive Director, Australia ",Yes,February 2004
+453,First State Advisors and Consultants ,Joseph Tannous ,Executive Director Australia ,Yes,February 2004
 453,First State Advisors and Consultants ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
 453,First State Advisors and Consultants ,Christian Dunk,Government Relations Consultant ,No,""
 295,Five Corners Pty Ltd,Peter Robertson,Director - Five Coners Pty Ltd,No,""
@@ -244,7 +243,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Jack Brady,Research and Policy Coordinator,No,""
 59,GRACosway Pty Ltd,Kary Alexander Petersen,Director,Yes,October 2005
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
-59,GRACosway Pty Ltd,Laura Elizabeth Turnley,Associate,No,""
 59,GRACosway Pty Ltd,Peter Greenwood,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Matthew Ryan Mackay,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Isabella Rose McDougall,Research and Policy Analyst,No,""

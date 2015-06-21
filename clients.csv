@@ -172,16 +172,17 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Tata Consultancy Services Limited
 338,Barton Deakin ,Association of Market and Social Research Organisations
 338,Barton Deakin ,Unisys Australia Pty Limited
+338,Barton Deakin ,Literacy for Life Foundation Limited
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
 583,BDaaS Consulting Pty Ltd,SuperMicro
 583,BDaaS Consulting Pty Ltd,Arista Networks Australia Pty Ltd
-583,BDaaS Consulting Pty Ltd,Appsense Limited
-583,BDaaS Consulting Pty Ltd,Allbids.com.au Pty Ltd
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
 583,BDaaS Consulting Pty Ltd,Forcite Helmet Systems Pty Ltd
-583,BDaaS Consulting Pty Ltd,Atrust Computer Corp.
+583,BDaaS Consulting Pty Ltd,Threatmetrix Pty Ltd
+583,BDaaS Consulting Pty Ltd,Rackspace Hosting Australia Pty Ltd
+583,BDaaS Consulting Pty Ltd,GoSource Pty Ltd
 162,Belman Consulting Pty Ltd,Olbia Pty Limited
 626,Blackie McDonald Pty Ltd,Hay Group
 110,Bluegrass Consulting Pty Ltd,iTIC Australia Pty Ltd
@@ -198,6 +199,7 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Fivium
 657,Brent William Knevett,Crown Project Services Pty Limited
 657,Brent William Knevett,Anderson Morgan (Devonport) Pty Ltd
+657,Brent William Knevett,Sutherland Innovation Labs (UK)
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 131,BTelecom Pty Ltd,Dragnet Internet Services Pty Ltd
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
@@ -208,7 +210,6 @@ agency_id,agency_business_entity_name,client_name
 52,Bush Consulting Services Pty Ltd,Australian Home Entertainment Distributors Association
 52,Bush Consulting Services Pty Ltd,Fujitsu
 52,Bush Consulting Services Pty Ltd,Telstra
-52,Bush Consulting Services Pty Ltd,Southern Oil
 654,C2hills Investments Pty Limited,Rivcott Pty Limited
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
@@ -219,11 +220,9 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Pfizer Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Merck Sharp & Dohme (Australia) Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd
-556,Capital Hill Advisory Pty Ltd,Assetlink Services Pty Ltd
 556,Capital Hill Advisory Pty Ltd,William Hill Australia
 556,Capital Hill Advisory Pty Ltd,Unity Resources Group Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Glencore Coal Assets Australia Pty Ltd
-556,Capital Hill Advisory Pty Ltd,Sharelife Australia Limited
 556,Capital Hill Advisory Pty Ltd,Australian Remittance and Currency Providers Association
 556,Capital Hill Advisory Pty Ltd,Employers Mutual Management Pty Ltd
 556,Capital Hill Advisory Pty Ltd,PPB Advisory
@@ -232,7 +231,6 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Xerox Business Services LLC and its Affiliates
 556,Capital Hill Advisory Pty Ltd,Mundipharma Pty Ltd
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
-601,Catherine McGovern,HammondCare
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
 27,Cato Counsel Pty Ltd,Pacific Brands
 27,Cato Counsel Pty Ltd,Safegov
@@ -246,8 +244,6 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Association of Financial Advisers Ltd
 157,Chikarovski & Associates Pty Ltd,Stirling Bridge Capital Ltd
 157,Chikarovski & Associates Pty Ltd,Supercharge Batteries
-157,Chikarovski & Associates Pty Ltd,EJ Cooper and Son Pty Limited
-157,Chikarovski & Associates Pty Ltd,Civeo
 157,Chikarovski & Associates Pty Ltd,Salini Impregilo
 157,Chikarovski & Associates Pty Ltd,Australian Renewable Fuels Limited
 157,Chikarovski & Associates Pty Ltd,TG Australasia Pty Limited
@@ -303,6 +299,7 @@ agency_id,agency_business_entity_name,client_name
 142,Consilium International Group Pty Ltd,Senetas
 142,Consilium International Group Pty Ltd,UXC Limited
 638,Contextual Communications Pty Ltd,HealthCert International
+638,Contextual Communications Pty Ltd, ARCADIA Corporation Pty Ltd
 18,Corporate Words Australia Pty Limited,MEO Australia Limited
 18,Corporate Words Australia Pty Limited,Cue Energy Resources Ltd
 160,Cotterell Jannette Suzanne,The Australian and New Zealand Association of Oral and Maxillofacial Surgeons
@@ -407,7 +404,6 @@ agency_id,agency_business_entity_name,client_name
 569,Dargan Financial,Hoa Hong
 569,Dargan Financial,Peter Rafidi Pty Ltd
 569,Dargan Financial,Roho Amine Elmalki Berrada
-569,Dargan Financial,Tina Nhung Pham
 569,Dargan Financial,The trustee for Hoabie One Kenobe Unit Trust
 569,Dargan Financial,Tony Duy Dao
 569,Dargan Financial,Benny Lagazo Dubria Jr
@@ -600,7 +596,6 @@ agency_id,agency_business_entity_name,client_name
 1,Gambolling Pty Ltd,Intercapital 
 1,Gambolling Pty Ltd,Project Flinders Pty Ltd
 1,Gambolling Pty Ltd,Murray Darling Medical School
-1,Gambolling Pty Ltd,Harry Perkins Institute of Medical Research 
 1,Gambolling Pty Ltd,Dassault Aviation
 375,Gell Southam Group Pty Ltd,Kores Australia
 375,Gell Southam Group Pty Ltd,Volvo Car Australia
@@ -832,6 +827,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,All Together Now 74 144 510 556
 319,Jo Scard Pty Ltd,Gundaroo Music Festival 36 229 476 464 
 319,Jo Scard Pty Ltd,CareWest Ltd 13 160 259 512
+319,Jo Scard Pty Ltd,Nurture Works Foundation Inc 54 920 025 791
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -933,6 +929,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Intel Australia Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Informotion Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Macquarie Group Limited 
+76,Kreab Gavin Anderson (Australia) Ltd,Strine Environments
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1052,7 +1049,7 @@ agency_id,agency_business_entity_name,client_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,BOC Limited
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Careers Australia Group Limited
 356,Mr John Kindler,Pratt and Whitney Military Engines
-677,Naylor Phillip Gordon,Mortgage and Finance Association of Australia
+677,Naylor Phillip Gordon,Charley's Enterprises Pty Ltd
 229,Nayton Communication Pty Ltd,WA Onshore Gas group
 229,Nayton Communication Pty Ltd,Potash West Ltd
 229,Nayton Communication Pty Ltd,Australian Petroleum Production and Exploration Association Limited
@@ -1457,7 +1454,6 @@ agency_id,agency_business_entity_name,client_name
 108,ST CLAIR Anthony William,Envest Eco City Pty Ltd
 490,Staindl Strategic Pty Ltd,Pacific Hydro
 490,Staindl Strategic Pty Ltd,LD Network
-490,Staindl Strategic Pty Ltd,Nimble Australia Pty Ltd
 490,Staindl Strategic Pty Ltd,Keppel Prince Engineering Pty Ltd
 66,Statecraft,POSCO Australia
 66,Statecraft,KEPCO Australia
@@ -1524,6 +1520,7 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Associazione Sportivo Australia (ASA)
 408,The Six Hats - Investor Relations Pty Ltd,Wentworth Community Housing 
 408,The Six Hats - Investor Relations Pty Ltd,Stroud Heritage Conservation Incorporated
+408,The Six Hats - Investor Relations Pty Ltd,Platform Youth Services
 95,The Strategic Counsel Pty Ltd,Roche Products
 95,The Strategic Counsel Pty Ltd,Blackmores
 95,The Strategic Counsel Pty Ltd,Hearing Care Industry Association
@@ -1612,7 +1609,6 @@ agency_id,agency_business_entity_name,client_name
 610,The Trusteee for the SRKM Trust,Goldfields Masonic Homes Inc.
 610,The Trusteee for the SRKM Trust,Goldfields Child Care Centre Inc.
 240,The Write Connection Pty Ltd,InterGen (Australia)
-240,The Write Connection Pty Ltd,SA Power Networks 
 240,The Write Connection Pty Ltd,Group of Eight Universities
 328,THEMA Consulting Pty Ltd,Shire Australia Pty Ltd
 328,THEMA Consulting Pty Ltd,sanofi aventis
