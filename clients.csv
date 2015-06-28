@@ -81,7 +81,7 @@ agency_id,agency_business_entity_name,client_name
 139,Bartholomew Quinn and Associates,Waterfront Business Community
 139,Bartholomew Quinn and Associates,Shaw Contracting
 139,Bartholomew Quinn and Associates,Norske Skog
-139,Bartholomew Quinn and Associates,Wallenius Wilhelmsen Logistics
+139,Bartholomew Quinn and Associates,Tas Developments
 338,Barton Deakin ,Navitas
 338,Barton Deakin ,Corrs Chambers Westgarth
 338,Barton Deakin ,Apple
@@ -173,6 +173,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Association of Market and Social Research Organisations
 338,Barton Deakin ,Unisys Australia Pty Limited
 338,Barton Deakin ,Literacy for Life Foundation Limited
+338,Barton Deakin ,Sanofi Aventis Australia Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -342,11 +343,14 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,eBay International AG
 160,Cotterell Jannette Suzanne,PayPal Australia
 160,Cotterell Jannette Suzanne,LEO Pharma Pty Ltd
+160,Cotterell Jannette Suzanne,Lung Foundation Australia
+160,Cotterell Jannette Suzanne,Tandem College 
 403,Covance Pty Ltd (Covance Market Access Services division),Janssen Cilag Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Novartis Pharmaceuticals Australia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
 329,Cox Inall Communications,Sydney Fish Market
 299,CPI Strategic Pty Ltd,Costa Group of Companies
+299,CPI Strategic Pty Ltd,Linked Solutions
 81,CPR Communications & Public Relations Pty Ltd,Brisbane Airport Corporation
 81,CPR Communications & Public Relations Pty Ltd,La Trobe University
 81,CPR Communications & Public Relations Pty Ltd,Google Australia
@@ -501,7 +505,6 @@ agency_id,agency_business_entity_name,client_name
 74,Enhance Corporate Pty Ltd,Mineralogy Pty Ltd
 663,Espresso Communications,Squiz
 663,Espresso Communications,Wynyard Group
-71,Essential Media Communications Pty Ltd,Australian Marine Conservation Society
 71,Essential Media Communications Pty Ltd,National Union of Students
 71,Essential Media Communications Pty Ltd,Defence Teaming Centre
 564,Etched Communications Pty Ltd,Nestle Australia
@@ -579,7 +582,6 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Sirona Capital Management
 333,FTI Consulting (Perth) Pty Ltd,Digital CC Holdings Pty Ltd
 333,FTI Consulting (Perth) Pty Ltd,Brierty Limited
-333,FTI Consulting (Perth) Pty Ltd,CHC Helicopters (Australia)
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,JBS Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Nimble Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
@@ -783,11 +785,6 @@ agency_id,agency_business_entity_name,client_name
 541,Innovative Electronics Pty Ltd,CSIRO
 170,Intech Strategies P/L,Elbit Systems Ltd
 170,Intech Strategies P/L,Elbit Systems of Australia P/L
-20,InterCapital Group Pty Ltd,Habitat For Humanity
-20,InterCapital Group Pty Ltd,St Vincent's Medical Research Institute
-20,InterCapital Group Pty Ltd,BRP Australia
-20,InterCapital Group Pty Ltd,Polaris Sales Australia Pty Ltd
-20,InterCapital Group Pty Ltd,Chrysler Australia
 20,InterCapital Group Pty Ltd,Tyre Stewardship Australia
 20,InterCapital Group Pty Ltd,BMW Australia
 38,Intercorp Pty Ltd,Israel Aerospace Industries Limited
@@ -946,7 +943,6 @@ agency_id,agency_business_entity_name,client_name
 223,Leonie M. Short,Friends of the ABC
 223,Leonie M. Short,Australian Hand Therapy Association Inc
 223,Leonie M. Short,Australasian Council of Dental Schools 
-188,LESL Services Pty Ltd,Minter Ellison Lawyers
 188,LESL Services Pty Ltd,The Gut Foundation (Pro Bono)
 188,LESL Services Pty Ltd,RA Corporation Pty Ltd
 188,LESL Services Pty Ltd,Recoveries and Reconstruction (Aust) Pty Ltd
@@ -963,8 +959,8 @@ agency_id,agency_business_entity_name,client_name
 13,LOPAC Consulting Pty Limited,Supacat Ltd
 13,LOPAC Consulting Pty Limited,Hughes Network Systems
 13,LOPAC Consulting Pty Limited,Kongsberg Dynamic Systems
-13,LOPAC Consulting Pty Limited,PRONAL S A
-13,LOPAC Consulting Pty Limited,FORCIT DEFENCE
+13,LOPAC Consulting Pty Limited,Orbital  ATK Inc
+13,LOPAC Consulting Pty Limited,FORCIT Defence
 258,Lyndon George Pty Ltd,Thales Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders NSW Ltd
@@ -1422,7 +1418,6 @@ agency_id,agency_business_entity_name,client_name
 82,Socom Pty Ltd,Central Recyclers
 82,Socom Pty Ltd,Sustainable Farms Pty Ltd
 225,SPIER CONSULTING P/L,KOUNDOURIS GROUP
-225,SPIER CONSULTING P/L,NSW NEWSAGENTS
 225,SPIER CONSULTING P/L,AHA
 225,SPIER CONSULTING P/L,MANILDRA GROUP
 225,SPIER CONSULTING P/L,AUSTRALIAN NEWSAGENTS FEDERATION
@@ -1495,6 +1490,7 @@ agency_id,agency_business_entity_name,client_name
 235,The Agenda Group Pty Ltd,Photography Studies College (Melbourne)
 9,The Canberra Institute,Emirates Trading Australia
 9,The Canberra Institute,Australian Agricultural Resources
+9,The Canberra Institute,Mulligans Flat Developments Pty Ltd
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Australian Music Association
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Prudentia Investments Pty Ltd
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Invictus Solutions Pty Ltd trading as Majella Global Technologies
@@ -1518,6 +1514,7 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Australian Nursing and Midwifery Federation 
 268,The Premier Communications Group Pty Ltd.,Twentieth Man Fund Incorporated
 268,The Premier Communications Group Pty Ltd.,Associazione Sportivo Australia (ASA)
+268,The Premier Communications Group Pty Ltd.,Bespoke Medical Innovations 
 408,The Six Hats - Investor Relations Pty Ltd,Wentworth Community Housing 
 408,The Six Hats - Investor Relations Pty Ltd,Stroud Heritage Conservation Incorporated
 408,The Six Hats - Investor Relations Pty Ltd,Platform Youth Services
@@ -1536,10 +1533,10 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,CSL Limited
 95,The Strategic Counsel Pty Ltd,CSL Behring (Australia) Pty Ltd
 424,The Taylor Street Consultancy P/L,Lend Lease
-424,The Taylor Street Consultancy P/L,Intercontinental Hotels Group
 424,The Taylor Street Consultancy P/L,NRMA Motoring and Services 
 424,The Taylor Street Consultancy P/L,The Dockside Group 
 424,The Taylor Street Consultancy P/L,SAP Australia Pty Ltd
+424,The Taylor Street Consultancy P/L,Sydney Olympic Park Business Association
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Genesee  Wyoming Australia
 145,The Trustee for Bespoke Business Trust,Nyrstar
@@ -1704,4 +1701,3 @@ agency_id,agency_business_entity_name,client_name
 641,Wurley Group Pty Ltd,Edwards Lifesciences Pty Ltd
 641,Wurley Group Pty Ltd,Globus Medical Australia Pty Ltd
 641,Wurley Group Pty Ltd,Tornier Pty Ltd
-627,yconsults group pty ltd,Telstra Corporation
