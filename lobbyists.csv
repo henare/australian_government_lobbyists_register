@@ -169,7 +169,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
 663,Espresso Communications,Corrie McLeod ,Managing Director ,No,""
 663,Espresso Communications,James Riley ,Strategy and Engagement ,No,""
-663,Espresso Communications,Matthew Overington,Group Account Director,No,""
 663,Espresso Communications,Gabriel Wong ,Senior Account Director,No,""
 663,Espresso Communications,Amanda Conroy ,Account Director,No,""
 71,Essential Media Communications Pty Ltd,Adrian Dodd,Account Manager,No,""
@@ -229,7 +228,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 122,GRA Everingham Pty Ltd,Amanda Reid,Director,Yes,January 2002
 122,GRA Everingham Pty Ltd,Kareece van der Woude,Client Support,No,""
 122,GRA Everingham Pty Ltd,Hon Eric Ripper,Chairman,No,""
-122,GRA Everingham Pty Ltd,Peter Michael McMahon,Senior Consultant,Yes,November 2006
 59,GRACosway Pty Ltd,Richard Victor King,Partner,Yes,February 2000
 59,GRACosway Pty Ltd,Alexander Cramb,Partner,Yes,January 2008
 59,GRACosway Pty Ltd,Paolo Giovanni Bini,Partner,Yes,November 1995
@@ -330,6 +328,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 566,London Agency Pty Ltd,Cary Ann Moore,Account Manager,No,""
 566,London Agency Pty Ltd,Annette Stenhouse,Account Manager,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
+13,LOPAC Consulting Pty Limited,Robert Sidney Parker,Managing Director,Yes,June 2005
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
 80,MacGregor Public Relations,John MacGregor,Managing Director,No,""
@@ -337,7 +336,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 119,Macquarie Group Limited,Kristine Neill,Executive Director Corporate Communications,No,""
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd,Managing Director,Yes,March 1996
 245,Marketing Elements Pty Ltd,Cecelia Haddad,Director,No,""
-187,Marlow Communications Pty Ltd,Stephen Nicholas Marlow,Managing Director,No,""
 425,Maser Defence Pty Ltd,Graham Elliott,General Manager,No,""
 425,Maser Defence Pty Ltd,Jamie Johnson,Business Development Manager,Yes,June 2011
 179,McGrane-Fitzgerald Unit Trust,Robert Hennessy-Hawks,Lobbyist,No,""
@@ -374,6 +372,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Helen Moreland,Associate Partner,Yes,April 2015
 565,Newgate Communications Pty Limited,Libby Roberts,Account Executive,No,""
 565,Newgate Communications Pty Limited,Gail Morgan,Associate Partner,Yes,May 2006
+694,Nick Bolkus,Nick Bolkus,Owner,Yes,July 2005
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
@@ -383,7 +382,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,Ogilvy PR Health,Rachel Beck,Account Executive,No,""
 86,Ogilvy PR Health,Emma Connors,Senior Media Strategist,No,""
 86,Ogilvy PR Health,Rachel Stanton,Account Director,No,""
-86,Ogilvy PR Health,Danielle Cesta,Senior Consultant,No,""
 86,Ogilvy PR Health,Kate Parson,Account Coordinator,No,""
 144,"O'MALLEY, Susanne Patricia",Sue O'Malley,Medical Reimbursement Strategist,No,""
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
@@ -497,7 +495,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
 490,Staindl Strategic Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
-66,Statecraft,Gavin Melvin,Director,Yes,December 2004
 66,Statecraft,Jonathon Moore,Senior Consultant,No,""
 66,Statecraft,Sophie Turnbull,Consultant,No,""
 66,Statecraft,Jackson Busse,Associate Consultant,No,""
