@@ -1,13 +1,4 @@
 agency_id,agency_business_entity_name,client_name
-362,89 Degrees East Pty Ltd,Australian News Channel
-362,89 Degrees East Pty Ltd,Brotherhood of St Laurence
-362,89 Degrees East Pty Ltd,Raising Children Network
-362,89 Degrees East Pty Ltd,Skinny Fish Music
-362,89 Degrees East Pty Ltd,Reconciliation Australia
-362,89 Degrees East Pty Ltd,Supply Nation
-362,89 Degrees East Pty Ltd,Truth Justice and Healing Council
-362,89 Degrees East Pty Ltd,National Disability and Carer Alliance
-362,89 Degrees East Pty Ltd,Foundation for Young Australians
 271,A D Evers-Buckland,Association of Liquor Licensees Melbourne
 271,A D Evers-Buckland,Palace Pty Ltd (The Palace Theatre Melbourne)
 271,A D Evers-Buckland,Concert Lighting Systems
@@ -35,7 +26,6 @@ agency_id,agency_business_entity_name,client_name
 499,Asia Pacific Corporation Pty Ltd,Australia Pacific LNG
 379,assetpr,McCain Foods
 379,assetpr,Institute for Legal Reform
-63,AusAccess Unit Trust,Samsung Techwin
 63,AusAccess Unit Trust,Global Defence Industries
 63,AusAccess Unit Trust,TECC Pty Ltd
 63,AusAccess Unit Trust,Aboriginal AG-Arts Residency Kenmore Limited
@@ -43,7 +33,7 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Berrigan District Aged Care Association
 63,AusAccess Unit Trust,Daewoo Shipbuilding and Marine Engineering (DSME)
 63,AusAccess Unit Trust,Hardcat Pty Ltd
-233,Australian Industry Involvement Services,General Electric Aviation
+63,AusAccess Unit Trust,Hanwha Techwin
 234,Australian Project Developments Pty. Ltd.,Eastern Region Alliance
 234,Australian Project Developments Pty. Ltd.,Campbelltown City Council
 234,Australian Project Developments Pty. Ltd.,Cape York Sustainable Futures
@@ -70,12 +60,12 @@ agency_id,agency_business_entity_name,client_name
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,General Electric Aviation
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Quickstep Holdings Ltd
 413,BAE Systems Australia Limited,ITT Excelis
-513,Barry Charles Matson,FE Technologies
 513,Barry Charles Matson,Spectrovation.Com LLC
 513,Barry Charles Matson,The Trustee for the Reed Licensing Trust
 513,Barry Charles Matson,DJ Consulting Services Limited Company number 04129551 12 Tybenham Road London SW193LA United Kingdo
 513,Barry Charles Matson,Inmarsat Global Limited 99 City Road London EC1Y 1AX England  http://www.inmarsat.com/
 513,Barry Charles Matson,Inmarsat Australia PTY Limited ABN 19 090 853 080
+513,Barry Charles Matson,HealthRFID
 139,Bartholomew Quinn and Associates,Waterfront Business Community
 139,Bartholomew Quinn and Associates,Shaw Contracting
 139,Bartholomew Quinn and Associates,Norske Skog
@@ -128,7 +118,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,RUOK Limited
 338,Barton Deakin ,INS Career Management
 338,Barton Deakin ,Nextgen Group Holdings Pty Ltd 
-338,Barton Deakin ,Ernst & Young
 338,Barton Deakin ,Fujitsu Australia Ltd.
 338,Barton Deakin ,Expedia Inc
 338,Barton Deakin ,Honeywell Holdings Pty Ltd
@@ -369,6 +358,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Al-Taqwa College
 81,CPR Communications & Public Relations Pty Ltd,4Hume
 81,CPR Communications & Public Relations Pty Ltd,Rural City of Wangaratta
+81,CPR Communications & Public Relations Pty Ltd,Queen Elizabeth Centre
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Santos
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
@@ -392,7 +382,9 @@ agency_id,agency_business_entity_name,client_name
 673,CT International and Corporate Advisory Pty Ltd,Parmalat Australia Pty Ltd 
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
-386,Currie Communications,Global Change Institute
+386,Currie Communications,Victorian Building Authority
+386,Currie Communications,Elevating Work Platform Association of Australia
+386,Currie Communications,GlaxoSmithKline Australia Pty Ltd
 10,Cynergy Pty Ltd,Solastor Pty Ltd
 10,Cynergy Pty Ltd,Lloyd Energy Systems Pty Ltd
 10,Cynergy Pty Ltd,Sentinel Pty Ltd
@@ -447,18 +439,16 @@ agency_id,agency_business_entity_name,client_name
 172,Dr Robert Horton,Inmarsat Corporation
 515,Dunns4 Consulting Pty Ltd,Sagem Defense Secutite
 515,Dunns4 Consulting Pty Ltd,Point Trading
-515,Dunns4 Consulting Pty Ltd,Nexter
+515,Dunns4 Consulting Pty Ltd,Nexter Systems
 263,ED & Associates Pty Ltd,Tranquil Travel Service Pty Ltd
-149,Edelman Public Relations Worldwide Pty Ltd,BASF Australia Ltd
 149,Edelman Public Relations Worldwide Pty Ltd,PayPal Australia Pty Ltd
-149,Edelman Public Relations Worldwide Pty Ltd,eBay Inc
 149,Edelman Public Relations Worldwide Pty Ltd,Samsung Electronics Australia
-149,Edelman Public Relations Worldwide Pty Ltd,University of New South Wales Medical
-149,Edelman Public Relations Worldwide Pty Ltd,Mars Inc
 149,Edelman Public Relations Worldwide Pty Ltd,Symantec (Australia) Pty Ltd
-149,Edelman Public Relations Worldwide Pty Ltd,100 Lives Limited
-149,Edelman Public Relations Worldwide Pty Ltd,Australian Hearing
-149,Edelman Public Relations Worldwide Pty Ltd,Chris O'Brien Lifehouse
+149,Edelman Public Relations Worldwide Pty Ltd,Adobe Systems Pty Ltd
+149,Edelman Public Relations Worldwide Pty Ltd,Bayer Australia Limited
+149,Edelman Public Relations Worldwide Pty Ltd,Lung Foundation Australia
+149,Edelman Public Relations Worldwide Pty Ltd,Sodexo Australia Pty Limited
+149,Edelman Public Relations Worldwide Pty Ltd,Schlumberger Australia Pty Ltd
 344,Electrotech Australia Pty Limited,Northrop Grumman Overseas Service Corporation
 650,Elomeno PR,UrbanGrowth NSW
 31,Endeavour Consulting Group Pty Ltd,Australian Orthopaedic Association
@@ -558,7 +548,6 @@ agency_id,agency_business_entity_name,client_name
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 217,Fordham Management Pty Ltd,Primary Health Care Limited
-202,Fowlstone Communications,Roslyn Oxley Gallery Pty Ltd
 484,FPL Advisory Pty Ltd,Building Designers Association of Victoria
 484,FPL Advisory Pty Ltd,GlaxoSmithKline
 484,FPL Advisory Pty Ltd,Australian Camps Association
@@ -600,7 +589,6 @@ agency_id,agency_business_entity_name,client_name
 238,GIMC Consulting,Broadcast Operations Pty Ltd
 238,GIMC Consulting,Redwave Media Pty Ltd
 238,GIMC Consulting,Hot Tomato Pty Ltd
-238,GIMC Consulting,Smart Radio Group
 238,GIMC Consulting,Get Real Media
 150,Glide Pty Ltd,The Alliance for Children at Risk inc
 561,Global Issues Group,Refrigerants Australia
@@ -617,13 +605,14 @@ agency_id,agency_business_entity_name,client_name
 7,Government Relations Solutions Pty Ltd,Beach Energy Ltd
 7,Government Relations Solutions Pty Ltd,Burke Urban Developments Pty Ltd
 7,Government Relations Solutions Pty Ltd,National Pharmacies
-7,Government Relations Solutions Pty Ltd,Royal Society for the Blind of South Australia
 125,Govstrat Pty Ltd,Energy Retailers of Australia
 125,Govstrat Pty Ltd,Clubs Queensland
 125,Govstrat Pty Ltd,ADOHTA
 125,Govstrat Pty Ltd,UGL
 630,GPotts,Water Ice Pty Ltd
 630,GPotts,Nu Edge Solutions Pty Ltd
+630,GPotts,Ballan  District Soldiers Memorial Bush Nursing Hospital  Hostel
+630,GPotts,Creative Ballarat
 122,GRA Everingham Pty Ltd,ConocoPhillips
 122,GRA Everingham Pty Ltd,Hall and Prior Aged Care Organisation
 122,GRA Everingham Pty Ltd,Cash Converters
@@ -633,6 +622,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Eco Shark Barrier
 122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
 122,GRA Everingham Pty Ltd,Chamber of Commerce and Industry of Western Australia Inc
+122,GRA Everingham Pty Ltd,The University of Western Australia 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -652,14 +642,12 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Gilead Sciences
 59,GRACosway Pty Ltd,BA Infrastructure
 59,GRACosway Pty Ltd,Warren Centre for Advanced Engineering
-59,GRACosway Pty Ltd,Forgacs Engineering Pty Ltd
 59,GRACosway Pty Ltd,Tasman Sinkware
 59,GRACosway Pty Ltd,Fletcher Building (Australia) Pty Ltd
 59,GRACosway Pty Ltd,Biogen Idec Australia Pty Ltd
 59,GRACosway Pty Ltd,MGM Wireless Limited
 59,GRACosway Pty Ltd,Human Systems Asia Pacific Pty Ltd
 59,GRACosway Pty Ltd,DrinkWise Australia Ltd
-59,GRACosway Pty Ltd,AGL Energy Limited
 59,GRACosway Pty Ltd,Arrium Limited
 59,GRACosway Pty Ltd,FRV Services Australia Pty Ltd
 59,GRACosway Pty Ltd,Mercy Health
@@ -667,10 +655,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,RateSetter Australia Pty Limited
 59,GRACosway Pty Ltd,HPS Services Pty Ltd
 59,GRACosway Pty Ltd,Olex Australia Pty Ltd
-59,GRACosway Pty Ltd,Arrhythmia Alliance - Australia Ltd
 59,GRACosway Pty Ltd,Small Pelagic Fisheries Industry Association
 59,GRACosway Pty Ltd,Nexans Olex
-59,GRACosway Pty Ltd,Royal Australian College of General Practitioners
 59,GRACosway Pty Ltd,Primo Smallgoods
 59,GRACosway Pty Ltd,CCCC International Holding Limited
 59,GRACosway Pty Ltd,Sensis Pty Ltd
@@ -691,6 +677,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Southern Shark Industry Alliance Inc
 59,GRACosway Pty Ltd,Idemitsu Australia Resources Pty Ltd
 59,GRACosway Pty Ltd,The Mirabel Foundation Inc.
+59,GRACosway Pty Ltd,Canada Pension Plan Investment Board
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -809,6 +796,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Gundaroo Music Festival 36 229 476 464 
 319,Jo Scard Pty Ltd,CareWest Ltd 13 160 259 512
 319,Jo Scard Pty Ltd,Nurture Works Foundation Inc 54 920 025 791
+319,Jo Scard Pty Ltd,Information on Disability Education Awareness Services Incorporated 73 877 964 532
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -840,6 +828,7 @@ agency_id,agency_business_entity_name,client_name
 78,John O'Connor and Associates Pty Ltd,Simcoa Operations Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Bisalloy Steel Group Limited
 78,John O'Connor and Associates Pty Ltd,Cockburn Cement Limited
+78,John O'Connor and Associates Pty Ltd,Simplot Australia Pty Ltd
 255,John Scott Barker,Stornoway
 255,John Scott Barker,Font PR
 255,John Scott Barker,Marsh Pty Ltd
@@ -855,7 +844,6 @@ agency_id,agency_business_entity_name,client_name
 410,Justine Caines,Danii Foundation
 576,KENDAL AND ASSOCIATES,Arun Kumar Pallathadka 
 576,KENDAL AND ASSOCIATES,Dr Harikumar Pallathadka
-518,Kevin James Carroll,Aero International Inc. VA USA
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Wilmar Sugar Australia Pty Ltd
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
@@ -920,13 +908,13 @@ agency_id,agency_business_entity_name,client_name
 223,Leonie M. Short,Friends of the ABC
 223,Leonie M. Short,Australian Hand Therapy Association Inc
 223,Leonie M. Short,Australasian Council of Dental Schools 
+223,Leonie M. Short,Queensland Regional Training Networks (James Cook University).
 188,LESL Services Pty Ltd,The Gut Foundation (Pro Bono)
 188,LESL Services Pty Ltd,RA Corporation Pty Ltd
 188,LESL Services Pty Ltd,Recoveries and Reconstruction (Aust) Pty Ltd
-204,Lighthouse Communications Group Pty Ltd,Clarius Group
 204,Lighthouse Communications Group Pty Ltd,oOH!media
-204,Lighthouse Communications Group Pty Ltd,AWDTECH PTY LTD
 204,Lighthouse Communications Group Pty Ltd,Redkite
+204,Lighthouse Communications Group Pty Ltd,Beaumont Tiles
 529,Lobbying Australia Pty Ltd,EzyVault Pty Ltd
 529,Lobbying Australia Pty Ltd,Manuka Business Association
 566,London Agency Pty Ltd,Pathology Awareness Australia Ltd
@@ -944,6 +932,7 @@ agency_id,agency_business_entity_name,client_name
 258,Lyndon George Pty Ltd,Hunter Thoroughbred Breeders Association
 80,MacGregor Public Relations,Pearl Consortium
 80,MacGregor Public Relations,Cubic Transportation Systems
+80,MacGregor Public Relations,Stadler Rail AG
 119,Macquarie Group Limited,Macquarie Pastoral Fund
 578,Making The World A Better Place Pty Ltd,Hear and Say Centre
 578,Making The World A Better Place Pty Ltd,Phoenix Eagle
@@ -1030,7 +1019,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Clontarf Foundation
 565,Newgate Communications Pty Limited,Sydney Swans Ltd
 565,Newgate Communications Pty Limited,The Trustee for Diversified Infrastructure Trust
-565,Newgate Communications Pty Limited,Coalpac Pty Ltd
 565,Newgate Communications Pty Limited,Google Australia Pty Ltd
 565,Newgate Communications Pty Limited,Australian Airports Association
 565,Newgate Communications Pty Limited,Whitehaven Coal Limited
@@ -1040,7 +1028,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Royal Flying Doctor Service of Australia
 565,Newgate Communications Pty Limited,Outdoor Media Association
 565,Newgate Communications Pty Limited,Australian Pork Limited
-565,Newgate Communications Pty Limited,National Farmers Federation
 565,Newgate Communications Pty Limited,Tatts Group Limited
 565,Newgate Communications Pty Limited,Sydney Airport Corporation Limited
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
@@ -1126,14 +1113,12 @@ agency_id,agency_business_entity_name,client_name
 304,Patrick Russell Consulting Pty Ltd,Lease 65
 298,Pavilion Consulting Pty Ltd,Genea
 298,Pavilion Consulting Pty Ltd,Australasian Lymphology Association
-298,Pavilion Consulting Pty Ltd,International Lymphoedema Framework Australia
 298,Pavilion Consulting Pty Ltd,Lymphoedema Action Alliance
 619,Plum White Consulting,Rare Cancers Australia
 619,Plum White Consulting,Cancer Drugs Alliance
 546,Policy Australia Pty Ltd,Australian Digital Alliance
 546,Policy Australia Pty Ltd,Netflix
 219,Policy Solutions Group Pty Ltd,HDY
-219,Policy Solutions Group Pty Ltd,Assistive Technology Suppliers Australasia
 219,Policy Solutions Group Pty Ltd,Intuit
 573,Politic Political Advisors,Bower Group Asia
 318,Porter Novelli Australia Pty Ltd,HVP Plantations
@@ -1167,7 +1152,6 @@ agency_id,agency_business_entity_name,client_name
 631,Primary Policy Partners,MyJet Aviation Pty Ltd
 631,Primary Policy Partners,Chris Richards Group Pty Ltd
 631,Primary Policy Partners,Cohuna Aviation Club Inc
-631,Primary Policy Partners,WILLIAMSON ASSOCIATES RECOVERY AND TRADING SERVICES
 631,Primary Policy Partners,HTT CORPORATION
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
@@ -1191,16 +1175,11 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,St Kevin's College
 127,PRX Unit Trust,Hawthorn Resources Limited
 127,PRX Unit Trust,Caterpillar
-127,PRX Unit Trust,Plenary Group
 127,PRX Unit Trust,Intralot Australia
 127,PRX Unit Trust,Maxxia
-127,PRX Unit Trust,J P Downey  and Co
-127,PRX Unit Trust,Cardel Pty Ltd
 127,PRX Unit Trust,A Gas
 127,PRX Unit Trust,BrainLink Services
 127,PRX Unit Trust,Nexia Australia
-127,PRX Unit Trust,AXF Group
-127,PRX Unit Trust,HWD Australia
 127,PRX Unit Trust,Kmart Australia
 127,PRX Unit Trust,Tyresmart Australia Pty Ltd
 127,PRX Unit Trust,Sunshine Groupe
@@ -1208,10 +1187,11 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Jamieson Coote Bonds
 127,PRX Unit Trust,Australian Jumping Racing Association
 127,PRX Unit Trust,TWUSUPER
-127,PRX Unit Trust,Trenerry Property Group
-127,PRX Unit Trust,Mission Australia
-127,PRX Unit Trust,Edge Loyalty
-127,PRX Unit Trust,Placer Property
+127,PRX Unit Trust,Tynong Pastoral Co Pty Ltd
+127,PRX Unit Trust,Latitude Australia Holdings
+127,PRX Unit Trust,Victorian Transport Association
+127,PRX Unit Trust,Contango Asset Management
+127,PRX Unit Trust,Incolink Foundation Limited
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1371,6 +1351,7 @@ agency_id,agency_business_entity_name,client_name
 143,Sefiani Communications Group,The Hospitals Contribution Fund of Australia (HCF)
 143,Sefiani Communications Group,Pink Hope Community Limited
 143,Sefiani Communications Group,Teachers Mutual Bank
+143,Sefiani Communications Group,Foodbank
 676,Sesimic Asia Pacific Pty Ltd,L3 Klein Associates
 676,Sesimic Asia Pacific Pty Ltd,Norbit
 676,Sesimic Asia Pacific Pty Ltd,Teledyne Reson
@@ -1390,10 +1371,7 @@ agency_id,agency_business_entity_name,client_name
 681,Simeon Duncan,Intuit Australia
 82,Socom Pty Ltd,Gippsland Local Government Network
 82,Socom Pty Ltd,The Interface Councils
-82,Socom Pty Ltd,Australian Golf Industry Council
 82,Socom Pty Ltd,South East Melbourne Councils 
-82,Socom Pty Ltd,Central Recyclers
-82,Socom Pty Ltd,Sustainable Farms Pty Ltd
 225,SPIER CONSULTING P/L,KOUNDOURIS GROUP
 225,SPIER CONSULTING P/L,AHA
 225,SPIER CONSULTING P/L,MANILDRA GROUP
@@ -1405,9 +1383,7 @@ agency_id,agency_business_entity_name,client_name
 239,Sports Hydrant Pty Ltd,DFA Australia
 239,Sports Hydrant Pty Ltd,Virgin Blue Group of Airlines
 239,Sports Hydrant Pty Ltd,Eftpos Payments Australia
-239,Sports Hydrant Pty Ltd,Confederation of Australian Sport
 239,Sports Hydrant Pty Ltd,Touch Football Australia
-239,Sports Hydrant Pty Ltd,The Brumbies
 239,Sports Hydrant Pty Ltd,Surfing Australia
 239,Sports Hydrant Pty Ltd,Australian Drug Foundation
 239,Sports Hydrant Pty Ltd,Professional Golfers Association of Australia Ltd
@@ -1415,8 +1391,6 @@ agency_id,agency_business_entity_name,client_name
 239,Sports Hydrant Pty Ltd,Australian British Chamber of Commerce
 239,Sports Hydrant Pty Ltd,Equestrian Australia Ltd
 239,Sports Hydrant Pty Ltd,The Big Issue in Australia Ltd
-239,Sports Hydrant Pty Ltd,Australian University Sport Ltd
-239,Sports Hydrant Pty Ltd,Local Organising Committee AFC Asian Cup Australia 2015 Ltd
 239,Sports Hydrant Pty Ltd,Baseball Australia
 239,Sports Hydrant Pty Ltd,Australian Olympic Committee
 665,Spring Street Advisory,Vestas Australian Wind Technology Pty Ltd
@@ -1440,6 +1414,7 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,Yancoal
 66,Statecraft,CoreLogic RP Data
 66,Statecraft,The GPT Group
+66,Statecraft,Wollongong Coal
 385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
 385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
 385,Strategic Partnership Group (Aust) Pty Limited,Linfox Pty Limited
@@ -1495,7 +1470,6 @@ agency_id,agency_business_entity_name,client_name
 408,The Six Hats - Investor Relations Pty Ltd,Wentworth Community Housing 
 408,The Six Hats - Investor Relations Pty Ltd,Stroud Heritage Conservation Incorporated
 408,The Six Hats - Investor Relations Pty Ltd,Platform Youth Services
-95,The Strategic Counsel Pty Ltd,Roche Products
 95,The Strategic Counsel Pty Ltd,Blackmores
 95,The Strategic Counsel Pty Ltd,Hearing Care Industry Association
 95,The Strategic Counsel Pty Ltd,Australian Pharmaceutical Industries Ltd
@@ -1526,6 +1500,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
 145,The Trustee for Bespoke Business Trust,Arrium Ltd
 145,The Trustee for Bespoke Business Trust,Alinta Servco Pty Ltd
+145,The Trustee for Bespoke Business Trust,Great Southern Rail Limited
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1569,6 +1544,7 @@ agency_id,agency_business_entity_name,client_name
 117,The Trustee for the Bowden Family Trust,Australian Self Medication Industry
 117,The Trustee for the Bowden Family Trust,Evans and Peck Pty Ltd
 117,The Trustee for the Bowden Family Trust,Hospitality Training Network
+117,The Trustee for the Bowden Family Trust,Advisian Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Mundipharma Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Ego Pharamceuticals Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Convatec Pty Ltd

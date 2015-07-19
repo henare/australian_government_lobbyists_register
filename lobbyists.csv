@@ -1,5 +1,4 @@
 agency_id,agency_business_entity_name,lobbyist_name,position,former_government_representative,cessation_date
-362,89 Degrees East Pty Ltd,Annie O'Rourke,Director,Yes,September 2009
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
@@ -15,7 +14,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke,Director,Yes,August 2004
 379,assetpr,Anthony Rasman,Strategic Counsel,No,""
 63,AusAccess Unit Trust,Mark Ridgway,Chairman,Yes,May 1994
-233,Australian Industry Involvement Services,Bruno Parolin,Consultant,Yes,November 1990
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
 45,Australian Public Affairs Limited Partnership,Rodney Frail,Director  Media and Issues Management,No,""
 45,Australian Public Affairs Limited Partnership,Philip McCall,Director  Public Relations,No,""
@@ -29,10 +27,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 139,Bartholomew Quinn and Associates,David Quinn,Managing Director,No,""
 338,Barton Deakin ,Grahame Morris,Federal Director ,Yes,September 1997
 338,Barton Deakin ,John Griffin,Director,Yes,February 1997
-338,Barton Deakin ,Patrick McGrath,Consultant,Yes,July 2012
 338,Barton Deakin ,Matt Hingerty,CEO and MD ,Yes,June 2012
 338,Barton Deakin ,David Alexander,Managing Director (Federal),Yes,November 2007
-338,Barton Deakin ,Kristian Galanti,Consultant ,No,""
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
 338,Barton Deakin ,Eacham Curry ,Managing Director (WA),Yes,February 2005
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
@@ -72,7 +68,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 27,Cato Counsel Pty Ltd,Sue Cato,Principal,No,""
 27,Cato Counsel Pty Ltd,Todd Hayward,Advisor,No,""
-27,Cato Counsel Pty Ltd,David Symons,Advisor,No,""
 27,Cato Counsel Pty Ltd,Andrew Bourke,Advisor,Yes,October 2013
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
@@ -196,7 +191,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 295,Five Corners Pty Ltd,Peter Robertson,Director - Five Coners Pty Ltd,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director,No,""
 217,Fordham Management Pty Ltd,Peter Fordham,Director,No,""
-202,Fowlstone Communications,Geoff Fowlstone,Principal ,No,""
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
 484,FPL Advisory Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
 484,FPL Advisory Pty Ltd,Leonie Brown,Manager Stakeholder Engagement,No,""
@@ -247,7 +241,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Isabella Rose McDougall,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Duncan Thomas McDonald,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Paul Ian Lobban,Director,No,""
-59,GRACosway Pty Ltd,Nicola Georgina Smith,Research  Policy Analyst,No,""
+59,GRACosway Pty Ltd,Nicola Georgina Smith,Research and Policy Analyst,No,""
+59,GRACosway Pty Ltd,Sharon Anne Reid,Research and Policy Analyst,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
@@ -275,11 +270,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 675,Jennifer Spark,Jennifer Spark,Managing Director,Yes,December 2005
 319,Jo Scard Pty Ltd,Jo Scard,"Business Founder, former adviser to former Minister for Immigration & Citizenship until 14/9/10",Yes,September 2010
 319,Jo Scard Pty Ltd,Brigid Lombard,Administrator,No,""
-319,Jo Scard Pty Ltd,Genevieve Dwyer,Associate,No,""
 319,Jo Scard Pty Ltd,Fiona Wilson,Associate,No,""
 319,Jo Scard Pty Ltd,Jackie Hanafie,Associate,No,""
 319,Jo Scard Pty Ltd,Kristy De Camps,Senior Associate,No,""
-319,Jo Scard Pty Ltd,Alexandra Dickens,Associate,No,""
 319,Jo Scard Pty Ltd,Nina Ravenscroft,Associate,No,""
 275,Jody Fassina ATF JAI Family Trust,Jody Fassina,Principal Consultant,Yes,April 2001
 56,John C Blackwell,John Blackwell,Principal,No,""
@@ -292,14 +285,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 264,"John, Susan Maree",Sue John,Principal,No,""
 410,Justine Caines,Justine Caines,Principal,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
-518,Kevin James Carroll,Kevin James Carroll,Regional Representative,Yes,June 1979
 621,KnowMinister.com Pty Ltd,Denise Frances Williams,Consultant,No,""
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones,Managing Director,No,""
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
 115,KPMG,Leigh Obradovic,Associate Director,Yes,December 2007
 115,KPMG,Mohammad Sharaf Hafiz Khan,Consultant,No,""
 115,KPMG,Langdon Patrick,Associate Director,No,""
-115,KPMG,James Owen Thomas,Consultant,No,""
 115,KPMG,Sarah Newport ,Manager ,Yes,June 2007
 76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Managing Partner Australia,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Geoff Brennan,Senior Advisor,Yes,April 1996
@@ -536,6 +527,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 145,The Trustee for Bespoke Business Trust,Sarah Swan,Executive Assistant/ Researcher,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Managing Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Michael Burgess,Partner,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Clancy O'Donnell,Associate,No,""
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 550,The Trustee for Connelly Project Resources,Michael Peter Connelly,Director,No,""
