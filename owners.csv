@@ -11,6 +11,7 @@ agency_id,agency_business_entity_name,owner_name
 666,APEC Lawyers and Consultants Pty Ltd.,Mr. Kam Sham LEUNG
 666,APEC Lawyers and Consultants Pty Ltd.,Mr. Johnathan Chi Ngai SIU
 415,APS Networking Pty Ltd,Anthony Stewart
+588,Argos Consulting,Brett Robin Hilder
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke
 499,Asia Pacific Corporation Pty Ltd,Jonathan William Crooke
 499,Asia Pacific Corporation Pty Ltd,Benjamin Andrew Crooke
@@ -34,6 +35,7 @@ agency_id,agency_business_entity_name,owner_name
 338,Barton Deakin ,Peter Edward James Collins
 338,Barton Deakin ,Singleton Ogilvy & Mather (Holdings) Pty Ltd 
 186,BBS Communications Group Pty Ltd,Jane Edwards
+583,BDaaS Consulting Pty Ltd,The Trustee for Osmosis Family Trust
 162,Belman Consulting Pty Ltd,Liam Bathgate
 162,Belman Consulting Pty Ltd,Jeanne Bathgate
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl
@@ -89,6 +91,7 @@ agency_id,agency_business_entity_name,owner_name
 105,CreditWise Pty Ltd,Stephen Mark Edwards
 580,Crosby Textor Research Strategies Results,Crosby Pty Ltd
 580,Crosby Textor Research Strategies Results,Rotxet Pty Ltd
+673,CT International and Corporate Advisory Pty Ltd,CT International and Corporate Advisory Ltd
 153,Cultural Consulting,Mr Peter O'Neill OAM
 153,Cultural Consulting,Dr Robert Goodfellow
 386,Currie Communications,Mark Andrew Paterson
@@ -182,6 +185,7 @@ agency_id,agency_business_entity_name,owner_name
 241,John Cook,Dr John Cook
 78,John O'Connor and Associates Pty Ltd,Amanda O'Connor
 78,John O'Connor and Associates Pty Ltd,John O'Connor
+255,John Scott Barker,John Scott Barker
 264,"John, Susan Maree",Sue John
 410,Justine Caines,Justine Caines
 576,KENDAL AND ASSOCIATES,STEPHEN L KENDAL
@@ -245,6 +249,10 @@ agency_id,agency_business_entity_name,owner_name
 670,Open Spectrum Pty Ltd,Aleksandar Stankovic
 427,Owen International Pty Ltd,Leslie Goodridge
 427,Owen International Pty Ltd,Andrew Orszulok
+72,Parker & Partners Pty Ltd,STW Group Ltd
+72,Parker & Partners Pty Ltd,WPP plc
+72,Parker & Partners Pty Ltd,Ogilvy Public Relations Worldwide Pty Ltd
+304,Patrick Russell Consulting Pty Ltd,Dean Logan
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway
 298,Pavilion Consulting Pty Ltd,Justin O'Sullivan
 619,Plum White Consulting,Victoria White
@@ -288,6 +296,7 @@ agency_id,agency_business_entity_name,owner_name
 44,Richglen Holdings Pty Ltd,Patricia Stroud
 395,Right Angle Business Services Pty Ltd,David Clarence Holland
 395,Right Angle Business Services Pty Ltd,Linda Marion Holland
+527,Robert J.L. Hawke & Associates Pty Ltd,Tate Australia Pty Ltd (ACN 054 587 432)
 669,Royce Communications Pty Ltd,Peter Mahon
 669,Royce Communications Pty Ltd,Richard Amos
 607,Sand Technology Aust P/L,Ian Douglas Fowler.
@@ -304,7 +313,11 @@ agency_id,agency_business_entity_name,owner_name
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel
 681,Simeon Duncan,Simeon Duncan
 82,Socom Pty Ltd,David Hawkins
+225,SPIER CONSULTING P/L, LUCINDA SPIER
+225,SPIER CONSULTING P/L,HANK SPIER
+239,Sports Hydrant Pty Ltd,Andrew Turnbull
 665,Spring Street Advisory,Kenneth Andrew McAlpine
+108,ST CLAIR Anthony William,Tony StClair
 490,Staindl Strategic Pty Ltd,Philip Staindl
 66,Statecraft,Eupepsia Pty Ltd
 66,Statecraft,Priebe Family Trust
@@ -354,10 +367,13 @@ agency_id,agency_business_entity_name,owner_name
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering
 680,TSB Advisory Pty Ltd,Trevor Burns
+161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher
+161,Vanguard Consulting and Services Pty Ltd,Mrs Sharon Gallagher
 689,Vicom Australia Pty Ltd,Bruce Campbell Williams
 689,Vicom Australia Pty Ltd,Gregory Arthur John Kelson
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing
 635,Visionary  Enterprising Management Services Pty Ltd,Valerie Yvonne Shearing
+615,Wabsley Pty Ltd,Kel Watt
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson
 463,Walker Watterson Holdings Pty Ltd,James Watterson 
 97,Wayne Smith,Wayne Smith
