@@ -51,6 +51,7 @@ agency_id,agency_business_entity_name,client_name
 45,Australian Public Affairs Limited Partnership,Excelsia College
 45,Australian Public Affairs Limited Partnership,Access Testing Pty Ltd
 45,Australian Public Affairs Limited Partnership,IWU Holdings LLC
+45,Australian Public Affairs Limited Partnership,Hugo's Manly
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Qualcomm International
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
@@ -431,6 +432,7 @@ agency_id,agency_business_entity_name,client_name
 16,Day & Hodge Associates Pty Ltd,Bicycle Industries Australia Inc.
 16,Day & Hodge Associates Pty Ltd,Australian College of Nurse Practitioners
 16,Day & Hodge Associates Pty Ltd,National Medical Services Group
+572,Debra Susan Chalmers,Family Access Network
 360,Diplomacy Pty Limited,Anindilyakwa Land Council
 360,Diplomacy Pty Limited,G21 - Geelong Regional Alliance
 360,Diplomacy Pty Limited,Air New Zealand
@@ -686,6 +688,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,The Mirabel Foundation Inc.
 59,GRACosway Pty Ltd,Canada Pension Plan Investment Board
 59,GRACosway Pty Ltd,SPC Ardmona Limited
+59,GRACosway Pty Ltd,Australian Imported Motor Vehicle Industry Association Incorporated (AIMVIA)
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1015,6 +1018,7 @@ agency_id,agency_business_entity_name,client_name
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Johnson and Johnson Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,BOC Limited
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Careers Australia Group Limited
+696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
 356,Mr John Kindler,Pratt and Whitney Military Engines
 677,Naylor Phillip Gordon,Charley's Enterprises Pty Ltd
 229,Nayton Communication Pty Ltd,Potash West Ltd
@@ -1231,6 +1235,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Ramelius Resources Limited
 242,Purple Communications Australia Pty Ltd,Providence Housing
 242,Purple Communications Australia Pty Ltd,Clough Limited
+242,Purple Communications Australia Pty Ltd,Sino Gas & Energy Holdings Limited 
 446,R A Neilson and M Salmon,Truth Justice and Healing Council
 446,R A Neilson and M Salmon,The Australian Screen Directors Authorship Collecting Society (ASDACS)
 492,Rachael Sweeney ,Regional Capitals Australia 
@@ -1469,7 +1474,6 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,Sydney Olympic Park Business Association
 424,The Taylor Street Consultancy P/L,Sydney Airport Corporation Ltd
 145,The Trustee for Bespoke Business Trust,KKR
-145,The Trustee for Bespoke Business Trust,Genesee  Wyoming Australia
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
 145,The Trustee for Bespoke Business Trust,Association of Australian Medical Research Institutes
