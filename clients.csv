@@ -632,6 +632,8 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
 122,GRA Everingham Pty Ltd,Chamber of Commerce and Industry of Western Australia Inc
 122,GRA Everingham Pty Ltd,The University of Western Australia 
+122,GRA Everingham Pty Ltd,City of Cockburn
+122,GRA Everingham Pty Ltd,City of Armadale 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -903,6 +905,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,DCNS
 76,Kreab Gavin Anderson (Australia) Ltd,Cancer Drugs Alliance (CDA) 
 76,Kreab Gavin Anderson (Australia) Ltd,Brookfield Rail Pty Ltd
+76,Kreab Gavin Anderson (Australia) Ltd,Foundation Life Insurance and Mortgage Broking
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -929,6 +932,7 @@ agency_id,agency_business_entity_name,client_name
 529,Lobbying Australia Pty Ltd,EzyVault Pty Ltd
 529,Lobbying Australia Pty Ltd,Manuka Business Association
 566,London Agency Pty Ltd,Pathology Awareness Australia Ltd
+566,London Agency Pty Ltd,Asthma Australia
 13,LOPAC Consulting Pty Limited,Deschamps et Fils
 13,LOPAC Consulting Pty Limited,Kongsberg Defence Systems
 13,LOPAC Consulting Pty Limited,Kongsberg Maritime
@@ -1049,6 +1053,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Treasury Wine Estates Limited
 565,Newgate Communications Pty Limited,Foxtel Management Pty Limited
 565,Newgate Communications Pty Limited,Bluearth Foundation
+565,Newgate Communications Pty Limited,Swisse Wellness Pty Ltd
 694,Nick Bolkus,walker Corporation
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
@@ -1336,7 +1341,6 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,SEQ Catchments
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
-227,SAS Consulting Group Pty Ltd,Shenhua Watermark 
 227,SAS Consulting Group Pty Ltd,BUSY at Work
 227,SAS Consulting Group Pty Ltd,Lives Lived Well
 227,SAS Consulting Group Pty Ltd,Services Trades Queensland (STQ)
@@ -1392,6 +1396,7 @@ agency_id,agency_business_entity_name,client_name
 665,Spring Street Advisory,Vestas Australian Wind Technology Pty Ltd
 665,Spring Street Advisory,Olex Australia Pty Ltd
 665,Spring Street Advisory,Infoxchange
+697,Squire Patton Boggs Consulting Pty Ltd,Serco Australia Pty Ltd
 108,ST CLAIR Anthony William,MBDenergy
 108,ST CLAIR Anthony William,Envest Eco City Pty Ltd
 490,Staindl Strategic Pty Ltd,Pacific Hydro
@@ -1484,6 +1489,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Arrium Ltd
 145,The Trustee for Bespoke Business Trust,Alinta Servco Pty Ltd
 145,The Trustee for Bespoke Business Trust,Great Southern Rail Limited
+145,The Trustee for Bespoke Business Trust,Medibank Private Limited
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd

@@ -311,6 +311,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Kirsten Marks,Healthcare Consultant,No,""
 566,London Agency Pty Ltd,Annette Stenhouse,Account Manager,No,""
+566,London Agency Pty Ltd,Sophie Herlihy,Account Manager,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
 13,LOPAC Consulting Pty Limited,Robert Sidney Parker,Managing Director,Yes,June 2005
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
@@ -352,6 +353,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 565,Newgate Communications Pty Limited,Simon Troeth,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Duncan McGauchie,Associate Partner,No,""
+565,Newgate Communications Pty Limited,Philippa Crowther,Executive Assistant,No,""
 565,Newgate Communications Pty Limited,Sam Deans,Consultant,No,""
 565,Newgate Communications Pty Limited,Helen Moreland,Associate Partner,Yes,April 2015
 565,Newgate Communications Pty Limited,Libby Roberts,Account Executive,No,""
@@ -441,6 +443,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 395,Right Angle Business Services Pty Ltd,Susan Barbara Jeanes,Consultant,Yes,December 2001
 527,Robert J.L. Hawke & Associates Pty Ltd,The Hon Robert James Lee Hawke AC,Consultant,Yes,February 1992
 527,Robert J.L. Hawke & Associates Pty Ltd,Ian David Kellaway,Secretary,No,""
+527,Robert J.L. Hawke & Associates Pty Ltd,David Lee Dillon,Director / Consultant,No,""
 669,Royce Communications Pty Ltd,Peter Mahon,Chief Executive,No,""
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
@@ -465,6 +468,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
+697,Squire Patton Boggs Consulting Pty Ltd,Paul George Plowman,Director,Yes,March 2010
+697,Squire Patton Boggs Consulting Pty Ltd,Alex John Poulsen,Director,No,""
+697,Squire Patton Boggs Consulting Pty Ltd,Margaret Mary Tannock,Director,No,""
 108,ST CLAIR Anthony William,Tony StClair,Director,No,""
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
 490,Staindl Strategic Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
