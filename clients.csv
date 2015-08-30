@@ -165,6 +165,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Caravan Industry Association of Australia Ltd
 338,Barton Deakin ,Logic Entity Australia Pty Ltd
 338,Barton Deakin ,Young Menâs Christian Association of Sydney
+338,Barton Deakin ,Reddawn
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -389,7 +390,6 @@ agency_id,agency_business_entity_name,client_name
 193,CRAKYL Pty Ltd,Gibbens Industries
 193,CRAKYL Pty Ltd,Mainpac Pty Ltd
 105,CreditWise Pty Ltd,Australian Finance Conference
-580,Crosby Textor Research Strategies Results,Australian Petroleum Production and Exploration Association Ltd (APPEA)
 580,Crosby Textor Research Strategies Results,Australian Rugby League Commission Limited
 580,Crosby Textor Research Strategies Results,Corporate Health Services Pty Ltd
 580,Crosby Textor Research Strategies Results,Reconciliation Australia Limited
@@ -808,6 +808,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,CareWest Ltd 13 160 259 512
 319,Jo Scard Pty Ltd,Nurture Works Foundation Inc 54 920 025 791
 319,Jo Scard Pty Ltd,Information on Disability Education Awareness Services Incorporated 73 877 964 532
+319,Jo Scard Pty Ltd,Iman Najjari Kondori
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -1013,9 +1014,7 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Venture Minerals
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Adani Mining Pty Ltd
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,AWX Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Linfox Proprietary Limited
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,CSC Australia Pty Ltd
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Gas Energy Australia
@@ -1054,6 +1053,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Foxtel Management Pty Limited
 565,Newgate Communications Pty Limited,Bluearth Foundation
 565,Newgate Communications Pty Limited,Swisse Wellness Pty Ltd
+565,Newgate Communications Pty Limited,Magnetar Capital LLC
 694,Nick Bolkus,walker Corporation
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
@@ -1119,10 +1119,6 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,Netflix Australia Pty Ltd
 72,Parker & Partners Pty Ltd,Caroona Coal Action Group 
 304,Patrick Russell Consulting Pty Ltd,Small to Medium Enterprise Australia
-304,Patrick Russell Consulting Pty Ltd,Australian Marine Alliance
-304,Patrick Russell Consulting Pty Ltd,Australian Marine Engine Council
-304,Patrick Russell Consulting Pty Ltd,Outboard Engine Association of Australia
-304,Patrick Russell Consulting Pty Ltd,Lease 65
 298,Pavilion Consulting Pty Ltd,Genea
 298,Pavilion Consulting Pty Ltd,Australasian Lymphology Association
 298,Pavilion Consulting Pty Ltd,Lymphoedema Action Alliance
@@ -1241,6 +1237,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Providence Housing
 242,Purple Communications Australia Pty Ltd,Clough Limited
 242,Purple Communications Australia Pty Ltd,Sino Gas & Energy Holdings Limited 
+242,Purple Communications Australia Pty Ltd,Centre for Entrepreneurial Research and Innovation Limited 
 446,R A Neilson and M Salmon,Truth Justice and Healing Council
 446,R A Neilson and M Salmon,The Australian Screen Directors Authorship Collecting Society (ASDACS)
 492,Rachael Sweeney ,Regional Capitals Australia 
