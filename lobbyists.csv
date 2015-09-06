@@ -148,6 +148,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 263,ED & Associates Pty Ltd,Edmund Ng,Director,No,""
 149,Edelman Public Relations Worldwide Pty Ltd,Craig Kershaw,Public Affairs Associate,No,""
 149,Edelman Public Relations Worldwide Pty Ltd,Nic Jarvis,Director,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Joanne Shears,Senior Account Director,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Samantha Gale,Account Manager,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Johanna Osorio,Director Corporate,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Sarah Nash,Senior Account Manager,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Scarlett Templeman,Account Executive,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Lorna Isabel McPherson GresswellWilkins,Director Healthcare,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Brian Robert Shrowder,Senior Counsel,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Max Hewett,Senior Account Executive,No,""
 344,Electrotech Australia Pty Limited,Michael Smith,Operations Manager Navigation,No,""
 344,Electrotech Australia Pty Limited,John O'Toole,Operations Mnager,No,""
 344,Electrotech Australia Pty Limited,Stephen Penny,Sales Engineer,Yes,January 2006
@@ -240,6 +248,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
 96,Hawker Britton Group Pty Ltd,Sonia Arakkal,Research Analyst,No,""
 96,Hawker Britton Group Pty Ltd,Philip Reed,Director,No,""
+96,Hawker Britton Group Pty Ltd,Claire March ,Director ,Yes,September 2013
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
@@ -329,6 +338,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 684,Medina Capital,Mounir Kiwan,Senior Advisor,No,""
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
+699,Michael John Kauter,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Managing Partner,No,""
@@ -505,6 +515,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
 424,The Taylor Street Consultancy P/L,Adam Leto,Senior Advisor,No,""
 424,The Taylor Street Consultancy P/L,Tania Hyde,Chief Operating Officer,Yes,February 2007
+698,The Trustee for Arthur Trust,Hamish Arthur,Director,No,""
 145,The Trustee for Bespoke Business Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Business Trust,Nick Bolkus,Partner,Yes,June 2005
 145,The Trustee for Bespoke Business Trust,Caroline Rhodes,Managing Director,Yes,June 2010

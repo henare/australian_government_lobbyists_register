@@ -246,6 +246,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,TG Australasia Pty Limited
 157,Chikarovski & Associates Pty Ltd,Xiang Rong (Australia) Investment Group Pty Ltd
 157,Chikarovski & Associates Pty Ltd,The Trustee For A2z Outcomes Unit Trust
+157,Chikarovski & Associates Pty Ltd,Hutchison Ports Australia PL
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian Mobile Dental Care
 658,Chris Drummer ,Australian College of Nursing 
@@ -281,6 +282,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Innovex Solutions
 79,CMAX Communications Pty Ltd,DefenceSA
 79,CMAX Communications Pty Ltd,RAYGEN Resources Pty Ltd
+79,CMAX Communications Pty Ltd,Soldier On
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -541,7 +543,6 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,China Rail 15 Group 
 453,First State Advisors and Consultants ,Popular Compass Development
 453,First State Advisors and Consultants ,Dell Australia Pty Ltd 
-453,First State Advisors and Consultants ,Imperial Tobacco Ltd 
 453,First State Advisors and Consultants ,Staples Australia Pty Ltd
 453,First State Advisors and Consultants ,University of Western Sydney
 453,First State Advisors and Consultants ,Charlton Excavation and Demolition
@@ -565,6 +566,7 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Nicovations Australia
 453,First State Advisors and Consultants ,British American Tobacco Australia Ltd
 453,First State Advisors and Consultants ,G.H. Varley Pty Ltd 
+453,First State Advisors and Consultants ,Nicoventures Holding  Ltd 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 484,FPL Advisory Pty Ltd,Building Designers Association of Victoria
@@ -590,12 +592,12 @@ agency_id,agency_business_entity_name,client_name
 1,Gambolling Pty Ltd,EuroMaritime Consultancy
 1,Gambolling Pty Ltd,Norfolk-Aus Financial Horizons P/L
 1,Gambolling Pty Ltd,National Australia Bank
-1,Gambolling Pty Ltd,La Trobe University
 1,Gambolling Pty Ltd,OHDC Inc
 1,Gambolling Pty Ltd,Intercapital 
 1,Gambolling Pty Ltd,Project Flinders Pty Ltd
-1,Gambolling Pty Ltd,Murray Darling Medical School
 1,Gambolling Pty Ltd,Dassault Aviation
+1,Gambolling Pty Ltd,Fresh Markets Australia
+1,Gambolling Pty Ltd,Peninsula Health
 375,Gell Southam Group Pty Ltd,Kores Australia
 375,Gell Southam Group Pty Ltd,Volvo Car Australia
 375,Gell Southam Group Pty Ltd,Wallarah 2 Coal Project
@@ -634,6 +636,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,The University of Western Australia 
 122,GRA Everingham Pty Ltd,City of Cockburn
 122,GRA Everingham Pty Ltd,City of Armadale 
+122,GRA Everingham Pty Ltd,Shanghai CRED Real Estate Stock Co. Ltd
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -691,6 +694,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Canada Pension Plan Investment Board
 59,GRACosway Pty Ltd,SPC Ardmona Limited
 59,GRACosway Pty Ltd,Australian Imported Motor Vehicle Industry Association Incorporated (AIMVIA)
+59,GRACosway Pty Ltd,Hunan Dakang Pasture Farming Co. Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -809,6 +813,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Nurture Works Foundation Inc 54 920 025 791
 319,Jo Scard Pty Ltd,Information on Disability Education Awareness Services Incorporated 73 877 964 532
 319,Jo Scard Pty Ltd,Iman Najjari Kondori
+319,Jo Scard Pty Ltd,Friends of the Earth Middle East
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -857,7 +862,6 @@ agency_id,agency_business_entity_name,client_name
 576,KENDAL AND ASSOCIATES,Arun Kumar Pallathadka 
 576,KENDAL AND ASSOCIATES,Dr Harikumar Pallathadka
 621,KnowMinister.com Pty Ltd,CSR Limited
-621,KnowMinister.com Pty Ltd,Wilmar Sugar Australia Pty Ltd
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
 115,KPMG,The Cobra Group Pty Ltd
 115,KPMG,Distilled Spirits Industry Council of Australia Inc
@@ -987,14 +991,10 @@ agency_id,agency_business_entity_name,client_name
 201,Media Affairs,Caravan Industry Association of Victoria
 201,Media Affairs,Paradigm BioPharmaceuticals Ltd
 684,Medina Capital,Qatar Airways
-132,Megan Anwyl,Seadrill
 132,Megan Anwyl,Citic Pacific Mining Management
 132,Megan Anwyl,Extension Hill Pty Ltd
-132,Megan Anwyl,Crystal Exploration and Production Company (Nassau) Limited
 132,Megan Anwyl,Skywest Airlines Pty Ltd
 132,Megan Anwyl,Atlas Iron Ltd
-132,Megan Anwyl,CBus Property
-132,Megan Anwyl,Mirvac Pty Ltd
 132,Megan Anwyl,Magnetite Network
 132,Megan Anwyl,Youth Affairs Council WA
 132,Megan Anwyl,Gindalbie Metals Ltd
@@ -1010,6 +1010,8 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,Quintiq Pty Ltd
 132,Megan Anwyl,Norwest Energy NL
 132,Megan Anwyl,BC Iron
+699,Michael John Kauter,Nicoventures Australia Pty Limited
+699,Michael John Kauter,British American Tobacco Australia
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
@@ -1128,8 +1130,10 @@ agency_id,agency_business_entity_name,client_name
 546,Policy Australia Pty Ltd,Netflix
 219,Policy Solutions Group Pty Ltd,HDY
 219,Policy Solutions Group Pty Ltd,Intuit
+219,Policy Solutions Group Pty Ltd,Hutchison Ports Australia
 318,Porter Novelli Australia Pty Ltd,HVP Plantations
 318,Porter Novelli Australia Pty Ltd,General Mills Australia
+318,Porter Novelli Australia Pty Ltd,7Eleven Stores Pty Ltd
 516,Premier State Consulting Pty Ltd,Australian Hotels Association (NSW)
 516,Premier State Consulting Pty Ltd,Employers Mutual Limited
 516,Premier State Consulting Pty Ltd,Merivale Group (Hemmes Trading Pty Ltd)
@@ -1443,6 +1447,8 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,DomaCom Limited
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
+90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
+90,The Fifth Estate Consultancy Pty Ltd,Hume Coal
 450,The Humphrey Company Pty Limited,AMI International
 450,The Humphrey Company Pty Limited,Project Flinders Pty Ltd
 268,The Premier Communications Group Pty Ltd.,Phebra
@@ -1475,6 +1481,8 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,SAP Australia Pty Ltd
 424,The Taylor Street Consultancy P/L,Sydney Olympic Park Business Association
 424,The Taylor Street Consultancy P/L,Sydney Airport Corporation Ltd
+698,The Trustee for Arthur Trust,Engineers Australia
+698,The Trustee for Arthur Trust,Accommodation Association of Australia
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
@@ -1608,7 +1616,6 @@ agency_id,agency_business_entity_name,client_name
 428,Weber Shandwick Worldwide,Macquarie University 
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Church of Scientology Australia
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,AMP Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Black Dog Institute
