@@ -17,7 +17,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
 45,Australian Public Affairs Limited Partnership,Rodney Frail,Director  Media and Issues Management,No,""
 45,Australian Public Affairs Limited Partnership,Philip McCall,Director  Public Relations,No,""
-45,Australian Public Affairs Limited Partnership,Rachel Fry,Senior Consultant  Regulatory Affairs,Yes,November 2010
 45,Australian Public Affairs Limited Partnership,Liam Bathgate,Director  Regulatory Affairs,Yes,March 1983
 45,Australian Public Affairs Limited Partnership,Michael Gleeson,Senior Consultant  Government Relations,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
@@ -55,7 +54,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 654,C2hills Investments Pty Limited,Cara Leanne Dale,Director/Consultant,No,""
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Christopher Stone,Director Policy and Strategy,Yes,December 2007
-556,Capital Hill Advisory Pty Ltd,Claire Dawson,Manager Federal Government,Yes,December 2004
 556,Capital Hill Advisory Pty Ltd,Michael Photios,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Cathy Duncan,Practice Manager,Yes,June 2012
 556,Capital Hill Advisory Pty Ltd,David Begg,Director,No,""
@@ -345,7 +343,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 452,Michael Johnson Associates Pty Limited,Ian Michael RossGowan,Director,No,""
 444,Michael Megaw,Michael Curnow Megaw,Owner,No,""
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore,Director,Yes,November 2007
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Cameron Milner,Director,No,""
 577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Madeline Simmonds,Associate/Practice Manager,No,""
 696,MOUNTAIN MEDIA PTY LTD,JULIEANNE STRACHAN, CANBERRA MANAGER,No,""
 696,MOUNTAIN MEDIA PTY LTD,PHILIP JAMES DAVEY,DIRECTOR,No,""
@@ -384,6 +381,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
 427,Owen International Pty Ltd,Leslie Goodridge,Managing Director,Yes,May 1994
+72,Parker & Partners Pty Ltd,Peta Lange,Associate Director,Yes,January 2009
 72,Parker & Partners Pty Ltd,Michael Hartmann,Director Government Relations,No,""
 72,Parker & Partners Pty Ltd,Arli Miller,Director,No,""
 72,Parker & Partners Pty Ltd,Susan Redden Makatoa ,Group Managing Director Corporate,No,""
@@ -443,7 +441,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
 98,Res Publica Pty Ltd,Chris Fry,Associate Director,No,""
 98,Res Publica Pty Ltd,Gabriel McDowell,Managing Director,No,""
-98,Res Publica Pty Ltd,Tim Verguizas,Account Manager,No,""
 497,Resolution Junction,Gregory Male,Director,Yes,September 2012
 587,Richard Gilbert Corporate Advisory Pty Ltd,Richard Gilbert,Director,Yes,October 1994
 35,Richardson Coutts,John Richardson,Director,Yes,May 1995
@@ -460,7 +457,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
 607,Sand Technology Aust P/L,Ian Douglas Fowler,Director.,No,""
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
-227,SAS Consulting Group Pty Ltd,Hon Larry Anthony,Director,Yes,October 2004
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 486,SCG Advisory Pty Ltd,Frederick John Brown,Director,Yes,September 2007
 486,SCG Advisory Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
@@ -504,6 +500,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora furman,Senior Manager Campaigns,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Kathryn Hall,Senior Account executive,Yes,September 2010
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
+90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
 268,The Premier Communications Group Pty Ltd.,Ross Grove,Senior Advisor,No,""

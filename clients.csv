@@ -166,6 +166,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Logic Entity Australia Pty Ltd
 338,Barton Deakin ,Young Menâs Christian Association of Sydney
 338,Barton Deakin ,Reddawn
+338,Barton Deakin ,Atlassian
+338,Barton Deakin ,BSE Maritime Solutions
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -218,17 +220,16 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,William Hill Australia
 556,Capital Hill Advisory Pty Ltd,Unity Resources Group Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Glencore Coal Assets Australia Pty Ltd
-556,Capital Hill Advisory Pty Ltd,Australian Remittance and Currency Providers Association
 556,Capital Hill Advisory Pty Ltd,Employers Mutual Management Pty Ltd
 556,Capital Hill Advisory Pty Ltd,PPB Advisory
 556,Capital Hill Advisory Pty Ltd,Stuart Alexander & Co Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Queensland Investment Corporation
 556,Capital Hill Advisory Pty Ltd,Xerox Business Services LLC and its Affiliates
-556,Capital Hill Advisory Pty Ltd,Mundipharma Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Southern Cross Group Services Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Australian Federation of AIDS Organisations Inc
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
+601,Catherine McGovern,Ipsen Pty Ltd
 27,Cato Counsel Pty Ltd,Pacific Brands
 27,Cato Counsel Pty Ltd,Safegov
 27,Cato Counsel Pty Ltd,Sterling Early Education
@@ -247,6 +248,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Xiang Rong (Australia) Investment Group Pty Ltd
 157,Chikarovski & Associates Pty Ltd,The Trustee For A2z Outcomes Unit Trust
 157,Chikarovski & Associates Pty Ltd,Hutchison Ports Australia PL
+157,Chikarovski & Associates Pty Ltd,Sir Michael Hintze AM
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian Mobile Dental Care
 658,Chris Drummer ,Australian College of Nursing 
@@ -348,6 +350,7 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Lung Foundation Australia
 160,Cotterell Jannette Suzanne,Tandem College 
 160,Cotterell Jannette Suzanne,Leading Age Services Australia Ltd
+160,Cotterell Jannette Suzanne,Minderoo Foundation PTY LTD
 403,Covance Pty Ltd (Covance Market Access Services division),Janssen Cilag Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Novartis Pharmaceuticals Australia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
@@ -379,6 +382,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Violence Free Families
 81,CPR Communications & Public Relations Pty Ltd,The Royal Agricultural Society of Victoria Limited
 81,CPR Communications & Public Relations Pty Ltd,Zagame Automotive Group
+81,CPR Communications & Public Relations Pty Ltd,Samsung Electronics Australia
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Santos
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
@@ -497,6 +501,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Charles Sturt University 
 31,Endeavour Consulting Group Pty Ltd,La Trobe University 
 31,Endeavour Consulting Group Pty Ltd,Murray Darling Medical School
+31,Endeavour Consulting Group Pty Ltd,Kadac Pty Ltd
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -637,6 +642,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,City of Cockburn
 122,GRA Everingham Pty Ltd,City of Armadale 
 122,GRA Everingham Pty Ltd,Shanghai CRED Real Estate Stock Co. Ltd
+122,GRA Everingham Pty Ltd,Australian Finance Group 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -695,6 +701,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,SPC Ardmona Limited
 59,GRACosway Pty Ltd,Australian Imported Motor Vehicle Industry Association Incorporated (AIMVIA)
 59,GRACosway Pty Ltd,Hunan Dakang Pasture Farming Co. Ltd
+59,GRACosway Pty Ltd,OZ Minerals Limited
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -814,6 +821,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Information on Disability Education Awareness Services Incorporated 73 877 964 532
 319,Jo Scard Pty Ltd,Iman Najjari Kondori
 319,Jo Scard Pty Ltd,Friends of the Earth Middle East
+319,Jo Scard Pty Ltd,Connecting Up Incorporated 13 903 061 955 
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -1088,15 +1096,10 @@ agency_id,agency_business_entity_name,client_name
 427,Owen International Pty Ltd,Aeronautical and General Instruments Ltd
 427,Owen International Pty Ltd,NBC Group
 72,Parker & Partners Pty Ltd,Bell Shakespeare
-72,Parker & Partners Pty Ltd,Dubai Holdings
 72,Parker & Partners Pty Ltd,CSL Limited
 72,Parker & Partners Pty Ltd,Telstra
-72,Parker & Partners Pty Ltd,Emirates Hotels & Resorts
-72,Parker & Partners Pty Ltd,Emirates Airline
-72,Parker & Partners Pty Ltd,Nestle
 72,Parker & Partners Pty Ltd,STW Group Ltd
 72,Parker & Partners Pty Ltd,Australian Institute of Company Directors
-72,Parker & Partners Pty Ltd,Emirates Group
 72,Parker & Partners Pty Ltd,WPP plc
 72,Parker & Partners Pty Ltd,Children's Medical Research Institute
 72,Parker & Partners Pty Ltd,The Jean Hailes Foundation
@@ -1120,6 +1123,9 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,PHILIPS ELECTRONICS AUSTRALIA LIMITED
 72,Parker & Partners Pty Ltd,Netflix Australia Pty Ltd
 72,Parker & Partners Pty Ltd,Caroona Coal Action Group 
+72,Parker & Partners Pty Ltd,AbbVie Australia
+72,Parker & Partners Pty Ltd,Mars Australia
+72,Parker & Partners Pty Ltd,Wrigley Australia
 304,Patrick Russell Consulting Pty Ltd,Small to Medium Enterprise Australia
 298,Pavilion Consulting Pty Ltd,Genea
 298,Pavilion Consulting Pty Ltd,Australasian Lymphology Association
@@ -1131,6 +1137,7 @@ agency_id,agency_business_entity_name,client_name
 219,Policy Solutions Group Pty Ltd,HDY
 219,Policy Solutions Group Pty Ltd,Intuit
 219,Policy Solutions Group Pty Ltd,Hutchison Ports Australia
+219,Policy Solutions Group Pty Ltd,Thorn Group Ltd
 318,Porter Novelli Australia Pty Ltd,HVP Plantations
 318,Porter Novelli Australia Pty Ltd,General Mills Australia
 318,Porter Novelli Australia Pty Ltd,7Eleven Stores Pty Ltd
@@ -1305,6 +1312,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Partners in Performance
 35,Richardson Coutts,Mallinckrodt Pharmaceuticals Inc 
 35,Richardson Coutts,GTI Media
+35,Richardson Coutts,Emergency Medicine Foundation
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
@@ -1483,6 +1491,8 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,Sydney Airport Corporation Ltd
 698,The Trustee for Arthur Trust,Engineers Australia
 698,The Trustee for Arthur Trust,Accommodation Association of Australia
+698,The Trustee for Arthur Trust,bet365
+698,The Trustee for Arthur Trust,bet365 Group Limited
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
@@ -1518,6 +1528,7 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,National Automotive Leasing and Salary Packaging Association
 420,The trustee for ECG Advisory Trust,Lion Pty Limited
 420,The trustee for ECG Advisory Trust,DDG Operations Pty Limited
+420,The trustee for ECG Advisory Trust,Crescent Capital Partners
 41,The Trustee for Hilton Valley Investment,Outdoor Education Group
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 28,The Trustee for Markeit Family Trust,Gambit Technologies
