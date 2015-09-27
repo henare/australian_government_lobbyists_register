@@ -286,12 +286,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones,Managing Director,No,""
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
 115,KPMG,Leigh Obradovic,Associate Director,Yes,December 2007
-115,KPMG,Mohammad Sharaf Hafiz Khan,Consultant,No,""
+115,KPMG,Mohammad Sharaf Hafiz Khan,Senior Consultant,No,""
 115,KPMG,Langdon Patrick,Associate Director,No,""
 115,KPMG,Sarah Newport ,Manager ,Yes,June 2007
 115,KPMG,Christina Nicholas,Consultant,No,""
 115,KPMG,Ruo Yan,Consultant,No,""
 115,KPMG,John Gallagher,Manager,No,""
+115,KPMG,Wilson Del Socorro,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Managing Partner Australia,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Geoff Brennan,Senior Advisor,Yes,April 1996
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
@@ -349,6 +350,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 356,Mr John Kindler,John Walter Kindler,Owner,Yes,March 2004
 677,Naylor Phillip Gordon,Phillip Gordon Naylor,Principal,No,""
 229,Nayton Communication Pty Ltd,John Nayton,Proprietor,No,""
+32,New Energy and  Resources Australia Pty Ltd,David Utting,Principal NZ & Australia,No,""
 565,Newgate Communications Pty Limited,Brian Tyson,Managing Partner,No,""
 565,Newgate Communications Pty Limited,Feyi Akindoyeni,Partner,No,""
 565,Newgate Communications Pty Limited,Jodie Brough,Partner,No,""
@@ -489,6 +491,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""
 66,Statecraft,Clare Wellesley Wesley,Associate Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
+66,Statecraft,Steven Tu,Associate Consultant,Yes,September 2013
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 235,The Agenda Group Pty Ltd,James McGarvey,Director,No,""
@@ -510,7 +513,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 95,The Strategic Counsel Pty Ltd,Donna Staunton,Managing Director,No,""
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,The Hon. Dr Michael Wooldridge,Advisor,Yes,October 2001
-95,The Strategic Counsel Pty Ltd,Yvette Alexander Ross,Associate,No,""
+95,The Strategic Counsel Pty Ltd,Rebecca McCarthy,Associate,No,""
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
 424,The Taylor Street Consultancy P/L,Adam Leto,Senior Advisor,No,""
 424,The Taylor Street Consultancy P/L,Tania Hyde,Chief Operating Officer,Yes,February 2007
