@@ -110,6 +110,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
 81,CPR Communications & Public Relations Pty Ltd,Leanne Joyce,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Chanmali Tregambe,Senior Adviser,No,""
+81,CPR Communications & Public Relations Pty Ltd,Tom Middleton,Senior Adviser,Yes,September 2013
 683,Craig Emerson Economics Pty Ltd,Craig Emerson,Managing Director,Yes,September 2013
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
@@ -271,6 +272,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Margret Biersack,Associate,No,""
 319,Jo Scard Pty Ltd,Elise Dare,Associate,No,""
 319,Jo Scard Pty Ltd,Patria Manalili,Associate,No,""
+319,Jo Scard Pty Ltd,Dani Rothwell,Associate,Yes,June 2015
 275,Jody Fassina ATF JAI Family Trust,Jody Fassina,Principal Consultant,Yes,April 2001
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
@@ -486,8 +488,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
 490,Staindl Strategic Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
-66,Statecraft,Jonathon Moore,Senior Consultant,No,""
-66,Statecraft,Jackson Busse,Associate Consultant,No,""
+66,Statecraft,Jonathon Moore,Director,No,""
+66,Statecraft,Jackson Busse,Consultant,No,""
 66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""
 66,Statecraft,Clare Wellesley Wesley,Associate Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988

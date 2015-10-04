@@ -1,7 +1,6 @@
 agency_id,agency_business_entity_name,client_name
-271,A D Evers-Buckland,Association of Liquor Licensees Melbourne
-271,A D Evers-Buckland,Palace Pty Ltd (The Palace Theatre Melbourne)
 271,A D Evers-Buckland,Concert Lighting Systems
+271,A D Evers-Buckland,Geoff RM Howard
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Rafael  Advanced Defense Systems Limited
 36,Aegis Consulting Group Pty Ltd,EdenRed
 36,Aegis Consulting Group Pty Ltd,Global Renewables
@@ -708,6 +707,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Hunan Dakang Pasture Farming Co. Ltd
 59,GRACosway Pty Ltd,OZ Minerals Limited
 59,GRACosway Pty Ltd,Association of Independent Schools of South Australia
+59,GRACosway Pty Ltd,SAI Global Limited
+59,GRACosway Pty Ltd,Credit Corp Group Limited
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -879,6 +880,8 @@ agency_id,agency_business_entity_name,client_name
 576,KENDAL AND ASSOCIATES,Dr Harikumar Pallathadka
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
+621,KnowMinister.com Pty Ltd,Wilmar Sugar Australia Limited
+621,KnowMinister.com Pty Ltd,Sugar Australia Pty Ltd
 115,KPMG,The Cobra Group Pty Ltd
 115,KPMG,Distilled Spirits Industry Council of Australia Inc
 115,KPMG,The Australian Federation of Travel Agents
@@ -1472,10 +1475,10 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Astute Training
 268,The Premier Communications Group Pty Ltd.,Global Orthopaedic Technology
 268,The Premier Communications Group Pty Ltd.,Australian Nursing and Midwifery Federation 
-268,The Premier Communications Group Pty Ltd.,Twentieth Man Fund Incorporated
 268,The Premier Communications Group Pty Ltd.,Associazione Sportivo Australia (ASA)
 268,The Premier Communications Group Pty Ltd.,Bespoke Medical Innovations 
 268,The Premier Communications Group Pty Ltd.,Australian Health Manufacturers and Development Association 
+268,The Premier Communications Group Pty Ltd.,AA Crown Holdings
 408,The Six Hats - Investor Relations Pty Ltd,Wentworth Community Housing 
 408,The Six Hats - Investor Relations Pty Ltd,Stroud Heritage Conservation Incorporated
 408,The Six Hats - Investor Relations Pty Ltd,Platform Youth Services
@@ -1509,7 +1512,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Asciano Limited
 145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
 145,The Trustee for Bespoke Business Trust,Arrium Ltd
-145,The Trustee for Bespoke Business Trust,Alinta Servco Pty Ltd
 145,The Trustee for Bespoke Business Trust,Great Southern Rail Limited
 145,The Trustee for Bespoke Business Trust,Medibank Private Limited
 145,The Trustee for Bespoke Business Trust,Costa Group Holdings Limited
@@ -1564,10 +1566,10 @@ agency_id,agency_business_entity_name,client_name
 610,The Trusteee for the SRKM Trust,Kalgoorlie Creche Inc.
 610,The Trusteee for the SRKM Trust,Goldfields Masonic Homes Inc.
 610,The Trusteee for the SRKM Trust,Goldfields Child Care Centre Inc.
-610,The Trusteee for the SRKM Trust,Goldfields Rehabilitation Services Inc
 610,The Trusteee for the SRKM Trust,Shire of Laverton
 610,The Trusteee for the SRKM Trust,Shire of Leonora
-610,The Trusteee for the SRKM Trust,Shire of Coolgardie
+610,The Trusteee for the SRKM Trust,Esperance Aged Care Facility
+610,The Trusteee for the SRKM Trust,Shire of Dundas
 240,The Write Connection Pty Ltd,InterGen (Australia)
 240,The Write Connection Pty Ltd,Group of Eight Universities
 328,THEMA Consulting Pty Ltd,Shire Australia Pty Ltd
