@@ -77,7 +77,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Motorola
 338,Barton Deakin ,Adobe
 338,Barton Deakin ,AIME Mentoring
-338,Barton Deakin ,CUB Pty Ltd
 338,Barton Deakin ,Harness Racing Australia Inc
 338,Barton Deakin ,Cure for Life Foundation
 338,Barton Deakin ,Camp Quality
@@ -87,7 +86,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,International Social Games Coalition
 338,Barton Deakin ,Trility
 338,Barton Deakin ,Australian Centre for Healthcare Governance
-338,Barton Deakin ,Canada Pension Plan Investment Board
 338,Barton Deakin ,ViiV Healthcare
 338,Barton Deakin ,Medibank Health Solutions Pty Ltd
 338,Barton Deakin ,Crown Castle Australia Pty Limited
@@ -169,6 +167,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,BSE Maritime Solutions
 338,Barton Deakin ,Streem Pty. Ltd.
 338,Barton Deakin ,Caravan Industry Association of Australia Limited
+338,Barton Deakin ,Australian Pipeline Limited 
+338,Barton Deakin ,Franchise Council of Australia Limited
+338,Barton Deakin ,CUB Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -188,14 +189,10 @@ agency_id,agency_business_entity_name,client_name
 6,Bramex Pty Ltd,Aireon (part owned by Iridium Satellite LLC)
 6,Bramex Pty Ltd,Reach Beyond Australia
 657,Brent William Knevett,Sutherland Global Services
-657,Brent William Knevett,Jadu Software
 657,Brent William Knevett,Sutherland Healthcare Solutions
-657,Brent William Knevett,Accuvio
 657,Brent William Knevett,Fivium
-657,Brent William Knevett,Crown Project Services Pty Limited
 657,Brent William Knevett,Anderson Morgan (Devonport) Pty Ltd
-657,Brent William Knevett,Sutherland Innovation Labs (UK)
-657,Brent William Knevett,UXC
+657,Brent William Knevett,Tasmanet
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 131,BTelecom Pty Ltd,Dragnet Internet Services Pty Ltd
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
@@ -209,6 +206,7 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,Rivcott Pty Limited
 654,C2hills Investments Pty Limited,NREC Locomotive Company Pty Ltd
 654,C2hills Investments Pty Limited,ACN 602 837 883 Pty Limited ATF Lansdowne Property Trust
+700,Campaigns and Communications Group P/L,N/A
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
 556,Capital Hill Advisory Pty Ltd,Transfield Services (Australia) Pty Ltd
@@ -387,6 +385,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,The Royal Agricultural Society of Victoria Limited
 81,CPR Communications & Public Relations Pty Ltd,Zagame Automotive Group
 81,CPR Communications & Public Relations Pty Ltd,Samsung Electronics Australia
+81,CPR Communications & Public Relations Pty Ltd,Kabo Lawyers
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Santos
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
@@ -709,6 +708,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Association of Independent Schools of South Australia
 59,GRACosway Pty Ltd,SAI Global Limited
 59,GRACosway Pty Ltd,Credit Corp Group Limited
+59,GRACosway Pty Ltd,thinkholdings Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -725,28 +725,21 @@ agency_id,agency_business_entity_name,client_name
 26,Halden Burns Pty Ltd,Snowdale Holdings Pty Ltd
 96,Hawker Britton Group Pty Ltd,Singleton Ogilvy & Mather Holdings
 96,Hawker Britton Group Pty Ltd,Free TV Australia
-96,Hawker Britton Group Pty Ltd,Etcom
 96,Hawker Britton Group Pty Ltd,STW Group Ltd
 96,Hawker Britton Group Pty Ltd,Canada Steamship Lines Australia Pty Ltd
-96,Hawker Britton Group Pty Ltd,Mediacom
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
 96,Hawker Britton Group Pty Ltd,Bunnings
 96,Hawker Britton Group Pty Ltd,Officeworks
 96,Hawker Britton Group Pty Ltd,Crown Castle
-96,Hawker Britton Group Pty Ltd,HOED
 96,Hawker Britton Group Pty Ltd,J Walter Thompson (JWT)
 96,Hawker Britton Group Pty Ltd,Quasar Resources Pty Ltd
 96,Hawker Britton Group Pty Ltd,Adelaide Airport Limited
 96,Hawker Britton Group Pty Ltd,Macquarie Group Limited
-96,Hawker Britton Group Pty Ltd,ZOO Group
 96,Hawker Britton Group Pty Ltd,amr interactive
-96,Hawker Britton Group Pty Ltd,The Brand Agency
 96,Hawker Britton Group Pty Ltd,AMP Limited
-96,Hawker Britton Group Pty Ltd,Canada Pension Plan Investment Board
 96,Hawker Britton Group Pty Ltd,Australian Hotels Association (Victorian Branch)
 96,Hawker Britton Group Pty Ltd,Silcar Pty Ltd
 96,Hawker Britton Group Pty Ltd,Medibank Health Solutions
-96,Hawker Britton Group Pty Ltd,Leighton Holdings
 96,Hawker Britton Group Pty Ltd,Lorne Sculpture
 96,Hawker Britton Group Pty Ltd,The Adams Group
 96,Hawker Britton Group Pty Ltd,Domain Principal Group
@@ -756,7 +749,6 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Aurizon
 96,Hawker Britton Group Pty Ltd,Yellow Edge
 96,Hawker Britton Group Pty Ltd,Shire of Cardinia 
-96,Hawker Britton Group Pty Ltd,Australian Salary Packaging Industry Association
 96,Hawker Britton Group Pty Ltd,Nextgen Group Holdings Pty Ltd
 96,Hawker Britton Group Pty Ltd,Apple Pty Ltd
 96,Hawker Britton Group Pty Ltd,Law Institute of Victoria
@@ -1181,6 +1173,8 @@ agency_id,agency_business_entity_name,client_name
 220,Primary Communication Pty Ltd,Mental Health Commission of NSW
 220,Primary Communication Pty Ltd,Reachout.com
 220,Primary Communication Pty Ltd,BOC Limited
+220,Primary Communication Pty Ltd,Young and Well CRC
+220,Primary Communication Pty Ltd,AIPE Australian Institute of Professional Education
 631,Primary Policy Partners,Elliott Holdings Australia T/A Ellwaste
 631,Primary Policy Partners,Chris Richards Group Pty Ltd
 631,Primary Policy Partners,Cohuna Aviation Club Inc
@@ -1343,9 +1337,11 @@ agency_id,agency_business_entity_name,client_name
 527,Robert J.L. Hawke & Associates Pty Ltd,Kimberley Agricultural Investment Pty Ltd (ACN 154 270 194)
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
-669,Royce Communications Pty Ltd,Optometry Australia
-669,Royce Communications Pty Ltd,Symbion Pharmacy Services
 669,Royce Communications Pty Ltd,Belgravia Leisure
+669,Royce Communications Pty Ltd,Vicinity Centres
+669,Royce Communications Pty Ltd,Kids Under Cover
+669,Royce Communications Pty Ltd,City of Ballarat
+701,Russell Family Trust ,Southern Farming Systems 
 607,Sand Technology Aust P/L,Serpentine Jarrahdale Council 
 607,Sand Technology Aust P/L,Western Refrigeration 74
 685,Sanlaan Pty Ltd,Restaurant and Catering Australia
