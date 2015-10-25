@@ -170,6 +170,10 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Franchise Council of Australia Limited
 338,Barton Deakin ,CUB Pty Ltd
 338,Barton Deakin ,APT Management Services Pty Ltd
+338,Barton Deakin ,RIVERLIFE PTY. LTD. 
+338,Barton Deakin ,Corning Optical Communications Pty Ltd
+338,Barton Deakin ,Ipar Proprietary Limited 
+338,Barton Deakin ,Palace Cinemas Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -227,6 +231,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Southern Cross Group Services Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Australian Federation of AIDS Organisations Inc
 556,Capital Hill Advisory Pty Ltd,REST Industry Super
+556,Capital Hill Advisory Pty Ltd,Australian Careers Network Ltd
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
 601,Catherine McGovern,Ipsen Pty Ltd
@@ -238,6 +243,7 @@ agency_id,agency_business_entity_name,client_name
 265,CGP solutions Ltd,ViaSat Inc
 265,CGP solutions Ltd,Motorola Solutions Inc
 265,CGP solutions Ltd,OmniSpace LLC
+265,CGP solutions Ltd,Space Exploration Technologies Corp
 157,Chikarovski & Associates Pty Ltd,Association of Financial Advisers Ltd
 157,Chikarovski & Associates Pty Ltd,Stirling Bridge Capital Ltd
 157,Chikarovski & Associates Pty Ltd,Supercharge Batteries
@@ -458,6 +464,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,The Salvation Army Australia Eastern Territory General Work  
 360,Diplomacy Pty Limited,X Icon Pty Ltd (Iconclastic)
 360,Diplomacy Pty Limited,The Nature Conservancy Australia
+360,Diplomacy Pty Limited,Borough of Queenscliffe
 454,Discourse Consulting Pty Ltd,ADA
 454,Discourse Consulting Pty Ltd,NDS
 454,Discourse Consulting Pty Ltd,Life withour Barriers
@@ -595,6 +602,7 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Sirona Capital Management
 333,FTI Consulting (Perth) Pty Ltd,Digital CC Holdings Pty Ltd
 333,FTI Consulting (Perth) Pty Ltd,Brierty Limited
+333,FTI Consulting (Perth) Pty Ltd,CoAssets Limited
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,JBS Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Nimble Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
@@ -653,6 +661,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Shanghai CRED Real Estate Stock Co. Ltd
 122,GRA Everingham Pty Ltd,Australian Finance Group 
 122,GRA Everingham Pty Ltd,Hess Corporation 
+122,GRA Everingham Pty Ltd,Asia Pacific Space Centre Pty Ltd 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -679,7 +688,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Human Systems Asia Pacific Pty Ltd
 59,GRACosway Pty Ltd,DrinkWise Australia Ltd
 59,GRACosway Pty Ltd,FRV Services Australia Pty Ltd
-59,GRACosway Pty Ltd,HPS Services Pty Ltd
 59,GRACosway Pty Ltd,Olex Australia Pty Ltd
 59,GRACosway Pty Ltd,Small Pelagic Fisheries Industry Association
 59,GRACosway Pty Ltd,Nexans Olex
@@ -695,7 +703,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Wesfarmers Limited
 59,GRACosway Pty Ltd,DP World Australia Ltd
 59,GRACosway Pty Ltd,Mulpha Australia Limited
-59,GRACosway Pty Ltd,Kerzner International
 59,GRACosway Pty Ltd,German Australian Chamber of Industry and Commerce Ltd
 59,GRACosway Pty Ltd,Southern Shark Industry Alliance Inc
 59,GRACosway Pty Ltd,Idemitsu Australia Resources Pty Ltd
@@ -709,6 +716,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,SAI Global Limited
 59,GRACosway Pty Ltd,Credit Corp Group Limited
 59,GRACosway Pty Ltd,thinkholdings Pty Ltd
+59,GRACosway Pty Ltd,On Deck Capital Australia Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1071,6 +1079,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Swisse Wellness Pty Ltd
 565,Newgate Communications Pty Limited,Magnetar Capital LLC
 565,Newgate Communications Pty Limited,Minter Ellison
+565,Newgate Communications Pty Limited,Southern Cross Austereo Pty Ltd
 694,Nick Bolkus,walker Corporation
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
@@ -1182,7 +1191,6 @@ agency_id,agency_business_entity_name,client_name
 631,Primary Policy Partners,HTT CORPORATION
 631,Primary Policy Partners,E.B Mawson & Sons Proprietary Limited (Mawsons Concrete & Quarries) 
 631,Primary Policy Partners,Smithton Veterinary Service 
-631,Primary Policy Partners,The Melkite Catholic Eparchy of Australia and New Zealand
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 622,Profile Consulting (Aust) Pty Ltd,ATEC Rail Group
@@ -1355,6 +1363,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Careers Australia Group Limited
 685,Sanlaan Pty Ltd,Infigen Energy Limited
 685,Sanlaan Pty Ltd,Springfield Land Corporation
+685,Sanlaan Pty Ltd,Container Scan
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,SEQ Catchments
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
@@ -1477,6 +1486,7 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Bespoke Medical Innovations 
 268,The Premier Communications Group Pty Ltd.,Australian Health Manufacturers and Development Association 
 268,The Premier Communications Group Pty Ltd.,AA Crown Holdings
+705,The Shrimpton Family Trust,Fincantieri S.p.A
 408,The Six Hats - Investor Relations Pty Ltd,Wentworth Community Housing 
 408,The Six Hats - Investor Relations Pty Ltd,Stroud Heritage Conservation Incorporated
 408,The Six Hats - Investor Relations Pty Ltd,Platform Youth Services
@@ -1514,6 +1524,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Great Southern Rail Limited
 145,The Trustee for Bespoke Business Trust,Medibank Private Limited
 145,The Trustee for Bespoke Business Trust,Costa Group Holdings Limited
+145,The Trustee for Bespoke Business Trust,Scepter Partners
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1622,6 +1633,7 @@ agency_id,agency_business_entity_name,client_name
 97,Wayne Smith,Australian Solar Council
 97,Wayne Smith,Greenbank Environmental
 97,Wayne Smith,Australian Energy Storage Council
+97,Wayne Smith,Solar Reserve
 428,Weber Shandwick Worldwide,AstraZeneca Pty Ltd
 428,Weber Shandwick Worldwide,Nutricia Australia Pty Ltd
 428,Weber Shandwick Worldwide,IHMS
@@ -1632,6 +1644,7 @@ agency_id,agency_business_entity_name,client_name
 428,Weber Shandwick Worldwide,FP Markets
 428,Weber Shandwick Worldwide,Economic Development Board of South Australia
 428,Weber Shandwick Worldwide,Macquarie University 
+428,Weber Shandwick Worldwide,The CFD & Margin FX Association
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,AMP Limited

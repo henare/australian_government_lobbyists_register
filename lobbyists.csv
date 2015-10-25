@@ -20,7 +20,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 45,Australian Public Affairs Limited Partnership,Rodney Frail,Director  Media and Issues Management,No,""
 45,Australian Public Affairs Limited Partnership,Philip McCall,Director  Public Relations,No,""
 45,Australian Public Affairs Limited Partnership,Liam Bathgate,Director  Regulatory Affairs,Yes,March 1983
-45,Australian Public Affairs Limited Partnership,Michael Gleeson,Senior Consultant  Government Relations,No,""
+45,Australian Public Affairs Limited Partnership,Michael Gleeson,Senior Consultant,No,""
+45,Australian Public Affairs Limited Partnership,Amanda Parker,Senior Consultant,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack,Director,Yes,June 2001
 413,BAE Systems Australia Limited,John Viskic,Business Development Manager,No,""
@@ -205,6 +206,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Katina Hodson Thomas,Director,Yes,September 2008
 333,FTI Consulting (Perth) Pty Ltd,Tara Nash,Consultant,No,""
 333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Director,No,""
+333,FTI Consulting (Perth) Pty Ltd,Elodie Castagna,Senior Consultant,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Samantha Magnusson ,Senior Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Sarah Browne,Senior Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Steve Murphy ,Senior Director ,No,""
@@ -516,6 +518,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
 268,The Premier Communications Group Pty Ltd.,Ross Grove,Senior Advisor,No,""
+705,The Shrimpton Family Trust,Barry Shrimpton,Director,No,""
 408,The Six Hats - Investor Relations Pty Ltd,Anna Candler,Managing Consultant,No,""
 95,The Strategic Counsel Pty Ltd,Donna Staunton,Managing Director,No,""
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
@@ -579,7 +582,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 428,Weber Shandwick Worldwide,Jacquelynne Willcox,"Head of Corporate Public Affairs, Senior Strategic Counsel",No,""
 428,Weber Shandwick Worldwide,Eliza Newton,Senior Account Director,No,""
 428,Weber Shandwick Worldwide,Alistair Nicholas,Senior Advisor,Yes,October 2000
-428,Weber Shandwick Worldwide,Megan McCarthy,Account Supervisor,No,""
+428,Weber Shandwick Worldwide,Megan McCarthy,Senior Account Manager,No,""
 428,Weber Shandwick Worldwide,Justin Yuen,Senior Consultant,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,CEO,No,""
