@@ -174,6 +174,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Corning Optical Communications Pty Ltd
 338,Barton Deakin ,Ipar Proprietary Limited 
 338,Barton Deakin ,Palace Cinemas Pty Ltd
+338,Barton Deakin ,Brookfield Rail Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -1341,8 +1342,8 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Canadian Solar (Australia) Pty Ltd
 395,Right Angle Business Services Pty Ltd,Yingli Green Energy Australia Pty Ltd
 395,Right Angle Business Services Pty Ltd,Senvion Australia Pty Ltd
-395,Right Angle Business Services Pty Ltd,Arts Access Australia
 395,Right Angle Business Services Pty Ltd,Australian Geothermal Energy Association
+395,Right Angle Business Services Pty Ltd,Horticulture and Energy Investment Company Australia No. 1 Pty Ltd 
 527,Robert J.L. Hawke & Associates Pty Ltd,Australia Sinofortune International Investment (Group) Pty Ltd (ACN 152 954 679)
 527,Robert J.L. Hawke & Associates Pty Ltd,Kimberley Agricultural Investment Pty Ltd (ACN 154 270 194)
 669,Royce Communications Pty Ltd,Basslink
@@ -1364,6 +1365,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Infigen Energy Limited
 685,Sanlaan Pty Ltd,Springfield Land Corporation
 685,Sanlaan Pty Ltd,Container Scan
+685,Sanlaan Pty Ltd,C.A. Australia Pty. Limited
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,SEQ Catchments
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
