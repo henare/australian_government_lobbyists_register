@@ -190,6 +190,7 @@ agency_id,agency_business_entity_name,owner_name
 264,"John, Susan Maree",Sue John
 410,Justine Caines,Justine Caines
 576,KENDAL AND ASSOCIATES,STEPHEN L KENDAL
+702,Killeshandra Holdings,Bob Tronson
 621,KnowMinister.com Pty Ltd,Denise Frances Williams
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones
 115,KPMG,The partners of KPMG change from time to time. A list of partners is available from KPMG on request.
@@ -232,8 +233,6 @@ agency_id,agency_business_entity_name,owner_name
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen
 444,Michael Megaw,Michael Curnow Megaw
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Cameron Milner
 696,MOUNTAIN MEDIA PTY LTD,PHILIP JAMES DAVEY 
 696,MOUNTAIN MEDIA PTY LTD,VICTORIA ANNE DAVEY
 356,Mr John Kindler,John Walter Kindler
@@ -241,6 +240,7 @@ agency_id,agency_business_entity_name,owner_name
 229,Nayton Communication Pty Ltd,Jonathan Frederick Nayton
 32,New Energy and  Resources Australia Pty Ltd,David Utting
 565,Newgate Communications Pty Limited,Porta Communications plc
+526,Next Level Holdings Pty Ltd,DAPAMO Investments Pty Ltd ITF The DPM Trust
 694,Nick Bolkus,Nick Bolkus
 429,NTEC Australia Pty. Ltd.,Christian Groves
 429,NTEC Australia Pty. Ltd.,Mark Hollis
@@ -378,6 +378,8 @@ agency_id,agency_business_entity_name,owner_name
 117,The Trustee for the Bowden Family Trust,The Trustee for the Bowden Family Trust
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann
+691,The Trustee for Weiderman Trainor Family Trust,Alicia Weiderman
+691,The Trustee for Weiderman Trainor Family Trust,Francis Trainor
 610,The Trusteee for the SRKM Trust,David Ryan
 610,The Trusteee for the SRKM Trust,Kate MIlls
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy

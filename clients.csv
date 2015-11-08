@@ -175,6 +175,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Ipar Proprietary Limited 
 338,Barton Deakin ,Palace Cinemas Pty Ltd
 338,Barton Deakin ,Brookfield Rail Pty Ltd
+338,Barton Deakin ,Vector Limited 
+338,Barton Deakin ,Vault Systems Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -212,15 +214,11 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,NREC Locomotive Company Pty Ltd
 654,C2hills Investments Pty Limited,ACN 602 837 883 Pty Limited ATF Lansdowne Property Trust
 700,Campaigns and Communications Group P/L,N/A
+700,Campaigns and Communications Group P/L,Fincantieri
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
 556,Capital Hill Advisory Pty Ltd,Transfield Services (Australia) Pty Ltd
-556,Capital Hill Advisory Pty Ltd,AstraZeneca Pty Ltd
-556,Capital Hill Advisory Pty Ltd,Sanofi-Aventis Australia Pty Ltd
-556,Capital Hill Advisory Pty Ltd,Bristol-Myers Squibb Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Pfizer Australia Pty Ltd
-556,Capital Hill Advisory Pty Ltd,Merck Sharp & Dohme (Australia) Pty Ltd
-556,Capital Hill Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,William Hill Australia
 556,Capital Hill Advisory Pty Ltd,Unity Resources Group Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Glencore Coal Assets Australia Pty Ltd
@@ -233,6 +231,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Australian Federation of AIDS Organisations Inc
 556,Capital Hill Advisory Pty Ltd,REST Industry Super
 556,Capital Hill Advisory Pty Ltd,Australian Careers Network Ltd
+556,Capital Hill Advisory Pty Ltd,Broadspectrum Limited
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
 601,Catherine McGovern,Ipsen Pty Ltd
@@ -395,6 +394,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Zagame Automotive Group
 81,CPR Communications & Public Relations Pty Ltd,Samsung Electronics Australia
 81,CPR Communications & Public Relations Pty Ltd,Kabo Lawyers
+81,CPR Communications & Public Relations Pty Ltd,ACCIONA Australia
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Santos
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
@@ -663,6 +663,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Australian Finance Group 
 122,GRA Everingham Pty Ltd,Hess Corporation 
 122,GRA Everingham Pty Ltd,Asia Pacific Space Centre Pty Ltd 
+122,GRA Everingham Pty Ltd,Childrenâs Cancer Institute 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -718,6 +719,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Credit Corp Group Limited
 59,GRACosway Pty Ltd,thinkholdings Pty Ltd
 59,GRACosway Pty Ltd,On Deck Capital Australia Pty Ltd
+59,GRACosway Pty Ltd,ACCORD Australasia Inc
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -879,6 +881,8 @@ agency_id,agency_business_entity_name,client_name
 410,Justine Caines,UnitingCare Australia
 576,KENDAL AND ASSOCIATES,Arun Kumar Pallathadka 
 576,KENDAL AND ASSOCIATES,Dr Harikumar Pallathadka
+702,Killeshandra Holdings,physiSECURE
+702,Killeshandra Holdings,Startup Bus Australia
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
 621,KnowMinister.com Pty Ltd,Wilmar Sugar Australia Limited
@@ -930,6 +934,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Cancer Drugs Alliance (CDA) 
 76,Kreab Gavin Anderson (Australia) Ltd,Brookfield Rail Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Foundation Life Insurance and Mortgage Broking
+76,Kreab Gavin Anderson (Australia) Ltd,Online Education Services  
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1035,13 +1040,6 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Adani Mining Pty Ltd
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Linfox Proprietary Limited
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,CSC Australia Pty Ltd
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Gas Energy Australia
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Johnson and Johnson Pty Ltd
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,BOC Limited
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Careers Australia Group Limited
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
 356,Mr John Kindler,Pratt and Whitney Military Engines
 677,Naylor Phillip Gordon,Charley's Enterprises Pty Ltd
@@ -1081,6 +1079,12 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Magnetar Capital LLC
 565,Newgate Communications Pty Limited,Minter Ellison
 565,Newgate Communications Pty Limited,Southern Cross Austereo Pty Ltd
+526,Next Level Holdings Pty Ltd,Adani Mining Pty Ltd
+526,Next Level Holdings Pty Ltd,Linfox Proprietary Limited
+526,Next Level Holdings Pty Ltd,Gas Energy Australia
+526,Next Level Holdings Pty Ltd,Johnson and Johnson Pty Ltd
+526,Next Level Holdings Pty Ltd,Careers Australia Group Limited
+526,Next Level Holdings Pty Ltd,BOC Limited
 694,Nick Bolkus,walker Corporation
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
@@ -1161,7 +1165,6 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Australian Hotels Association (NSW)
 516,Premier State Consulting Pty Ltd,Employers Mutual Limited
 516,Premier State Consulting Pty Ltd,Merivale Group (Hemmes Trading Pty Ltd)
-516,Premier State Consulting Pty Ltd,PricewaterhouseCoopers Australia Limited
 516,Premier State Consulting Pty Ltd,Transfield Services (Australia) Pty Ltd
 516,Premier State Consulting Pty Ltd,Echo Entertainment Group Limited
 516,Premier State Consulting Pty Ltd,Mounties Group
@@ -1169,6 +1172,7 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Gloucester Resources Limited
 516,Premier State Consulting Pty Ltd,Bailey Group Holdings
 516,Premier State Consulting Pty Ltd,Assetlink Services Pty Ltd
+516,Premier State Consulting Pty Ltd,Broadspectrum Limited
 220,Primary Communication Pty Ltd,The Butterfly Foundation
 220,Primary Communication Pty Ltd,Scouts Australia
 220,Primary Communication Pty Ltd,National Eating Disorders Collaboration
@@ -1515,6 +1519,7 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,bet365
 698,The Trustee for Arthur Trust,bet365 Group Limited
 698,The Trustee for Arthur Trust,ELAN Energy Management
+698,The Trustee for Arthur Trust,Caltex Australia Petroleum Pty Ltd
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
@@ -1575,6 +1580,7 @@ agency_id,agency_business_entity_name,client_name
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Aspen Pharmacare Australia Pty Ltd A.B.N. 51 096 236 985
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,TEVA Pharma Australia Pty Ltd ABN 169 715 664
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Orpharma Pty Ltd
+691,The Trustee for Weiderman Trainor Family Trust,Beyond Billabong Training Pty Ltd
 610,The Trusteee for the SRKM Trust,Kalgoorlie Creche Inc.
 610,The Trusteee for the SRKM Trust,Goldfields Masonic Homes Inc.
 610,The Trusteee for the SRKM Trust,Goldfields Child Care Centre Inc.

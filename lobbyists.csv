@@ -247,7 +247,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Paul Ian Lobban,Director,No,""
 59,GRACosway Pty Ltd,Nicola Georgina Smith,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Sharon Anne Reid,Research and Policy Analyst,No,""
-59,GRACosway Pty Ltd,Lucy Jean McAuliffe,Research and Policy Analyst,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
@@ -291,6 +290,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 264,"John, Susan Maree",Sue John,Principal,No,""
 410,Justine Caines,Justine Caines,Principal,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
+702,Killeshandra Holdings,Bob Tronson,Director,No,""
 621,KnowMinister.com Pty Ltd,Denise Frances Williams,Consultant,No,""
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones,Managing Director,No,""
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
@@ -332,8 +332,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
 80,MacGregor Public Relations,John MacGregor,Managing Director,No,""
-119,Macquarie Group Limited,Simon Edwards,Associate Director Corporate Communications  Investor Relations,Yes,April 1999
-119,Macquarie Group Limited,Kristine Neill,Executive Director Corporate Communications,No,""
+119,Macquarie Group Limited,Kristine Neill,Executive Director Corporate Communications  Investor Relations,No,""
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd,Managing Director,Yes,March 1996
 245,Marketing Elements Pty Ltd,Cecelia Haddad,Director,No,""
 425,Maser Defence Pty Ltd,Graham Elliott,General Manager,No,""
@@ -350,8 +349,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Managing Partner,No,""
 452,Michael Johnson Associates Pty Limited,Ian Michael RossGowan,Director,No,""
 444,Michael Megaw,Michael Curnow Megaw,Owner,No,""
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,David Moore,Director,Yes,November 2007
-577,MILNER STRATEGIC SERVICES PTY LTD & NEXT LEVEL HOLDINGS PTY LTD,Madeline Simmonds,Associate/Practice Manager,No,""
 696,MOUNTAIN MEDIA PTY LTD,JULIEANNE STRACHAN, CANBERRA MANAGER,No,""
 696,MOUNTAIN MEDIA PTY LTD,PHILIP JAMES DAVEY,DIRECTOR,No,""
 356,Mr John Kindler,John Walter Kindler,Owner,Yes,March 2004
@@ -376,6 +373,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Gail Morgan,Associate Partner,Yes,May 2006
 565,Newgate Communications Pty Limited,Matthew Francis,Associate Partner,Yes,June 2015
 565,Newgate Communications Pty Limited,Richard Collyer,Associate Partner,No,""
+526,Next Level Holdings Pty Ltd,David Moore,Director,Yes,November 2007
+526,Next Level Holdings Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
+526,Next Level Holdings Pty Ltd,Stephen Beckett,Senior Manager,No,""
 694,Nick Bolkus,Nick Bolkus,Owner,Yes,July 2005
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
@@ -551,6 +551,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 117,The Trustee for the Bowden Family Trust,Bob Bowden,Chief Executive,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann,Senior Health Economist,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann,Director,No,""
+691,The Trustee for Weiderman Trainor Family Trust,Alicia Weiderman,Director,Yes,June 2014
 610,The Trusteee for the SRKM Trust,Kate Mills,Director/Principal Consultant,No,""
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy,Director,Yes,April 1992
 328,THEMA Consulting Pty Ltd,Dominic Tilden,Director,No,""
