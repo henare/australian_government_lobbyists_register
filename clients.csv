@@ -1,6 +1,7 @@
 agency_id,agency_business_entity_name,client_name
 271,A D Evers-Buckland,Concert Lighting Systems
 271,A D Evers-Buckland,Geoff RM Howard
+271,A D Evers-Buckland,ENVIRONMENTALLY FRIENDLY AUSTRALIA PTY LTD
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Rafael  Advanced Defense Systems Limited
 36,Aegis Consulting Group Pty Ltd,EdenRed
 36,Aegis Consulting Group Pty Ltd,Global Renewables
@@ -177,6 +178,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Brookfield Rail Pty Ltd
 338,Barton Deakin ,Vector Limited 
 338,Barton Deakin ,Vault Systems Pty Ltd
+338,Barton Deakin ,FP Markets Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -766,6 +768,8 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,QBE Insurance Group Pty Ltd 
 96,Hawker Britton Group Pty Ltd,Sportsbet
 96,Hawker Britton Group Pty Ltd,Copyright Agency Limited 
+96,Hawker Britton Group Pty Ltd,Medibank Private 
+96,Hawker Britton Group Pty Ltd,FP Markets 
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,Genzyme
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -932,7 +936,6 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,the Harmony Movement
 76,Kreab Gavin Anderson (Australia) Ltd,DCNS
 76,Kreab Gavin Anderson (Australia) Ltd,Cancer Drugs Alliance (CDA) 
-76,Kreab Gavin Anderson (Australia) Ltd,Brookfield Rail Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Foundation Life Insurance and Mortgage Broking
 76,Kreab Gavin Anderson (Australia) Ltd,Online Education Services  
 465,LATAF CONSULTING ,Australian African Mining Industry Group
@@ -1043,9 +1046,8 @@ agency_id,agency_business_entity_name,client_name
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
 356,Mr John Kindler,Pratt and Whitney Military Engines
 677,Naylor Phillip Gordon,Charley's Enterprises Pty Ltd
-229,Nayton Communication Pty Ltd,Potash West Ltd
 229,Nayton Communication Pty Ltd,Australian Petroleum Production and Exploration Association Limited
-229,Nayton Communication Pty Ltd,Broome International Airport Ltd
+229,Nayton Communication Pty Ltd,Rocla Quarry Products
 32,New Energy and  Resources Australia Pty Ltd,Australian Home Heating Association
 32,New Energy and  Resources Australia Pty Ltd,Mindax Limited
 32,New Energy and  Resources Australia Pty Ltd,Yilgarn Iron Producers Association Inc
@@ -1437,17 +1439,16 @@ agency_id,agency_business_entity_name,client_name
 490,Staindl Strategic Pty Ltd,LD Network
 490,Staindl Strategic Pty Ltd,Keppel Prince Engineering Pty Ltd
 66,Statecraft,KEPCO Australia
-66,Statecraft,Novartis
 66,Statecraft,Dimension Data
 66,Statecraft,Bouygues Construction Australia
 66,Statecraft,Moelis and Company
-66,Statecraft,AbbVie Pty Ltd
 66,Statecraft,WWF Australia
 66,Statecraft,KordaMentha Pty Ltd
 66,Statecraft,Yancoal
 66,Statecraft,CoreLogic RP Data
 66,Statecraft,The GPT Group
 66,Statecraft,Wollongong Coal
+66,Statecraft,Shenhua Watermark Coal Pty Ltd
 385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
 385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
 385,Strategic Partnership Group (Aust) Pty Limited,Linfox Pty Limited
@@ -1520,6 +1521,7 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,bet365 Group Limited
 698,The Trustee for Arthur Trust,ELAN Energy Management
 698,The Trustee for Arthur Trust,Caltex Australia Petroleum Pty Ltd
+698,The Trustee for Arthur Trust,Submarine Institute of Australia
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
