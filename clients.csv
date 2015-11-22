@@ -19,6 +19,8 @@ agency_id,agency_business_entity_name,client_name
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Narda-MITEQ
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Communications 
 666,APEC Lawyers and Consultants Pty Ltd.,Australian Chinese General Chamber of Business
+695,APG Consulting Pty Ltd,Industry Super Australia
+695,APG Consulting Pty Ltd,Grant Thornton Australia Limited
 415,APS Networking Pty Ltd,Clubs Australia
 415,APS Networking Pty Ltd,Clubs NSW
 588,Argos Consulting,Phoenix Compliance Management Pty Ltd
@@ -202,6 +204,7 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Fivium
 657,Brent William Knevett,Anderson Morgan (Devonport) Pty Ltd
 657,Brent William Knevett,Tasmanet
+657,Brent William Knevett,Netsweeper
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 131,BTelecom Pty Ltd,Dragnet Internet Services Pty Ltd
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
@@ -234,6 +237,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,REST Industry Super
 556,Capital Hill Advisory Pty Ltd,Australian Careers Network Ltd
 556,Capital Hill Advisory Pty Ltd,Broadspectrum Limited
+556,Capital Hill Advisory Pty Ltd,Mundipharma
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
 601,Catherine McGovern,Ipsen Pty Ltd
@@ -468,6 +472,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,X Icon Pty Ltd (Iconclastic)
 360,Diplomacy Pty Limited,The Nature Conservancy Australia
 360,Diplomacy Pty Limited,Borough of Queenscliffe
+360,Diplomacy Pty Limited,DocuSign
 454,Discourse Consulting Pty Ltd,ADA
 454,Discourse Consulting Pty Ltd,NDS
 454,Discourse Consulting Pty Ltd,Life withour Barriers
@@ -722,6 +727,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,thinkholdings Pty Ltd
 59,GRACosway Pty Ltd,On Deck Capital Australia Pty Ltd
 59,GRACosway Pty Ltd,ACCORD Australasia Inc
+59,GRACosway Pty Ltd,Coloplast Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1175,6 +1181,7 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Bailey Group Holdings
 516,Premier State Consulting Pty Ltd,Assetlink Services Pty Ltd
 516,Premier State Consulting Pty Ltd,Broadspectrum Limited
+516,Premier State Consulting Pty Ltd,The Star Entertainment Group Limited
 220,Primary Communication Pty Ltd,The Butterfly Foundation
 220,Primary Communication Pty Ltd,Scouts Australia
 220,Primary Communication Pty Ltd,National Eating Disorders Collaboration
@@ -1415,6 +1422,9 @@ agency_id,agency_business_entity_name,client_name
 225,SPIER CONSULTING P/L,AHA
 225,SPIER CONSULTING P/L,MANILDRA GROUP
 225,SPIER CONSULTING P/L,AUSTRALIAN NEWSAGENTS FEDERATION
+660,Sporting Manangement Concepts,Tennis Australia
+660,Sporting Manangement Concepts,West Coast Eagles
+660,Sporting Manangement Concepts,Geelong Football Club
 239,Sports Hydrant Pty Ltd,AMP
 239,Sports Hydrant Pty Ltd,DFA Australia
 239,Sports Hydrant Pty Ltd,Virgin Blue Group of Airlines
