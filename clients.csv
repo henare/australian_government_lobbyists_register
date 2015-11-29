@@ -54,6 +54,7 @@ agency_id,agency_business_entity_name,client_name
 45,Australian Public Affairs Limited Partnership,Access Testing Pty Ltd
 45,Australian Public Affairs Limited Partnership,IWU Holdings LLC
 45,Australian Public Affairs Limited Partnership,Hugo's Manly
+45,Australian Public Affairs Limited Partnership,NSW School Nurses Association Inc
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Qualcomm International
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
@@ -101,10 +102,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,RMIT University 
 338,Barton Deakin ,Corning Cable Systems Pty Ltd 
 338,Barton Deakin ,Settlement Services International 
-338,Barton Deakin ,Uranium One Australia Pty Ltd
 338,Barton Deakin ,The Caravan Camping & Touring Industry & Manufactured Housing Industry Association of NSW Ltd
 338,Barton Deakin ,Citigroup Pty Limited
-338,Barton Deakin ,Australian Private Hospitals Association Limited
 338,Barton Deakin ,Renew Initiatives Australia Limited 
 338,Barton Deakin ,Bowel Cancer Australia
 338,Barton Deakin ,C.H. Group Pty Ltd
@@ -141,8 +140,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Adults Surviving Child Abuse
 338,Barton Deakin ,Orica Australia Pty Ltd
 338,Barton Deakin ,Mark Moran Group Pty Ltd
-338,Barton Deakin ,Early Learning and Care Council of Australia Inc
-338,Barton Deakin ,Private Healthcare Australia Limited
 338,Barton Deakin ,Accelerate Group Pty Ltd
 338,Barton Deakin ,Dennis Family Corporation Pty Ltd
 338,Barton Deakin ,Law Institute of Victoria Limited
@@ -157,10 +154,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Metgasco Ltd
 338,Barton Deakin ,Palace Cinemas Nominees Pty Ltd
 338,Barton Deakin ,Tata Consultancy Services Limited
-338,Barton Deakin ,Association of Market and Social Research Organisations
 338,Barton Deakin ,Unisys Australia Pty Limited
 338,Barton Deakin ,Literacy for Life Foundation Limited
-338,Barton Deakin ,Sanofi Aventis Australia Pty Ltd
 338,Barton Deakin ,China Mobile International (Australia)
 338,Barton Deakin ,Caravan Industry Association of Australia Ltd
 338,Barton Deakin ,Logic Entity Australia Pty Ltd
@@ -181,6 +176,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Vector Limited 
 338,Barton Deakin ,Vault Systems Pty Ltd
 338,Barton Deakin ,FP Markets Pty Ltd
+338,Barton Deakin ,Bain Capital Asia LLC
+338,Barton Deakin ,Fincantieri S.p.A
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -238,6 +235,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Australian Careers Network Ltd
 556,Capital Hill Advisory Pty Ltd,Broadspectrum Limited
 556,Capital Hill Advisory Pty Ltd,Mundipharma
+556,Capital Hill Advisory Pty Ltd,Pacific Equity Partners
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Meridian Energy Australia Pty Ltd
 601,Catherine McGovern,Ipsen Pty Ltd
@@ -450,7 +448,6 @@ agency_id,agency_business_entity_name,client_name
 197,David Beddall and Associates Pty Ltd,Franchisee Association of Australia Inc
 197,David Beddall and Associates Pty Ltd,Brisbane Grammar School
 197,David Beddall and Associates Pty Ltd,Brisbane Racing Club Limited
-129,David J Cass,Australian Hotels Association (NSW)
 16,Day & Hodge Associates Pty Ltd,Hologic (Australia) Pty Ltd
 16,Day & Hodge Associates Pty Ltd,The Cycling Promotion Fund
 16,Day & Hodge Associates Pty Ltd,Bicycle Industries Australia Inc.
@@ -538,6 +535,7 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd,Achieve Australia
 564,Etched Communications Pty Ltd, Interface Aust Pty Limited
 564,Etched Communications Pty Ltd,Storehouse Residential Trust 
+564,Etched Communications Pty Ltd,Bannister Law
 512,Ethical Strategies Pty Ltd,Hepatitis Australia
 512,Ethical Strategies Pty Ltd,Nutricia Australia
 512,Ethical Strategies Pty Ltd,AbbVie Pty Ltd
@@ -794,6 +792,7 @@ agency_id,agency_business_entity_name,client_name
 19,HTT Trust,Smorgon Fuels
 19,HTT Trust,The Victor Smorgon Group
 19,HTT Trust,Southern Capital Corporation
+19,HTT Trust,Online Hate Prevention Institute
 674,Ian Peregrine Desborough,Bunge Agribusiness Australia  
 674,Ian Peregrine Desborough,Grain Producers Australia Limited
 541,Innovative Electronics Pty Ltd,ESA/Inmarsat
@@ -1087,12 +1086,14 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Magnetar Capital LLC
 565,Newgate Communications Pty Limited,Minter Ellison
 565,Newgate Communications Pty Limited,Southern Cross Austereo Pty Ltd
+565,Newgate Communications Pty Limited,TPI Enterprises
 526,Next Level Holdings Pty Ltd,Adani Mining Pty Ltd
 526,Next Level Holdings Pty Ltd,Linfox Proprietary Limited
 526,Next Level Holdings Pty Ltd,Gas Energy Australia
 526,Next Level Holdings Pty Ltd,Johnson and Johnson Pty Ltd
 526,Next Level Holdings Pty Ltd,Careers Australia Group Limited
 526,Next Level Holdings Pty Ltd,BOC Limited
+526,Next Level Holdings Pty Ltd,The Lewis Land Group of Companies
 694,Nick Bolkus,walker Corporation
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
@@ -1545,6 +1546,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Costa Group Holdings Limited
 145,The Trustee for Bespoke Business Trust,Scepter Partners
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
+589,The Trustee for Bespoke Territory Unit Trust,Landbridge Infrastructure Australia Pty Ltd
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
 550,The Trustee for Connelly Project Resources,Wesley Mission Brisbane
