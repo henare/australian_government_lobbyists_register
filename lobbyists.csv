@@ -38,6 +38,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,James Coward,Policy and Business Analyst,No,""
 338,Barton Deakin ,Christopher Reside,Policy and Business Analyst,No,""
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
+338,Barton Deakin ,Stefanee Lovett,Director,Yes,September 2015
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
@@ -182,6 +183,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
 71,Essential Media Communications Pty Ltd,Elisa Fernandes Carvalho,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Communications Consultant,No,""
+71,Essential Media Communications Pty Ltd,Tim O'Halloran,Associate Director,Yes,June 2015
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
@@ -222,6 +224,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 561,Global Issues Group,Gregory Rowe Picker,Director,Yes,January 2009
 7,Government Relations Solutions Pty Ltd,WendyMatthew,Administration / Research,No,""
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
+125,Govstrat Pty Ltd,Damian Power,Director,No,""
+125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
 630,GPotts,Geoff Potts,Principle,Yes,December 2004
 122,GRA Everingham Pty Ltd,Paul Everingham,Managing Director,Yes,February 2003
 122,GRA Everingham Pty Ltd,Jason Marocchi,Director,No,""
@@ -235,7 +239,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Kirsten Mulley,Partner,No,""
 59,GRACosway Pty Ltd,Leslie Graham Timar,CEO,No,""
 59,GRACosway Pty Ltd,Trista Rochelle Grainger,Consultant,No,""
-59,GRACosway Pty Ltd,Luke Aaron Myers,Director,No,""
 59,GRACosway Pty Ltd,Brent Crockford,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Kary Alexander Petersen,Director,Yes,October 2005
@@ -272,7 +275,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,No,""
 319,Jo Scard Pty Ltd,Jo Scard,"Business Founder, former adviser to former Minister for Immigration & Citizenship until 14/9/10",Yes,September 2010
 319,Jo Scard Pty Ltd,Brigid Lombard,Administrator,No,""
-319,Jo Scard Pty Ltd,Fiona Wilson,Associate,No,""
 319,Jo Scard Pty Ltd,Jackie Hanafie,Associate,No,""
 319,Jo Scard Pty Ltd,Margret Biersack,Associate,No,""
 319,Jo Scard Pty Ltd,Elise Dare,Associate,No,""
@@ -535,7 +537,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 145,The Trustee for Bespoke Business Trust,Georgia Bradshaw,Associate,No,""
 145,The Trustee for Bespoke Business Trust,Paul Tierney,Managing Director,No,""
 145,The Trustee for Bespoke Business Trust,John Olsen,Special Advisor,Yes,April 2009
-145,The Trustee for Bespoke Business Trust,Sarah Swan,Executive Assistant/ Researcher,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Managing Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Michael Burgess,Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Clancy O'Donnell,Associate,No,""
@@ -549,6 +550,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 41,The Trustee for Hilton Valley Investment,Alistair Urquhart,Director,No,""
 28,The Trustee for Markeit Family Trust,Keith Blyth,Managing Director,No,""
 668,The Trustee for Sandra Eccles Family Trust,Sandra Joy Eccles,Director ,Yes,January 1999
+707,The Trustee for Spencer Family Trust,Craig Hunter,Executive,No,""
+707,The Trustee for Spencer Family Trust,Matthew Fletcher,General Manager,No,""
 230,The Trustee for SYNERGIES ECONOMIC CONSULTING UNIT TRUST,Sam Lovick,Principal,No,""
 117,The Trustee for the Bowden Family Trust,Bob Bowden,Chief Executive,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann,Senior Health Economist,No,""

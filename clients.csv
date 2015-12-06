@@ -258,6 +258,9 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,The Trustee For A2z Outcomes Unit Trust
 157,Chikarovski & Associates Pty Ltd,Hutchison Ports Australia PL
 157,Chikarovski & Associates Pty Ltd,Sir Michael Hintze AM
+157,Chikarovski & Associates Pty Ltd,Workplace Super Specialists Australia
+157,Chikarovski & Associates Pty Ltd,Artesian Venture Partners
+157,Chikarovski & Associates Pty Ltd,Thorn Group Limited
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian Mobile Dental Care
 658,Chris Drummer ,Australian College of Nursing 
@@ -613,13 +616,13 @@ agency_id,agency_business_entity_name,client_name
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Nimble Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,7-Eleven Stores Pty Ltd
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Spark Infrastructure Group
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Juniper Networks
 106,Galbraith & Company Pty Ltd,Tabcorp
 106,Galbraith & Company Pty Ltd,TransACT
 106,Galbraith & Company Pty Ltd,iinet
 1,Gambolling Pty Ltd,EuroMaritime Consultancy
-1,Gambolling Pty Ltd,Norfolk-Aus Financial Horizons P/L
 1,Gambolling Pty Ltd,National Australia Bank
 1,Gambolling Pty Ltd,OHDC Inc
 1,Gambolling Pty Ltd,Intercapital 
@@ -649,6 +652,8 @@ agency_id,agency_business_entity_name,client_name
 7,Government Relations Solutions Pty Ltd,Beach Energy Ltd
 7,Government Relations Solutions Pty Ltd,Burke Urban Developments Pty Ltd
 7,Government Relations Solutions Pty Ltd,National Pharmacies
+125,Govstrat Pty Ltd,Clubs Queensland
+125,Govstrat Pty Ltd,UGL
 630,GPotts,Water Ice Pty Ltd
 630,GPotts,Nu Edge Solutions Pty Ltd
 630,GPotts,Ballan  District Soldiers Memorial Bush Nursing Hospital  Hostel
@@ -686,7 +691,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Halliburton Energy Services
 59,GRACosway Pty Ltd,Alexion Pharmaceuticals Australasia Pty Ltd
 59,GRACosway Pty Ltd,Gilead Sciences
-59,GRACosway Pty Ltd,BA Infrastructure
 59,GRACosway Pty Ltd,Warren Centre for Advanced Engineering
 59,GRACosway Pty Ltd,Tasman Sinkware
 59,GRACosway Pty Ltd,Fletcher Building (Australia) Pty Ltd
@@ -726,6 +730,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,On Deck Capital Australia Pty Ltd
 59,GRACosway Pty Ltd,ACCORD Australasia Inc
 59,GRACosway Pty Ltd,Coloplast Pty Ltd
+59,GRACosway Pty Ltd,BAI Communications
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -774,6 +779,8 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Copyright Agency Limited 
 96,Hawker Britton Group Pty Ltd,Medibank Private 
 96,Hawker Britton Group Pty Ltd,FP Markets 
+96,Hawker Britton Group Pty Ltd,Tourism Holdings Ltd 
+96,Hawker Britton Group Pty Ltd,Apollo Motorhome Holidays 
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,Genzyme
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -843,6 +850,8 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Iman Najjari Kondori
 319,Jo Scard Pty Ltd,Friends of the Earth Middle East
 319,Jo Scard Pty Ltd,Connecting Up Incorporated 13 903 061 955 
+319,Jo Scard Pty Ltd,OzHelp Foundation Ltd ABN 59 099 118 500
+319,Jo Scard Pty Ltd,Disability Sports Australia Limited ABN 96 104 461 814
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -943,6 +952,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Cancer Drugs Alliance (CDA) 
 76,Kreab Gavin Anderson (Australia) Ltd,Foundation Life Insurance and Mortgage Broking
 76,Kreab Gavin Anderson (Australia) Ltd,Online Education Services  
+76,Kreab Gavin Anderson (Australia) Ltd,Ecocentric Group Pty Ltd
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -988,10 +998,10 @@ agency_id,agency_business_entity_name,client_name
 119,Macquarie Group Limited,Macquarie Pastoral Fund
 578,Making The World A Better Place Pty Ltd,Hear and Say Centre
 578,Making The World A Better Place Pty Ltd,Phoenix Eagle
-578,Making The World A Better Place Pty Ltd,BPO Outfit Australia
 578,Making The World A Better Place Pty Ltd,FairGo4All
 578,Making The World A Better Place Pty Ltd,Global Projects Group Australia
 578,Making The World A Better Place Pty Ltd,Pacific International Hospital
+578,Making The World A Better Place Pty Ltd,AusCERT
 245,Marketing Elements Pty Ltd,Domestic Violence NSW
 245,Marketing Elements Pty Ltd,National Child Protection Alliance
 245,Marketing Elements Pty Ltd,National Council of Children Post Separation
@@ -1380,6 +1390,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Springfield Land Corporation
 685,Sanlaan Pty Ltd,Container Scan
 685,Sanlaan Pty Ltd,C.A. Australia Pty. Limited
+685,Sanlaan Pty Ltd,Gerard Lighting Pty Ltd
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,SEQ Catchments
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
@@ -1574,10 +1585,12 @@ agency_id,agency_business_entity_name,client_name
 28,The Trustee for Markeit Family Trust,Biocentral Laboratories
 28,The Trustee for Markeit Family Trust,Australian Infrastructure Developments
 28,The Trustee for Markeit Family Trust,BioFilm Solutions Pty Ltd
+28,The Trustee for Markeit Family Trust,Austal Limited
 668,The Trustee for Sandra Eccles Family Trust,The Mirabel Foundation
 668,The Trustee for Sandra Eccles Family Trust,BlueScope Steel Limited
 668,The Trustee for Sandra Eccles Family Trust,PTTEP Australasia Pty Ltd
 668,The Trustee for Sandra Eccles Family Trust,AREVA Resources Australia Pty Ltd
+707,The Trustee for Spencer Family Trust,Sampano
 230,The Trustee for SYNERGIES ECONOMIC CONSULTING UNIT TRUST,CSL Limited
 117,The Trustee for the Bowden Family Trust,Group Training Australia
 117,The Trustee for the Bowden Family Trust,TAFE Directors Australia
