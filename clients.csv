@@ -178,6 +178,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,FP Markets Pty Ltd
 338,Barton Deakin ,Bain Capital Asia LLC
 338,Barton Deakin ,Fincantieri S.p.A
+338,Barton Deakin ,SMG Technologies Pty Ltd 
+338,Barton Deakin ,Geo Group Australia Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -215,6 +217,8 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,Rivcott Pty Limited
 654,C2hills Investments Pty Limited,NREC Locomotive Company Pty Ltd
 654,C2hills Investments Pty Limited,ACN 602 837 883 Pty Limited ATF Lansdowne Property Trust
+654,C2hills Investments Pty Limited,Macleay River Meats Pty Limited
+654,C2hills Investments Pty Limited,Macleay River Proteins Pty Limited
 700,Campaigns and Communications Group P/L,N/A
 700,Campaigns and Communications Group P/L,Fincantieri
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
@@ -266,6 +270,7 @@ agency_id,agency_business_entity_name,client_name
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Australian Rheumatology Association 
 658,Chris Drummer ,Fletcher Pharmacy  Pty Ltd
+658,Chris Drummer ,Lisa Ho Shon
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 113,CHRIS SCHACHT,PMB Defence
@@ -852,6 +857,8 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Connecting Up Incorporated 13 903 061 955 
 319,Jo Scard Pty Ltd,OzHelp Foundation Ltd ABN 59 099 118 500
 319,Jo Scard Pty Ltd,Disability Sports Australia Limited ABN 96 104 461 814
+319,Jo Scard Pty Ltd,The Australasian Society of Association Executives (AuSAE) ABN 86 603 084 895
+319,Jo Scard Pty Ltd,Australian Academy of Science ABN 90 700 613 342 
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -1211,11 +1218,11 @@ agency_id,agency_business_entity_name,client_name
 220,Primary Communication Pty Ltd,AIPE Australian Institute of Professional Education
 220,Primary Communication Pty Ltd,Oticon
 631,Primary Policy Partners,Elliott Holdings Australia T/A Ellwaste
-631,Primary Policy Partners,Chris Richards Group Pty Ltd
 631,Primary Policy Partners,Cohuna Aviation Club Inc
 631,Primary Policy Partners,HTT CORPORATION
 631,Primary Policy Partners,E.B Mawson & Sons Proprietary Limited (Mawsons Concrete & Quarries) 
 631,Primary Policy Partners,Smithton Veterinary Service 
+631,Primary Policy Partners,Gannawarra Irrigators Water Action Council
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 622,Profile Consulting (Aust) Pty Ltd,ATEC Rail Group
@@ -1255,6 +1262,9 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Victorian Transport Association
 127,PRX Unit Trust,Contango Asset Management
 127,PRX Unit Trust,Incolink Foundation Limited
+127,PRX Unit Trust,Caydon Property Group
+127,PRX Unit Trust,Hacer Group
+127,PRX Unit Trust,True Value Solar
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1292,6 +1302,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Clough Limited
 242,Purple Communications Australia Pty Ltd,Sino Gas & Energy Holdings Limited 
 242,Purple Communications Australia Pty Ltd,Centre for Entrepreneurial Research and Innovation Limited 
+29,Pynfall Pty Ltd,Project System & Management GmbH
 446,R A Neilson and M Salmon,Truth Justice and Healing Council
 446,R A Neilson and M Salmon,The Australian Screen Directors Authorship Collecting Society (ASDACS)
 492,Rachael Sweeney ,Regional Capitals Australia 
@@ -1357,6 +1368,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Mallinckrodt Pharmaceuticals Inc 
 35,Richardson Coutts,GTI Media
 35,Richardson Coutts,Emergency Medicine Foundation
+35,Richardson Coutts,Magnovate Transportation Inc
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
@@ -1377,6 +1389,8 @@ agency_id,agency_business_entity_name,client_name
 669,Royce Communications Pty Ltd,Kids Under Cover
 669,Royce Communications Pty Ltd,City of Ballarat
 701,Russell Family Trust ,Southern Farming Systems 
+708,Sammway Pty Limited,Appscore International
+708,Sammway Pty Limited,WME Australia
 607,Sand Technology Aust P/L,Serpentine Jarrahdale Council 
 607,Sand Technology Aust P/L,Western Refrigeration 74
 685,Sanlaan Pty Ltd,Restaurant and Catering Australia
