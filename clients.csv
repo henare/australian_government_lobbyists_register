@@ -180,6 +180,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Fincantieri S.p.A
 338,Barton Deakin ,SMG Technologies Pty Ltd 
 338,Barton Deakin ,Geo Group Australia Pty Ltd
+338,Barton Deakin ,H & R Block Limited
+338,Barton Deakin ,Opera Australia
+338,Barton Deakin ,Moon Lake Investments Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -204,6 +207,7 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Anderson Morgan (Devonport) Pty Ltd
 657,Brent William Knevett,Tasmanet
 657,Brent William Knevett,Netsweeper
+657,Brent William Knevett,Accuvio (Ireland)
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 131,BTelecom Pty Ltd,Dragnet Internet Services Pty Ltd
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
@@ -602,8 +606,13 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Nicoventures Holding  Ltd 
 453,First State Advisors and Consultants ,APIR Limited 
 453,First State Advisors and Consultants ,TOMRA Group
+453,First State Advisors and Consultants ,Business Council of Co-operatives and Mutuals 
+453,First State Advisors and Consultants ,DPL Medical Pty Limited
+453,First State Advisors and Consultants ,Australian Consulting Architects Pty Ltd 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
+713,Flight Data Systems Pty Ltd,Lockheed Martin Overseas Corporation
+713,Flight Data Systems Pty Ltd,L3 Communications Telemetry West
 484,FPL Advisory Pty Ltd,Building Designers Association of Victoria
 484,FPL Advisory Pty Ltd,GlaxoSmithKline
 484,FPL Advisory Pty Ltd,Australian Camps Association
@@ -736,6 +745,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,ACCORD Australasia Inc
 59,GRACosway Pty Ltd,Coloplast Pty Ltd
 59,GRACosway Pty Ltd,BAI Communications
+59,GRACosway Pty Ltd,Punch Metals NV
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -859,6 +869,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Disability Sports Australia Limited ABN 96 104 461 814
 319,Jo Scard Pty Ltd,The Australasian Society of Association Executives (AuSAE) ABN 86 603 084 895
 319,Jo Scard Pty Ltd,Australian Academy of Science ABN 90 700 613 342 
+319,Jo Scard Pty Ltd,Junction Australia ABN 50 167 313 153
 275,Jody Fassina ATF JAI Family Trust,iSelect Health Pty Ltd
 275,Jody Fassina ATF JAI Family Trust,Wyndham Vacation Resorts
 56,John C Blackwell,Autodesk
@@ -1223,6 +1234,7 @@ agency_id,agency_business_entity_name,client_name
 631,Primary Policy Partners,E.B Mawson & Sons Proprietary Limited (Mawsons Concrete & Quarries) 
 631,Primary Policy Partners,Smithton Veterinary Service 
 631,Primary Policy Partners,Gannawarra Irrigators Water Action Council
+631,Primary Policy Partners,Kevin and Greta Fitzpatrick Family Estate
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 622,Profile Consulting (Aust) Pty Ltd,ATEC Rail Group
@@ -1236,9 +1248,9 @@ agency_id,agency_business_entity_name,client_name
 622,Profile Consulting (Aust) Pty Ltd,Metcash Trading Limited
 622,Profile Consulting (Aust) Pty Ltd,PPB Advisory 
 622,Profile Consulting (Aust) Pty Ltd,MaximusSolutions Australia
-622,Profile Consulting (Aust) Pty Ltd,PEXA
 622,Profile Consulting (Aust) Pty Ltd,Smartgroup Corporation
 622,Profile Consulting (Aust) Pty Ltd,Property Exchange Australia Ltd 
+622,Profile Consulting (Aust) Pty Ltd,National Automotive Leasing & Salary Packaging Association 
 127,PRX Unit Trust,Jetstar
 127,PRX Unit Trust,State Library of Victoria
 127,PRX Unit Trust,Carlton Football Club
@@ -1545,6 +1557,9 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,OPTUM HEALTH & TECHNOLOGY (AUSTRALIA) PTY LTD
 95,The Strategic Counsel Pty Ltd,CSL Limited
 95,The Strategic Counsel Pty Ltd,CSL Behring (Australia) Pty Ltd
+95,The Strategic Counsel Pty Ltd,Complementary Medicines Association
+95,The Strategic Counsel Pty Ltd,Baxter Healthcare Pty Ltd
+95,The Strategic Counsel Pty Ltd,AbbVie Pty Ltd
 424,The Taylor Street Consultancy P/L,Lend Lease
 424,The Taylor Street Consultancy P/L,NRMA Motoring and Services 
 424,The Taylor Street Consultancy P/L,The Dockside Group 
@@ -1570,6 +1585,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Medibank Private Limited
 145,The Trustee for Bespoke Business Trust,Costa Group Holdings Limited
 145,The Trustee for Bespoke Business Trust,Scepter Partners
+145,The Trustee for Bespoke Business Trust,IFM Investors
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 589,The Trustee for Bespoke Territory Unit Trust,Landbridge Infrastructure Australia Pty Ltd
 550,The Trustee for Connelly Project Resources,Australia Zoo
@@ -1592,6 +1608,7 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,Lion Pty Limited
 420,The trustee for ECG Advisory Trust,DDG Operations Pty Limited
 420,The trustee for ECG Advisory Trust,Crescent Capital Partners
+420,The trustee for ECG Advisory Trust,ASX Ltd
 41,The Trustee for Hilton Valley Investment,Outdoor Education Group
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 28,The Trustee for Markeit Family Trust,Gambit Technologies
@@ -1677,6 +1694,7 @@ agency_id,agency_business_entity_name,client_name
 463,Walker Watterson Holdings Pty Ltd,GoGet
 463,Walker Watterson Holdings Pty Ltd,Desire2Learn
 463,Walker Watterson Holdings Pty Ltd,Dimension Data
+709,Wavelength Group Pty Ltd,Lake Macquarie City Council
 97,Wayne Smith,Renewable Energy Traders Australia
 97,Wayne Smith,REC Agents Association
 97,Wayne Smith,Australian Solar Council
