@@ -164,7 +164,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Atlassian
 338,Barton Deakin ,BSE Maritime Solutions
 338,Barton Deakin ,Streem Pty. Ltd.
-338,Barton Deakin ,Caravan Industry Association of Australia Limited
 338,Barton Deakin ,Franchise Council of Australia Limited
 338,Barton Deakin ,CUB Pty Ltd
 338,Barton Deakin ,APT Management Services Pty Ltd
@@ -183,6 +182,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,H & R Block Limited
 338,Barton Deakin ,Opera Australia
 338,Barton Deakin ,Moon Lake Investments Pty Ltd
+338,Barton Deakin ,Henry Davis York Lawyers 
+338,Barton Deakin ,Lake Macquarie City Council
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -223,7 +224,6 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,ACN 602 837 883 Pty Limited ATF Lansdowne Property Trust
 654,C2hills Investments Pty Limited,Macleay River Meats Pty Limited
 654,C2hills Investments Pty Limited,Macleay River Proteins Pty Limited
-700,Campaigns and Communications Group P/L,N/A
 700,Campaigns and Communications Group P/L,Fincantieri
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
@@ -385,12 +385,10 @@ agency_id,agency_business_entity_name,client_name
 299,CPI Strategic Pty Ltd,Costa Group of Companies
 299,CPI Strategic Pty Ltd,Linked Solutions
 81,CPR Communications & Public Relations Pty Ltd,Brisbane Airport Corporation
-81,CPR Communications & Public Relations Pty Ltd,La Trobe University
 81,CPR Communications & Public Relations Pty Ltd,Google Australia
 81,CPR Communications & Public Relations Pty Ltd,The Cooperative Research Centres Association
 81,CPR Communications & Public Relations Pty Ltd,OzHub
 81,CPR Communications & Public Relations Pty Ltd,Regional Cities Victoria
-81,CPR Communications & Public Relations Pty Ltd,Council of Small Business of Australia 
 81,CPR Communications & Public Relations Pty Ltd,Baker IDI
 81,CPR Communications & Public Relations Pty Ltd,Greater Shepparton City Council
 81,CPR Communications & Public Relations Pty Ltd,City of Wodonga
@@ -398,11 +396,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Hire and Rental Industry Association
 81,CPR Communications & Public Relations Pty Ltd,The Trustee for ADMINISTRATION  MARKETING SOLUTIONS TRUST (Chemists Warehouse/My Chemist Group)
 81,CPR Communications & Public Relations Pty Ltd,Housing Industry Association Limited
-81,CPR Communications & Public Relations Pty Ltd,Association of anti Virus Asia Researchers 
-81,CPR Communications & Public Relations Pty Ltd,Greenfleet Australia
-81,CPR Communications & Public Relations Pty Ltd,Mink Apartments Pty Ltd
 81,CPR Communications & Public Relations Pty Ltd,Al-Taqwa College
-81,CPR Communications & Public Relations Pty Ltd,4Hume
 81,CPR Communications & Public Relations Pty Ltd,Rural City of Wangaratta
 81,CPR Communications & Public Relations Pty Ltd,Queen Elizabeth Centre
 81,CPR Communications & Public Relations Pty Ltd,Violence Free Families
@@ -411,6 +405,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Samsung Electronics Australia
 81,CPR Communications & Public Relations Pty Ltd,Kabo Lawyers
 81,CPR Communications & Public Relations Pty Ltd,ACCIONA Australia
+81,CPR Communications & Public Relations Pty Ltd,Legislative Leadership and Governance Group Incorporated
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Santos
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
@@ -539,7 +534,6 @@ agency_id,agency_business_entity_name,client_name
 74,Enhance Corporate Pty Ltd,China First Pty Ltd
 74,Enhance Corporate Pty Ltd,Queensland Nickel Pty Ltd
 74,Enhance Corporate Pty Ltd,Mineralogy Pty Ltd
-663,Espresso Communications,Wynyard Group
 71,Essential Media Communications Pty Ltd,National Union of Students
 71,Essential Media Communications Pty Ltd,Defence Teaming Centre
 564,Etched Communications Pty Ltd,Nestle Australia
@@ -551,6 +545,7 @@ agency_id,agency_business_entity_name,client_name
 512,Ethical Strategies Pty Ltd,Hepatitis Australia
 512,Ethical Strategies Pty Ltd,Nutricia Australia
 512,Ethical Strategies Pty Ltd,AbbVie Pty Ltd
+712,"Farmer, Richard Lindsay",Canberra Raiders Leaguesâ Club (Southside) Limited
 324,FCC Partners,Chi - X
 324,FCC Partners,Morgan Stanley
 324,FCC Partners,Asia Pacific Stock Exchange
@@ -819,6 +814,8 @@ agency_id,agency_business_entity_name,client_name
 674,Ian Peregrine Desborough,Grain Producers Australia Limited
 541,Innovative Electronics Pty Ltd,ESA/Inmarsat
 541,Innovative Electronics Pty Ltd,CSIRO
+714,Insight Strategy Pty Ltd,Capital Hill Advisory
+714,Insight Strategy Pty Ltd,Senateshj
 170,Intech Strategies P/L,Elbit Systems Ltd
 170,Intech Strategies P/L,Elbit Systems of Australia P/L
 20,InterCapital Group Pty Ltd,Tyre Stewardship Australia
@@ -1152,7 +1149,7 @@ agency_id,agency_business_entity_name,client_name
 427,Owen International Pty Ltd,WFEL Limited
 427,Owen International Pty Ltd,Esterline Defense Technologies
 427,Owen International Pty Ltd,Aeronautical and General Instruments Ltd
-427,Owen International Pty Ltd,NBC Group
+427,Owen International Pty Ltd,CQC UK Ltd
 72,Parker & Partners Pty Ltd,Bell Shakespeare
 72,Parker & Partners Pty Ltd,CSL Limited
 72,Parker & Partners Pty Ltd,Telstra
@@ -1205,7 +1202,6 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Transfield Services (Australia) Pty Ltd
 516,Premier State Consulting Pty Ltd,Echo Entertainment Group Limited
 516,Premier State Consulting Pty Ltd,Mounties Group
-516,Premier State Consulting Pty Ltd,Amalgamated Holdings Limited
 516,Premier State Consulting Pty Ltd,Gloucester Resources Limited
 516,Premier State Consulting Pty Ltd,Bailey Group Holdings
 516,Premier State Consulting Pty Ltd,Assetlink Services Pty Ltd
@@ -1237,6 +1233,12 @@ agency_id,agency_business_entity_name,client_name
 631,Primary Policy Partners,Kevin and Greta Fitzpatrick Family Estate
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
+283,Probity International Pty. Ltd,Teva Pharmaceutical Industries Ltd
+283,Probity International Pty. Ltd,Teva Pharma Australia Pty Ltd
+100,Professional Public Relations Pty Ltd (PPR),McDonald's Australia
+100,Professional Public Relations Pty Ltd (PPR),Dow Chemical
+100,Professional Public Relations Pty Ltd (PPR),National Packaging Covenant Industry Association
+100,Professional Public Relations Pty Ltd (PPR),Civmec
 622,Profile Consulting (Aust) Pty Ltd,ATEC Rail Group
 622,Profile Consulting (Aust) Pty Ltd,CSC Australia
 622,Profile Consulting (Aust) Pty Ltd,Derwent Executive
@@ -1480,6 +1482,7 @@ agency_id,agency_business_entity_name,client_name
 665,Spring Street Advisory,Vestas Australian Wind Technology Pty Ltd
 665,Spring Street Advisory,Olex Australia Pty Ltd
 665,Spring Street Advisory,Infoxchange
+665,Spring Street Advisory,Trustpower
 697,Squire Patton Boggs Consulting Pty Ltd,Serco Australia Pty Ltd
 108,ST CLAIR Anthony William,MBDenergy
 108,ST CLAIR Anthony William,Envest Eco City Pty Ltd

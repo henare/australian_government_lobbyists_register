@@ -20,7 +20,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 413,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=413,BAE Systems Australia Limited,BAE Systems Australia Limited,29 008 423 005,2015-07-10
 513,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=513,Barry Charles Matson,SpectrumWise,42 263 453 761,2015-07-15
 139,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=139,Bartholomew Quinn and Associates,Bartholomew Quinn and Associates,97009584105,2015-06-22
-338,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=338,Barton Deakin ,Barton Deakin,65140067287,2015-12-17
+338,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=338,Barton Deakin ,Barton Deakin,65140067287,2016-01-07
 186,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=186,BBS Communications Group Pty Ltd,BBS Communications Group Pty Ltd,34010899779,2015-07-13
 583,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=583,BDaaS Consulting Pty Ltd,BdaaS Consulting,62164001969,2015-09-16
 162,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=162,Belman Consulting Pty Ltd,Belman Consulting,71133436665,2015-06-22
@@ -54,7 +54,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 403,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=403,Covance Pty Ltd (Covance Market Access Services division),Covance Pty Ltd,99 003 613 134,2015-09-21
 329,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=329,Cox Inall Communications,Cox Inall Communications Pty. Ltd.,92103190085,2015-10-15
 299,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=299,CPI Strategic Pty Ltd,CPI Strategic,47139102891,2015-07-13
-81,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=81,CPR Communications & Public Relations Pty Ltd,CPR Communications & Public Relations Pty Ltd,94064357544,2015-11-04
+81,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=81,CPR Communications & Public Relations Pty Ltd,CPR Communications & Public Relations Pty Ltd,94064357544,2016-01-04
 683,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=683,Craig Emerson Economics Pty Ltd,Craig Emerson Economics Pty Ltd,24165141426,2015-07-14
 99,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=99,Craigleed Pty Ltd,McKew and Associates,91008657065,2015-07-13
 193,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=193,CRAKYL Pty Ltd,CRAKYL Pty Ltd,40105759279,2015-09-22
@@ -84,6 +84,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 71,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=71,Essential Media Communications Pty Ltd,Essential Media Communications Pty Ltd,48074671462,2015-11-30
 564,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=564,Etched Communications Pty Ltd,Etched Communications Pty Ltd,95164204111,2015-11-25
 512,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=512,Ethical Strategies Pty Ltd,Ethical Strategies,48 125 083 847,2015-07-14
+712,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=712,"Farmer, Richard Lindsay",Richard Farmer,89535834206,2015-12-10
 324,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=324,FCC Partners,FCC Partners,97104680588,2015-09-16
 214,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=214,FIPRA Australia Pty Limited,FIPRA Australia,50078482596,2015-07-15
 453,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=453,First State Advisors and Consultants ,First State Government and Corporate Relations ,99153936719,2015-12-18
@@ -114,6 +115,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 19,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=19,HTT Trust,HTT Associates Pty Ltd,71312847351,2015-11-20
 674,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=674,Ian Peregrine Desborough,IPD Communications,12254004771,2015-07-01
 541,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=541,Innovative Electronics Pty Ltd,Innovative Electronics Pty Ltd,47 008 579 566,2015-06-16
+714,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=714,Insight Strategy Pty Ltd,Insight Strategy,47609028015,2015-12-21
 170,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=170,Intech Strategies P/L,Intech Strategies,66006582921,2015-09-16
 20,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=20,InterCapital Group Pty Ltd,InterCapital Group Pty Ltd,31096554362,2015-09-17
 38,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=38,Intercorp Pty Ltd,Intercorp Pty Ltd,88327768518,2015-09-16
@@ -169,7 +171,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 86,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=86,Ogilvy PR Health,Ogilvy PR Health Pty Ltd,50123111857,2015-10-14
 632,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=632,One Degree Advisory,One Degree,53153921058,2015-07-10
 670,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=670,Open Spectrum Pty Ltd,Open Spectrum Pty Ltd,55600755137,2015-07-03
-427,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=427,Owen International Pty Ltd,Owen International Pty Ltd,79002349082,2015-07-10
+427,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=427,Owen International Pty Ltd,Owen International Pty Ltd,79002349082,2016-01-04
 72,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=72,Parker & Partners Pty Ltd,Parker & Partners Public Affairs,22083475683,2015-10-08
 304,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=304,Patrick Russell Consulting Pty Ltd,Patrick Russell Consulting Pty Ltd,69114049231,2015-08-25
 298,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=298,Pavilion Consulting Pty Ltd,Pavilion Consulting Pty Ltd,26096834605,2015-07-14
@@ -181,6 +183,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 220,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=220,Primary Communication Pty Ltd,Primary Communication,62061627263,2015-10-12
 631,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=631,Primary Policy Partners,Primary Policy Partners Pty Ltd,11168085809,2015-12-12
 283,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=283,Probity International Pty. Ltd,Probity International,77076174126,2015-12-22
+100,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=100,Professional Public Relations Pty Ltd (PPR),Professional Public Relations Pty Ltd (PPR),16001045450,2016-01-05
 622,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=622,Profile Consulting (Aust) Pty Ltd,Profile Consulting (Aust) Pty Ltd,47166122434,2015-12-14
 127,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=127,PRX Unit Trust,Public Relations Exchange,71595434578,2015-11-18
 89,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=89,Public Affairs Network Pty Ltd,Public Affairs Network,49083954072,2015-07-08

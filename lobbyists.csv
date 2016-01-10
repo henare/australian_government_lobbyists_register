@@ -66,7 +66,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,David Begg,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Natalie Fitzpatrick,Manager Public Policy,No,""
 556,Capital Hill Advisory Pty Ltd,Ian Hancock,Government Policy Analyst,No,""
-556,Capital Hill Advisory Pty Ltd,Lauren Gain,Advisor,No,""
 556,Capital Hill Advisory Pty Ltd,Christine Kirk,Executive Assistant,No,""
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Consultant,No,""
 556,Capital Hill Advisory Pty Ltd,Nick Tyrrell,Managing Director Canberra,No,""
@@ -189,6 +188,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
 512,Ethical Strategies Pty Ltd,John Morton,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,Jay Pleass,Account Director,Yes,August 2007
+712,"Farmer, Richard Lindsay",Richard Lindsay Farmer,Self employed,No,""
 324,FCC Partners,Hugh Fraser,Managing Director,No,""
 214,FIPRA Australia Pty Limited,David Lieberman,Director,No,""
 214,FIPRA Australia Pty Limited,John Richardson,Principal,Yes,May 1995
@@ -243,7 +243,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Trista Rochelle Grainger,Consultant,No,""
 59,GRACosway Pty Ltd,Brent Crockford,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
-59,GRACosway Pty Ltd,Kary Alexander Petersen,Director,Yes,October 2005
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Peter Greenwood,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Matthew Ryan Mackay,Research and Policy Analyst,No,""
@@ -265,6 +264,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 674,Ian Peregrine Desborough,Ian Desborough,Principal,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
+714,Insight Strategy Pty Ltd,Jody Fasisna,Director,Yes,April 2001
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
 20,InterCapital Group Pty Ltd,John Kananghinis,Director,No,""
 20,InterCapital Group Pty Ltd,Angus Nicholls,Senior Associate,Yes,April 2005
@@ -413,7 +413,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Chris Stone,Director Policy & Strategy,Yes,December 2007
 516,Premier State Consulting Pty Ltd,Nick Campbell,Director,Yes,December 1999
 516,Premier State Consulting Pty Ltd,Ian Hancock,Analyst,No,""
-516,Premier State Consulting Pty Ltd,Lauren Gain,Advisor,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
 516,Premier State Consulting Pty Ltd,Nick Tyrrell,Managing Director Canberra,No,""
 220,Primary Communication Pty Ltd,Jennifer Muir,General Manager,No,""
@@ -421,6 +420,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 220,Primary Communication Pty Ltd,Jesse Krncevic,Account Manager,No,""
 631,Primary Policy Partners,Andrew Gibbs,Founding Partner,Yes,January 2001
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
+100,Professional Public Relations Pty Ltd (PPR),Michael Pooley,General Manager - Sydney,No,""
+100,Professional Public Relations Pty Ltd (PPR),Peter Harris,Strategic Advisor and New Markets Lead,No,""
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop,Director,Yes,June 2006
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas,Managing Director,Yes,December 2000
 127,PRX Unit Trust,James Aanensen,Consultant,No,""
