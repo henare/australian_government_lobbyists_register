@@ -89,8 +89,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Playtika Ltd
 338,Barton Deakin ,International Social Games Coalition
 338,Barton Deakin ,Trility
-338,Barton Deakin ,Australian Centre for Healthcare Governance
-338,Barton Deakin ,ViiV Healthcare
 338,Barton Deakin ,Medibank Health Solutions Pty Ltd
 338,Barton Deakin ,Crown Castle Australia Pty Limited
 338,Barton Deakin ,Northgate Public Services Pty Ltd
@@ -117,7 +115,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,National Pork Producers Council
 338,Barton Deakin ,AMP Limited
 338,Barton Deakin ,RUOK Limited
-338,Barton Deakin ,INS Career Management
 338,Barton Deakin ,Nextgen Group Holdings Pty Ltd 
 338,Barton Deakin ,Fujitsu Australia Ltd.
 338,Barton Deakin ,Expedia Inc
@@ -128,12 +125,10 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,IPAR Rehabilitation Pty Ltd
 338,Barton Deakin ,St George Community Housing Limited 
 338,Barton Deakin ,Nearmap Ltd
-338,Barton Deakin ,Ferrier Hodgson
 338,Barton Deakin ,Life Without Barriers
 338,Barton Deakin ,Company B Limited
 338,Barton Deakin ,The ORS Group Pty Ltd
 338,Barton Deakin ,Gulf Savannah Development Inc. 
-338,Barton Deakin ,Spotless Group Limited
 338,Barton Deakin ,Lockheed Martin Overseas Corporation
 338,Barton Deakin ,Children's Medical Research Institute
 338,Barton Deakin ,Opal Aged Care
@@ -151,7 +146,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,QBE Insurance Group Limited
 338,Barton Deakin ,National Children's and Youth Law Centre
 338,Barton Deakin ,Ashley Services Group Limited
-338,Barton Deakin ,Metgasco Ltd
 338,Barton Deakin ,Palace Cinemas Nominees Pty Ltd
 338,Barton Deakin ,Tata Consultancy Services Limited
 338,Barton Deakin ,Unisys Australia Pty Limited
@@ -184,6 +178,10 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Moon Lake Investments Pty Ltd
 338,Barton Deakin ,Henry Davis York Lawyers 
 338,Barton Deakin ,Lake Macquarie City Council
+338,Barton Deakin ,National Road Transport Association Limited
+338,Barton Deakin ,ViiV Healthcare Pty Ltd
+338,Barton Deakin ,Arinex Pty Ltd
+338,Barton Deakin ,Swisse Wellness Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -316,10 +314,7 @@ agency_id,agency_business_entity_name,client_name
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Japan Australia LNG (MIMI) Pty Ltd 
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Delaware North Companies Inc.
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Northern Rise Village Services Pty Ltd.
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,El Questro Wilderness Park
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Merchant Overseas Logistics Pty Ltd
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Lynas Corporation
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Mirvac Group
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,West Australian Football Commission
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Ticketmaster Australia
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Curtin Care
@@ -666,7 +661,6 @@ agency_id,agency_business_entity_name,client_name
 630,GPotts,Water Ice Pty Ltd
 630,GPotts,Nu Edge Solutions Pty Ltd
 630,GPotts,Ballan  District Soldiers Memorial Bush Nursing Hospital  Hostel
-630,GPotts,Creative Ballarat
 122,GRA Everingham Pty Ltd,ConocoPhillips
 122,GRA Everingham Pty Ltd,Hall and Prior Aged Care Organisation
 122,GRA Everingham Pty Ltd,Cash Converters
@@ -741,6 +735,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Coloplast Pty Ltd
 59,GRACosway Pty Ltd,BAI Communications
 59,GRACosway Pty Ltd,Punch Metals NV
+59,GRACosway Pty Ltd,Anchorage Capital Partners Pty Limited
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -930,7 +925,6 @@ agency_id,agency_business_entity_name,client_name
 115,KPMG,ACTE Pty Ltd
 115,KPMG,National Tourism Alliance
 115,KPMG,Tourism Shopping Reform Group
-115,KPMG,Global Blue Services Company
 76,Kreab Gavin Anderson (Australia) Ltd,BlueScope Steel Limited
 76,Kreab Gavin Anderson (Australia) Ltd,ATM Industry Reference Group
 76,Kreab Gavin Anderson (Australia) Ltd,McAfee Inc
@@ -1091,8 +1085,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Whitehaven Coal Limited
 565,Newgate Communications Pty Limited,Australia Post
 565,Newgate Communications Pty Limited,Lenovo (Australia and New Zealand) Pty Ltd
-565,Newgate Communications Pty Limited,Royal Flying Doctor Service of Australia
-565,Newgate Communications Pty Limited,Outdoor Media Association
 565,Newgate Communications Pty Limited,Australian Pork Limited
 565,Newgate Communications Pty Limited,Tatts Group Limited
 565,Newgate Communications Pty Limited,Sydney Airport Corporation Limited
@@ -1185,8 +1177,6 @@ agency_id,agency_business_entity_name,client_name
 298,Pavilion Consulting Pty Ltd,Genea
 298,Pavilion Consulting Pty Ltd,Australasian Lymphology Association
 298,Pavilion Consulting Pty Ltd,Lymphoedema Action Alliance
-619,Plum White Consulting,Rare Cancers Australia
-619,Plum White Consulting,Cancer Drugs Alliance
 546,Policy Australia Pty Ltd,Australian Digital Alliance
 546,Policy Australia Pty Ltd,Netflix
 219,Policy Solutions Group Pty Ltd,HDY
@@ -1239,17 +1229,13 @@ agency_id,agency_business_entity_name,client_name
 100,Professional Public Relations Pty Ltd (PPR),Dow Chemical
 100,Professional Public Relations Pty Ltd (PPR),National Packaging Covenant Industry Association
 100,Professional Public Relations Pty Ltd (PPR),Civmec
-622,Profile Consulting (Aust) Pty Ltd,ATEC Rail Group
 622,Profile Consulting (Aust) Pty Ltd,CSC Australia
 622,Profile Consulting (Aust) Pty Ltd,Derwent Executive
 622,Profile Consulting (Aust) Pty Ltd,Grocon Pty Ltd
 622,Profile Consulting (Aust) Pty Ltd,Hobart International Airport
 622,Profile Consulting (Aust) Pty Ltd,Herbert Smith Freehills
-622,Profile Consulting (Aust) Pty Ltd,Hydro Tasmania
-622,Profile Consulting (Aust) Pty Ltd,Macquarie Group Limited
 622,Profile Consulting (Aust) Pty Ltd,Metcash Trading Limited
 622,Profile Consulting (Aust) Pty Ltd,PPB Advisory 
-622,Profile Consulting (Aust) Pty Ltd,MaximusSolutions Australia
 622,Profile Consulting (Aust) Pty Ltd,Smartgroup Corporation
 622,Profile Consulting (Aust) Pty Ltd,Property Exchange Australia Ltd 
 622,Profile Consulting (Aust) Pty Ltd,National Automotive Leasing & Salary Packaging Association 
@@ -1506,6 +1492,15 @@ agency_id,agency_business_entity_name,client_name
 385,Strategic Partnership Group (Aust) Pty Limited,Baseplan Software Pty Limited
 385,Strategic Partnership Group (Aust) Pty Limited,Australian Fertility Medicine Foundation
 385,Strategic Partnership Group (Aust) Pty Limited,Performance English Pty Ltd
+642,StratHouse Pty Ltd,Telstra Limited
+642,StratHouse Pty Ltd,GMHBA Limited
+642,StratHouse Pty Ltd,Northern Futures
+642,StratHouse Pty Ltd,EYEfi Pty Ltd
+642,StratHouse Pty Ltd,City of Greater Geelong
+642,StratHouse Pty Ltd,Committee for Geelong
+642,StratHouse Pty Ltd,Geelong Chamber of Commerce
+642,StratHouse Pty Ltd,G21 Geelong Region Alliance
+642,StratHouse Pty Ltd,Mercedes Benz
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
 528,SYSTECH Consultants Pty Ltd,Airbus Defence and Space
 235,The Agenda Group Pty Ltd,Epworth Health Care
@@ -1704,16 +1699,10 @@ agency_id,agency_business_entity_name,client_name
 97,Wayne Smith,Greenbank Environmental
 97,Wayne Smith,Australian Energy Storage Council
 97,Wayne Smith,Solar Reserve
-428,Weber Shandwick Worldwide,AstraZeneca Pty Ltd
 428,Weber Shandwick Worldwide,Nutricia Australia Pty Ltd
 428,Weber Shandwick Worldwide,IHMS
 428,Weber Shandwick Worldwide,G4S
-428,Weber Shandwick Worldwide,Australian Aerospace Limited
 428,Weber Shandwick Worldwide,Ocean Spray
-428,Weber Shandwick Worldwide,Ticketmaster Australasia Pty Ltd
-428,Weber Shandwick Worldwide,FP Markets
-428,Weber Shandwick Worldwide,Economic Development Board of South Australia
-428,Weber Shandwick Worldwide,Macquarie University 
 428,Weber Shandwick Worldwide,The CFD & Margin FX Association
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd

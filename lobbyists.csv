@@ -171,10 +171,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Partner,Yes,June 1986
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,October 2007
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
-663,Espresso Communications,Corrie McLeod ,Managing Director ,No,""
-663,Espresso Communications,James Riley ,Strategy and Engagement ,No,""
-663,Espresso Communications,Gabriel Wong ,Senior Account Director,No,""
-663,Espresso Communications,Amanda Conroy ,Account Director,No,""
 71,Essential Media Communications Pty Ltd,Adrian Dodd,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
 71,Essential Media Communications Pty Ltd,Olivia Greentree,Senior Account Manager,Yes,February 2013
@@ -183,6 +179,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Elisa Fernandes Carvalho,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Tim O'Halloran,Associate Director,Yes,June 2015
+71,Essential Media Communications Pty Ltd,Richard Mehrtens,Consultant,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
@@ -399,7 +396,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Susan Redden Makatoa ,Group Managing Director Corporate,No,""
 304,Patrick Russell Consulting Pty Ltd,Dean Logan,CEO / Managing Director,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
-619,Plum White Consulting,Plum White,Director,No,""
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
 219,Policy Solutions Group Pty Ltd,Mark Sutton,Director ,No,""
 318,Porter Novelli Australia Pty Ltd,Peter Kent,Chief Executive,No,""
@@ -510,6 +506,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Greg Holland,Director,Yes,June 1988
 66,Statecraft,Steven Tu,Associate Consultant,Yes,September 2013
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
+642,StratHouse Pty Ltd,James Baird,Director,Yes,November 2007
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 235,The Agenda Group Pty Ltd,James McGarvey,Director,No,""
 235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
@@ -521,6 +518,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Lucy Kozlowski,Consultant,Yes,November 2010
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora furman,Senior Manager Campaigns,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Kathryn Hall,Senior Account executive,Yes,September 2010
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Sam Bishop,Senior Account Executive,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
