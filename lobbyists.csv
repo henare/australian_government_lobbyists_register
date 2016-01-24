@@ -121,7 +121,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
-580,Crosby Textor Research Strategies Results,Yaron Finkelstein,Chief Executive Officer Australasia ,Yes,February 2006
 580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Senior Consultant,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
 580,Crosby Textor Research Strategies Results,George Brougham,Campaign Consultant,No,""
@@ -186,7 +185,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 512,Ethical Strategies Pty Ltd,John Morton,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,Jay Pleass,Account Director,Yes,August 2007
 712,"Farmer, Richard Lindsay",Richard Lindsay Farmer,Self employed,No,""
-324,FCC Partners,Hugh Fraser,Managing Director,No,""
+324,FCC Partnership Pty Ltd,Hugh Fraser,Managing Director,No,""
 214,FIPRA Australia Pty Limited,David Lieberman,Director,No,""
 214,FIPRA Australia Pty Limited,John Richardson,Principal,Yes,May 1995
 214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
@@ -249,6 +248,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Sharon Anne Reid,Research and Policy Analyst,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
+717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
 96,Hawker Britton Group Pty Ltd,Sonia Arakkal,Research Analyst,No,""
@@ -261,7 +261,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
 674,Ian Peregrine Desborough,Ian Desborough,Principal,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
-714,Insight Strategy Pty Ltd,Jody Fasisna,Director,Yes,April 2001
+714,Insight Strategy Pty Ltd,Jody Fassina,Director,Yes,April 2001
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
 20,InterCapital Group Pty Ltd,John Kananghinis,Director,No,""
 20,InterCapital Group Pty Ltd,Angus Nicholls,Senior Associate,Yes,April 2005
@@ -279,7 +279,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Patria Manalili,Associate,No,""
 319,Jo Scard Pty Ltd,Dani Rothwell,Associate,Yes,June 2015
 319,Jo Scard Pty Ltd,Emma Bull,Senior Associate,No,""
-275,Jody Fassina ATF JAI Family Trust,Jody Fassina,Principal Consultant,Yes,April 2001
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 101,John Connolly & Partners Pty Limited,Gabrielle Notley,Partner,No,""
@@ -376,7 +375,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 526,Next Level Holdings Pty Ltd,David Moore,Director,Yes,November 2007
 526,Next Level Holdings Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
 526,Next Level Holdings Pty Ltd,Stephen Beckett,Senior Manager,No,""
-694,Nick Bolkus,Nick Bolkus,Owner,Yes,July 2005
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
@@ -486,7 +484,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 171,Shac Communications Pty Ltd ATF The Shac Trust,Alyson Richards,Account Director ,Yes,March 2015
 681,Simeon Duncan,Simeon Duncan,Principal,Yes,November 2007
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
-82,Socom Pty Ltd,Penny Kotsiovos,Consultant,No,""
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 660,Sporting Manangement Concepts,Ben Tatterson,Director,No,""
