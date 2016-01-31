@@ -314,6 +314,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Travis Bell,Director,Yes,December 2007
 76,Kreab Gavin Anderson (Australia) Ltd,Amanda Buckley ,Director,Yes,June 2003
 76,Kreab Gavin Anderson (Australia) Ltd,Nataly Matijevic ,Director / Melbourne Office Head ,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Sophie Gulliver,Office Manager,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 570,Leaderboard Pty Ltd,Rodney Arthur Irvine,Managing Director,Yes,November 2007
@@ -364,7 +365,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 565,Newgate Communications Pty Limited,Simon Troeth,Associate Partner,Yes,November 2007
-565,Newgate Communications Pty Limited,Duncan McGauchie,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Philippa Crowther,Executive Assistant,No,""
 565,Newgate Communications Pty Limited,Sam Deans,Consultant,No,""
 565,Newgate Communications Pty Limited,Helen Moreland,Associate Partner,Yes,April 2015
@@ -392,6 +392,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Michael Hartmann,Director Government Relations,No,""
 72,Parker & Partners Pty Ltd,Arli Miller,Director,No,""
 72,Parker & Partners Pty Ltd,Susan Redden Makatoa ,Group Managing Director Corporate,No,""
+72,Parker & Partners Pty Ltd,Vincent Sheehy,Director Government Relations,Yes,November 2015
 304,Patrick Russell Consulting Pty Ltd,Dean Logan,CEO / Managing Director,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -489,9 +490,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 660,Sporting Manangement Concepts,Ben Tatterson,Director,No,""
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
-697,Squire Patton Boggs Consulting Pty Ltd,Paul George Plowman,Director,Yes,March 2010
-697,Squire Patton Boggs Consulting Pty Ltd,Alex John Poulsen,Director,No,""
-697,Squire Patton Boggs Consulting Pty Ltd,Margaret Mary Tannock,Director,No,""
 108,ST CLAIR Anthony William,Tony StClair,Director,No,""
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
 490,Staindl Strategic Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
@@ -584,6 +582,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Hrvoje Ferle,Consultant,No,""
 463,Walker Watterson Holdings Pty Ltd, Nermin Bajric,Consultant ,No,""
 463,Walker Watterson Holdings Pty Ltd,Samuel Watterson,Admin/Operations,No,""
+463,Walker Watterson Holdings Pty Ltd,Sidar Thams,Admin/Operations,No,""
 709,Wavelength Group Pty Ltd,Elizabeth Flaherty,Managing Director,No,""
 97,Wayne Smith,Wayne Christopher Smith,Director,No,""
 428,Weber Shandwick Worldwide,Jacquelynne Willcox,"Head of Corporate Public Affairs, Senior Strategic Counsel",No,""
