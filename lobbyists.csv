@@ -19,8 +19,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 63,AusAccess Unit Trust,Mark Ridgway,Chairman,Yes,May 1994
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
 45,Australian Public Affairs Limited Partnership,Rodney Frail,Director  Media and Issues Management,No,""
-45,Australian Public Affairs Limited Partnership,Philip McCall,Director  Public Relations,No,""
-45,Australian Public Affairs Limited Partnership,Liam Bathgate,Director  Regulatory Affairs,Yes,March 1983
 45,Australian Public Affairs Limited Partnership,Michael Gleeson,Senior Consultant,No,""
 45,Australian Public Affairs Limited Partnership,Amanda Parker,Senior Consultant,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
@@ -225,8 +223,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 125,Govstrat Pty Ltd,Damian Power,Director,No,""
 125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
 630,GPotts,Geoff Potts,Principle,Yes,December 2004
-122,GRA Everingham Pty Ltd,Paul Everingham,Managing Director,Yes,February 2003
-122,GRA Everingham Pty Ltd,Jason Marocchi,Director,No,""
+122,GRA Everingham Pty Ltd,Paul Everingham,Founder and Director ,Yes,February 2003
+122,GRA Everingham Pty Ltd,Jason Marocchi,Managing Director ,No,""
 122,GRA Everingham Pty Ltd,Amanda Reid,Director,Yes,January 2002
 122,GRA Everingham Pty Ltd,Kareece van der Woude,Client Support,No,""
 122,GRA Everingham Pty Ltd,Hon Eric Ripper,Chairman,No,""
@@ -269,6 +267,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
 103,Ivydale Nominees Pty Ltd,Richard Taylor,Senior Consultant,No,""
 103,Ivydale Nominees Pty Ltd,Des Riley,Director,No,""
+103,Ivydale Nominees Pty Ltd,Clint Ford,Senior Consultant,No,""
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
 586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,No,""
 319,Jo Scard Pty Ltd,Jo Scard,"Business Founder, former adviser to former Minister for Immigration & Citizenship until 14/9/10",Yes,September 2010
@@ -279,6 +278,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Patria Manalili,Associate,No,""
 319,Jo Scard Pty Ltd,Dani Rothwell,Associate,Yes,June 2015
 319,Jo Scard Pty Ltd,Emma Bull,Senior Associate,No,""
+319,Jo Scard Pty Ltd,Isabella JensenFielding,Associate,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 101,John Connolly & Partners Pty Limited,Gabrielle Notley,Partner,No,""
@@ -419,6 +419,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 100,Professional Public Relations Pty Ltd (PPR),Peter Harris,Strategic Advisor and New Markets Lead,No,""
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop,Director,Yes,June 2006
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas,Managing Director,Yes,December 2000
+719,Property and Consulting Australia,Nathan Paine,Director,No,""
+719,Property and Consulting Australia,Matthew Clemow,Director,No,""
 127,PRX Unit Trust,James Aanensen,Consultant,No,""
 127,PRX Unit Trust,Michael Kelly,Consultant,No,""
 127,PRX Unit Trust,Jim Robb,Senior Consultant,No,""
@@ -442,6 +444,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 446,R A Neilson and M Salmon,Ross Neilson,Director,No,""
 492,Rachael Sweeney ,Rachael Sweeney,Director,No,""
 492,Rachael Sweeney ,Ashleigh Gilchrist,Consultant,No,""
+492,Rachael Sweeney ,Natasha Kociski,Consultant,No,""
+492,Rachael Sweeney ,Laura McLean,Consultant,No,""
+492,Rachael Sweeney ,Sheri Shannon,Consultant,No,""
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 563,"Reith, Peter Keaston",Peter Keaston Reith,Sole Trader,Yes,November 2001
