@@ -55,6 +55,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
 654,C2hills Investments Pty Limited,dana margaret gardner,consultant,No,""
 654,C2hills Investments Pty Limited,Cara Leanne Dale,Director/Consultant,No,""
+654,C2hills Investments Pty Limited,Matthew David Field,Business Consultant,No,""
 700,Campaigns and Communications Group P/L,Ross Bruce Hawker,Managing Director,Yes,September 2013
 700,Campaigns and Communications Group P/L,Graeme John Wedderburn,Company Director,Yes,September 2013
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
@@ -90,6 +91,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
 79,CMAX Communications Pty Ltd,Davina Langton,Government Relations Advisor,Yes,June 2009
 79,CMAX Communications Pty Ltd,Daniel Grant,Government Relations Advisor,No,""
+428,CMGRP Pty Ltd,Jacquelynne Willcox,"Head of Corporate Public Affairs, Senior Strategic Counsel",No,""
+428,CMGRP Pty Ltd,Eliza Newton,Senior Account Director,No,""
+428,CMGRP Pty Ltd,Alistair Nicholas,Senior Advisor,Yes,October 2000
+428,CMGRP Pty Ltd,Megan McCarthy,Senior Account Manager,No,""
+428,CMGRP Pty Ltd,Justin Yuen,Senior Consultant,No,""
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Dave Coggin,Director,Yes,May 2010
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Anthony Hasluck,Director,No,""
@@ -265,6 +271,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 20,InterCapital Group Pty Ltd,Angus Nicholls,Senior Associate,Yes,April 2005
 38,Intercorp Pty Ltd,Sonnie Lipshut,Chairman,No,""
 38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
+38,Intercorp Pty Ltd,Jack Baldwin,Marketing Manager,No,""
 103,Ivydale Nominees Pty Ltd,Richard Taylor,Senior Consultant,No,""
 103,Ivydale Nominees Pty Ltd,Des Riley,Director,No,""
 103,Ivydale Nominees Pty Ltd,Clint Ford,Senior Consultant,No,""
@@ -301,6 +308,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 115,KPMG,Ruo Yan,Consultant,No,""
 115,KPMG,John Gallagher,Manager,No,""
 115,KPMG,Wilson Del Socorro,Associate Director,No,""
+115,KPMG,Stefano Moritsch,Senior Consultant,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Managing Partner Australia,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Lucy Chamberlain,Associate Director ,No,""
@@ -317,7 +325,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Sophie Gulliver,Office Manager,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
-570,Leaderboard Pty Ltd,Rodney Arthur Irvine,Managing Director,Yes,November 2007
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
 188,LESL Services Pty Ltd,Stephen Loosley,Director,Yes,May 1995
@@ -573,6 +580,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 152,TJM Consulting,Thomas John McLaughlin,Proprietor,No,""
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS,CHAIRMAN,No,""
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering,Director,Yes,January 2000
+718,Trustee of Kerans Family Trust,Andrew James Kerans,Principal,Yes,January 2014
 680,TSB Advisory Pty Ltd,Trevor John Burns,Director,Yes,June 1998
 161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher,Managing Director,No,""
 161,Vanguard Consulting and Services Pty Ltd,Timothy John Gallagher,General Manager,No,""
@@ -590,11 +598,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Sidar Thams,Admin/Operations,No,""
 709,Wavelength Group Pty Ltd,Elizabeth Flaherty,Managing Director,No,""
 97,Wayne Smith,Wayne Christopher Smith,Director,No,""
-428,Weber Shandwick Worldwide,Jacquelynne Willcox,"Head of Corporate Public Affairs, Senior Strategic Counsel",No,""
-428,Weber Shandwick Worldwide,Eliza Newton,Senior Account Director,No,""
-428,Weber Shandwick Worldwide,Alistair Nicholas,Senior Advisor,Yes,October 2000
-428,Weber Shandwick Worldwide,Megan McCarthy,Senior Account Manager,No,""
-428,Weber Shandwick Worldwide,Justin Yuen,Senior Consultant,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,CEO,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Partner,No,""
@@ -603,6 +606,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Executive,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Maddison Anne Richards,Account Executive,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Douglas Geoffrey MacDermott,Account Executive,No,""
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Christine Schulte,Account Executive,No,""
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""

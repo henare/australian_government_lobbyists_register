@@ -68,6 +68,7 @@ agency_id,agency_business_entity_name,owner_name
 475,Clifton Consulting Services Pty Ltd,John Ridley
 79,CMAX Communications Pty Ltd,Tara Taubenschlag
 79,CMAX Communications Pty Ltd,Christian Taubenschlag
+428,CMGRP Pty Ltd,InterPublic Group
 472,Comsult(Aust) Pty Ltd,Leslie James Davey
 472,Comsult(Aust) Pty Ltd,Christine Margaret Davey
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Hodgson Coggin Family Trust
@@ -206,8 +207,6 @@ agency_id,agency_business_entity_name,owner_name
 465,LATAF CONSULTING ,Jeffrey Russell Hart
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE
 519,Lawrence Media Services Pty Ltd,Una Joanna LAWRENCE
-570,Leaderboard Pty Ltd,Rodney Arthur Irvine
-570,Leaderboard Pty Ltd,Louise Emily Irvine
 4,Leisure SolutionsÂ®,Angus Muir Robinson
 4,Leisure SolutionsÂ®,Jeanette Ruth Robinson
 223,Leonie M. Short,Ms Leonie Marjorie Short
@@ -389,6 +388,7 @@ agency_id,agency_business_entity_name,owner_name
 152,TJM Consulting,Thomas John McLaughlin
 540,TOURISM THINK TANK PTY LTD,DONALD MALCOLM MORRIS
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering
+718,Trustee of Kerans Family Trust,Andrew James Kerans
 680,TSB Advisory Pty Ltd,Trevor Burns
 161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher
 161,Vanguard Consulting and Services Pty Ltd,Mrs Sharon Gallagher
@@ -402,7 +402,6 @@ agency_id,agency_business_entity_name,owner_name
 709,Wavelength Group Pty Ltd,Elizabeth Flaherty
 709,Wavelength Group Pty Ltd,Michael Flaherty
 97,Wayne Smith,Wayne Smith
-428,Weber Shandwick Worldwide,InterPublic Group
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew
