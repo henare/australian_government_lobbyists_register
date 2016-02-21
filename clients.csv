@@ -772,6 +772,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,FP Markets 
 96,Hawker Britton Group Pty Ltd,Tourism Holdings Ltd 
 96,Hawker Britton Group Pty Ltd,Apollo Motorhome Holidays 
+96,Hawker Britton Group Pty Ltd,Lockheed Martin Corporation 
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,Genzyme
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -862,6 +863,7 @@ agency_id,agency_business_entity_name,client_name
 56,John C Blackwell,Emantra
 56,John C Blackwell,Eutelsat Asia Pte Ltd
 56,John C Blackwell,RooCom Consulting
+56,John C Blackwell,NetApp
 101,John Connolly & Partners Pty Limited,ANZ Limited
 101,John Connolly & Partners Pty Limited,BHP Billiton Ltd
 101,John Connolly & Partners Pty Limited,Sydney Theatre Company
@@ -946,6 +948,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Online Education Services  
 76,Kreab Gavin Anderson (Australia) Ltd,Ecocentric Group Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Fireeye Australia Pty Ltd
+76,Kreab Gavin Anderson (Australia) Ltd,New Hope Corporation Limited
 465,LATAF CONSULTING ,Australian African Mining Industry Group
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
@@ -1021,12 +1024,12 @@ agency_id,agency_business_entity_name,client_name
 201,Media Affairs,The Brady Group
 201,Media Affairs,Taxi Industry Stakeholders Victoria
 201,Media Affairs,Energy Efficiency Council of Australia
-201,Media Affairs,Coach Craft 
-201,Media Affairs,Recovery Foundation
-201,Media Affairs,Superior Cabs
 201,Media Affairs,Benitec Biopharma
 201,Media Affairs,Caravan Industry Association of Victoria
 201,Media Affairs,Paradigm BioPharmaceuticals Ltd
+201,Media Affairs,Our People 
+201,Media Affairs,Neptune Managed Services Solutions
+201,Media Affairs,ListCorp
 684,Medina Capital,Qatar Airways
 132,Megan Anwyl,Citic Pacific Mining Management
 132,Megan Anwyl,Extension Hill Pty Ltd
@@ -1155,9 +1158,9 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,Mars Food Australia
 72,Parker & Partners Pty Ltd,Sanofi
 304,Patrick Russell Consulting Pty Ltd,Small to Medium Enterprise Australia
-298,Pavilion Consulting Pty Ltd,Genea
 298,Pavilion Consulting Pty Ltd,Australasian Lymphology Association
 298,Pavilion Consulting Pty Ltd,Lymphoedema Action Alliance
+298,Pavilion Consulting Pty Ltd,Eli Lilly
 546,Policy Australia Pty Ltd,Australian Digital Alliance
 546,Policy Australia Pty Ltd,Netflix
 219,Policy Solutions Group Pty Ltd,HDY
@@ -1249,12 +1252,12 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Caydon Property Group
 127,PRX Unit Trust,Hacer Group
 127,PRX Unit Trust,True Value Solar
+127,PRX Unit Trust,Kayban Pty Ltd
+127,PRX Unit Trust,Mission Australia
+127,PRX Unit Trust,Shane Warne Foundation
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
-68,Public Policy Solutions Pty Ltd,Ecotechnol
-68,Public Policy Solutions Pty Ltd,Nine Entertainment Company
-68,Public Policy Solutions Pty Ltd,corporate carbon advisory pty ltd
 242,Purple Communications Australia Pty Ltd,Energy and Minerals Australia
 242,Purple Communications Australia Pty Ltd,Rey Resources
 242,Purple Communications Australia Pty Ltd,City of Melville
@@ -1552,6 +1555,7 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,ELAN Energy Management
 698,The Trustee for Arthur Trust,Caltex Australia Petroleum Pty Ltd
 698,The Trustee for Arthur Trust,Submarine Institute of Australia
+698,The Trustee for Arthur Trust,Australian Liquor Stores Association
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
