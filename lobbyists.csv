@@ -58,7 +58,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 700,Campaigns and Communications Group P/L,Ross Bruce Hawker,Managing Director,Yes,September 2013
 700,Campaigns and Communications Group P/L,Graeme John Wedderburn,Company Director,Yes,September 2013
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
-556,Capital Hill Advisory Pty Ltd,Christopher Stone,Director Policy and Strategy,Yes,December 2007
 556,Capital Hill Advisory Pty Ltd,Michael Photios,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Cathy Duncan,Practice Manager,Yes,June 2012
 556,Capital Hill Advisory Pty Ltd,David Begg,Director,No,""
@@ -94,6 +93,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 428,CMGRP Pty Ltd,Alistair Nicholas,Senior Advisor,Yes,October 2000
 428,CMGRP Pty Ltd,Megan McCarthy,Senior Account Manager,No,""
 428,CMGRP Pty Ltd,Justin Yuen,Senior Consultant,No,""
+428,CMGRP Pty Ltd,Darragh Brennan,Advisor,No,""
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Dave Coggin,Director,Yes,May 2010
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Anthony Hasluck,Director,No,""
@@ -125,6 +125,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
 580,Crosby Textor Research Strategies Results,George Brougham,Campaign Consultant,No,""
 580,Crosby Textor Research Strategies Results,Catherine Beachley,Consultant,No,""
+580,Crosby Textor Research Strategies Results,Giorgia Christmas,Consultant,Yes,October 2015
+580,Crosby Textor Research Strategies Results,Yaron Finkelstein,CEO Australasia ,Yes,February 2006
 673,CT International and Corporate Advisory Pty Ltd,Remo Nogarotto,CEO,No,""
 673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Business Development Manager,No,""
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
@@ -208,7 +210,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Steve Murphy ,Senior Director ,No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 106,Galbraith & Company Pty Ltd,Allan King,Partner,No,""
-1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,June 1979
+1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
 375,Gell Southam Group Pty Ltd,Patrick Southam,Principal,No,""
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
@@ -306,9 +308,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Turner,Executive Associate,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Gavin Clancy,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Lars Madsen,Associate Director,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Zackary McLennan,Associate Director,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Zackary McLennan,Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jeff Sorrell,Associate Director,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Emily Minson,Associate Director,Yes,July 2008
+76,Kreab Gavin Anderson (Australia) Ltd,Emily Minson,Director,Yes,July 2008
 76,Kreab Gavin Anderson (Australia) Ltd,Travis Bell,Director,Yes,December 2007
 76,Kreab Gavin Anderson (Australia) Ltd,Amanda Buckley ,Director,Yes,June 2003
 76,Kreab Gavin Anderson (Australia) Ltd,Nataly Matijevic ,Director / Melbourne Office Head ,No,""
@@ -404,7 +406,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,David Begg,Director,No,""
 516,Premier State Consulting Pty Ltd,Natalie Fitzpatrick,Manager â Governance & Strategic Planning,No,""
-516,Premier State Consulting Pty Ltd,Chris Stone,Director Policy & Strategy,Yes,December 2007
 516,Premier State Consulting Pty Ltd,Nick Campbell,Director,Yes,December 1999
 516,Premier State Consulting Pty Ltd,Ian Hancock,Analyst,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
@@ -412,6 +413,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 220,Primary Communication Pty Ltd,Jennifer Muir,General Manager,No,""
 220,Primary Communication Pty Ltd,Ian Zakon,Account Director  ,Yes,June 2011
 220,Primary Communication Pty Ltd,Jesse Krncevic,Account Manager,No,""
+631,Primary Policy Partners,Andrew Gibbs,Founding Partner,Yes,January 2001
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop,Director,Yes,June 2006
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas,Managing Director,Yes,December 2000
@@ -528,11 +530,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 698,The Trustee for Arthur Trust,Hamish Arthur,Director,No,""
 145,The Trustee for Bespoke Business Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Business Trust,Nick Bolkus,Partner,Yes,June 2005
-145,The Trustee for Bespoke Business Trust,Caroline Rhodes,Managing Director,Yes,June 2010
+145,The Trustee for Bespoke Business Trust,Caroline Rhodes,Consultant,Yes,June 2010
 145,The Trustee for Bespoke Business Trust,Georgia Bradshaw,Associate,No,""
-145,The Trustee for Bespoke Business Trust,Paul Tierney,Managing Director,No,""
+145,The Trustee for Bespoke Business Trust,Paul Tierney,Consultant,No,""
 145,The Trustee for Bespoke Business Trust,John Olsen,Special Advisor,Yes,April 2009
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Managing Partner,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Caroline Rhodes,Consultant,Yes,June 2010
 589,The Trustee for Bespoke Territory Unit Trust,Michael Burgess,Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Clancy O'Donnell,Associate,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Nick Bolkus,Partner,Yes,November 2005
@@ -566,6 +569,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 718,Trustee of Kerans Family Trust,Andrew James Kerans,Principal,Yes,January 2014
 680,TSB Advisory Pty Ltd,Trevor John Burns,Director,Yes,June 1998
 161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher,Managing Director,No,""
+724,Vecchiet Andreas,Andreas Detlef Oscar Vecchiet,Owner and Principal,Yes,January 1997
 689,Vicom Australia Pty Ltd,Roger Michael Kane,General Manager,No,""
 689,Vicom Australia Pty Ltd,David Harris Pearce,Region Manager Aviation and Defence,Yes,August 2006
 689,Vicom Australia Pty Ltd,Bruce Campbell Williams,Director,No,""
@@ -594,5 +598,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Mary Andrew,Consultant,No,""
 584,Willard Public Affairs Pty Limited,Doug Johns,Director,No,""
 584,Willard Public Affairs Pty Limited,Rosemary Apps,Office Manager,No,""
+721,Willesee Communications,Michael Willesee,Director,Yes,July 2015
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 641,Wurley Group Pty Ltd,Sarah Bernice Griffin,Principal,No,""

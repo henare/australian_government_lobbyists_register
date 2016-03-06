@@ -16,8 +16,10 @@ agency_id,agency_business_entity_name,client_name
 104,Alkar Pty Ltd,NT Airports
 104,Alkar Pty Ltd,Galbraith & Co.
 104,Alkar Pty Ltd,Converga 
-104,Alkar Pty Ltd,Manufacturing Skills Australia
 104,Alkar Pty Ltd,Tabcorp
+104,Alkar Pty Ltd,GenesisCare
+104,Alkar Pty Ltd,FoxStrategic
+104,Alkar Pty Ltd,Latrobe City Council
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Narda-MITEQ
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Communications 
 666,APEC Lawyers and Consultants Pty Ltd.,Australian Chinese General Chamber of Business
@@ -174,6 +176,10 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Marathon Health Ltd
 338,Barton Deakin ,Global Orthopaedic Technology Pty Ltd
 338,Barton Deakin ,China Mobile International Ltd (CMI)
+338,Barton Deakin ,Community Broadcasting Association of Australia Limited
+338,Barton Deakin ,Google Australia Pty Ltd
+338,Barton Deakin ,Lend Lease Corporation Limited
+338,Barton Deakin ,Hewlett Packard Australia Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -239,6 +245,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Insight Strategy Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Wilson Security
 556,Capital Hill Advisory Pty Ltd,Children's Medical Research Institute
+556,Capital Hill Advisory Pty Ltd,IFM Investors Pty Ltd
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Ipsen Pty Ltd
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
@@ -301,6 +308,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Innovex Solutions
 79,CMAX Communications Pty Ltd,RAYGEN Resources Pty Ltd
 79,CMAX Communications Pty Ltd,Soldier On
+79,CMAX Communications Pty Ltd,Comlux Aviation Group
 428,CMGRP Pty Ltd,Nutricia Australia Pty Ltd
 428,CMGRP Pty Ltd,IHMS
 428,CMGRP Pty Ltd,G4S
@@ -628,6 +636,7 @@ agency_id,agency_business_entity_name,client_name
 1,Gambolling Pty Ltd,Dassault Aviation
 1,Gambolling Pty Ltd,Fresh Markets Australia
 1,Gambolling Pty Ltd,Peninsula Health
+1,Gambolling Pty Ltd,Huntington Ingalls Industries
 375,Gell Southam Group Pty Ltd,Kores Australia
 375,Gell Southam Group Pty Ltd,Volvo Car Australia
 375,Gell Southam Group Pty Ltd,Wallarah 2 Coal Project
@@ -681,7 +690,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Halliburton Energy Services
 59,GRACosway Pty Ltd,Alexion Pharmaceuticals Australasia Pty Ltd
 59,GRACosway Pty Ltd,Gilead Sciences
-59,GRACosway Pty Ltd,Warren Centre for Advanced Engineering
 59,GRACosway Pty Ltd,Tasman Sinkware
 59,GRACosway Pty Ltd,Fletcher Building (Australia) Pty Ltd
 59,GRACosway Pty Ltd,Biogen Idec Australia Pty Ltd
@@ -721,6 +729,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Anchorage Capital Partners Pty Limited
 59,GRACosway Pty Ltd,Hewlett Packard Australia Pty Ltd
 59,GRACosway Pty Ltd,Luye Medical Group Co.
+59,GRACosway Pty Ltd,23andMe
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1203,6 +1212,13 @@ agency_id,agency_business_entity_name,client_name
 220,Primary Communication Pty Ltd,Young and Well CRC
 220,Primary Communication Pty Ltd,AIPE Australian Institute of Professional Education
 220,Primary Communication Pty Ltd,Oticon
+631,Primary Policy Partners,Elliott Holdings Australia T/A Ellwaste
+631,Primary Policy Partners,Cohuna Aviation Club Inc
+631,Primary Policy Partners,HTT CORPORATION
+631,Primary Policy Partners,E.B Mawson & Sons Proprietary Limited (Mawsons Concrete & Quarries) 
+631,Primary Policy Partners,Smithton Veterinary Service 
+631,Primary Policy Partners,Gannawarra Irrigators Water Action Council
+631,Primary Policy Partners,Kevin and Greta Fitzpatrick Family Estate
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 283,Probity International Pty. Ltd,Teva Pharmaceutical Industries Ltd
@@ -1487,6 +1503,7 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Musical Futures Australia
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,DomaCom Limited
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Nubuild Beveridge Pty Ltd
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers of Australia Inc
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
@@ -1545,6 +1562,7 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,Caltex Australia Petroleum Pty Ltd
 698,The Trustee for Arthur Trust,Submarine Institute of Australia
 698,The Trustee for Arthur Trust,Australian Liquor Stores Association
+698,The Trustee for Arthur Trust,AIA Australia Ltd
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
@@ -1581,6 +1599,7 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,National Automotive Leasing and Salary Packaging Association
 420,The trustee for ECG Advisory Trust,Lion Pty Limited
 420,The trustee for ECG Advisory Trust,ASX Ltd
+420,The trustee for ECG Advisory Trust,Business Council of Australia
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 28,The Trustee for Markeit Family Trust,Gambit Technologies
 28,The Trustee for Markeit Family Trust,Modular Engineered Building Systems Pty Ltd
@@ -1644,6 +1663,7 @@ agency_id,agency_business_entity_name,client_name
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
 161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)
+724,Vecchiet Andreas,Mentor Education Group
 689,Vicom Australia Pty Ltd,Aeroflex a Cobham Company
 635,Visionary  Enterprising Management Services Pty Ltd,Service Skills Industry Alliance Inc.
 635,Visionary  Enterprising Management Services Pty Ltd,Foodland Promotions
@@ -1704,6 +1724,7 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,Slainte Healthcare
 584,Willard Public Affairs Pty Limited,Enghouse Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,eBay International AG
+721,Willesee Communications,RateSetter Australia 
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
