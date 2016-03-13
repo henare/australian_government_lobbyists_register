@@ -180,6 +180,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Google Australia Pty Ltd
 338,Barton Deakin ,Lend Lease Corporation Limited
 338,Barton Deakin ,Hewlett Packard Australia Pty Ltd
+338,Barton Deakin ,Australians in Pozieres Ltd 
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -231,9 +232,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Glencore Coal Assets Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Employers Mutual Management Pty Ltd
 556,Capital Hill Advisory Pty Ltd,PPB Advisory
-556,Capital Hill Advisory Pty Ltd,Stuart Alexander & Co Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Queensland Investment Corporation
-556,Capital Hill Advisory Pty Ltd,Xerox Business Services LLC and its Affiliates
 556,Capital Hill Advisory Pty Ltd,Southern Cross Group Services Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Australian Federation of AIDS Organisations Inc
 556,Capital Hill Advisory Pty Ltd,REST Industry Super
@@ -246,6 +245,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Wilson Security
 556,Capital Hill Advisory Pty Ltd,Children's Medical Research Institute
 556,Capital Hill Advisory Pty Ltd,IFM Investors Pty Ltd
+556,Capital Hill Advisory Pty Ltd,Genex Power Limited
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Ipsen Pty Ltd
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
@@ -476,6 +476,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,Borough of Queenscliffe
 360,Diplomacy Pty Limited,DocuSign
 360,Diplomacy Pty Limited,Wellness and Lifestyles
+360,Diplomacy Pty Limited,Searoad Ferries
 454,Discourse Consulting Pty Ltd,ADA
 454,Discourse Consulting Pty Ltd,NDS
 454,Discourse Consulting Pty Ltd,Life withour Barriers
@@ -864,6 +865,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Australian Academy of Science ABN 90 700 613 342 
 319,Jo Scard Pty Ltd,Junction Australia ABN 50 167 313 153
 319,Jo Scard Pty Ltd,Northern Rivers Social Development Council Inc ABN 77398196862
+319,Jo Scard Pty Ltd,Australian Diabetes Educators' Association Limited ABN 65 008 656 522
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Sharp
@@ -1174,6 +1176,7 @@ agency_id,agency_business_entity_name,client_name
 298,Pavilion Consulting Pty Ltd,Australasian Lymphology Association
 298,Pavilion Consulting Pty Ltd,Lymphoedema Action Alliance
 298,Pavilion Consulting Pty Ltd,Eli Lilly
+706,PMC Group P/L,Australian Careers Network Ltd
 546,Policy Australia Pty Ltd,Australian Digital Alliance
 546,Policy Australia Pty Ltd,Netflix
 219,Policy Solutions Group Pty Ltd,HDY
@@ -1299,6 +1302,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Sino Gas & Energy Holdings Limited 
 242,Purple Communications Australia Pty Ltd,Centre for Entrepreneurial Research and Innovation Limited 
 29,Pynfall Pty Ltd,Project System & Management GmbH
+29,Pynfall Pty Ltd,Luerssen
 446,R A Neilson and M Salmon,Truth Justice and Healing Council
 446,R A Neilson and M Salmon,The Australian Screen Directors Authorship Collecting Society (ASDACS)
 492,Rachael Sweeney ,Regional Capitals Australia 
@@ -1399,6 +1403,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,C.A. Australia Pty. Limited
 685,Sanlaan Pty Ltd,Gerard Lighting Pty Ltd
 685,Sanlaan Pty Ltd,Bertocchi Smallgoods Pty Ltd
+685,Sanlaan Pty Ltd,Italferr S.p.A
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,SEQ Catchments
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
@@ -1660,6 +1665,8 @@ agency_id,agency_business_entity_name,client_name
 680,TSB Advisory Pty Ltd,UniSuper Management Pty Ltd
 680,TSB Advisory Pty Ltd,Australian Primary Principals Association
 680,TSB Advisory Pty Ltd,BMT Tax Depreciation
+680,TSB Advisory Pty Ltd,BCA National Training Group
+680,TSB Advisory Pty Ltd,PayPal Australia Pty Ltd
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
 161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)
