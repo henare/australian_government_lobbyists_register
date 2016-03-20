@@ -12,6 +12,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 666,APEC Lawyers and Consultants Pty Ltd.,Dr. Robert John Cooke,Executive Director,No,""
 666,APEC Lawyers and Consultants Pty Ltd.,Ms Debra Kaye Cooke,Executive Director,No,""
 695,APG Consulting Pty Ltd,Paul Giles,Director,Yes,December 2014
+725,Apparatchik Pty Limited,Christopher John Fry,Director,No,""
+725,Apparatchik Pty Limited,Scott Anthony Briggs,Director,Yes,September 1999
 415,APS Networking Pty Ltd,Anthony Stewart,Director,Yes,March 2011
 588,Argos Consulting,Brett Robin Hilder,Owner,No,""
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke,Director,Yes,August 2004
@@ -87,7 +89,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Jacob Traeger,Account Manager,No,""
 79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
 79,CMAX Communications Pty Ltd,Davina Langton,Government Relations Advisor,Yes,June 2009
-79,CMAX Communications Pty Ltd,Daniel Grant,Government Relations Advisor,No,""
 428,CMGRP Pty Ltd,Jacquelynne Willcox,"Head of Corporate Public Affairs, Senior Strategic Counsel",No,""
 428,CMGRP Pty Ltd,Eliza Newton,Senior Account Director,No,""
 428,CMGRP Pty Ltd,Alistair Nicholas,Senior Advisor,Yes,October 2000
@@ -106,7 +107,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 160,Cotterell Jannette Suzanne,Serena Beaumont Owles,Senior Consultant,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
-403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Karen Schneider,Manager Health Economics,No,""
@@ -199,11 +199,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 713,Flight Data Systems Pty Ltd,William John Ernest Brankin,General Manager,No,""
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
 484,FPL Advisory Pty Ltd,Leonie Brown,Manager Stakeholder Engagement,No,""
-333,FTI Consulting (Perth) Pty Ltd,Cameron Morse,Senior Director Corporate and Public Affairs,No,""
+333,FTI Consulting (Perth) Pty Ltd,Cameron Morse,Managing Director Corporate and Public Affairs,No,""
 333,FTI Consulting (Perth) Pty Ltd,Michael Groves,Director,No,""
 333,FTI Consulting (Perth) Pty Ltd,Katina Hodson Thomas,Director,Yes,September 2008
 333,FTI Consulting (Perth) Pty Ltd,Tara Nash,Consultant,No,""
-333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Director,No,""
+333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Senior Director,No,""
 333,FTI Consulting (Perth) Pty Ltd,Elodie Castagna,Senior Consultant,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Samantha Magnusson ,Senior Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Sarah Browne,Senior Director ,No,""
@@ -221,7 +221,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
 125,Govstrat Pty Ltd,Damian Power,Director,No,""
 125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
-630,GPotts,Geoff Potts,Principle,Yes,December 2004
+630,GPotts,Geoff Potts,Principal,Yes,December 2004
 122,GRA Everingham Pty Ltd,Paul Everingham,Founder and Director ,Yes,February 2003
 122,GRA Everingham Pty Ltd,Jason Marocchi,Managing Director ,No,""
 122,GRA Everingham Pty Ltd,Amanda Reid,Director,Yes,January 2002
@@ -315,6 +315,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Amanda Buckley ,Director,Yes,June 2003
 76,Kreab Gavin Anderson (Australia) Ltd,Nataly Matijevic ,Director / Melbourne Office Head ,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Sophie Gulliver,Office Manager,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Kurt Graham,Executive Associate,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
@@ -365,7 +366,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 565,Newgate Communications Pty Limited,Simon Troeth,Associate Partner,Yes,November 2007
-565,Newgate Communications Pty Limited,Philippa Crowther,Executive Assistant,No,""
 565,Newgate Communications Pty Limited,Sam Deans,Consultant,No,""
 565,Newgate Communications Pty Limited,Helen Moreland,Associate Partner,Yes,April 2015
 565,Newgate Communications Pty Limited,Libby Roberts,Account Executive,No,""
@@ -474,8 +474,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Jonathan Pavetto,Consultant,No,""
 227,SAS Consulting Group Pty Ltd,Victoria Qiu,Director China,No,""
-486,SCG Advisory Pty Ltd,Frederick John Brown,Director,Yes,September 2007
-486,SCG Advisory Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
 676,Sesimic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Sesimic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
@@ -487,6 +485,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 681,Simeon Duncan,Simeon Duncan,Principal,Yes,November 2007
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
+82,Socom Pty Ltd,Zoe Weaver,Consultant,No,""
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 660,Sporting Manangement Concepts,Ben Tatterson,Director,No,""
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""

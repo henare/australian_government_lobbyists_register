@@ -24,6 +24,7 @@ agency_id,agency_business_entity_name,client_name
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Communications 
 666,APEC Lawyers and Consultants Pty Ltd.,Australian Chinese General Chamber of Business
 695,APG Consulting Pty Ltd,Industry Super Australia
+725,Apparatchik Pty Limited,Australian Computer Society
 415,APS Networking Pty Ltd,Clubs Australia
 415,APS Networking Pty Ltd,Clubs NSW
 588,Argos Consulting,Phoenix Compliance Management Pty Ltd
@@ -181,6 +182,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Lend Lease Corporation Limited
 338,Barton Deakin ,Hewlett Packard Australia Pty Ltd
 338,Barton Deakin ,Australians in Pozieres Ltd 
+338,Barton Deakin ,Australian Heavy Vehicle Repair Association
+338,Barton Deakin ,Federal Chamber of Automotive Industries
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -218,10 +221,13 @@ agency_id,agency_business_entity_name,client_name
 52,Bush Consulting Services Pty Ltd,Telstra
 52,Bush Consulting Services Pty Ltd,Australian Screen Association
 654,C2hills Investments Pty Limited,Rivcott Pty Limited
-654,C2hills Investments Pty Limited,NREC Locomotive Company Pty Ltd
 654,C2hills Investments Pty Limited,ACN 602 837 883 Pty Limited ATF Lansdowne Property Trust
 654,C2hills Investments Pty Limited,Macleay River Meats Pty Limited
 654,C2hills Investments Pty Limited,Macleay River Proteins Pty Limited
+654,C2hills Investments Pty Limited,Coleambally Chamber of Commerce and Industry
+654,C2hills Investments Pty Limited,Barellan Aged Care Support Group
+654,C2hills Investments Pty Limited,Griffith City Council
+654,C2hills Investments Pty Limited,Grainlink (NSW) Pty Ltd
 700,Campaigns and Communications Group P/L,Fincantieri
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
@@ -289,22 +295,16 @@ agency_id,agency_business_entity_name,client_name
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
-79,CMAX Communications Pty Ltd,Australian Coal Association
-79,CMAX Communications Pty Ltd,Grains Council of Australia
 79,CMAX Communications Pty Ltd,Pegasus Riding for the Disabled
-79,CMAX Communications Pty Ltd,L3 Nautronix
 79,CMAX Communications Pty Ltd,Stryker 
 79,CMAX Communications Pty Ltd,Fortescue Metals Group 
-79,CMAX Communications Pty Ltd,Association Mining and Exploration Companies
 79,CMAX Communications Pty Ltd,Send Hope Not Flowers
 79,CMAX Communications Pty Ltd,Recurrent Energy
 79,CMAX Communications Pty Ltd,Northrop Grumman International
-79,CMAX Communications Pty Ltd,Saab Systems
 79,CMAX Communications Pty Ltd,Oracle Australia
 79,CMAX Communications Pty Ltd,Northrop Grumman Australia
 79,CMAX Communications Pty Ltd,BUILDINGSMART AUSTRALASIA INCORPORATED
 79,CMAX Communications Pty Ltd,National Capital Private Hospital
-79,CMAX Communications Pty Ltd,Wellspect Healthcare
 79,CMAX Communications Pty Ltd,Innovex Solutions
 79,CMAX Communications Pty Ltd,RAYGEN Resources Pty Ltd
 79,CMAX Communications Pty Ltd,Soldier On
@@ -419,6 +419,7 @@ agency_id,agency_business_entity_name,client_name
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Santos
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
+683,Craig Emerson Economics Pty Ltd,KPMG
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
@@ -430,6 +431,7 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Reconciliation Australia Limited
 580,Crosby Textor Research Strategies Results,Free TV Australia Ltd
 580,Crosby Textor Research Strategies Results,Distilled Spirits Industry Council of Australia Inc.
+580,Crosby Textor Research Strategies Results,Careers Australia Group Limited
 673,CT International and Corporate Advisory Pty Ltd,Parmalat Australia Pty Ltd 
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
@@ -440,7 +442,7 @@ agency_id,agency_business_entity_name,client_name
 10,Cynergy Pty Ltd,Solastor Pty Ltd
 10,Cynergy Pty Ltd,Lloyd Energy Systems Pty Ltd
 10,Cynergy Pty Ltd,Sentinel Pty Ltd
-10,Cynergy Pty Ltd,Tidal Energy Australia Pty Ltd
+10,Cynergy Pty Ltd,SCE Energy Solutions Pty Ltd
 221,Damian McGreevy Consulting Pty Ltd,World Wide Fund for Nature (WWF AUST)
 221,Damian McGreevy Consulting Pty Ltd,Daintree Estates
 221,Damian McGreevy Consulting Pty Ltd,Solar Silicon Resources Group
@@ -527,6 +529,8 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,IOOF Holdings Limited
 31,Endeavour Consulting Group Pty Ltd,Standards Australia
 31,Endeavour Consulting Group Pty Ltd,iSelect 
+31,Endeavour Consulting Group Pty Ltd,Federal Chamber of Automotive Industries
+31,Endeavour Consulting Group Pty Ltd,Australian Automotive Dealer Association
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -534,6 +538,7 @@ agency_id,agency_business_entity_name,client_name
 74,Enhance Corporate Pty Ltd,Queensland Nickel Pty Ltd
 74,Enhance Corporate Pty Ltd,Mineralogy Pty Ltd
 71,Essential Media Communications Pty Ltd,Defence Teaming Centre
+71,Essential Media Communications Pty Ltd,Australian Marriage Equality
 564,Etched Communications Pty Ltd,Nestle Australia
 564,Etched Communications Pty Ltd,Bellamy's Organic
 564,Etched Communications Pty Ltd,Achieve Australia
@@ -629,7 +634,6 @@ agency_id,agency_business_entity_name,client_name
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Spark Infrastructure Group
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Tabcorp
-1,Gambolling Pty Ltd,EuroMaritime Consultancy
 1,Gambolling Pty Ltd,National Australia Bank
 1,Gambolling Pty Ltd,OHDC Inc
 1,Gambolling Pty Ltd,Intercapital 
@@ -987,6 +991,7 @@ agency_id,agency_business_entity_name,client_name
 529,Lobbying Australia Pty Ltd,Manuka Business Association
 566,London Agency Pty Ltd,Pathology Awareness Australia Ltd
 566,London Agency Pty Ltd,Asthma Australia
+566,London Agency Pty Ltd,Abbott Vascular
 13,LOPAC Consulting Pty Limited,Deschamps et Fils
 13,LOPAC Consulting Pty Limited,Kongsberg Defence Systems
 13,LOPAC Consulting Pty Limited,Kongsberg Maritime
@@ -1012,6 +1017,7 @@ agency_id,agency_business_entity_name,client_name
 245,Marketing Elements Pty Ltd,Domestic Violence NSW
 245,Marketing Elements Pty Ltd,National Child Protection Alliance
 245,Marketing Elements Pty Ltd,National Council of Children Post Separation
+245,Marketing Elements Pty Ltd,Australian Screen Association
 425,Maser Defence Pty Ltd,Cobham Antenna Systems
 179,McGrane-Fitzgerald Unit Trust,Rural & Regional Promotions Pty Ltd
 179,McGrane-Fitzgerald Unit Trust,Deflecta Crete Seals ABN 84068618931
@@ -1214,7 +1220,7 @@ agency_id,agency_business_entity_name,client_name
 220,Primary Communication Pty Ltd,BOC Limited
 220,Primary Communication Pty Ltd,Young and Well CRC
 220,Primary Communication Pty Ltd,AIPE Australian Institute of Professional Education
-220,Primary Communication Pty Ltd,Oticon
+220,Primary Communication Pty Ltd,William Demant Holding Group
 631,Primary Policy Partners,Elliott Holdings Australia T/A Ellwaste
 631,Primary Policy Partners,Cohuna Aviation Club Inc
 631,Primary Policy Partners,HTT CORPORATION
@@ -1416,7 +1422,6 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Welldog Pty Ltd
 227,SAS Consulting Group Pty Ltd,MATES IN CONSTRUCTION (AUST) LIMITED
 227,SAS Consulting Group Pty Ltd,China Telecom Global Limited
-486,SCG Advisory Pty Ltd,Field and Game Australia
 167,Scott & Beaumont Pty Ltd,ConnectLand Pty Ltd; Koppers Australia
 167,Scott & Beaumont Pty Ltd,WSLloyd
 167,Scott & Beaumont Pty Ltd,Galbraith and Co
@@ -1460,7 +1465,6 @@ agency_id,agency_business_entity_name,client_name
 665,Spring Street Advisory,Trustpower
 490,Staindl Strategic Pty Ltd,Pacific Hydro
 490,Staindl Strategic Pty Ltd,LD Network
-490,Staindl Strategic Pty Ltd,Keppel Prince Engineering Pty Ltd
 66,Statecraft,KEPCO Australia
 66,Statecraft,Dimension Data
 66,Statecraft,Bouygues Construction Australia
@@ -1475,7 +1479,6 @@ agency_id,agency_business_entity_name,client_name
 385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
 385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
 385,Strategic Partnership Group (Aust) Pty Limited,Linfox Pty Limited
-385,Strategic Partnership Group (Aust) Pty Limited,Australian Fertility Medicine Foundation
 642,StratHouse Pty Ltd,Telstra Limited
 642,StratHouse Pty Ltd,GMHBA Limited
 642,StratHouse Pty Ltd,Northern Futures
@@ -1540,9 +1543,10 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,CSL Limited
 95,The Strategic Counsel Pty Ltd,CSL Behring (Australia) Pty Ltd
 95,The Strategic Counsel Pty Ltd,Complementary Medicines Association
-95,The Strategic Counsel Pty Ltd,Baxter Healthcare Pty Ltd
 95,The Strategic Counsel Pty Ltd,AbbVie Pty Ltd
 95,The Strategic Counsel Pty Ltd,National Pharmaceutical Services Association
+95,The Strategic Counsel Pty Ltd,Private Healthcare Australia
+95,The Strategic Counsel Pty Ltd,KidsXpress
 424,The Taylor Street Consultancy P/L,Lend Lease
 424,The Taylor Street Consultancy P/L,NRMA Motoring and Services 
 424,The Taylor Street Consultancy P/L,The Dockside Group 
@@ -1606,12 +1610,11 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,ASX Ltd
 420,The trustee for ECG Advisory Trust,Business Council of Australia
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
-28,The Trustee for Markeit Family Trust,Gambit Technologies
-28,The Trustee for Markeit Family Trust,Modular Engineered Building Systems Pty Ltd
 28,The Trustee for Markeit Family Trust,Biocentral Laboratories
 28,The Trustee for Markeit Family Trust,Australian Infrastructure Developments
 28,The Trustee for Markeit Family Trust,BioFilm Solutions Pty Ltd
 28,The Trustee for Markeit Family Trust,Austal Limited
+28,The Trustee for Markeit Family Trust,Saab Australia
 668,The Trustee for Sandra Eccles Family Trust,The Mirabel Foundation
 668,The Trustee for Sandra Eccles Family Trust,BlueScope Steel Limited
 668,The Trustee for Sandra Eccles Family Trust,PTTEP Australasia Pty Ltd
@@ -1626,7 +1629,6 @@ agency_id,agency_business_entity_name,client_name
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Ego Pharamceuticals Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Convatec Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,ABBOTT DIABETESE CARE
-256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Astellas Australia Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Aspen Pharmacare Australia Pty Ltd A.B.N. 51 096 236 985
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,TEVA Pharma Australia Pty Ltd ABN 169 715 664
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Orpharma Pty Ltd
