@@ -34,10 +34,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
 338,Barton Deakin ,Eacham Curry ,Managing Director (WA),Yes,February 2005
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
-338,Barton Deakin ,James Coward,Policy and Business Analyst,No,""
-338,Barton Deakin ,Christopher Reside,Policy and Business Analyst,No,""
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
 338,Barton Deakin ,Stefanee Lovett,Director,Yes,September 2015
+338,Barton Deakin ,Jessica Yu,Policy and Business Analyst,No,""
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
@@ -89,6 +88,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Jacob Traeger,Account Manager,No,""
 79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
 79,CMAX Communications Pty Ltd,Davina Langton,Government Relations Advisor,Yes,June 2009
+79,CMAX Communications Pty Ltd,Stephanie Chow,Government Relations Advisor,No,""
 428,CMGRP Pty Ltd,Jacquelynne Willcox,"Head of Corporate Public Affairs, Senior Strategic Counsel",No,""
 428,CMGRP Pty Ltd,Eliza Newton,Senior Account Director,No,""
 428,CMGRP Pty Ltd,Alistair Nicholas,Senior Advisor,Yes,October 2000
@@ -110,6 +110,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Karen Schneider,Manager Health Economics,No,""
+403,Covance Pty Ltd (Covance Market Access Services division),Julia Carritt,Manager Health Economics,No,""
 299,CPI Strategic Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
 299,CPI Strategic Pty Ltd,Frederick John Brown,Director,Yes,November 2007
 81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director Government Relations,Yes,January 2007
@@ -588,10 +589,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Partner,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Kerry Walter Sibraa,Senior Counsel,Yes,May 1998
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Julie Louise Sibraa,Senior Counsel,Yes,December 2009
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Executive,No,""
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Maddison Anne Richards,Account Executive,No,""
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Douglas Geoffrey MacDermott,Account Executive,No,""
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Christine Schulte,Account Executive,No,""
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Manager,No,""
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""

@@ -1,7 +1,7 @@
 agency_id,agency_business_entity_name,client_name
 271,A D Evers-Buckland,Concert Lighting Systems
 271,A D Evers-Buckland,Geoff RM Howard
-271,A D Evers-Buckland,ENVIRONMENTALLY FRIENDLY AUSTRALIA PTY LTD
+271,A D Evers-Buckland,Wonthaggi Life Saving Club
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Rafael  Advanced Defense Systems Limited
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Aeronautics System Ltd
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,AMST GmbH
@@ -35,11 +35,11 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Global Defence Industries
 63,AusAccess Unit Trust,TECC Pty Ltd
 63,AusAccess Unit Trust,Aboriginal AG-Arts Residency Kenmore Limited
-63,AusAccess Unit Trust,Genesys Labs
 63,AusAccess Unit Trust,Berrigan District Aged Care Association
 63,AusAccess Unit Trust,Daewoo Shipbuilding and Marine Engineering (DSME)
 63,AusAccess Unit Trust,Hardcat Pty Ltd
 63,AusAccess Unit Trust,Hanwha Techwin
+63,AusAccess Unit Trust,Australian Indigenous Alpine Sports Foundation
 234,Australian Project Developments Pty. Ltd.,Campbelltown City Council
 234,Australian Project Developments Pty. Ltd.,Cape York Sustainable Futures
 234,Australian Project Developments Pty. Ltd.,City of Playford
@@ -394,9 +394,6 @@ agency_id,agency_business_entity_name,client_name
 299,CPI Strategic Pty Ltd,Field and Game Australia
 299,CPI Strategic Pty Ltd,Australian Deer Association
 81,CPR Communications & Public Relations Pty Ltd,Brisbane Airport Corporation
-81,CPR Communications & Public Relations Pty Ltd,Google Australia
-81,CPR Communications & Public Relations Pty Ltd,The Cooperative Research Centres Association
-81,CPR Communications & Public Relations Pty Ltd,OzHub
 81,CPR Communications & Public Relations Pty Ltd,Regional Cities Victoria
 81,CPR Communications & Public Relations Pty Ltd,Baker IDI
 81,CPR Communications & Public Relations Pty Ltd,Greater Shepparton City Council
@@ -405,7 +402,6 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Hire and Rental Industry Association
 81,CPR Communications & Public Relations Pty Ltd,The Trustee for ADMINISTRATION  MARKETING SOLUTIONS TRUST (Chemists Warehouse/My Chemist Group)
 81,CPR Communications & Public Relations Pty Ltd,Housing Industry Association Limited
-81,CPR Communications & Public Relations Pty Ltd,Al-Taqwa College
 81,CPR Communications & Public Relations Pty Ltd,Rural City of Wangaratta
 81,CPR Communications & Public Relations Pty Ltd,Queen Elizabeth Centre
 81,CPR Communications & Public Relations Pty Ltd,Violence Free Families
@@ -440,9 +436,9 @@ agency_id,agency_business_entity_name,client_name
 386,Currie Communications,Elevating Work Platform Association of Australia
 386,Currie Communications,PrimeSafe
 10,Cynergy Pty Ltd,Solastor Pty Ltd
-10,Cynergy Pty Ltd,Lloyd Energy Systems Pty Ltd
 10,Cynergy Pty Ltd,Sentinel Pty Ltd
 10,Cynergy Pty Ltd,SCE Energy Solutions Pty Ltd
+10,Cynergy Pty Ltd,Tidal Energy Australia Pty Ltd
 221,Damian McGreevy Consulting Pty Ltd,World Wide Fund for Nature (WWF AUST)
 221,Damian McGreevy Consulting Pty Ltd,Daintree Estates
 221,Damian McGreevy Consulting Pty Ltd,Solar Silicon Resources Group
@@ -1071,6 +1067,8 @@ agency_id,agency_business_entity_name,client_name
 699,Michael John Kauter,National Australia Bank Limited
 699,Michael John Kauter,Group of Eight Universities Australia
 699,Michael John Kauter,E4 Health Australia 
+699,Michael John Kauter,University of Melbourne
+699,Michael John Kauter,Monash University
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
@@ -1410,6 +1408,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Gerard Lighting Pty Ltd
 685,Sanlaan Pty Ltd,Bertocchi Smallgoods Pty Ltd
 685,Sanlaan Pty Ltd,Italferr S.p.A
+685,Sanlaan Pty Ltd,Mandarin International Investments
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,SEQ Catchments
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
@@ -1465,6 +1464,7 @@ agency_id,agency_business_entity_name,client_name
 665,Spring Street Advisory,Trustpower
 490,Staindl Strategic Pty Ltd,Pacific Hydro
 490,Staindl Strategic Pty Ltd,LD Network
+490,Staindl Strategic Pty Ltd,Hanson Construction Materials
 66,Statecraft,KEPCO Australia
 66,Statecraft,Dimension Data
 66,Statecraft,Bouygues Construction Australia
@@ -1740,4 +1740,3 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
 641,Wurley Group Pty Ltd,Edwards Lifesciences Pty Ltd
 641,Wurley Group Pty Ltd,Globus Medical Australia Pty Ltd
-641,Wurley Group Pty Ltd,Tornier Pty Ltd
