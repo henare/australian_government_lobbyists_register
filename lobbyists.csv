@@ -11,7 +11,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 666,APEC Lawyers and Consultants Pty Ltd.,Mr. Johnathan Chi Ngai SIU,Chairman,No,""
 666,APEC Lawyers and Consultants Pty Ltd.,Dr. Robert John Cooke,Executive Director,No,""
 666,APEC Lawyers and Consultants Pty Ltd.,Ms Debra Kaye Cooke,Executive Director,No,""
-695,APG Consulting Pty Ltd,Paul Giles,Director,Yes,December 2014
 725,Apparatchik Pty Limited,Christopher John Fry,Director,No,""
 725,Apparatchik Pty Limited,Scott Anthony Briggs,Director,Yes,September 1999
 415,APS Networking Pty Ltd,Anthony Stewart,Director,Yes,March 2011
@@ -102,7 +101,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
 18,Corporate Words Australia Pty Limited,Colin Fulton,Principal,No,""
 160,Cotterell Jannette Suzanne,Jannette Cotterell,Managing Director,No,""
-160,Cotterell Jannette Suzanne,Glenn Milne,Principal ,No,""
 160,Cotterell Jannette Suzanne,Hannah Purdy,Communications Strategist,No,""
 160,Cotterell Jannette Suzanne,Serena Beaumont Owles,Senior Consultant,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
@@ -439,6 +437,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Chantal Hartstone,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Rebecca Johnston,Senior Consultant,No,""
 242,Purple Communications Australia Pty Ltd,Grace Carpenter,Consultant,No,""
+242,Purple Communications Australia Pty Ltd,Matt Birney,Director,Yes,September 2008
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 446,R A Neilson and M Salmon,Michael Salmon,Director,No,""
 446,R A Neilson and M Salmon,Ross Neilson,Director,No,""
@@ -590,6 +589,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Kerry Walter Sibraa,Senior Counsel,Yes,May 1998
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Julie Louise Sibraa,Senior Counsel,Yes,December 2009
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Manager,No,""
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Timothy Christopher Mantiri,Account Executive,No,""
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""

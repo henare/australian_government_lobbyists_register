@@ -23,7 +23,6 @@ agency_id,agency_business_entity_name,client_name
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Narda-MITEQ
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Communications 
 666,APEC Lawyers and Consultants Pty Ltd.,Australian Chinese General Chamber of Business
-695,APG Consulting Pty Ltd,Industry Super Australia
 725,Apparatchik Pty Limited,Australian Computer Society
 415,APS Networking Pty Ltd,Clubs Australia
 415,APS Networking Pty Ltd,Clubs NSW
@@ -252,6 +251,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Children's Medical Research Institute
 556,Capital Hill Advisory Pty Ltd,IFM Investors Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Genex Power Limited
+556,Capital Hill Advisory Pty Ltd,Nike Inc
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Ipsen Pty Ltd
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
@@ -731,6 +731,9 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Hewlett Packard Australia Pty Ltd
 59,GRACosway Pty Ltd,Luye Medical Group Co.
 59,GRACosway Pty Ltd,23andMe
+59,GRACosway Pty Ltd,Australian Rural Capital Limited
+59,GRACosway Pty Ltd,GE Australia Pty Ltd
+59,GRACosway Pty Ltd,TA Associates
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -871,7 +874,6 @@ agency_id,agency_business_entity_name,client_name
 56,John C Blackwell,Sharp
 56,John C Blackwell,Inmarsat
 56,John C Blackwell,Datapod (Australia) Pty Ltd
-56,John C Blackwell,Emantra
 56,John C Blackwell,Eutelsat Asia Pte Ltd
 56,John C Blackwell,RooCom Consulting
 56,John C Blackwell,NetApp
@@ -1374,6 +1376,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,GTI Media
 35,Richardson Coutts,Emergency Medicine Foundation
 35,Richardson Coutts,Magnovate Transportation Inc
+35,Richardson Coutts,Hexagon Safety and Infrastructure
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
@@ -1451,13 +1454,12 @@ agency_id,agency_business_entity_name,client_name
 239,Sports Hydrant Pty Ltd,DFA Australia
 239,Sports Hydrant Pty Ltd,Virgin Blue Group of Airlines
 239,Sports Hydrant Pty Ltd,Eftpos Payments Australia
-239,Sports Hydrant Pty Ltd,Touch Football Australia
-239,Sports Hydrant Pty Ltd,Australian Drug Foundation
 239,Sports Hydrant Pty Ltd,Professional Golfers Association of Australia Ltd
 239,Sports Hydrant Pty Ltd,Australian Golf Industry Council
 239,Sports Hydrant Pty Ltd,Australian British Chamber of Commerce
 239,Sports Hydrant Pty Ltd,The Big Issue in Australia Ltd
 239,Sports Hydrant Pty Ltd,Australian Olympic Committee
+239,Sports Hydrant Pty Ltd,Link Digital Pty Ltd
 665,Spring Street Advisory,Vestas Australian Wind Technology Pty Ltd
 665,Spring Street Advisory,Olex Australia Pty Ltd
 665,Spring Street Advisory,Infoxchange
@@ -1563,6 +1565,7 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,Elanor Investors Group
 424,The Taylor Street Consultancy P/L,Goodman Group
 424,The Taylor Street Consultancy P/L,Leichhardt Council
+424,The Taylor Street Consultancy P/L,Western Sydney Rail Alliance
 698,The Trustee for Arthur Trust,Engineers Australia
 698,The Trustee for Arthur Trust,Accommodation Association of Australia
 698,The Trustee for Arthur Trust,bet365
@@ -1640,6 +1643,7 @@ agency_id,agency_business_entity_name,client_name
 610,The Trusteee for the SRKM Trust,Shire of Leonora
 610,The Trusteee for the SRKM Trust,Esperance Aged Care Facility
 610,The Trusteee for the SRKM Trust,Shire of Dundas
+610,The Trusteee for the SRKM Trust,Regional Development Australia Goldfields Esperance
 240,The Write Connection Pty Ltd,InterGen (Australia)
 240,The Write Connection Pty Ltd,Group of Eight Universities
 328,THEMA Consulting Pty Ltd,Shire Australia Pty Ltd
@@ -1717,17 +1721,12 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Fairview Architectural Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,CFD & Margin FX Association 
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
-584,Willard Public Affairs Pty Limited,United States Chamber of Commerce
-584,Willard Public Affairs Pty Limited,G.I Smoker and M.R Tudehope
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
-584,Willard Public Affairs Pty Limited,Mary Smoker and Amanda Fairjones Partnership
-584,Willard Public Affairs Pty Limited,McBeath Pharmacy Westmead Pty Limited
 584,Willard Public Affairs Pty Limited,Tolmar Australia Pty Limited
 584,Willard Public Affairs Pty Limited,Audi Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Volkswagen Group Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Porsche Cars Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,ATEC Rail Group Pty Ltd 
-584,Willard Public Affairs Pty Limited,Poche Centre for Indigenous Health
 584,Willard Public Affairs Pty Limited,Medicines Australia Limited
 584,Willard Public Affairs Pty Limited,Sony Foundation Australia
 584,Willard Public Affairs Pty Limited,Slainte Healthcare
