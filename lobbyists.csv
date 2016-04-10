@@ -166,6 +166,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
 31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Partner,Yes,June 1986
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,October 2007
+31,Endeavour Consulting Group Pty Ltd,Fiona Landis ,Associate Partner,Yes,April 2010
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
 71,Essential Media Communications Pty Ltd,Adrian Dodd,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
@@ -177,6 +178,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Tim O'Halloran,Associate Director,Yes,June 2015
 71,Essential Media Communications Pty Ltd,Richard Mehrtens,Consultant,No,""
 71,Essential Media Communications Pty Ltd,Jane Garcia,Account Manager,No,""
+71,Essential Media Communications Pty Ltd,Peter Stahel,Client Manager,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
@@ -194,6 +196,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 453,First State Advisors and Consultants ,Susan Warren ,Managing Director ,No,""
 295,Five Corners Pty Ltd,Peter Robertson,Director - Five Coners Pty Ltd,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director,No,""
+726,FleishmanHillard,Camilla Jury,Head of Corporate Affairs ,No,""
+726,FleishmanHillard,Katie Elkington ,Account Manager ,No,""
+726,FleishmanHillard,Michelle SeeTho,Account Executive ,No,""
 713,Flight Data Systems Pty Ltd,Darren Paul Privitera,Managing Director,No,""
 713,Flight Data Systems Pty Ltd,William John Ernest Brankin,General Manager,No,""
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
@@ -226,7 +231,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 122,GRA Everingham Pty Ltd,Amanda Reid,Director,Yes,January 2002
 122,GRA Everingham Pty Ltd,Kareece van der Woude,Client Support,No,""
 122,GRA Everingham Pty Ltd,Hon Eric Ripper,Chairman,No,""
-122,GRA Everingham Pty Ltd,Daryl Tan,Associate ,No,""
 122,GRA Everingham Pty Ltd,Tim Fettis,Associate,No,""
 59,GRACosway Pty Ltd,Richard Victor King,Partner,Yes,February 2000
 59,GRACosway Pty Ltd,Alexander Cramb,Partner,Yes,January 2008
@@ -438,6 +442,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Rebecca Johnston,Senior Consultant,No,""
 242,Purple Communications Australia Pty Ltd,Grace Carpenter,Consultant,No,""
 242,Purple Communications Australia Pty Ltd,Matt Birney,Director,Yes,September 2008
+242,Purple Communications Australia Pty Ltd,Vessa Playfair,Director,No,""
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 446,R A Neilson and M Salmon,Michael Salmon,Director,No,""
 446,R A Neilson and M Salmon,Ross Neilson,Director,No,""

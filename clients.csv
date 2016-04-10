@@ -149,7 +149,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Reddawn
 338,Barton Deakin ,Atlassian
 338,Barton Deakin ,BSE Maritime Solutions
-338,Barton Deakin ,Streem Pty. Ltd.
 338,Barton Deakin ,Franchise Council of Australia Limited
 338,Barton Deakin ,CUB Pty Ltd
 338,Barton Deakin ,RIVERLIFE PTY. LTD. 
@@ -158,9 +157,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Palace Cinemas Pty Ltd
 338,Barton Deakin ,Brookfield Rail Pty Ltd
 338,Barton Deakin ,Vector Limited 
-338,Barton Deakin ,Vault Systems Pty Ltd
-338,Barton Deakin ,FP Markets Pty Ltd
-338,Barton Deakin ,Bain Capital Asia LLC
 338,Barton Deakin ,Fincantieri S.p.A
 338,Barton Deakin ,SMG Technologies Pty Ltd 
 338,Barton Deakin ,Geo Group Australia Pty Ltd
@@ -183,6 +179,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Australians in Pozieres Ltd 
 338,Barton Deakin ,Australian Heavy Vehicle Repair Association
 338,Barton Deakin ,Federal Chamber of Automotive Industries
+338,Barton Deakin ,Ward 6 Pty Ltd
+338,Barton Deakin ,Croplife Australia Limited
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -193,6 +191,7 @@ agency_id,agency_business_entity_name,client_name
 583,BDaaS Consulting Pty Ltd,Threatmetrix Pty Ltd
 583,BDaaS Consulting Pty Ltd,Rackspace Hosting Australia Pty Ltd
 583,BDaaS Consulting Pty Ltd,GoSource Pty Ltd
+583,BDaaS Consulting Pty Ltd,Vault Systems Pty Ltd
 162,Belman Consulting Pty Ltd,Olbia Pty Limited
 110,Bluegrass Consulting Pty Ltd,iTIC Australia Pty Ltd
 614,Bossy Group Pty Ltd,GRA Everingham
@@ -527,6 +526,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,iSelect 
 31,Endeavour Consulting Group Pty Ltd,Federal Chamber of Automotive Industries
 31,Endeavour Consulting Group Pty Ltd,Australian Automotive Dealer Association
+31,Endeavour Consulting Group Pty Ltd,Mitsubishi Heavy Industries 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -606,6 +606,7 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Australian Consulting Architects Pty Ltd 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
+726,FleishmanHillard,Cook Medical 
 713,Flight Data Systems Pty Ltd,Lockheed Martin Overseas Corporation
 713,Flight Data Systems Pty Ltd,L3 Communications Telemetry West
 484,FPL Advisory Pty Ltd,Building Designers Association of Victoria
@@ -615,14 +616,13 @@ agency_id,agency_business_entity_name,client_name
 484,FPL Advisory Pty Ltd,D'Orsogna Ltd
 484,FPL Advisory Pty Ltd,Sun Pharmaceuticals
 333,FTI Consulting (Perth) Pty Ltd,Wellard Group
-333,FTI Consulting (Perth) Pty Ltd,New Standard Energy
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
 333,FTI Consulting (Perth) Pty Ltd,New Energy Corporation
 333,FTI Consulting (Perth) Pty Ltd,Sirona Capital Management
-333,FTI Consulting (Perth) Pty Ltd,Digital CC Holdings Pty Ltd
 333,FTI Consulting (Perth) Pty Ltd,Brierty Limited
 333,FTI Consulting (Perth) Pty Ltd,CoAssets Limited
 333,FTI Consulting (Perth) Pty Ltd,Australian Grains Champion
+333,FTI Consulting (Perth) Pty Ltd,Kailis Bros
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,JBS Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Nimble Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
@@ -657,6 +657,7 @@ agency_id,agency_business_entity_name,client_name
 7,Government Relations Solutions Pty Ltd,Beach Energy Ltd
 7,Government Relations Solutions Pty Ltd,Burke Urban Developments Pty Ltd
 7,Government Relations Solutions Pty Ltd,National Pharmacies
+7,Government Relations Solutions Pty Ltd,Demographia Australia Inc
 125,Govstrat Pty Ltd,Clubs Queensland
 125,Govstrat Pty Ltd,UGL
 630,GPotts,Water Ice Pty Ltd
@@ -666,12 +667,10 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Hall and Prior Aged Care Organisation
 122,GRA Everingham Pty Ltd,Cash Converters
 122,GRA Everingham Pty Ltd,Aurizon
-122,GRA Everingham Pty Ltd,Curtin University
 122,GRA Everingham Pty Ltd,Australia Treasury Management
 122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
 122,GRA Everingham Pty Ltd,City of Cockburn
 122,GRA Everingham Pty Ltd,City of Armadale 
-122,GRA Everingham Pty Ltd,Australian Finance Group 
 122,GRA Everingham Pty Ltd,Hess Corporation 
 122,GRA Everingham Pty Ltd,Asia Pacific Space Centre Pty Ltd 
 122,GRA Everingham Pty Ltd,Childrenâs Cancer Institute 
@@ -697,16 +696,10 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Human Systems Asia Pacific Pty Ltd
 59,GRACosway Pty Ltd,DrinkWise Australia Ltd
 59,GRACosway Pty Ltd,FRV Services Australia Pty Ltd
-59,GRACosway Pty Ltd,Olex Australia Pty Ltd
 59,GRACosway Pty Ltd,Small Pelagic Fisheries Industry Association
-59,GRACosway Pty Ltd,Nexans Olex
-59,GRACosway Pty Ltd,CCCC International Holding Limited
-59,GRACosway Pty Ltd,Sensis Pty Ltd
 59,GRACosway Pty Ltd,Ovarian Cancer Australia Limited
-59,GRACosway Pty Ltd,Middle Head Healthcare Pty Ltd
 59,GRACosway Pty Ltd,Australian Oil Recyclers Association Limited 
 59,GRACosway Pty Ltd,Stolthaven Australasia Pty Ltd
-59,GRACosway Pty Ltd,Newcrest Mining Limited
 59,GRACosway Pty Ltd,ClearView Wealth Limited
 59,GRACosway Pty Ltd,DP World Australia Ltd
 59,GRACosway Pty Ltd,Mulpha Australia Limited
@@ -718,10 +711,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Australian Imported Motor Vehicle Industry Association Incorporated (AIMVIA)
 59,GRACosway Pty Ltd,Hunan Dakang Pasture Farming Co. Ltd
 59,GRACosway Pty Ltd,OZ Minerals Limited
-59,GRACosway Pty Ltd,Association of Independent Schools of South Australia
 59,GRACosway Pty Ltd,SAI Global Limited
 59,GRACosway Pty Ltd,Credit Corp Group Limited
-59,GRACosway Pty Ltd,thinkholdings Pty Ltd
 59,GRACosway Pty Ltd,On Deck Capital Australia Pty Ltd
 59,GRACosway Pty Ltd,ACCORD Australasia Inc
 59,GRACosway Pty Ltd,Coloplast Pty Ltd
@@ -802,6 +793,8 @@ agency_id,agency_business_entity_name,client_name
 8,Hill and Knowlton,Coca Cola South Pacific
 8,Hill and Knowlton,LEO Pharma
 8,Hill and Knowlton,Intuit
+8,Hill and Knowlton,Thorn Group Limited 
+8,Hill and Knowlton,Medlab Clinical Limited 
 19,HTT Trust,Smorgon Fuels
 19,HTT Trust,The Victor Smorgon Group
 19,HTT Trust,Southern Capital Corporation
@@ -869,6 +862,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Junction Australia ABN 50 167 313 153
 319,Jo Scard Pty Ltd,Northern Rivers Social Development Council Inc ABN 77398196862
 319,Jo Scard Pty Ltd,Australian Diabetes Educators' Association Limited ABN 65 008 656 522
+319,Jo Scard Pty Ltd,The Woden Group
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Sharp
@@ -890,7 +884,6 @@ agency_id,agency_business_entity_name,client_name
 78,John O'Connor and Associates Pty Ltd,Qenos Pty Ltd
 78,John O'Connor and Associates Pty Ltd,BlueScope Steel Limited
 78,John O'Connor and Associates Pty Ltd,Nufarm Limited
-78,John O'Connor and Associates Pty Ltd,Australian Vinyls Corporation Limited
 78,John O'Connor and Associates Pty Ltd,H J Heinz Australia Limited
 78,John O'Connor and Associates Pty Ltd,Arrium Limited
 78,John O'Connor and Associates Pty Ltd,Norske Skog Australasia Pty Ltd
@@ -898,7 +891,8 @@ agency_id,agency_business_entity_name,client_name
 78,John O'Connor and Associates Pty Ltd,Simcoa Operations Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Bisalloy Steel Group Limited
 78,John O'Connor and Associates Pty Ltd,Cockburn Cement Limited
-78,John O'Connor and Associates Pty Ltd,Simplot Australia Pty Ltd
+78,John O'Connor and Associates Pty Ltd,Australian Paper Pty Ltd
+78,John O'Connor and Associates Pty Ltd,Capral Aluminium Limited
 255,John Scott Barker,Stornoway
 255,John Scott Barker,Font PR
 255,John Scott Barker,Marsh Pty Ltd
@@ -1094,31 +1088,25 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Clontarf Foundation
 565,Newgate Communications Pty Limited,Sydney Swans Ltd
 565,Newgate Communications Pty Limited,The Trustee for Diversified Infrastructure Trust
-565,Newgate Communications Pty Limited,Google Australia Pty Ltd
 565,Newgate Communications Pty Limited,Australian Airports Association
 565,Newgate Communications Pty Limited,Whitehaven Coal Limited
-565,Newgate Communications Pty Limited,Australia Post
-565,Newgate Communications Pty Limited,Lenovo (Australia and New Zealand) Pty Ltd
 565,Newgate Communications Pty Limited,Australian Pork Limited
 565,Newgate Communications Pty Limited,Tatts Group Limited
 565,Newgate Communications Pty Limited,Sydney Airport Corporation Limited
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
 565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
 565,Newgate Communications Pty Limited,Mondelez Australia Pty Ltd
-565,Newgate Communications Pty Limited,Wilmar Sugar Australia Limited
 565,Newgate Communications Pty Limited,Uber
 565,Newgate Communications Pty Limited,Carnival Australia
 565,Newgate Communications Pty Limited,Reachout Australia
-565,Newgate Communications Pty Limited,Pernod Ricard Winemakers Pty Ltd
-565,Newgate Communications Pty Limited,Treasury Wine Estates Limited
 565,Newgate Communications Pty Limited,Foxtel Management Pty Limited
 565,Newgate Communications Pty Limited,Bluearth Foundation
 565,Newgate Communications Pty Limited,Swisse Wellness Pty Ltd
-565,Newgate Communications Pty Limited,Magnetar Capital LLC
 565,Newgate Communications Pty Limited,Minter Ellison
 565,Newgate Communications Pty Limited,Southern Cross Austereo Pty Ltd
 565,Newgate Communications Pty Limited,TPI Enterprises
 565,Newgate Communications Pty Limited,Australian Sugar Milling Council
+565,Newgate Communications Pty Limited,Ferrier Hodgson
 526,Next Level Holdings Pty Ltd,Adani Mining Pty Ltd
 526,Next Level Holdings Pty Ltd,Linfox Proprietary Limited
 526,Next Level Holdings Pty Ltd,Gas Energy Australia
@@ -1582,7 +1570,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,BAE Systems Australia
 145,The Trustee for Bespoke Business Trust,Asciano Limited
 145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
-145,The Trustee for Bespoke Business Trust,Arrium Ltd
 145,The Trustee for Bespoke Business Trust,Great Southern Rail Limited
 145,The Trustee for Bespoke Business Trust,Medibank Private Limited
 145,The Trustee for Bespoke Business Trust,Costa Group Holdings Limited
@@ -1590,6 +1577,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,IFM Investors
 145,The Trustee for Bespoke Business Trust,Noble Resources Pte Ltd
 145,The Trustee for Bespoke Business Trust,Genius Link Assets Management Pty Ltd
+145,The Trustee for Bespoke Business Trust,a2 Milk Company 
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 589,The Trustee for Bespoke Territory Unit Trust,Landbridge Infrastructure Australia Pty Ltd
 550,The Trustee for Connelly Project Resources,Australia Zoo
