@@ -181,6 +181,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Federal Chamber of Automotive Industries
 338,Barton Deakin ,Ward 6 Pty Ltd
 338,Barton Deakin ,Croplife Australia Limited
+338,Barton Deakin ,Programmed Marine Pty Ltd
+338,Barton Deakin ,Kalfresh Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -474,6 +476,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,DocuSign
 360,Diplomacy Pty Limited,Wellness and Lifestyles
 360,Diplomacy Pty Limited,Searoad Ferries
+360,Diplomacy Pty Limited,Colac Otway Shire Council
 454,Discourse Consulting Pty Ltd,ADA
 454,Discourse Consulting Pty Ltd,NDS
 454,Discourse Consulting Pty Ltd,Life withour Barriers
@@ -725,6 +728,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Australian Rural Capital Limited
 59,GRACosway Pty Ltd,GE Australia Pty Ltd
 59,GRACosway Pty Ltd,TA Associates
+59,GRACosway Pty Ltd,Mortgage and Finance Association of Australia
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -743,7 +747,6 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Singleton Ogilvy & Mather Holdings
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,STW Group Ltd
-96,Hawker Britton Group Pty Ltd,Canada Steamship Lines Australia Pty Ltd
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
 96,Hawker Britton Group Pty Ltd,Bunnings
 96,Hawker Britton Group Pty Ltd,Officeworks
@@ -754,8 +757,6 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Macquarie Group Limited
 96,Hawker Britton Group Pty Ltd,amr interactive
 96,Hawker Britton Group Pty Ltd,AMP Limited
-96,Hawker Britton Group Pty Ltd,Australian Hotels Association (Victorian Branch)
-96,Hawker Britton Group Pty Ltd,Silcar Pty Ltd
 96,Hawker Britton Group Pty Ltd,Medibank Health Solutions
 96,Hawker Britton Group Pty Ltd,Lorne Sculpture
 96,Hawker Britton Group Pty Ltd,The Adams Group
@@ -763,20 +764,16 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,The Alliance for Safe Children
 96,Hawker Britton Group Pty Ltd,Allygroup
 96,Hawker Britton Group Pty Ltd,Project Respect
-96,Hawker Britton Group Pty Ltd,Aurizon
 96,Hawker Britton Group Pty Ltd,Yellow Edge
 96,Hawker Britton Group Pty Ltd,Shire of Cardinia 
-96,Hawker Britton Group Pty Ltd,Nextgen Group Holdings Pty Ltd
 96,Hawker Britton Group Pty Ltd,Apple Pty Ltd
-96,Hawker Britton Group Pty Ltd,Law Institute of Victoria
 96,Hawker Britton Group Pty Ltd,QBE Insurance Group Pty Ltd 
 96,Hawker Britton Group Pty Ltd,Sportsbet
-96,Hawker Britton Group Pty Ltd,Copyright Agency Limited 
 96,Hawker Britton Group Pty Ltd,Medibank Private 
-96,Hawker Britton Group Pty Ltd,FP Markets 
 96,Hawker Britton Group Pty Ltd,Tourism Holdings Ltd 
 96,Hawker Britton Group Pty Ltd,Apollo Motorhome Holidays 
 96,Hawker Britton Group Pty Ltd,Lockheed Martin Corporation 
+96,Hawker Britton Group Pty Ltd,Johnson and Johnson 
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,Genzyme
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -1578,6 +1575,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Noble Resources Pte Ltd
 145,The Trustee for Bespoke Business Trust,Genius Link Assets Management Pty Ltd
 145,The Trustee for Bespoke Business Trust,a2 Milk Company 
+145,The Trustee for Bespoke Business Trust,Mitsubishi Heavy Industries
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 589,The Trustee for Bespoke Territory Unit Trust,Landbridge Infrastructure Australia Pty Ltd
 550,The Trustee for Connelly Project Resources,Australia Zoo
