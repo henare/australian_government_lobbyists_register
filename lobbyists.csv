@@ -71,8 +71,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
-157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,No,""
+157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,Yes,March 2003
 157,Chikarovski & Associates Pty Ltd,Samantha Dybac,Corporate Affairs,No,""
+157,Chikarovski & Associates Pty Ltd,Emily Young,Lobbyist,No,""
 658,Chris Drummer ,Christopher John Drummer,CEO,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
 215,"Clark, Kerren G",Kerren Clark,Principal,No,""
@@ -168,7 +169,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,October 2007
 31,Endeavour Consulting Group Pty Ltd,Fiona Landis ,Associate Partner,Yes,April 2010
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
-71,Essential Media Communications Pty Ltd,Adrian Dodd,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
 71,Essential Media Communications Pty Ltd,Olivia Greentree,Senior Account Manager,Yes,February 2013
 71,Essential Media Communications Pty Ltd,Alana Mew,Account Manager,No,""
@@ -215,6 +215,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 106,Galbraith & Company Pty Ltd,Allan King,Partner,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
+1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
 375,Gell Southam Group Pty Ltd,Patrick Southam,Principal,No,""
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
@@ -318,7 +319,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Amanda Buckley ,Director,Yes,June 2003
 76,Kreab Gavin Anderson (Australia) Ltd,Nataly Matijevic ,Director / Melbourne Office Head ,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Sophie Gulliver,Office Manager,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Kurt Graham,Executive Associate,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
@@ -520,6 +520,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Sam Bishop,Senior Account Executive,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
+733,The Hon. James G Clarko AM AE JP,The Hon James G Clarko,Sole Trader,Yes,December 1996
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
 268,The Premier Communications Group Pty Ltd.,Ross Grove,Senior Advisor,No,""

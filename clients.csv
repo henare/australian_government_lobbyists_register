@@ -183,6 +183,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Croplife Australia Limited
 338,Barton Deakin ,Programmed Marine Pty Ltd
 338,Barton Deakin ,Kalfresh Pty Ltd
+338,Barton Deakin ,Australian Automobile Association (AAA)
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -874,6 +875,7 @@ agency_id,agency_business_entity_name,client_name
 241,John Cook,Learning and Life Centre
 241,John Cook,North Melbourne Football Club
 241,John Cook,Casino Management International
+731,John McDonald,Paul Mauchline.
 78,John O'Connor and Associates Pty Ltd,ROH Automotive
 78,John O'Connor and Associates Pty Ltd,CSBP Limited
 78,John O'Connor and Associates Pty Ltd,Orica Australia Pty Ltd
@@ -1131,6 +1133,8 @@ agency_id,agency_business_entity_name,client_name
 86,Ogilvy PR Health,Fitness First
 86,Ogilvy PR Health,Johnson and Johnson Medical
 86,Ogilvy PR Health,Philips Healthcare
+86,Ogilvy PR Health,Biomarin
+86,Ogilvy PR Health,Baxalta
 632,One Degree Advisory,Edith Cowan University
 670,Open Spectrum Pty Ltd,Australian Mobile Telecommunications Association
 427,Owen International Pty Ltd,Cobham Tactical Communications and Surveillance
@@ -1463,6 +1467,8 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,The GPT Group
 66,Statecraft,Wollongong Coal
 66,Statecraft,Shenhua Watermark Coal Pty Ltd
+66,Statecraft,PreviousNext
+66,Statecraft,Bank of Queensland
 385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
 385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
 385,Strategic Partnership Group (Aust) Pty Limited,Linfox Pty Limited
@@ -1483,6 +1489,7 @@ agency_id,agency_business_entity_name,client_name
 235,The Agenda Group Pty Ltd,The Australian Orthotic Prosthetic Association Inc.
 235,The Agenda Group Pty Ltd,Maurice Blackburn Lawyers
 235,The Agenda Group Pty Ltd,Photography Studies College (Melbourne)
+235,The Agenda Group Pty Ltd,Principals Australia Insitutute
 9,The Canberra Institute,Emirates Trading Australia
 9,The Canberra Institute,Australian Agricultural Resources
 9,The Canberra Institute,Mulligans Flat Developments Pty Ltd
@@ -1503,6 +1510,7 @@ agency_id,agency_business_entity_name,client_name
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
 90,The Fifth Estate Consultancy Pty Ltd,Hume Coal
+733,The Hon. James G Clarko AM AE JP,WA Nightclubs Association
 450,The Humphrey Company Pty Limited,AMI International
 450,The Humphrey Company Pty Limited,Project Flinders Pty Ltd
 268,The Premier Communications Group Pty Ltd.,Phebra
@@ -1725,3 +1733,4 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
 641,Wurley Group Pty Ltd,Edwards Lifesciences Pty Ltd
 641,Wurley Group Pty Ltd,Globus Medical Australia Pty Ltd
+641,Wurley Group Pty Ltd,Device Technologies Pty Ltd
