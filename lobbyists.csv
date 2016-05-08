@@ -24,6 +24,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 45,Australian Public Affairs Limited Partnership,Amanda Parker,Senior Consultant,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack,Director,Yes,June 2001
+716,Barking Cat Consulting Pty Ltd,Linda Reddi,Director ,Yes,November 2009
 513,Barry Charles Matson,Barry Charles Matson,Chief Consultant,Yes,February 2003
 139,Bartholomew Quinn and Associates,David Quinn,Managing Director,No,""
 338,Barton Deakin ,Grahame Morris,Federal Director ,Yes,September 1997
@@ -123,7 +124,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
-580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Senior Consultant,No,""
+580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Director Campaign Communications,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
 580,Crosby Textor Research Strategies Results,George Brougham,Campaign Consultant,No,""
 580,Crosby Textor Research Strategies Results,Giorgia Christmas,Consultant,Yes,October 2015
@@ -266,12 +267,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 8,Hill and Knowlton,Michelle Curley,Head of Corporate,No,""
 8,Hill and Knowlton,Ian Westbrook,Head of Financial and Investor Communication,No,""
 19,HTT Trust,Helene Teichmann,Joint Managing Director,No,""
+735,Hunter Communications Pty Ltd,Linda Reddi,Public Relations Director ,No,""
 674,Ian Peregrine Desborough,Ian Desborough,Principal,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
 714,Insight Strategy Pty Ltd,Jody Fassina,Director,Yes,April 2001
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
-20,InterCapital Group Pty Ltd,John Kananghinis,Director,No,""
-20,InterCapital Group Pty Ltd,Angus Nicholls,Senior Associate,Yes,April 2005
 38,Intercorp Pty Ltd,Sonnie Lipshut,Chairman,No,""
 38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
 38,Intercorp Pty Ltd,Jack Baldwin,Marketing Manager,No,""
@@ -320,7 +320,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Travis Bell,Director,Yes,December 2007
 76,Kreab Gavin Anderson (Australia) Ltd,Amanda Buckley ,Director,Yes,June 2003
 76,Kreab Gavin Anderson (Australia) Ltd,Nataly Matijevic ,Director / Melbourne Office Head ,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Sophie Gulliver,Office Manager,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
@@ -470,6 +469,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 44,Richglen Holdings Pty Ltd,Laurie Stroud,Chief Executive,Yes,June 1988
 395,Right Angle Business Services Pty Ltd,David Clarence Holland,Director,No,""
 395,Right Angle Business Services Pty Ltd,Susan Barbara Jeanes,Consultant,Yes,December 2001
+20,RMK Associates (RMKA),John Kananghinis,Director,No,""
+20,RMK Associates (RMKA),Angus Nicholls,Senior Associate,Yes,April 2005
 669,Royce Communications Pty Ltd,Peter Mahon,Chief Executive,No,""
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
@@ -534,6 +535,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
 424,The Taylor Street Consultancy P/L,Adam Leto,Senior Advisor,No,""
 424,The Taylor Street Consultancy P/L,Tania Hyde,Chief Operating Officer,Yes,February 2007
+424,The Taylor Street Consultancy P/L,Luke Turner,Policy Manager,No,""
 698,The Trustee for Arthur Trust,Hamish Arthur,Director,No,""
 145,The Trustee for Bespoke Business Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Business Trust,Nick Bolkus,Partner,Yes,June 2005
@@ -575,6 +577,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 482,Transnational Consultancy and Training Services Pty Ltd,Shane Bowering,Director,Yes,January 2000
 718,Trustee of Kerans Family Trust,Andrew James Kerans,Principal,Yes,January 2014
 680,TSB Advisory Pty Ltd,Trevor John Burns,Director,Yes,June 1998
+680,TSB Advisory Pty Ltd,Paul Scott,Consultant,No,""
 161,Vanguard Consulting and Services Pty Ltd,Mr Kerry Gallagher,Managing Director,No,""
 724,Vecchiet Andreas,Andreas Detlef Oscar Vecchiet,Owner and Principal,Yes,January 1997
 689,Vicom Australia Pty Ltd,Roger Michael Kane,General Manager,No,""

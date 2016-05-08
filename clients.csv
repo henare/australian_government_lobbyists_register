@@ -61,6 +61,8 @@ agency_id,agency_business_entity_name,client_name
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,General Electric Aviation
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Quickstep Holdings Ltd
+716,Barking Cat Consulting Pty Ltd,Northern Minerals
+716,Barking Cat Consulting Pty Ltd,Western Australia Biomass Pty Ltd
 513,Barry Charles Matson,Spectrovation.Com LLC
 513,Barry Charles Matson,The Trustee for the Reed Licensing Trust
 513,Barry Charles Matson,HealthRFID
@@ -732,6 +734,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,GE Australia Pty Ltd
 59,GRACosway Pty Ltd,TA Associates
 59,GRACosway Pty Ltd,Mortgage and Finance Association of Australia
+59,GRACosway Pty Ltd,Credit and Investments Ombudsman Limited
+59,GRACosway Pty Ltd,Genesee and Wyoming Australia Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -799,6 +803,8 @@ agency_id,agency_business_entity_name,client_name
 19,HTT Trust,The Victor Smorgon Group
 19,HTT Trust,Southern Capital Corporation
 19,HTT Trust,Online Hate Prevention Institute
+735,Hunter Communications Pty Ltd,Northern Minerals 
+735,Hunter Communications Pty Ltd,Western Australia Biomass Pty Ltd
 674,Ian Peregrine Desborough,Bunge Agribusiness Australia  
 674,Ian Peregrine Desborough,Grain Producers Australia Limited
 541,Innovative Electronics Pty Ltd,ESA/Inmarsat
@@ -809,11 +815,6 @@ agency_id,agency_business_entity_name,client_name
 714,Insight Strategy Pty Ltd,Wyndham Vacation Resorts
 170,Intech Strategies P/L,Elbit Systems Ltd
 170,Intech Strategies P/L,Elbit Systems of Australia P/L
-20,InterCapital Group Pty Ltd,Tyre Stewardship Australia
-20,InterCapital Group Pty Ltd,Mercury Group of Companies
-20,InterCapital Group Pty Ltd,Flamesniffer
-20,InterCapital Group Pty Ltd,Hyundai Motor Company Australia
-20,InterCapital Group Pty Ltd,BMW Group Australia
 38,Intercorp Pty Ltd,Israel Aerospace Industries Limited
 38,Intercorp Pty Ltd,Plasan
 103,Ivydale Nominees Pty Ltd,Coogee Chemicals
@@ -1064,6 +1065,8 @@ agency_id,agency_business_entity_name,client_name
 699,Michael John Kauter,E4 Health Australia 
 699,Michael John Kauter,University of Melbourne
 699,Michael John Kauter,Monash University
+699,Michael John Kauter,Anatomics
+699,Michael John Kauter,Anatomics Rx
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
@@ -1106,6 +1109,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,TPI Enterprises
 565,Newgate Communications Pty Limited,Australian Sugar Milling Council
 565,Newgate Communications Pty Limited,Ferrier Hodgson
+565,Newgate Communications Pty Limited,Australia Post
 526,Next Level Holdings Pty Ltd,Adani Mining Pty Ltd
 526,Next Level Holdings Pty Ltd,Linfox Proprietary Limited
 526,Next Level Holdings Pty Ltd,Gas Energy Australia
@@ -1375,6 +1379,11 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Yingli Green Energy Australia Pty Ltd
 395,Right Angle Business Services Pty Ltd,Australian Geothermal Energy Association
 395,Right Angle Business Services Pty Ltd,Horticulture and Energy Investment Company Australia No. 1 Pty Ltd 
+20,RMK Associates (RMKA),Tyre Stewardship Australia
+20,RMK Associates (RMKA),Mercury Group of Companies
+20,RMK Associates (RMKA),Flamesniffer
+20,RMK Associates (RMKA),Hyundai Motor Company Australia
+20,RMK Associates (RMKA),BMW Group Australia
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
 669,Royce Communications Pty Ltd,Belgravia Leisure
@@ -1465,7 +1474,6 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,CoreLogic RP Data
 66,Statecraft,The GPT Group
 66,Statecraft,Wollongong Coal
-66,Statecraft,Shenhua Watermark Coal Pty Ltd
 66,Statecraft,PreviousNext
 66,Statecraft,Bank of Queensland
 385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
@@ -1584,6 +1592,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Genius Link Assets Management Pty Ltd
 145,The Trustee for Bespoke Business Trust,a2 Milk Company 
 145,The Trustee for Bespoke Business Trust,Mitsubishi Heavy Industries
+145,The Trustee for Bespoke Business Trust,National Australia Bank Limited
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 589,The Trustee for Bespoke Territory Unit Trust,Landbridge Infrastructure Australia Pty Ltd
 550,The Trustee for Connelly Project Resources,Australia Zoo
@@ -1726,6 +1735,7 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,Slainte Healthcare
 584,Willard Public Affairs Pty Limited,Enghouse Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,eBay International AG
+584,Willard Public Affairs Pty Limited,AusBiotech Ltd
 721,Willesee Communications,RateSetter Australia 
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
