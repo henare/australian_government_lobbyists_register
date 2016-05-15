@@ -166,6 +166,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 344,Electrotech Australia Pty Limited,Stephen Renkert,General Manager,No,""
 344,Electrotech Australia Pty Limited,Judy Renkert,Director,No,""
 650,Elomeno PR,Suzanne Davies,Communications Director,No,""
+734,Emerald Corporate Group Pty Ltd,George Papadopoulos,Managing Director,No,""
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
 31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Partner,Yes,June 1986
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,October 2007
@@ -258,7 +259,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
-96,Hawker Britton Group Pty Ltd,Sonia Arakkal,Research Analyst,No,""
 96,Hawker Britton Group Pty Ltd,Philip Reed,Director,No,""
 96,Hawker Britton Group Pty Ltd,Claire March ,Director ,Yes,September 2013
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
@@ -292,6 +292,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 101,John Connolly & Partners Pty Limited,Gabrielle Notley,Partner,No,""
 241,John Cook,Dr John Cook,Principal,Yes,April 2009
+731,John McDonald,John C. McDonald,Independent Disability Researcher and Representative.,No,""
 78,John O'Connor and Associates Pty Ltd,John O'Connor,Director,No,""
 255,John Scott Barker,Thomas Michael O'Meara,Consultant,No,""
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
@@ -397,7 +398,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Peta Lange,Associate Director,Yes,January 2009
 72,Parker & Partners Pty Ltd,Arli Miller,Director,No,""
 72,Parker & Partners Pty Ltd,Susan Redden Makatoa ,Group Managing Director Corporate,No,""
-72,Parker & Partners Pty Ltd,Vincent Sheehy,Director Government Relations,Yes,November 2015
+72,Parker & Partners Pty Ltd,Jodie Jansen,Director of Government Relations ,Yes,December 2006
 304,Patrick Russell Consulting Pty Ltd,Dean Logan,CEO / Managing Director,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
 706,PMC Group P/L,Ian Hanke,CEO,Yes,December 2005
@@ -506,6 +507,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Clare Wellesley Wesley,Associate Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
 66,Statecraft,Steven Tu,Associate Consultant,Yes,September 2013
+728,Stephen Woodhill,Stephen Mark Arthur Woodhill,Director,No,""
 385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
 642,StratHouse Pty Ltd,James Baird,Director,Yes,November 2007
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""

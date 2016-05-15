@@ -151,7 +151,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Reddawn
 338,Barton Deakin ,Atlassian
 338,Barton Deakin ,BSE Maritime Solutions
-338,Barton Deakin ,Franchise Council of Australia Limited
 338,Barton Deakin ,CUB Pty Ltd
 338,Barton Deakin ,RIVERLIFE PTY. LTD. 
 338,Barton Deakin ,Corning Optical Communications Pty Ltd
@@ -164,7 +163,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Geo Group Australia Pty Ltd
 338,Barton Deakin ,H & R Block Limited
 338,Barton Deakin ,Opera Australia
-338,Barton Deakin ,Henry Davis York Lawyers 
 338,Barton Deakin ,Lake Macquarie City Council
 338,Barton Deakin ,National Road Transport Association Limited
 338,Barton Deakin ,ViiV Healthcare Pty Ltd
@@ -184,8 +182,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Croplife Australia Limited
 338,Barton Deakin ,Programmed Marine Pty Ltd
 338,Barton Deakin ,Kalfresh Pty Ltd
-338,Barton Deakin ,Australian Automobile Association (AAA)
 338,Barton Deakin ,Navitas Limited
+338,Barton Deakin ,Australian Automobile Dealers Association
+338,Barton Deakin ,StatOil Australia AS
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -258,6 +257,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Nike Inc
 556,Capital Hill Advisory Pty Ltd,Challenger Group Services Limited Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Gilbert and Tobin
+556,Capital Hill Advisory Pty Ltd,S Kidman and Co Ltd
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Ipsen Pty Ltd
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
@@ -505,6 +505,8 @@ agency_id,agency_business_entity_name,client_name
 149,Edelman Public Relations Worldwide Pty Ltd,kimberly-clark Australia Pty Ltd
 344,Electrotech Australia Pty Limited,Northrop Grumman Overseas Service Corporation
 650,Elomeno PR,UrbanGrowth NSW
+734,Emerald Corporate Group Pty Ltd,SPRIM Australia Pty Ltd
+734,Emerald Corporate Group Pty Ltd,Digital Diagnostics Australia Pty Ltd
 31,Endeavour Consulting Group Pty Ltd,Rio Tinto Ltd
 31,Endeavour Consulting Group Pty Ltd,Christmas Island Phosphates
 31,Endeavour Consulting Group Pty Ltd,Energy Resources Australia Ltd
@@ -736,6 +738,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Mortgage and Finance Association of Australia
 59,GRACosway Pty Ltd,Credit and Investments Ombudsman Limited
 59,GRACosway Pty Ltd,Genesee and Wyoming Australia Pty Ltd
+59,GRACosway Pty Ltd,Murray Goulburn
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1171,6 +1174,7 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,Mars Food Australia
 72,Parker & Partners Pty Ltd,Sanofi
 72,Parker & Partners Pty Ltd,Museum of Applied Arts and Sciences
+72,Parker & Partners Pty Ltd,Australia and New Zealand Recycling Platform
 304,Patrick Russell Consulting Pty Ltd,Small to Medium Enterprise Australia
 298,Pavilion Consulting Pty Ltd,Australasian Lymphology Association
 298,Pavilion Consulting Pty Ltd,Lymphoedema Action Alliance
@@ -1476,6 +1480,9 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,Wollongong Coal
 66,Statecraft,PreviousNext
 66,Statecraft,Bank of Queensland
+728,Stephen Woodhill,Metcash Limited
+728,Stephen Woodhill,Sirtex
+728,Stephen Woodhill,Enware
 385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
 385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
 385,Strategic Partnership Group (Aust) Pty Limited,Linfox Pty Limited
@@ -1538,9 +1545,7 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,Australian Pharmaceutical Industries Ltd
 95,The Strategic Counsel Pty Ltd,Aspen Medical Pty Ltd
 95,The Strategic Counsel Pty Ltd,Servier Laboratories (Aust) Pty Ltd
-95,The Strategic Counsel Pty Ltd,Vision Eye Institute
 95,The Strategic Counsel Pty Ltd,Abbott Australasia.Pty Ltd
-95,The Strategic Counsel Pty Ltd,bioCSL Pty Limited
 95,The Strategic Counsel Pty Ltd,OPTUM HEALTH & TECHNOLOGY (AUSTRALIA) PTY LTD
 95,The Strategic Counsel Pty Ltd,CSL Limited
 95,The Strategic Counsel Pty Ltd,CSL Behring (Australia) Pty Ltd
@@ -1549,6 +1554,7 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,National Pharmaceutical Services Association
 95,The Strategic Counsel Pty Ltd,Private Healthcare Australia
 95,The Strategic Counsel Pty Ltd,KidsXpress
+95,The Strategic Counsel Pty Ltd,Seqirus Australia
 424,The Taylor Street Consultancy P/L,Lend Lease
 424,The Taylor Street Consultancy P/L,NRMA Motoring and Services 
 424,The Taylor Street Consultancy P/L,The Dockside Group 
