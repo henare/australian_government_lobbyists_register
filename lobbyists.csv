@@ -120,6 +120,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
 81,CPR Communications & Public Relations Pty Ltd,Chanmali Tregambe,Senior Adviser,No,""
 81,CPR Communications & Public Relations Pty Ltd,Tom Middleton,Senior Adviser,Yes,September 2013
+81,CPR Communications & Public Relations Pty Ltd,Joseph Fennessy,Adviser,Yes,October 2008
 683,Craig Emerson Economics Pty Ltd,Craig Emerson,Managing Director,Yes,September 2013
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
@@ -206,7 +207,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 713,Flight Data Systems Pty Ltd,Darren Paul Privitera,Managing Director,No,""
 713,Flight Data Systems Pty Ltd,William John Ernest Brankin,General Manager,No,""
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
-484,FPL Advisory Pty Ltd,Leonie Brown,Manager Stakeholder Engagement,No,""
+484,FPL Advisory Pty Ltd,Dimity Paul,Manager Stakeholder Engagement,Yes,October 2013
+484,FPL Advisory Pty Ltd,Susanne Porter,Executive Assistant/Research Assitant,No,""
 333,FTI Consulting (Perth) Pty Ltd,Cameron Morse,Managing Director Corporate and Public Affairs,No,""
 333,FTI Consulting (Perth) Pty Ltd,Michael Groves,Director,No,""
 333,FTI Consulting (Perth) Pty Ltd,Katina Hodson Thomas,Director,Yes,September 2008
@@ -377,6 +379,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Gail Morgan,Associate Partner,Yes,May 2006
 565,Newgate Communications Pty Limited,Matthew Francis,Associate Partner,Yes,June 2015
 565,Newgate Communications Pty Limited,Richard Collyer,Associate Partner,No,""
+565,Newgate Communications Pty Limited,Adam Le Lievre,Senior Consultant,Yes,March 2016
 526,Next Level Holdings Pty Ltd,David Moore,Director,Yes,November 2007
 526,Next Level Holdings Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
 526,Next Level Holdings Pty Ltd,Stephen Beckett,Senior Manager,No,""
@@ -401,6 +404,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Jodie Jansen,Director of Government Relations ,Yes,December 2006
 304,Patrick Russell Consulting Pty Ltd,Dean Logan,CEO / Managing Director,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
+736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 706,PMC Group P/L,Ian Hanke,CEO,Yes,December 2005
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
 219,Policy Solutions Group Pty Ltd,Mark Sutton,Director ,No,""
