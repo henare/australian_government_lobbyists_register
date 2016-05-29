@@ -40,6 +40,8 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Hanwha Techwin
 63,AusAccess Unit Trust,Australian Indigenous Alpine Sports Foundation
 63,AusAccess Unit Trust,RedTrain Networks
+590,Australia-China Associates Pty Ltd,Macquarie Grammar School Ltd
+590,Australia-China Associates Pty Ltd,Macquarie Business School Pty Ltd
 234,Australian Project Developments Pty. Ltd.,Campbelltown City Council
 234,Australian Project Developments Pty. Ltd.,Cape York Sustainable Futures
 234,Australian Project Developments Pty. Ltd.,City of Playford
@@ -316,6 +318,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,RAYGEN Resources Pty Ltd
 79,CMAX Communications Pty Ltd,Soldier On
 79,CMAX Communications Pty Ltd,Comlux Aviation Group
+79,CMAX Communications Pty Ltd,The MITRE Corporation
 428,CMGRP Pty Ltd,Nutricia Australia Pty Ltd
 428,CMGRP Pty Ltd,IHMS
 428,CMGRP Pty Ltd,G4S
@@ -327,12 +330,7 @@ agency_id,agency_business_entity_name,client_name
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,First Quantum Minerals Limited 
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Rosslyn Hill Mining Pty Ltd
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Enirgi Group Corporation
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Japan Australia LNG (MIMI) Pty Ltd 
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Delaware North Companies Inc.
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Northern Rise Village Services Pty Ltd.
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Merchant Overseas Logistics Pty Ltd
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,West Australian Football Commission
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Ticketmaster Australia
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Curtin Care
 142,Consilium International Group Pty Ltd,Senetas
 142,Consilium International Group Pty Ltd,UXC Limited
@@ -421,6 +419,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Legislative Leadership and Governance Group Incorporated
 81,CPR Communications & Public Relations Pty Ltd,headspace National Youth Mental Health Foundation Ltd
 81,CPR Communications & Public Relations Pty Ltd,Walter and Eliza Hall Institute of Medical Research
+81,CPR Communications & Public Relations Pty Ltd,Frankston City Council
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Santos
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
@@ -627,6 +626,7 @@ agency_id,agency_business_entity_name,client_name
 484,FPL Advisory Pty Ltd,Mars Australia Pty Ltd
 484,FPL Advisory Pty Ltd,D'Orsogna Ltd
 484,FPL Advisory Pty Ltd,Sun Pharmaceuticals
+738,Freight  Trade Alliance (FTA) Pty Ltd,Australian Peak Shippers Association
 333,FTI Consulting (Perth) Pty Ltd,Wellard Group
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
 333,FTI Consulting (Perth) Pty Ltd,New Energy Corporation
@@ -1393,6 +1393,8 @@ agency_id,agency_business_entity_name,client_name
 20,RMK Associates (RMKA),Flamesniffer
 20,RMK Associates (RMKA),Hyundai Motor Company Australia
 20,RMK Associates (RMKA),BMW Group Australia
+527,Robert J.L. Hawke & Associates Pty Ltd,Australia Sinofortune International Investment (Group) Pty Ltd (ACN 152 954 679)
+527,Robert J.L. Hawke & Associates Pty Ltd,Kimberley Agricultural Investment Pty Ltd (ACN 154 270 194)
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
 669,Royce Communications Pty Ltd,Belgravia Leisure
@@ -1588,6 +1590,7 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,AIA Australia Ltd
 698,The Trustee for Arthur Trust,Kellogg Brown & Root Pty Ltd
 698,The Trustee for Arthur Trust,ELAN Energy Matrix
+698,The Trustee for Arthur Trust,Association of Australian Convention Bureaux 
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
@@ -1679,9 +1682,6 @@ agency_id,agency_business_entity_name,client_name
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
 680,TSB Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd (Novartis Oncology)
-680,TSB Advisory Pty Ltd,Australian Brandenburg Orchestra
-680,TSB Advisory Pty Ltd,Teranet Holdings LP
-680,TSB Advisory Pty Ltd,Borealis Infrastructure Australia Pty Ltd
 680,TSB Advisory Pty Ltd,UniSuper Management Pty Ltd
 680,TSB Advisory Pty Ltd,Australian Primary Principals Association
 680,TSB Advisory Pty Ltd,BMT Tax Depreciation
@@ -1735,6 +1735,7 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,BMW Group Financial Services
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Fairview Architectural Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,CFD & Margin FX Association 
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,MGC Pharmaceuticals 
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Tolmar Australia Pty Limited
@@ -1753,6 +1754,7 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
+737,WORD TUCKER PTY LTD,ENPHASE ENERGY
 641,Wurley Group Pty Ltd,Edwards Lifesciences Pty Ltd
 641,Wurley Group Pty Ltd,Globus Medical Australia Pty Ltd
 641,Wurley Group Pty Ltd,Device Technologies Pty Ltd
