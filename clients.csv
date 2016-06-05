@@ -627,6 +627,7 @@ agency_id,agency_business_entity_name,client_name
 484,FPL Advisory Pty Ltd,D'Orsogna Ltd
 484,FPL Advisory Pty Ltd,Sun Pharmaceuticals
 738,Freight  Trade Alliance (FTA) Pty Ltd,Australian Peak Shippers Association
+738,Freight  Trade Alliance (FTA) Pty Ltd,Australian International Movers Association
 333,FTI Consulting (Perth) Pty Ltd,Wellard Group
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
 333,FTI Consulting (Perth) Pty Ltd,New Energy Corporation
@@ -678,7 +679,6 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,ConocoPhillips
 122,GRA Everingham Pty Ltd,Hall and Prior Aged Care Organisation
 122,GRA Everingham Pty Ltd,Cash Converters
-122,GRA Everingham Pty Ltd,Aurizon
 122,GRA Everingham Pty Ltd,Australia Treasury Management
 122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
 122,GRA Everingham Pty Ltd,City of Cockburn
@@ -743,6 +743,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Murray Goulburn
 59,GRACosway Pty Ltd,Capital Radiology Pty Ltd
 59,GRACosway Pty Ltd,ISS Facility Services Pty Ltd
+59,GRACosway Pty Ltd,Scope Global Pty Ltd
+59,GRACosway Pty Ltd,KEPCO Bylong Australia Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1244,6 +1246,7 @@ agency_id,agency_business_entity_name,client_name
 622,Profile Consulting (Aust) Pty Ltd,Property Exchange Australia Ltd 
 622,Profile Consulting (Aust) Pty Ltd,National Automotive Leasing & Salary Packaging Association 
 622,Profile Consulting (Aust) Pty Ltd,Cystic Fibrosis Australia
+622,Profile Consulting (Aust) Pty Ltd,PrecisionGx 
 719,Property and Consulting Australia,Toyoda Gosei Australia Pty Ltd
 127,PRX Unit Trust,Jetstar
 127,PRX Unit Trust,State Library of Victoria
@@ -1475,7 +1478,6 @@ agency_id,agency_business_entity_name,client_name
 490,Staindl Strategic Pty Ltd,Pacific Hydro
 490,Staindl Strategic Pty Ltd,LD Network
 490,Staindl Strategic Pty Ltd,Hanson Construction Materials
-66,Statecraft,KEPCO Australia
 66,Statecraft,Dimension Data
 66,Statecraft,Bouygues Construction Australia
 66,Statecraft,Moelis and Company
@@ -1483,7 +1485,6 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,KordaMentha Pty Ltd
 66,Statecraft,Yancoal
 66,Statecraft,CoreLogic RP Data
-66,Statecraft,The GPT Group
 66,Statecraft,Wollongong Coal
 66,Statecraft,PreviousNext
 66,Statecraft,Bank of Queensland
@@ -1579,6 +1580,7 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,Goodman Group
 424,The Taylor Street Consultancy P/L,Leichhardt Council
 424,The Taylor Street Consultancy P/L,Western Sydney Rail Alliance
+424,The Taylor Street Consultancy P/L,QIC
 698,The Trustee for Arthur Trust,Engineers Australia
 698,The Trustee for Arthur Trust,Accommodation Association of Australia
 698,The Trustee for Arthur Trust,bet365
@@ -1718,6 +1720,8 @@ agency_id,agency_business_entity_name,client_name
 463,Walker Watterson Holdings Pty Ltd,12D SOLUTIONS PTY LTD
 463,Walker Watterson Holdings Pty Ltd,DELPHIX SOFTWARE LIMITED
 463,Walker Watterson Holdings Pty Ltd,UNLEASHED SOFTWARE PTY. LTD
+463,Walker Watterson Holdings Pty Ltd, FIREEYE AUSTRALIA PTY LTD
+463,Walker Watterson Holdings Pty Ltd,Skyfii
 97,Wayne Smith,Renewable Energy Traders Australia
 97,Wayne Smith,REC Agents Association
 97,Wayne Smith,Australian Solar Council
