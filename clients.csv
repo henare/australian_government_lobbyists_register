@@ -1,4 +1,14 @@
 agency_id,agency_business_entity_name,client_name
+629, A.M Joseph & B.J Sundell,Foreshore Protection Pty Ltd
+629, A.M Joseph & B.J Sundell,Australian Reproductive Technologies Pty Ltd
+629, A.M Joseph & B.J Sundell,The Trustee for Jimmy Little Foundation
+629, A.M Joseph & B.J Sundell,Uncle Jimmy Thumbs Up limited
+629, A.M Joseph & B.J Sundell,Housl Pty Ltd
+629, A.M Joseph & B.J Sundell,Kaurareg Native Title Aboriginal Corporation RNTBC
+629, A.M Joseph & B.J Sundell,Hydrosun Holdings Pty Ltd
+629, A.M Joseph & B.J Sundell,The Five Kungkas
+629, A.M Joseph & B.J Sundell,Sample NSW Food Festival
+629, A.M Joseph & B.J Sundell,Salumi Australia
 271,A D Evers-Buckland,Concert Lighting Systems
 271,A D Evers-Buckland,Geoff RM Howard
 271,A D Evers-Buckland,Wonthaggi Life Saving Club
@@ -215,6 +225,7 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Netsweeper
 657,Brent William Knevett,Accuvio (Ireland)
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
+662,BroadSpectrum Consultants Pty Ltd,Commercial Radio Australia
 131,BTelecom Pty Ltd,Dragnet Internet Services Pty Ltd
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
 88,Burson-Marsteller Pty. Ltd.,Huawei Technologies
@@ -304,21 +315,17 @@ agency_id,agency_business_entity_name,client_name
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
-79,CMAX Communications Pty Ltd,Pegasus Riding for the Disabled
 79,CMAX Communications Pty Ltd,Stryker 
 79,CMAX Communications Pty Ltd,Fortescue Metals Group 
 79,CMAX Communications Pty Ltd,Send Hope Not Flowers
-79,CMAX Communications Pty Ltd,Recurrent Energy
 79,CMAX Communications Pty Ltd,Northrop Grumman International
-79,CMAX Communications Pty Ltd,Oracle Australia
 79,CMAX Communications Pty Ltd,Northrop Grumman Australia
 79,CMAX Communications Pty Ltd,BUILDINGSMART AUSTRALASIA INCORPORATED
 79,CMAX Communications Pty Ltd,National Capital Private Hospital
 79,CMAX Communications Pty Ltd,Innovex Solutions
-79,CMAX Communications Pty Ltd,RAYGEN Resources Pty Ltd
 79,CMAX Communications Pty Ltd,Soldier On
-79,CMAX Communications Pty Ltd,Comlux Aviation Group
 79,CMAX Communications Pty Ltd,The MITRE Corporation
+79,CMAX Communications Pty Ltd,ServiceNow
 428,CMGRP Pty Ltd,Nutricia Australia Pty Ltd
 428,CMGRP Pty Ltd,IHMS
 428,CMGRP Pty Ltd,G4S
@@ -628,6 +635,8 @@ agency_id,agency_business_entity_name,client_name
 484,FPL Advisory Pty Ltd,Sun Pharmaceuticals
 738,Freight  Trade Alliance (FTA) Pty Ltd,Australian Peak Shippers Association
 738,Freight  Trade Alliance (FTA) Pty Ltd,Australian International Movers Association
+738,Freight  Trade Alliance (FTA) Pty Ltd,Salta Properties
+738,Freight  Trade Alliance (FTA) Pty Ltd,Schenker Australia
 333,FTI Consulting (Perth) Pty Ltd,Wellard Group
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
 333,FTI Consulting (Perth) Pty Ltd,New Energy Corporation
@@ -745,6 +754,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,ISS Facility Services Pty Ltd
 59,GRACosway Pty Ltd,Scope Global Pty Ltd
 59,GRACosway Pty Ltd,KEPCO Bylong Australia Pty Ltd
+59,GRACosway Pty Ltd,St. John Ambulance Australia Incorporated
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1610,6 +1620,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,a2 Milk Company 
 145,The Trustee for Bespoke Business Trust,Mitsubishi Heavy Industries
 145,The Trustee for Bespoke Business Trust,National Australia Bank Limited
+145,The Trustee for Bespoke Business Trust,Fyfe Pty Ltd
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 589,The Trustee for Bespoke Territory Unit Trust,Landbridge Infrastructure Australia Pty Ltd
 550,The Trustee for Connelly Project Resources,Australia Zoo
