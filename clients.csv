@@ -12,6 +12,8 @@ agency_id,agency_business_entity_name,client_name
 271,A D Evers-Buckland,Concert Lighting Systems
 271,A D Evers-Buckland,Geoff RM Howard
 271,A D Evers-Buckland,Wonthaggi Life Saving Club
+739,AA Access Partnership Limited,Iridium Communications Inc
+739,AA Access Partnership Limited,Iridium Australia LLC
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Rafael  Advanced Defense Systems Limited
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Aeronautics System Ltd
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,AMST GmbH
@@ -198,6 +200,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Navitas Limited
 338,Barton Deakin ,Australian Automobile Dealers Association
 338,Barton Deakin ,StatOil Australia AS
+338,Barton Deakin ,Edwards Lifescience Pty Limited
+338,Barton Deakin ,TAL Services Limited
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Violin Memory
@@ -223,7 +227,8 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Anderson Morgan (Devonport) Pty Ltd
 657,Brent William Knevett,Tasmanet
 657,Brent William Knevett,Netsweeper
-657,Brent William Knevett,Accuvio (Ireland)
+657,Brent William Knevett,Voyager Blue (UK)
+657,Brent William Knevett,Government of Ontario
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 662,BroadSpectrum Consultants Pty Ltd,Commercial Radio Australia
 131,BTelecom Pty Ltd,Dragnet Internet Services Pty Ltd

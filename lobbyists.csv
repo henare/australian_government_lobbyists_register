@@ -1,6 +1,7 @@
 agency_id,agency_business_entity_name,lobbyist_name,position,former_government_representative,cessation_date
 629, A.M Joseph & B.J Sundell,Adam Joseph,Partner,Yes,October 2013
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
+739,AA Access Partnership Limited,Felicity Morrison,Advisor,Yes,January 2015
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
 36,Aegis Consulting Group Pty Ltd,Thomas William Forrest,Special Counsel,No,""
@@ -293,7 +294,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Margret Biersack,Associate,No,""
 319,Jo Scard Pty Ltd,Elise Dare,Associate,No,""
 319,Jo Scard Pty Ltd,Patria Manalili,Associate,No,""
-319,Jo Scard Pty Ltd,Emma Bull,Senior Associate,No,""
 319,Jo Scard Pty Ltd,Isabella JensenFielding,Associate,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
@@ -603,6 +603,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Senior Consultant,No,""
 463,Walker Watterson Holdings Pty Ltd, Nermin Bajric,Consultant ,No,""
 463,Walker Watterson Holdings Pty Ltd,Sidar Thams,Admin/Operations,No,""
+463,Walker Watterson Holdings Pty Ltd,Dorothy Kennedy,Senior Consultant,Yes,October 1994
 97,Wayne Smith,Wayne Christopher Smith,Director,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,CEO,No,""
