@@ -68,7 +68,8 @@ agency_id,agency_business_entity_name,client_name
 45,Australian Public Affairs Limited Partnership,Excelsia College
 45,Australian Public Affairs Limited Partnership,Access Testing Pty Ltd
 45,Australian Public Affairs Limited Partnership,IWU Holdings LLC
-45,Australian Public Affairs Limited Partnership,NSW School Nurses Association Inc
+45,Australian Public Affairs Limited Partnership,Rirratingu Aboriginal Corporation
+45,Australian Public Affairs Limited Partnership,Bunuwal Investments Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,PoleStar SA
@@ -314,8 +315,7 @@ agency_id,agency_business_entity_name,client_name
 113,CHRIS SCHACHT,Basetec Services Pty Ltd
 113,CHRIS SCHACHT,Janesce Pty Ltd
 113,CHRIS SCHACHT,Leigh Creek Energy Ltd
-215,"Clark, Kerren G",Oliver Hume Property Funds
-215,"Clark, Kerren G",OMC International
+113,CHRIS SCHACHT,Paratoo Mines Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Mecrus Pty Ltd
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
@@ -559,12 +559,12 @@ agency_id,agency_business_entity_name,client_name
 71,Essential Media Communications Pty Ltd,Defence Teaming Centre
 71,Essential Media Communications Pty Ltd,Australian Marriage Equality
 564,Etched Communications Pty Ltd,Nestle Australia
-564,Etched Communications Pty Ltd,Bellamy's Organic
 564,Etched Communications Pty Ltd,Achieve Australia
 564,Etched Communications Pty Ltd, Interface Aust Pty Limited
 564,Etched Communications Pty Ltd,Storehouse Residential Trust 
 564,Etched Communications Pty Ltd,Bannister Law
 564,Etched Communications Pty Ltd,Metcash Limited
+564,Etched Communications Pty Ltd,TasFoods
 512,Ethical Strategies Pty Ltd,Hepatitis Australia
 512,Ethical Strategies Pty Ltd,Nutricia Australia
 512,Ethical Strategies Pty Ltd,AbbVie Pty Ltd
@@ -627,6 +627,12 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Business Council of Co-operatives and Mutuals 
 453,First State Advisors and Consultants ,DPL Medical Pty Limited
 453,First State Advisors and Consultants ,Australian Consulting Architects Pty Ltd 
+453,First State Advisors and Consultants ,Canedo Management Pty Ltd 
+453,First State Advisors and Consultants ,Billbergia Pty Ltd 
+453,First State Advisors and Consultants ,Champion Homes Sales Pty Limited 
+453,First State Advisors and Consultants ,Pacific Planning Pty Limited 
+453,First State Advisors and Consultants ,Varley Pty Ltd 
+453,First State Advisors and Consultants ,Alpha Nobis Pty Ltd 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 726,FleishmanHillard,Cook Medical 
@@ -642,6 +648,7 @@ agency_id,agency_business_entity_name,client_name
 738,Freight  Trade Alliance (FTA) Pty Ltd,Australian International Movers Association
 738,Freight  Trade Alliance (FTA) Pty Ltd,Salta Properties
 738,Freight  Trade Alliance (FTA) Pty Ltd,Schenker Australia
+738,Freight  Trade Alliance (FTA) Pty Ltd,IRT Australia
 333,FTI Consulting (Perth) Pty Ltd,Wellard Group
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
 333,FTI Consulting (Perth) Pty Ltd,New Energy Corporation
@@ -655,6 +662,7 @@ agency_id,agency_business_entity_name,client_name
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,7-Eleven Stores Pty Ltd
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Spark Infrastructure Group
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Lindt & SprÃ¼ngli (Australia) PTY LTD
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 106,Galbraith & Company Pty Ltd,Tabcorp
 1,Gambolling Pty Ltd,National Australia Bank
@@ -935,7 +943,6 @@ agency_id,agency_business_entity_name,client_name
 576,KENDAL AND ASSOCIATES,Dr Harikumar Pallathadka
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
-621,KnowMinister.com Pty Ltd,Wilmar Sugar Australia Limited
 115,KPMG,The Cobra Group Pty Ltd
 115,KPMG,Distilled Spirits Industry Council of Australia Inc
 115,KPMG,The Australian Federation of Travel Agents
@@ -1015,7 +1022,6 @@ agency_id,agency_business_entity_name,client_name
 13,LOPAC Consulting Pty Limited,Kongsberg Maritime
 13,LOPAC Consulting Pty Limited,Supacat Ltd
 13,LOPAC Consulting Pty Limited,Hughes Network Systems
-13,LOPAC Consulting Pty Limited,Kongsberg Dynamic Systems
 13,LOPAC Consulting Pty Limited,Orbital  ATK Inc
 13,LOPAC Consulting Pty Limited,FORCIT Defence
 258,Lyndon George Pty Ltd,Thales Australia
@@ -1264,34 +1270,32 @@ agency_id,agency_business_entity_name,client_name
 622,Profile Consulting (Aust) Pty Ltd,PrecisionGx 
 719,Property and Consulting Australia,Toyoda Gosei Australia Pty Ltd
 127,PRX Unit Trust,Jetstar
-127,PRX Unit Trust,State Library of Victoria
 127,PRX Unit Trust,Carlton Football Club
 127,PRX Unit Trust,St Kevin's College
 127,PRX Unit Trust,Hawthorn Resources Limited
 127,PRX Unit Trust,Caterpillar
-127,PRX Unit Trust,Intralot Australia
 127,PRX Unit Trust,Maxxia
-127,PRX Unit Trust,A Gas
 127,PRX Unit Trust,BrainLink Services
-127,PRX Unit Trust,Nexia Australia
 127,PRX Unit Trust,Kmart Australia
 127,PRX Unit Trust,Tyresmart Australia Pty Ltd
-127,PRX Unit Trust,Sunshine Groupe
-127,PRX Unit Trust,Apply Direct
-127,PRX Unit Trust,Jamieson Coote Bonds
 127,PRX Unit Trust,Australian Jumping Racing Association
-127,PRX Unit Trust,TWUSUPER
-127,PRX Unit Trust,Tynong Pastoral Co Pty Ltd
 127,PRX Unit Trust,Latitude Australia Holdings
 127,PRX Unit Trust,Victorian Transport Association
 127,PRX Unit Trust,Contango Asset Management
 127,PRX Unit Trust,Incolink Foundation Limited
 127,PRX Unit Trust,Caydon Property Group
 127,PRX Unit Trust,Hacer Group
-127,PRX Unit Trust,True Value Solar
-127,PRX Unit Trust,Kayban Pty Ltd
 127,PRX Unit Trust,Mission Australia
 127,PRX Unit Trust,Shane Warne Foundation
+127,PRX Unit Trust,PFG Money Pty Ltd
+127,PRX Unit Trust,Placer Property Limited
+127,PRX Unit Trust,DPR & Co Pty Ltd
+127,PRX Unit Trust,Moonee Valley Racing Club Inc
+127,PRX Unit Trust, myDNA Life Limited
+127,PRX Unit Trust,Moore Stephens (VIC)
+127,PRX Unit Trust,Johns Lyng Group
+127,PRX Unit Trust,Concourse Golf Pty Ltd
+127,PRX Unit Trust,Frontstream Asia Pacific
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1667,7 +1671,6 @@ agency_id,agency_business_entity_name,client_name
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Ego Pharamceuticals Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Convatec Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,ABBOTT DIABETESE CARE
-256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Aspen Pharmacare Australia Pty Ltd A.B.N. 51 096 236 985
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,TEVA Pharma Australia Pty Ltd ABN 169 715 664
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Orpharma Pty Ltd
 691,The Trustee for Weiderman Trainor Family Trust,Beyond Billabong Training Pty Ltd
