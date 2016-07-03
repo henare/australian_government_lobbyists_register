@@ -72,8 +72,6 @@ agency_id,agency_business_entity_name,client_name
 45,Australian Public Affairs Limited Partnership,Bunuwal Investments Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
-135,Australian Spectrum Consultants Pty Ltd,PoleStar SA
-135,Australian Spectrum Consultants Pty Ltd,Encompass Digital Media
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,General Electric Aviation
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Quickstep Holdings Ltd
@@ -276,8 +274,8 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Genex Power Limited
 556,Capital Hill Advisory Pty Ltd,Nike Inc
 556,Capital Hill Advisory Pty Ltd,Challenger Group Services Limited Pty Ltd
-556,Capital Hill Advisory Pty Ltd,Gilbert and Tobin
 556,Capital Hill Advisory Pty Ltd,S Kidman and Co Ltd
+556,Capital Hill Advisory Pty Ltd,Ruralco Holdings Limited
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Ipsen Pty Ltd
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
@@ -316,10 +314,11 @@ agency_id,agency_business_entity_name,client_name
 113,CHRIS SCHACHT,Janesce Pty Ltd
 113,CHRIS SCHACHT,Leigh Creek Energy Ltd
 113,CHRIS SCHACHT,Paratoo Mines Pty Ltd
-475,Clifton Consulting Services Pty Ltd,Mecrus Pty Ltd
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
+475,Clifton Consulting Services Pty Ltd,Greater Metropolitan Cemeteries Trust
+475,Clifton Consulting Services Pty Ltd,Victorian Regional Channels Authority
 79,CMAX Communications Pty Ltd,Stryker 
 79,CMAX Communications Pty Ltd,Fortescue Metals Group 
 79,CMAX Communications Pty Ltd,Send Hope Not Flowers
@@ -831,10 +830,6 @@ agency_id,agency_business_entity_name,client_name
 8,Hill and Knowlton,Intuit
 8,Hill and Knowlton,Thorn Group Limited 
 8,Hill and Knowlton,Medlab Clinical Limited 
-19,HTT Trust,Smorgon Fuels
-19,HTT Trust,The Victor Smorgon Group
-19,HTT Trust,Southern Capital Corporation
-19,HTT Trust,Online Hate Prevention Institute
 735,Hunter Communications Pty Ltd,Northern Minerals 
 735,Hunter Communications Pty Ltd,Western Australia Biomass Pty Ltd
 674,Ian Peregrine Desborough,Bunge Agribusiness Australia  
@@ -898,7 +893,6 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,The Woden Group
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
-56,John C Blackwell,Sharp
 56,John C Blackwell,Inmarsat
 56,John C Blackwell,Datapod (Australia) Pty Ltd
 56,John C Blackwell,Eutelsat Asia Pte Ltd
@@ -1149,7 +1143,6 @@ agency_id,agency_business_entity_name,client_name
 526,Next Level Holdings Pty Ltd,The Lewis Land Group of Companies
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
-3,Oceanic Solutions Pty Ltd,Eca Robotics
 86,Ogilvy PR Health,Merck Serono
 86,Ogilvy PR Health,Genzyme
 86,Ogilvy PR Health,Celgene
@@ -1330,6 +1323,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Clough Limited
 242,Purple Communications Australia Pty Ltd,Sino Gas & Energy Holdings Limited 
 242,Purple Communications Australia Pty Ltd,Centre for Entrepreneurial Research and Innovation Limited 
+242,Purple Communications Australia Pty Ltd,K plus S Salt Australia
 29,Pynfall Pty Ltd,Project System & Management GmbH
 29,Pynfall Pty Ltd,Luerssen
 446,R A Neilson and M Salmon,Truth Justice and Healing Council
@@ -1341,6 +1335,7 @@ agency_id,agency_business_entity_name,client_name
 14,Ranicar and Nicholls Consulting,Blue Glue Pty Ltd
 14,Ranicar and Nicholls Consulting,Acacia Research Pty Ltd
 14,Ranicar and Nicholls Consulting,DSIT Solutions Ltd
+14,Ranicar and Nicholls Consulting,BlueZone Group
 563,"Reith, Peter Keaston",Bechtel Management Company Ltd
 563,"Reith, Peter Keaston",G4S Custodial Services Pty Ltd
 91,REPUBLIC Consulting,Lions Australia
@@ -1600,6 +1595,7 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,Leichhardt Council
 424,The Taylor Street Consultancy P/L,Western Sydney Rail Alliance
 424,The Taylor Street Consultancy P/L,QIC
+424,The Taylor Street Consultancy P/L,Crystal Lagoons
 698,The Trustee for Arthur Trust,Engineers Australia
 698,The Trustee for Arthur Trust,Accommodation Association of Australia
 698,The Trustee for Arthur Trust,bet365
