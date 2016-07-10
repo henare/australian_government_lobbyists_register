@@ -9,8 +9,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 522,Alex Gosman Consulting,Alex Gosman,Principal,Yes,September 1990
 104,Alkar Pty Ltd,Allan King,Director,No,""
 671,ALSADA TECHNOLOGY PTY. LIMITED ,ALAN FUNG,DIRECTOR,No,""
+745,AMG Consulting Services Pty Ltd,Colin Michael Warnock,Director,No,""
 666,APEC Lawyers and Consultants Pty Ltd.,Mr. Kam Sham LEUNG,Managing Director,No,""
-666,APEC Lawyers and Consultants Pty Ltd.,Mr. Johnathan Chi Ngai SIU,Chairman,No,""
 666,APEC Lawyers and Consultants Pty Ltd.,Dr. Robert John Cooke,Executive Director,No,""
 666,APEC Lawyers and Consultants Pty Ltd.,Ms Debra Kaye Cooke,Executive Director,No,""
 725,Apparatchik Pty Limited,Christopher John Fry,Director,No,""
@@ -75,6 +75,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Matthew Heffernan,Consultant,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
+743,CETE Consulting Pty Ltd,Cameron Thomson,Managing Director,Yes,June 1995
 265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,Yes,March 2003
 157,Chikarovski & Associates Pty Ltd,Samantha Dybac,Corporate Affairs,No,""
@@ -140,7 +141,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 386,Currie Communications,Susan McNair,Managing Director,No,""
 10,Cynergy Pty Ltd,Norman Bruce Higgs,Managing Director,No,""
 221,Damian McGreevy Consulting Pty Ltd,Damian McGreevy,Principal,Yes,March 2009
-569,Dargan Financial,Otto Dargan,Director,No,""
 16,Day & Hodge Associates Pty Ltd,Stephen Hodge,Director,No,""
 16,Day & Hodge Associates Pty Ltd,Adrienne Day-Hodge,Director,No,""
 360,Diplomacy Pty Limited,Adam Kilgour,Managing Director,Yes,July 1993
@@ -166,6 +166,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 344,Electrotech Australia Pty Limited,Chris Taylor,Sales Engineer,No,""
 344,Electrotech Australia Pty Limited,Stephen Renkert,General Manager,No,""
 344,Electrotech Australia Pty Limited,Judy Renkert,Director,No,""
+344,Electrotech Australia Pty Limited,Stephen Burney,Sales Engineer,No,""
 650,Elomeno PR,Suzanne Davies,Communications Director,No,""
 734,Emerald Corporate Group Pty Ltd,George Papadopoulos,Managing Director,No,""
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
@@ -188,7 +189,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
 512,Ethical Strategies Pty Ltd,John Morton,Managing Director,No,""
 512,Ethical Strategies Pty Ltd,Jay Pleass,Account Director,Yes,August 2007
-712,"Farmer, Richard Lindsay",Richard Lindsay Farmer,Self employed,No,""
 324,FCC Partnership Pty Ltd,Hugh Fraser,Managing Director,No,""
 214,FIPRA Australia Pty Limited,David Lieberman,Director,No,""
 214,FIPRA Australia Pty Limited,John Richardson,Principal,Yes,May 1995
@@ -283,13 +283,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 103,Ivydale Nominees Pty Ltd,Clint Ford,Senior Consultant,No,""
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
 586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,No,""
-319,Jo Scard Pty Ltd,Jo Scard,"Business Founder, former adviser to former Minister for Immigration & Citizenship until 14/9/10",Yes,September 2010
-319,Jo Scard Pty Ltd,Brigid Lombard,Administrator,No,""
+319,Jo Scard Pty Ltd,Jo Scard,Business Founder former adviser to former Minister for Immigration & Citizenship until 14/9/10,Yes,September 2010
 319,Jo Scard Pty Ltd,Jackie Hanafie,Associate,No,""
 319,Jo Scard Pty Ltd,Margret Biersack,Associate,No,""
 319,Jo Scard Pty Ltd,Elise Dare,Associate,No,""
 319,Jo Scard Pty Ltd,Patria Manalili,Associate,No,""
-319,Jo Scard Pty Ltd,Isabella JensenFielding,Associate,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 101,John Connolly & Partners Pty Limited,Gabrielle Notley,Partner,No,""
@@ -305,10 +303,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones,Managing Director,No,""
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
 115,KPMG,Leigh Obradovic,Associate Director,Yes,December 2007
-115,KPMG,Langdon Patrick,Associate Director,No,""
-115,KPMG,Ruo Yan,Consultant,No,""
-115,KPMG,John Gallagher,Manager,No,""
-115,KPMG,Wilson Del Socorro,Associate Director,No,""
 115,KPMG,Stefano Moritsch,Senior Consultant,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Managing Partner Australia,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
@@ -455,11 +449,15 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 563,"Reith, Peter Keaston",Peter Keaston Reith,Sole Trader,Yes,November 2001
-91,REPUBLIC Consulting,David Mair,Director,No,""
 91,REPUBLIC Consulting,Liza-Jayne Loch,Director,No,""
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
 98,Res Publica Pty Ltd,Gabriel McDowell,Managing Director,No,""
 98,Res Publica Pty Ltd,Kate Bailey,Senior Account Manager,No,""
+98,Res Publica Pty Ltd,Lucy Willatt,Account Director,No,""
+98,Res Publica Pty Ltd,James Tait,Director,No,""
+98,Res Publica Pty Ltd,Adam Facer,Account Executive,No,""
+98,Res Publica Pty Ltd,Baden Parker Brown,Account Executive,No,""
+98,Res Publica Pty Ltd,Heather Doherty,Account Manager,No,""
 497,Resolution Junction,Gregory Male,Director,Yes,September 2012
 587,Richard Gilbert Corporate Advisory Pty Ltd,Richard Gilbert,Director,Yes,October 1994
 35,Richardson Coutts,John Richardson,Director,Yes,May 1995
@@ -486,7 +484,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
 676,Sesimic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Sesimic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
-676,Sesimic Asia Pacific Pty Ltd,Andrew John Hazell,Business and Operations Manager,No,""
 676,Sesimic Asia Pacific Pty Ltd,Denis Vukovac,Technical Marketing Manager,Yes,August 2011
 676,Sesimic Asia Pacific Pty Ltd,Damian Edwin Mullany,Senior Technician,No,""
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel,Company Director,Yes,July 2003
@@ -522,6 +519,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora furman,Senior Manager Campaigns,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Kathryn Hall,Senior Account executive,Yes,September 2010
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Sam Bishop,Senior Account Executive,No,""
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Manika Naidoo,Senior Account Executive,Yes,November 2010
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
 733,The Hon. James G Clarko AM AE JP,The Hon James G Clarko,Sole Trader,Yes,December 1996

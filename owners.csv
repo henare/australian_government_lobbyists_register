@@ -14,8 +14,8 @@ agency_id,agency_business_entity_name,owner_name
 104,Alkar Pty Ltd,Allan King
 104,Alkar Pty Ltd,Karen King
 671,ALSADA TECHNOLOGY PTY. LIMITED ,ALAN FUNG
+745,AMG Consulting Services Pty Ltd,Colin Michael Warnock
 666,APEC Lawyers and Consultants Pty Ltd.,Mr. Kam Sham LEUNG
-666,APEC Lawyers and Consultants Pty Ltd.,Mr. Johnathan Chi Ngai SIU
 725,Apparatchik Pty Limited,Public Policy Solutions Pty Limited
 725,Apparatchik Pty Limited,Apparatchick Pty Limited
 415,APS Networking Pty Ltd,Anthony Stewart
@@ -65,6 +65,8 @@ agency_id,agency_business_entity_name,owner_name
 556,Capital Hill Advisory Pty Ltd,National Strategy Group
 601,Catherine McGovern,Catherine McGovern
 191,"Cemdia Pty, Ltd",Hendrik Prins
+743,CETE Consulting Pty Ltd,Cameron Thomson
+743,CETE Consulting Pty Ltd,Jeannie Louise Thomson
 265,CGP solutions Ltd,CPK Communications Pty Ltd
 265,CGP solutions Ltd,Roland Craig Holman
 265,CGP solutions Ltd,The Regent Square Group
@@ -107,7 +109,6 @@ agency_id,agency_business_entity_name,owner_name
 10,Cynergy Pty Ltd,Norman Bruce Higgs
 10,Cynergy Pty Ltd,Margaret Jennifer Higgs
 221,Damian McGreevy Consulting Pty Ltd,Damian McGreevy
-569,Dargan Financial,Otto Dargan
 16,Day & Hodge Associates Pty Ltd,Stephen Hodge
 16,Day & Hodge Associates Pty Ltd,Adrienne Day-Hodge
 360,Diplomacy Pty Limited,Park Avenue Management
@@ -133,7 +134,6 @@ agency_id,agency_business_entity_name,owner_name
 564,Etched Communications Pty Ltd,Andrew Butler
 564,Etched Communications Pty Ltd,Peter Wilkinson
 512,Ethical Strategies Pty Ltd,John Morton
-712,"Farmer, Richard Lindsay",Richard Lindsay Farmer
 324,FCC Partnership Pty Ltd,Hugh Fraser
 214,FIPRA Australia Pty Limited,David Lieberman
 214,FIPRA Australia Pty Limited,Richardson Coutts Pty Limited
