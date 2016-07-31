@@ -8,6 +8,7 @@ agency_id,agency_business_entity_name,owner_name
 739,AA Access Partnership Limited,Kathryn Martin
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Keen Securities Pty Limited
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Tipford Pty Limited
+746,Advisory Street Pty Ltd,Taleen Shamlian
 36,Aegis Consulting Group Pty Ltd,Vishal Beri
 37,Aequum Pty Ltd,Gary Francis Scarrabelotti
 104,Alkar Pty Ltd,Allan King
@@ -25,6 +26,7 @@ agency_id,agency_business_entity_name,owner_name
 379,assetpr,Anthony Rasman
 63,AusAccess Unit Trust,Mark Ridgway (Consulting Canberra Pty Ltd)
 63,AusAccess Unit Trust,Kerrie Ridgway (Consulting Canberra Pty Ltd)
+747,Australian Industry Facilitation,David Mitchell
 234,Australian Project Developments Pty. Ltd.,Rod Brown
 45,Australian Public Affairs Limited Partnership,Australian Public Affairs Pty Ltd
 45,Australian Public Affairs Limited Partnership,Centre for Litigation Communications Pty Ltd
@@ -79,6 +81,9 @@ agency_id,agency_business_entity_name,owner_name
 160,Cotterell Jannette Suzanne,Jannette S Cotterell 
 403,Covance Pty Ltd (Covance Market Access Services division),Covance Inc.
 81,CPR Communications & Public Relations Pty Ltd,Enero Group Limited
+683,Craig Emerson Economics Pty Ltd,Craig Emerson
+683,Craig Emerson Economics Pty Ltd,Benjamin Emerson
+683,Craig Emerson Economics Pty Ltd,Thomas Emerson
 99,Craigleed Pty Ltd,Stephen McKew
 99,Craigleed Pty Ltd,Celia McKew
 193,CRAKYL Pty Ltd,Craig Stephen Munnings
@@ -119,6 +124,7 @@ agency_id,agency_business_entity_name,owner_name
 453,First State Advisors and Consultants ,St Joseph Enterprises 
 295,Five Corners Pty Ltd,Deborah Bell
 295,Five Corners Pty Ltd,Brad Sheehan
+484,FPL Advisory Pty Ltd,Steve Cusworth
 738,Freight  Trade Alliance (FTA) Pty Ltd,Paul David Zalai
 333,FTI Consulting (Perth) Pty Ltd,FTI Consulting (Perth) Pty Ltd
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,FTI Consulting Inc 
@@ -126,6 +132,7 @@ agency_id,agency_business_entity_name,owner_name
 460,Gabrielle Trainor,Gabrielle Trainor
 1,Gambolling Pty Ltd,Stephen Carney
 1,Gambolling Pty Ltd,Barbara Carney
+1,Gambolling Pty Ltd,Gambolling Pty Ltd
 375,Gell Southam Group Pty Ltd,Patrick Southam
 185,Geoff Conlon,Geoff Conlon
 238,GIMC Consulting,Gregory Cupitt
@@ -178,6 +185,7 @@ agency_id,agency_business_entity_name,owner_name
 465,LATAF CONSULTING ,Jeffrey Russell Hart
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE
 519,Lawrence Media Services Pty Ltd,Una Joanna LAWRENCE
+557,Leanne Joyce Consulting,Leanne Joyce
 4,Leisure SolutionsÂ®,Angus Muir Robinson
 4,Leisure SolutionsÂ®,Jeanette Ruth Robinson
 223,Leonie M. Short,Ms Leonie Marjorie Short
@@ -226,6 +234,7 @@ agency_id,agency_business_entity_name,owner_name
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway
 298,Pavilion Consulting Pty Ltd,Justin O'Sullivan
 736,Peter Kane,Peter Kane
+546,Policy Australia Pty Ltd,Carolyn Dalton
 318,Porter Novelli Australia Pty Ltd,Clemenger Group Limited
 516,Premier State Consulting Pty Ltd,National Strategy Group Pty Ltd
 220,Primary Communication Pty Ltd,Annabelle Warren 
@@ -268,6 +277,7 @@ agency_id,agency_business_entity_name,owner_name
 395,Right Angle Business Services Pty Ltd,David Clarence Holland
 395,Right Angle Business Services Pty Ltd,Linda Marion Holland
 20,RMK Associates (RMKA),John Kananghinis
+527,Robert J.L. Hawke & Associates Pty Ltd,Tate Australia Pty Ltd (ACN 054 587 432)
 669,Royce Communications Pty Ltd,Peter Mahon
 669,Royce Communications Pty Ltd,Richard Amos
 708,Sammway Pty Limited,Samantha Dybac
@@ -282,7 +292,10 @@ agency_id,agency_business_entity_name,owner_name
 82,Socom Pty Ltd,David Hawkins
 225,SPIER CONSULTING P/L, LUCINDA SPIER
 225,SPIER CONSULTING P/L,HANK SPIER
+665,Spring Street Advisory,McAlpine Family Trust
 490,Staindl Strategic Pty Ltd,Philip Staindl
+66,Statecraft,Eupepsia Pty Ltd
+66,Statecraft,Priebe Family Trust
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn
 528,SYSTECH Consultants Pty Ltd,Janine Carol Wirthensohn
 235,The Agenda Group Pty Ltd,Damian Mannix
@@ -331,6 +344,8 @@ agency_id,agency_business_entity_name,owner_name
 689,Vicom Australia Pty Ltd,Gregory Arthur John Kelson
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing
 635,Visionary  Enterprising Management Services Pty Ltd,Valerie Yvonne Shearing
+463,Walker Watterson Holdings Pty Ltd,Hannah Watterson
+463,Walker Watterson Holdings Pty Ltd,James Watterson 
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew

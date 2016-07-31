@@ -17,6 +17,7 @@ agency_id,agency_business_entity_name,client_name
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Rafael  Advanced Defense Systems Limited
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Aeronautics System Ltd
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,AMST GmbH
+746,Advisory Street Pty Ltd,Bank of Queensland
 36,Aegis Consulting Group Pty Ltd,Ardent Leisure 
 36,Aegis Consulting Group Pty Ltd,Novartis Pharmaceuticals 
 36,Aegis Consulting Group Pty Ltd,One80TC
@@ -52,6 +53,9 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Hanwha Techwin
 63,AusAccess Unit Trust,Australian Indigenous Alpine Sports Foundation
 63,AusAccess Unit Trust,RedTrain Networks
+747,Australian Industry Facilitation,Selex ES Ltd (Leonardo)
+747,Australian Industry Facilitation,Selex ES SpA (Leonardo)
+747,Australian Industry Facilitation,Partech Systems Pty Ltd
 234,Australian Project Developments Pty. Ltd.,Cape York Sustainable Futures
 234,Australian Project Developments Pty. Ltd.,HydroSun Ltd
 234,Australian Project Developments Pty. Ltd.,Adelaide City Council
@@ -104,7 +108,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Renew Initiatives Australia Limited 
 338,Barton Deakin ,Bowel Cancer Australia
 338,Barton Deakin ,C.H. Group Pty Ltd
-338,Barton Deakin ,Bain and Company Inc
 338,Barton Deakin ,Buchanan Group
 338,Barton Deakin ,AARNet Pty Ltd
 338,Barton Deakin ,The Alliance for Safe Children
@@ -178,7 +181,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Hewlett Packard Australia Pty Ltd
 338,Barton Deakin ,Australians in Pozieres Ltd 
 338,Barton Deakin ,Australian Heavy Vehicle Repair Association
-338,Barton Deakin ,Federal Chamber of Automotive Industries
 338,Barton Deakin ,Programmed Marine Pty Ltd
 338,Barton Deakin ,Kalfresh Pty Ltd
 338,Barton Deakin ,Navitas Limited
@@ -188,6 +190,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,TAL Services Limited
 338,Barton Deakin ,National Congress of First Peoples Ltd
 338,Barton Deakin ,HE NEW SOUTH WALES GREYHOUND BREEDERS OWNERS & TRAINERS ASSOCIATION LIMITED
+338,Barton Deakin ,ExecuJet Australia Pty Ltd
+338,Barton Deakin ,Brandenburg Ensemble Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -410,6 +414,10 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,headspace National Youth Mental Health Foundation Ltd
 81,CPR Communications & Public Relations Pty Ltd,Walter and Eliza Hall Institute of Medical Research
 81,CPR Communications & Public Relations Pty Ltd,Frankston City Council
+683,Craig Emerson Economics Pty Ltd,AGL Energy
+683,Craig Emerson Economics Pty Ltd,Santos
+683,Craig Emerson Economics Pty Ltd,Wesfarmers
+683,Craig Emerson Economics Pty Ltd,KPMG
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
@@ -571,6 +579,12 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Alpha Nobis Pty Ltd 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
+484,FPL Advisory Pty Ltd,Building Designers Association of Victoria
+484,FPL Advisory Pty Ltd,GlaxoSmithKline
+484,FPL Advisory Pty Ltd,Australian Camps Association
+484,FPL Advisory Pty Ltd,Mars Australia Pty Ltd
+484,FPL Advisory Pty Ltd,D'Orsogna Ltd
+484,FPL Advisory Pty Ltd,Sun Pharmaceuticals
 738,Freight  Trade Alliance (FTA) Pty Ltd,Australian Peak Shippers Association
 738,Freight  Trade Alliance (FTA) Pty Ltd,Australian International Movers Association
 738,Freight  Trade Alliance (FTA) Pty Ltd,Salta Properties
@@ -593,7 +607,6 @@ agency_id,agency_business_entity_name,client_name
 742,G2 Media,Australian Historic Motoring Federation (AHMF)
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 1,Gambolling Pty Ltd,National Australia Bank
-1,Gambolling Pty Ltd,OHDC Inc
 1,Gambolling Pty Ltd,Intercapital 
 1,Gambolling Pty Ltd,Project Flinders Pty Ltd
 1,Gambolling Pty Ltd,Dassault Aviation
@@ -763,6 +776,8 @@ agency_id,agency_business_entity_name,client_name
 38,Intercorp Pty Ltd,Plasan
 103,Ivydale Nominees Pty Ltd,Coogee Chemicals
 103,Ivydale Nominees Pty Ltd,WA Nightclubs Association
+103,Ivydale Nominees Pty Ltd,B and S Consultants
+103,Ivydale Nominees Pty Ltd,Albemarle Corporation
 586,Jenkins Engineering defence Systems Pty Ltd,Harris Corp.
 319,Jo Scard Pty Ltd,Kellogg (Australia)
 319,Jo Scard Pty Ltd,Homebirth Australia
@@ -805,9 +820,10 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,The Australasian Society of Association Executives (AuSAE) ABN 86 603 084 895
 319,Jo Scard Pty Ltd,Australian Academy of Science ABN 90 700 613 342 
 319,Jo Scard Pty Ltd,Junction Australia ABN 50 167 313 153
-319,Jo Scard Pty Ltd,Northern Rivers Social Development Council Inc ABN 77398196862
 319,Jo Scard Pty Ltd,Australian Diabetes Educators' Association Limited ABN 65 008 656 522
 319,Jo Scard Pty Ltd,The Woden Group
+319,Jo Scard Pty Ltd,Popcar ABN 43 602 154 763
+319,Jo Scard Pty Ltd,Australian Charities Fund ABN 86 011 282 468
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
@@ -888,11 +904,13 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Fireeye Australia Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,New Hope Corporation Limited
 76,Kreab Gavin Anderson (Australia) Ltd,Caltex Australia Petroleum Pty Ltd
+76,Kreab Gavin Anderson (Australia) Ltd,Terumo Australia Pty Ltd
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
 519,Lawrence Media Services Pty Ltd,V.O.I.C.C.E.
 519,Lawrence Media Services Pty Ltd,Institute of Public Works Engineering Australasia (NSW) 
+557,Leanne Joyce Consulting,Brisbane Airport Corporation
 4,Leisure SolutionsÂ®,Ecotourism Australia Ltd (Geotourism Forum)
 4,Leisure SolutionsÂ®,Geological Society of Australia
 223,Leonie M. Short,Australian Council of Social Service
@@ -1078,6 +1096,8 @@ agency_id,agency_business_entity_name,client_name
 298,Pavilion Consulting Pty Ltd,Lymphoedema Action Alliance
 298,Pavilion Consulting Pty Ltd,Eli Lilly
 736,Peter Kane,Australian Meat Industry Council
+546,Policy Australia Pty Ltd,Australian Digital Alliance
+546,Policy Australia Pty Ltd,Netflix
 318,Porter Novelli Australia Pty Ltd,HVP Plantations
 318,Porter Novelli Australia Pty Ltd,General Mills Australia
 318,Porter Novelli Australia Pty Ltd,McCain Foods Australia New Zealand
@@ -1279,6 +1299,8 @@ agency_id,agency_business_entity_name,client_name
 20,RMK Associates (RMKA),Flamesniffer
 20,RMK Associates (RMKA),Hyundai Motor Company Australia
 20,RMK Associates (RMKA),BMW Group Australia
+527,Robert J.L. Hawke & Associates Pty Ltd,Australia Sinofortune International Investment (Group) Pty Ltd (ACN 152 954 679)
+527,Robert J.L. Hawke & Associates Pty Ltd,Kimberley Agricultural Investment Pty Ltd (ACN 154 270 194)
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
 669,Royce Communications Pty Ltd,Belgravia Leisure
@@ -1329,9 +1351,23 @@ agency_id,agency_business_entity_name,client_name
 225,SPIER CONSULTING P/L,MANILDRA GROUP
 225,SPIER CONSULTING P/L,AUSTRALIAN NEWSAGENTS FEDERATION
 225,SPIER CONSULTING P/L,AUSVEG
+665,Spring Street Advisory,Vestas Australian Wind Technology Pty Ltd
+665,Spring Street Advisory,Olex Australia Pty Ltd
+665,Spring Street Advisory,Infoxchange
+665,Spring Street Advisory,Trustpower
 490,Staindl Strategic Pty Ltd,Pacific Hydro
 490,Staindl Strategic Pty Ltd,LD Network
 490,Staindl Strategic Pty Ltd,Hanson Construction Materials
+66,Statecraft,Dimension Data
+66,Statecraft,Bouygues Construction Australia
+66,Statecraft,Moelis and Company
+66,Statecraft,WWF Australia
+66,Statecraft,KordaMentha Pty Ltd
+66,Statecraft,Yancoal
+66,Statecraft,CoreLogic RP Data
+66,Statecraft,Wollongong Coal
+66,Statecraft,PreviousNext
+66,Statecraft,Bank of Queensland
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
 528,SYSTECH Consultants Pty Ltd,Airbus Defence and Space
 235,The Agenda Group Pty Ltd,Epworth Health Care
@@ -1499,6 +1535,24 @@ agency_id,agency_business_entity_name,client_name
 635,Visionary  Enterprising Management Services Pty Ltd,IGA (Metcash Trading Limited)
 635,Visionary  Enterprising Management Services Pty Ltd,The Fourth Force Pty Ltd (trading as Drake Supermarkets)
 635,Visionary  Enterprising Management Services Pty Ltd,South Australian Independent Retailers Inc 
+463,Walker Watterson Holdings Pty Ltd,Nutanix
+463,Walker Watterson Holdings Pty Ltd,Emerson Network Power Australia Pty Ltd
+463,Walker Watterson Holdings Pty Ltd,BIS Shrapnel Pty Limited
+463,Walker Watterson Holdings Pty Ltd,Avaya Australia Pty Ltd
+463,Walker Watterson Holdings Pty Ltd,Motorola Solutions Australia Pty Limited
+463,Walker Watterson Holdings Pty Ltd,FireEye Inc.
+463,Walker Watterson Holdings Pty Ltd,Riverbed Technology
+463,Walker Watterson Holdings Pty Ltd,Desire2Learn
+463,Walker Watterson Holdings Pty Ltd,Dimension Data
+463,Walker Watterson Holdings Pty Ltd, CIENA AUSTRALIA PTY LTD
+463,Walker Watterson Holdings Pty Ltd, Intercad Pty Limited
+463,Walker Watterson Holdings Pty Ltd,Infratech Industries Pty Ltd
+463,Walker Watterson Holdings Pty Ltd,Tenderlink
+463,Walker Watterson Holdings Pty Ltd,12D SOLUTIONS PTY LTD
+463,Walker Watterson Holdings Pty Ltd,DELPHIX SOFTWARE LIMITED
+463,Walker Watterson Holdings Pty Ltd,UNLEASHED SOFTWARE PTY. LTD
+463,Walker Watterson Holdings Pty Ltd, FIREEYE AUSTRALIA PTY LTD
+463,Walker Watterson Holdings Pty Ltd,Skyfii
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
@@ -1509,8 +1563,8 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,ThyssenKrupp Marine Systems Australia Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,BMW Group Financial Services
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Fairview Architectural Pty Ltd
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,CFD & Margin FX Association 
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,MGC Pharmaceuticals 
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Australian Biotechnologies Pty Ltd
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Tolmar Australia Pty Limited
