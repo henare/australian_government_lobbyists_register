@@ -69,6 +69,7 @@ agency_id,agency_business_entity_name,client_name
 45,Australian Public Affairs Limited Partnership,IWU Holdings LLC
 45,Australian Public Affairs Limited Partnership,Rirratingu Aboriginal Corporation
 45,Australian Public Affairs Limited Partnership,Bunuwal Investments Pty Ltd
+45,Australian Public Affairs Limited Partnership,The Tipping Point Group
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
@@ -192,6 +193,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,HE NEW SOUTH WALES GREYHOUND BREEDERS OWNERS & TRAINERS ASSOCIATION LIMITED
 338,Barton Deakin ,ExecuJet Australia Pty Ltd
 338,Barton Deakin ,Brandenburg Ensemble Ltd
+338,Barton Deakin ,Propertylink Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -263,11 +265,20 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Ruralco Holdings Limited
 556,Capital Hill Advisory Pty Ltd,Australian Self Medication Industry
 556,Capital Hill Advisory Pty Ltd,Cattle Council of Australia
+558,Catherine Emma Rocchi,Farming Champions
+558,Catherine Emma Rocchi,H2OX
+558,Catherine Emma Rocchi,Southern Forests Food Council
+558,Catherine Emma Rocchi,Southcare
+558,Catherine Emma Rocchi,Leadership WA
+558,Catherine Emma Rocchi,Linkwest
+558,Catherine Emma Rocchi,Trackem Pty Ltd
+558,Catherine Emma Rocchi,Priority1
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Ipsen Pty Ltd
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
 601,Catherine McGovern,Urological Society of Australia and New Zealand
 601,Catherine McGovern,Juno Pharmaceuticals
+601,Catherine McGovern,Australian Mitochondrial Disease Foundation
 191,"Cemdia Pty, Ltd",NBNCo
 743,CETE Consulting Pty Ltd,Calzoni S.r.l.
 265,CGP solutions Ltd,ViaSat Inc
@@ -290,6 +301,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Spacecon Pty Ltd
 157,Chikarovski & Associates Pty Ltd,Spacecon Australia Pty Ltd
 157,Chikarovski & Associates Pty Ltd,Option Funds Management Limited
+157,Chikarovski & Associates Pty Ltd,Hireup Pty. Ltd.
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Fletcher Pharmacy  Pty Ltd
@@ -321,6 +333,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Rafael Advanced Defense Systems
 428,CMGRP Pty Ltd,Nutricia Australia Pty Ltd
 428,CMGRP Pty Ltd,IHMS
+428,CMGRP Pty Ltd,CFD & FX Margin Association
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -518,6 +531,11 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd,Bannister Law
 564,Etched Communications Pty Ltd,Metcash Limited
 564,Etched Communications Pty Ltd,TasFoods
+324,FCC Partnership Pty Ltd,Chi - X
+324,FCC Partnership Pty Ltd,Morgan Stanley
+324,FCC Partnership Pty Ltd,IG Markets
+324,FCC Partnership Pty Ltd,CFD and FX Forum
+324,FCC Partnership Pty Ltd,Sydney Stock Exchange
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Australia
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Limited USA
 214,FIPRA Australia Pty Limited,FIPRA International UK
@@ -579,6 +597,8 @@ agency_id,agency_business_entity_name,client_name
 453,First State Advisors and Consultants ,Alpha Nobis Pty Ltd 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
+713,Flight Data Systems Pty Ltd,Lockheed Martin Overseas Corporation
+713,Flight Data Systems Pty Ltd,L3 Communications Telemetry West
 484,FPL Advisory Pty Ltd,Building Designers Association of Victoria
 484,FPL Advisory Pty Ltd,GlaxoSmithKline
 484,FPL Advisory Pty Ltd,Australian Camps Association
@@ -590,6 +610,7 @@ agency_id,agency_business_entity_name,client_name
 738,Freight  Trade Alliance (FTA) Pty Ltd,Salta Properties
 738,Freight  Trade Alliance (FTA) Pty Ltd,Schenker Australia
 738,Freight  Trade Alliance (FTA) Pty Ltd,IRT Australia
+738,Freight  Trade Alliance (FTA) Pty Ltd,Victoria International Container Terminal
 333,FTI Consulting (Perth) Pty Ltd,Wellard Group
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
 333,FTI Consulting (Perth) Pty Ltd,New Energy Corporation
@@ -761,8 +782,6 @@ agency_id,agency_business_entity_name,client_name
 8,Hill and Knowlton,Intuit
 8,Hill and Knowlton,Thorn Group Limited 
 8,Hill and Knowlton,Medlab Clinical Limited 
-735,Hunter Communications Pty Ltd,Northern Minerals 
-735,Hunter Communications Pty Ltd,Western Australia Biomass Pty Ltd
 674,Ian Peregrine Desborough,Grain Producers Australia Limited
 541,Innovative Electronics Pty Ltd,ESA/Inmarsat
 541,Innovative Electronics Pty Ltd,CSIRO
@@ -865,6 +884,7 @@ agency_id,agency_business_entity_name,client_name
 255,John Scott Barker,Winemaking Tasmania Pty Ltd
 255,John Scott Barker,Houstons Farm 
 264,"John, Susan Maree",Bioventus Australia Pty Ltd
+576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
 115,KPMG,The Cobra Group Pty Ltd
@@ -1294,6 +1314,7 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Australian Geothermal Energy Association
 395,Right Angle Business Services Pty Ltd,Horticulture and Energy Investment Company Australia No. 1 Pty Ltd 
 395,Right Angle Business Services Pty Ltd,True Value Solar Pty Ltd
+395,Right Angle Business Services Pty Ltd,Maria's Farm Veggies Pty Ltd
 20,RMK Associates (RMKA),Tyre Stewardship Australia
 20,RMK Associates (RMKA),Mercury Group of Companies
 20,RMK Associates (RMKA),Flamesniffer
@@ -1344,6 +1365,13 @@ agency_id,agency_business_entity_name,client_name
 676,Sesimic Asia Pacific Pty Ltd,Knudsen
 676,Sesimic Asia Pacific Pty Ltd,Applanix
 676,Sesimic Asia Pacific Pty Ltd,Klein Marine Systems
+171,Shac Communications Pty Ltd ATF The Shac Trust,Habitat Early Learning
+171,Shac Communications Pty Ltd ATF The Shac Trust,MiiHome Now International Pty Ltd
+171,Shac Communications Pty Ltd ATF The Shac Trust,ASF Group
+171,Shac Communications Pty Ltd ATF The Shac Trust,Brisbane Roar Football Club
+171,Shac Communications Pty Ltd ATF The Shac Trust,MiiGroup Holdings Pty Ltd
+171,Shac Communications Pty Ltd ATF The Shac Trust,ATCO Structures and Logistics 
+171,Shac Communications Pty Ltd ATF The Shac Trust,Devcorp 
 82,Socom Pty Ltd,The Interface Councils
 82,Socom Pty Ltd,Rural Councils Victoria 
 225,SPIER CONSULTING P/L,KOUNDOURIS GROUP
