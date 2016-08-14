@@ -236,6 +236,7 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,Barellan Aged Care Support Group
 654,C2hills Investments Pty Limited,Griffith City Council
 654,C2hills Investments Pty Limited,Grainlink (NSW) Pty Ltd
+654,C2hills Investments Pty Limited,Hay Shire Council
 700,Campaigns and Communications Group P/L,Fincantieri
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
@@ -273,6 +274,12 @@ agency_id,agency_business_entity_name,client_name
 558,Catherine Emma Rocchi,Linkwest
 558,Catherine Emma Rocchi,Trackem Pty Ltd
 558,Catherine Emma Rocchi,Priority1
+558,Catherine Emma Rocchi,Australian Vanadium Limited
+558,Catherine Emma Rocchi,urbi
+558,Catherine Emma Rocchi,Media Super
+558,Catherine Emma Rocchi,Isolated Children's Parents' Association
+558,Catherine Emma Rocchi,Partners in Grain WA
+558,Catherine Emma Rocchi,Captivate on Hold
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Ipsen Pty Ltd
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
@@ -479,6 +486,12 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,Wellness and Lifestyles
 360,Diplomacy Pty Limited,Searoad Ferries
 360,Diplomacy Pty Limited,Colac Otway Shire Council
+454,Discourse Consulting Pty Ltd,ADA
+454,Discourse Consulting Pty Ltd,NDS
+454,Discourse Consulting Pty Ltd,Life withour Barriers
+454,Discourse Consulting Pty Ltd,CG Consultiing
+454,Discourse Consulting Pty Ltd,LUK & ASSOCIATES SOLICITORS
+454,Discourse Consulting Pty Ltd,Employers Mutual
 624,Donna Edman,Hearing Care Industry Association
 172,Dr Robert Horton,Intelsat Corporation
 172,Dr Robert Horton,Inmarsat Corporation
@@ -654,6 +667,8 @@ agency_id,agency_business_entity_name,client_name
 7,Government Relations Solutions Pty Ltd,Burke Urban Developments Pty Ltd
 7,Government Relations Solutions Pty Ltd,National Pharmacies
 7,Government Relations Solutions Pty Ltd,Demographia Australia Inc
+125,Govstrat Pty Ltd,Clubs Queensland
+125,Govstrat Pty Ltd,UGL
 630,GPotts,Water Ice Pty Ltd
 630,GPotts,Nu Edge Solutions Pty Ltd
 630,GPotts,Ballan  District Soldiers Memorial Bush Nursing Hospital  Hostel
@@ -777,6 +792,9 @@ agency_id,agency_business_entity_name,client_name
 137,Health Communincations Australia Pty Limited,Takeda Pharmaceuticals Australia
 137,Health Communincations Australia Pty Limited,Merck Serono Australia
 137,Health Communincations Australia Pty Limited,iNova Pharmaceuticals Pty Limited
+124,Helen & Mike O'Brien JP,Australian Pensioners & Superannuants League WA Inc
+124,Helen & Mike O'Brien JP,Parins
+124,Helen & Mike O'Brien JP,ROSS Steven Geofrey
 8,Hill and Knowlton,Coca Cola South Pacific
 8,Hill and Knowlton,LEO Pharma
 8,Hill and Knowlton,Intuit
@@ -797,6 +815,7 @@ agency_id,agency_business_entity_name,client_name
 103,Ivydale Nominees Pty Ltd,WA Nightclubs Association
 103,Ivydale Nominees Pty Ltd,B and S Consultants
 103,Ivydale Nominees Pty Ltd,Albemarle Corporation
+103,Ivydale Nominees Pty Ltd,Con Berbatis
 586,Jenkins Engineering defence Systems Pty Ltd,Harris Corp.
 319,Jo Scard Pty Ltd,Kellogg (Australia)
 319,Jo Scard Pty Ltd,Homebirth Australia
@@ -843,6 +862,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,The Woden Group
 319,Jo Scard Pty Ltd,Popcar ABN 43 602 154 763
 319,Jo Scard Pty Ltd,Australian Charities Fund ABN 86 011 282 468
+319,Jo Scard Pty Ltd,Soil Science Australia ABN 39 073 600 585
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
@@ -925,6 +945,10 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,New Hope Corporation Limited
 76,Kreab Gavin Anderson (Australia) Ltd,Caltex Australia Petroleum Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Terumo Australia Pty Ltd
+76,Kreab Gavin Anderson (Australia) Ltd,State Grid International Development
+76,Kreab Gavin Anderson (Australia) Ltd,IVECO Trucks Australia
+76,Kreab Gavin Anderson (Australia) Ltd,Electro Optic Systems Pty Ltd
+748,Kylie Ahern Consulting,Queensland Brain Institute
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1023,19 +1047,12 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,BP Australia
 132,Megan Anwyl,P and H Marine Australia Pty Ltd
 720,MIBD Strategy ,Kurz Australia 
-699,Michael John Kauter,Nicoventures Australia Pty Limited
-699,Michael John Kauter,British American Tobacco Australia
-699,Michael John Kauter,National Australia Bank Limited
-699,Michael John Kauter,Group of Eight Universities Australia
-699,Michael John Kauter,E4 Health Australia 
-699,Michael John Kauter,University of Melbourne
-699,Michael John Kauter,Monash University
-699,Michael John Kauter,Anatomics
-699,Michael John Kauter,Anatomics Rx
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
+444,Michael Megaw,Western Australian Deaf Society
+752,MMJ Consulting,Sound Radiology 
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
 696,MOUNTAIN MEDIA PTY LTD,Energy Industries Superannuation Scheme Pty Limited
 696,MOUNTAIN MEDIA PTY LTD,Motor Trades Association of Australia Superannuation Fund Pty Limited
@@ -1372,6 +1389,8 @@ agency_id,agency_business_entity_name,client_name
 171,Shac Communications Pty Ltd ATF The Shac Trust,MiiGroup Holdings Pty Ltd
 171,Shac Communications Pty Ltd ATF The Shac Trust,ATCO Structures and Logistics 
 171,Shac Communications Pty Ltd ATF The Shac Trust,Devcorp 
+171,Shac Communications Pty Ltd ATF The Shac Trust,Gemini Accident Repairs Centres PTY LTD
+749,Sling & Stone,MailGuard
 82,Socom Pty Ltd,The Interface Councils
 82,Socom Pty Ltd,Rural Councils Victoria 
 225,SPIER CONSULTING P/L,KOUNDOURIS GROUP
@@ -1396,6 +1415,14 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,Wollongong Coal
 66,Statecraft,PreviousNext
 66,Statecraft,Bank of Queensland
+753,Strategic Political Counsel Pty Ltd,Nicoventures Australia Pty Ltd
+753,Strategic Political Counsel Pty Ltd,British American Tobacco Australia
+753,Strategic Political Counsel Pty Ltd,National Australia Bank Ltd
+753,Strategic Political Counsel Pty Ltd,APA Group
+753,Strategic Political Counsel Pty Ltd,Group of Eight Universities Ltd
+753,Strategic Political Counsel Pty Ltd,University of Melbourne
+753,Strategic Political Counsel Pty Ltd,Monash University
+753,Strategic Political Counsel Pty Ltd,E4 Health Australia
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
 528,SYSTECH Consultants Pty Ltd,Airbus Defence and Space
 235,The Agenda Group Pty Ltd,Epworth Health Care
@@ -1488,13 +1515,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,BAE Systems Australia
 145,The Trustee for Bespoke Business Trust,Asciano Limited
 145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
-145,The Trustee for Bespoke Business Trust,Great Southern Rail Limited
 145,The Trustee for Bespoke Business Trust,Medibank Private Limited
-145,The Trustee for Bespoke Business Trust,Costa Group Holdings Limited
-145,The Trustee for Bespoke Business Trust,Scepter Partners
-145,The Trustee for Bespoke Business Trust,IFM Investors
-145,The Trustee for Bespoke Business Trust,Noble Resources Pte Ltd
-145,The Trustee for Bespoke Business Trust,Genius Link Assets Management Pty Ltd
 145,The Trustee for Bespoke Business Trust,a2 Milk Company 
 145,The Trustee for Bespoke Business Trust,Mitsubishi Heavy Industries
 145,The Trustee for Bespoke Business Trust,National Australia Bank Limited
@@ -1611,6 +1632,9 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
+751,Woodhill Communication Pty Ltd,Sirtex Medical Limited
+751,Woodhill Communication Pty Ltd,Enware Australia Pty Ltd
+751,Woodhill Communication Pty Ltd,Ruralco Holdings Limited
 737,WORD TUCKER PTY LTD,ENPHASE ENERGY
 641,Wurley Group Pty Ltd,Edwards Lifesciences Pty Ltd
 641,Wurley Group Pty Ltd,Globus Medical Australia Pty Ltd

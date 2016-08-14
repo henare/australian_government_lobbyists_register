@@ -118,6 +118,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Director Campaign Communications,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
 580,Crosby Textor Research Strategies Results,George Brougham,Campaign Consultant,No,""
+580,Crosby Textor Research Strategies Results,Giorgia Christmas,Consultant,Yes,October 2015
 580,Crosby Textor Research Strategies Results,Yaron Finkelstein,CEO Australasia ,Yes,February 2006
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
 153,Cultural Consulting,Dr Robert Goodfellow,Principal Consultant,No,""
@@ -131,6 +132,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 360,Diplomacy Pty Limited,Adam Kilgour,Managing Director,Yes,July 1993
 360,Diplomacy Pty Limited,Josh Williams,Director,No,""
 360,Diplomacy Pty Limited,Anthony Reed,Associate Director,No,""
+454,Discourse Consulting Pty Ltd,Belinda Neal,Director,Yes,August 2010
+454,Discourse Consulting Pty Ltd,John Della Bosca,Director,No,""
 624,Donna Edman,Donna Therese Edman,CEO,Yes,March 1999
 172,Dr Robert Horton,Robert Horton,Principal,Yes,June 2005
 515,Dunns4 Consulting Pty Ltd,Stephen James Dunn,Managing Director,Yes,June 2010
@@ -192,6 +195,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 561,Global Issues Group,Gregory Rowe Picker,Director,Yes,January 2009
 7,Government Relations Solutions Pty Ltd,WendyMatthew,Administration / Research,No,""
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
+125,Govstrat Pty Ltd,Damian Power,Director,No,""
+125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
 630,GPotts,Geoff Potts,Principal,Yes,December 2004
 122,GRA Everingham Pty Ltd,Paul Everingham,Founder and Director ,Yes,February 2003
 122,GRA Everingham Pty Ltd,Jason Marocchi,Managing Director ,No,""
@@ -226,6 +231,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 96,Hawker Britton Group Pty Ltd,Claire March ,Director ,Yes,September 2013
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
+124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
 8,Hill and Knowlton,Ian Westbrook,Head of Financial and Investor Communication,No,""
 674,Ian Peregrine Desborough,Ian Desborough,Principal,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
@@ -273,6 +279,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Emily Minson,Director,Yes,July 2008
 76,Kreab Gavin Anderson (Australia) Ltd,Travis Bell,Director,Yes,December 2007
 76,Kreab Gavin Anderson (Australia) Ltd,Nataly Matijevic ,Director / Melbourne Office Head ,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Justin Clark,Partner / Sydney Office Head,No,""
+748,Kylie Ahern Consulting,Kylie Ahern,Director,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 557,Leanne Joyce Consulting,Leanne Joyce,Public Affairs and Communications Consultant,No,""
@@ -297,14 +305,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
 720,MIBD Strategy ,Marc (Meir) Itzchaki,Principal ,Yes,December 2014
-699,Michael John Kauter,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
-699,Michael John Kauter,David Gracey,Senior Counsel,No,""
-699,Michael John Kauter,Samuel Thomson,Adviser,No,""
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Managing Partner,No,""
 452,Michael Johnson Associates Pty Limited,Ian Michael RossGowan,Director,No,""
 444,Michael Megaw,Michael Curnow Megaw,Owner,Yes,November 1996
+752,MMJ Consulting,Melissa Margaret Joanna Cheesman-Faull,Director,Yes,May 1997
 696,MOUNTAIN MEDIA PTY LTD,JULIEANNE STRACHAN, CANBERRA MANAGER,No,""
 696,MOUNTAIN MEDIA PTY LTD,PHILIP JAMES DAVEY,DIRECTOR,No,""
 356,Mr John Kindler,John Walter Kindler,Owner,Yes,March 2004
@@ -430,6 +436,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 676,Sesimic Asia Pacific Pty Ltd,Damian Edwin Mullany,Senior Technician,No,""
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel,Company Director,Yes,July 2003
 171,Shac Communications Pty Ltd ATF The Shac Trust,Alyson Richards,Account Director ,Yes,March 2015
+749,Sling & Stone,Kerrie O'Callaghan,Account Director,No,""
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
 82,Socom Pty Ltd,Zoe Weaver,Consultant,No,""
@@ -444,6 +451,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Clare Wellesley Wesley,Associate Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
 66,Statecraft,Steven Tu,Associate Consultant,Yes,September 2013
+753,Strategic Political Counsel Pty Ltd,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
+753,Strategic Political Counsel Pty Ltd,David Gracey,Senior Counsel,No,""
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 235,The Agenda Group Pty Ltd,James McGarvey,Director,No,""
 235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
@@ -520,5 +529,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Rosemary Apps,Office Manager,No,""
 721,Willesee Communications,Michael Willesee,Director,Yes,July 2015
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
+751,Woodhill Communication Pty Ltd,Stephen Woodhill,Director,Yes,June 2011
 737,WORD TUCKER PTY LTD,LESLIE GABRIEL WONG,PRINCIPAL,No,""
 641,Wurley Group Pty Ltd,Sarah Bernice Griffin,Principal,No,""
