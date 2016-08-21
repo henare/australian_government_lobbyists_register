@@ -194,6 +194,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,ExecuJet Australia Pty Ltd
 338,Barton Deakin ,Brandenburg Ensemble Ltd
 338,Barton Deakin ,Propertylink Pty Ltd
+338,Barton Deakin ,MAG DS Corp. 
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -338,6 +339,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,ServiceNow
 79,CMAX Communications Pty Ltd,Comlux The Aviation Group
 79,CMAX Communications Pty Ltd,Rafael Advanced Defense Systems
+79,CMAX Communications Pty Ltd,Rockwell Collins
 428,CMGRP Pty Ltd,Nutricia Australia Pty Ltd
 428,CMGRP Pty Ltd,IHMS
 428,CMGRP Pty Ltd,CFD & FX Margin Association
@@ -415,6 +417,10 @@ agency_id,agency_business_entity_name,client_name
 403,Covance Pty Ltd (Covance Market Access Services division),Alexion Pharmaceuticals Australasia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),AbbVie Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Novo Nordisk Pharmaceuticals Pty Ltd
+299,CPI Strategic Pty Ltd,Costa Group of Companies
+299,CPI Strategic Pty Ltd,Linked Solutions
+299,CPI Strategic Pty Ltd,Field and Game Australia
+299,CPI Strategic Pty Ltd,Australian Deer Association
 81,CPR Communications & Public Relations Pty Ltd,Regional Cities Victoria
 81,CPR Communications & Public Relations Pty Ltd,Baker IDI
 81,CPR Communications & Public Relations Pty Ltd,Greater Shepparton City Council
@@ -669,6 +675,7 @@ agency_id,agency_business_entity_name,client_name
 7,Government Relations Solutions Pty Ltd,Demographia Australia Inc
 125,Govstrat Pty Ltd,Clubs Queensland
 125,Govstrat Pty Ltd,UGL
+125,Govstrat Pty Ltd,Port of Brisbane
 630,GPotts,Water Ice Pty Ltd
 630,GPotts,Nu Edge Solutions Pty Ltd
 630,GPotts,Ballan  District Soldiers Memorial Bush Nursing Hospital  Hostel
@@ -948,12 +955,14 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,State Grid International Development
 76,Kreab Gavin Anderson (Australia) Ltd,IVECO Trucks Australia
 76,Kreab Gavin Anderson (Australia) Ltd,Electro Optic Systems Pty Ltd
+76,Kreab Gavin Anderson (Australia) Ltd,Faxtech Pty Ltd
 748,Kylie Ahern Consulting,Queensland Brain Institute
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
 519,Lawrence Media Services Pty Ltd,V.O.I.C.C.E.
 519,Lawrence Media Services Pty Ltd,Institute of Public Works Engineering Australasia (NSW) 
+519,Lawrence Media Services Pty Ltd,Big Picture Vision Pty Ltd
 557,Leanne Joyce Consulting,Brisbane Airport Corporation
 4,Leisure SolutionsÂ®,Ecotourism Australia Ltd (Geotourism Forum)
 4,Leisure SolutionsÂ®,Geological Society of Australia
@@ -1447,6 +1456,7 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,DomaCom Limited
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Nubuild Beveridge Pty Ltd
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers of Australia Inc
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Bulla Dairy Foods
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
