@@ -3,7 +3,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 739,AA Access Partnership Limited,Felicity Morrison,Advisor,Yes,January 2015
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
-746,Advisory Street Pty Ltd,Taleen Shamliian,Director,Yes,September 2003
+746,Advisory Street Pty Ltd,Taleen Shamlian,Director,Yes,September 2003
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
 37,Aequum Pty Ltd,Gary Scarrabelotti,Managing Director,No,""
 104,Alkar Pty Ltd,Allan King,Director,No,""
@@ -104,7 +104,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Karen Schneider,Manager Health Economics,No,""
-403,Covance Pty Ltd (Covance Market Access Services division),Julia Carritt,Manager Health Economics,No,""
 299,CPI Strategic Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
 299,CPI Strategic Pty Ltd,Frederick John Brown,Director,Yes,November 2007
 81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director Government Relations,Yes,January 2007
@@ -153,6 +152,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 31,Endeavour Consulting Group Pty Ltd,Fiona Landis ,Associate Partner,Yes,April 2010
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
+71,Essential Media Communications Pty Ltd,Olivia Greentree,Senior Account Manager,Yes,February 2013
 71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
 71,Essential Media Communications Pty Ltd,Elisa Fernandes Carvalho,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Communications Consultant,No,""
@@ -192,10 +192,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
 375,Gell Southam Group Pty Ltd,Patrick Southam,Principal,No,""
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
+754,Geoffrey Michael Brennan,Geoffrey Brennan,Owner,Yes,October 1995
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
 150,Glide Pty Ltd,Gail White,Senior Consultant,No,""
 150,Glide Pty Ltd,Michael Woodhouse,Director,No,""
 561,Global Issues Group,Gregory Rowe Picker,Director,Yes,January 2009
+750,GovCorp Pty Ltd,Nikola Vujasin,Director,No,""
 7,Government Relations Solutions Pty Ltd,WendyMatthew,Administration / Research,No,""
 7,Government Relations Solutions Pty Ltd,Hon. Wayne Matthew ,Director,Yes,April 2006
 125,Govstrat Pty Ltd,Damian Power,Director,No,""
@@ -310,6 +312,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
 720,MIBD Strategy ,Marc (Meir) Itzchaki,Principal ,Yes,December 2014
+699,Michael John Kauter,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
+699,Michael John Kauter,David Gracey,Senior Counsel,No,""
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Managing Partner,No,""
@@ -340,6 +344,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 526,Next Level Holdings Pty Ltd,David Moore,Director,Yes,November 2007
 526,Next Level Holdings Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
 526,Next Level Holdings Pty Ltd,Stephen Beckett,Senior Manager,No,""
+526,Next Level Holdings Pty Ltd,Cameron Milner,Director,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
@@ -422,6 +427,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 44,Richglen Holdings Pty Ltd,Laurie Stroud,Chief Executive,Yes,June 1988
 395,Right Angle Business Services Pty Ltd,David Clarence Holland,Director,No,""
 395,Right Angle Business Services Pty Ltd,Susan Barbara Jeanes,Consultant,Yes,December 2001
+755,RIPNEY PTY LTD,BERNARD RIPOLL,SOLE DIRECTOR,Yes,May 2016
 20,RMK Associates (RMKA),John Kananghinis,Director,No,""
 20,RMK Associates (RMKA),Angus Nicholls,Senior Associate,Yes,April 2005
 527,Robert J.L. Hawke & Associates Pty Ltd,The Hon Robert James Lee Hawke AC,Consultant,Yes,February 1992
@@ -441,6 +447,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 676,Sesimic Asia Pacific Pty Ltd,Damian Edwin Mullany,Senior Technician,No,""
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel,Company Director,Yes,July 2003
 171,Shac Communications Pty Ltd ATF The Shac Trust,Alyson Richards,Account Director ,Yes,March 2015
+681,Simeon Duncan,Simeon Duncan,Principal,Yes,November 2007
 749,Sling & Stone,Kerrie O'Callaghan,Account Director,No,""
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
@@ -466,7 +473,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 9,The Canberra Institute,Peter Michael Conway,Director,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Jason Aldworth,Director,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Andres Puig,Director,No,""
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Lucy Kozlowski,Consultant,Yes,November 2010
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Lucy Kozlowski,Senior Account Executive,Yes,November 2010
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora furman,Senior Manager Campaigns,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Kathryn Hall,Senior Account executive,Yes,September 2010
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Sam Bishop,Senior Account Executive,No,""

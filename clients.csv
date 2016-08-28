@@ -53,6 +53,7 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Hanwha Techwin
 63,AusAccess Unit Trust,Australian Indigenous Alpine Sports Foundation
 63,AusAccess Unit Trust,RedTrain Networks
+63,AusAccess Unit Trust,Ochre Dawn
 747,Australian Industry Facilitation,Selex ES Ltd (Leonardo)
 747,Australian Industry Facilitation,Selex ES SpA (Leonardo)
 747,Australian Industry Facilitation,Partech Systems Pty Ltd
@@ -79,12 +80,10 @@ agency_id,agency_business_entity_name,client_name
 139,Bartholomew Quinn and Associates,Shaw Contracting
 139,Bartholomew Quinn and Associates,Norske Skog
 139,Bartholomew Quinn and Associates,Tas Developments
-338,Barton Deakin ,Corrs Chambers Westgarth
 338,Barton Deakin ,Apple
 338,Barton Deakin ,Yellow Edge
 338,Barton Deakin ,Motorola
 338,Barton Deakin ,Adobe
-338,Barton Deakin ,AIME Mentoring
 338,Barton Deakin ,Harness Racing Australia Inc
 338,Barton Deakin ,Cure for Life Foundation
 338,Barton Deakin ,Camp Quality
@@ -92,11 +91,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Aspen Medical
 338,Barton Deakin ,Playtika Ltd
 338,Barton Deakin ,International Social Games Coalition
-338,Barton Deakin ,Trility
 338,Barton Deakin ,Medibank Health Solutions Pty Ltd
 338,Barton Deakin ,Crown Castle Australia Pty Limited
-338,Barton Deakin ,Northgate Public Services Pty Ltd
-338,Barton Deakin ,Royal Agricultural Society of NSW
 338,Barton Deakin ,Yum! Restaurants Australia Pty Limited 
 338,Barton Deakin ,The Song Room Inc 
 338,Barton Deakin ,McDonald's Australia Ltd
@@ -106,74 +102,46 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Settlement Services International 
 338,Barton Deakin ,The Caravan Camping & Touring Industry & Manufactured Housing Industry Association of NSW Ltd
 338,Barton Deakin ,Citigroup Pty Limited
-338,Barton Deakin ,Renew Initiatives Australia Limited 
 338,Barton Deakin ,Bowel Cancer Australia
-338,Barton Deakin ,C.H. Group Pty Ltd
-338,Barton Deakin ,Buchanan Group
 338,Barton Deakin ,AARNet Pty Ltd
-338,Barton Deakin ,The Alliance for Safe Children
 338,Barton Deakin ,Heathgate Resources Pty Ltd
-338,Barton Deakin ,Ally Group
-338,Barton Deakin ,CSL Australia
 338,Barton Deakin ,National Pork Producers Council
 338,Barton Deakin ,AMP Limited
-338,Barton Deakin ,RUOK Limited
-338,Barton Deakin ,Nextgen Group Holdings Pty Ltd 
 338,Barton Deakin ,Fujitsu Australia Ltd.
 338,Barton Deakin ,Expedia Inc
 338,Barton Deakin ,Honeywell Holdings Pty Ltd
-338,Barton Deakin ,Teekay Shipping (Australia) Pty Ltd
 338,Barton Deakin ,National Association of People With HIV Australia
-338,Barton Deakin ,KinCare Health Services Pty Ltd
 338,Barton Deakin ,IPAR Rehabilitation Pty Ltd
 338,Barton Deakin ,St George Community Housing Limited 
-338,Barton Deakin ,Nearmap Ltd
 338,Barton Deakin ,Life Without Barriers
 338,Barton Deakin ,Company B Limited
 338,Barton Deakin ,The ORS Group Pty Ltd
-338,Barton Deakin ,Gulf Savannah Development Inc. 
 338,Barton Deakin ,Lockheed Martin Overseas Corporation
-338,Barton Deakin ,Children's Medical Research Institute
 338,Barton Deakin ,Opal Aged Care
 338,Barton Deakin ,Adults Surviving Child Abuse
 338,Barton Deakin ,Orica Australia Pty Ltd
 338,Barton Deakin ,Mark Moran Group Pty Ltd
-338,Barton Deakin ,Accelerate Group Pty Ltd
-338,Barton Deakin ,Dennis Family Corporation Pty Ltd
-338,Barton Deakin ,Law Institute of Victoria Limited
 338,Barton Deakin ,Murdoch Childrens Research Institute
 338,Barton Deakin ,Social Traders Ltd
-338,Barton Deakin ,Coca Cola Amatil
 338,Barton Deakin ,CHC Helicopters Australia
 338,Barton Deakin ,QBE Insurance Group Limited
-338,Barton Deakin ,National Children's and Youth Law Centre
 338,Barton Deakin ,Ashley Services Group Limited
 338,Barton Deakin ,Palace Cinemas Nominees Pty Ltd
 338,Barton Deakin ,Tata Consultancy Services Limited
 338,Barton Deakin ,Unisys Australia Pty Limited
 338,Barton Deakin ,Literacy for Life Foundation Limited
 338,Barton Deakin ,Caravan Industry Association of Australia Ltd
-338,Barton Deakin ,Logic Entity Australia Pty Ltd
-338,Barton Deakin ,Young Menâs Christian Association of Sydney
-338,Barton Deakin ,Reddawn
 338,Barton Deakin ,Atlassian
-338,Barton Deakin ,BSE Maritime Solutions
 338,Barton Deakin ,CUB Pty Ltd
-338,Barton Deakin ,RIVERLIFE PTY. LTD. 
 338,Barton Deakin ,Corning Optical Communications Pty Ltd
-338,Barton Deakin ,Ipar Proprietary Limited 
 338,Barton Deakin ,Palace Cinemas Pty Ltd
 338,Barton Deakin ,Brookfield Rail Pty Ltd
 338,Barton Deakin ,Vector Limited 
 338,Barton Deakin ,Fincantieri S.p.A
-338,Barton Deakin ,SMG Technologies Pty Ltd 
-338,Barton Deakin ,Geo Group Australia Pty Ltd
-338,Barton Deakin ,H & R Block Limited
 338,Barton Deakin ,Opera Australia
 338,Barton Deakin ,Lake Macquarie City Council
 338,Barton Deakin ,National Road Transport Association Limited
 338,Barton Deakin ,ViiV Healthcare Pty Ltd
-338,Barton Deakin ,Arinex Pty Ltd
 338,Barton Deakin ,Swisse Wellness Pty Ltd
 338,Barton Deakin ,Marathon Health Ltd
 338,Barton Deakin ,Global Orthopaedic Technology Pty Ltd
@@ -185,7 +153,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Programmed Marine Pty Ltd
 338,Barton Deakin ,Kalfresh Pty Ltd
 338,Barton Deakin ,Navitas Limited
-338,Barton Deakin ,Australian Automobile Dealers Association
 338,Barton Deakin ,StatOil Australia AS
 338,Barton Deakin ,Edwards Lifescience Pty Limited
 338,Barton Deakin ,TAL Services Limited
@@ -195,6 +162,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Brandenburg Ensemble Ltd
 338,Barton Deakin ,Propertylink Pty Ltd
 338,Barton Deakin ,MAG DS Corp. 
+338,Barton Deakin ,Rick Hansen Institute
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -543,6 +511,9 @@ agency_id,agency_business_entity_name,client_name
 74,Enhance Corporate Pty Ltd,Mineralogy Pty Ltd
 71,Essential Media Communications Pty Ltd,Defence Teaming Centre
 71,Essential Media Communications Pty Ltd,Australian Marriage Equality
+71,Essential Media Communications Pty Ltd,Luke Batty Foundation Limited
+71,Essential Media Communications Pty Ltd,Women's Legal Service Inc
+71,Essential Media Communications Pty Ltd,COTA Australia
 564,Etched Communications Pty Ltd,Nestle Australia
 564,Etched Communications Pty Ltd,Achieve Australia
 564,Etched Communications Pty Ltd, Interface Aust Pty Limited
@@ -659,6 +630,7 @@ agency_id,agency_business_entity_name,client_name
 185,Geoff Conlon,H & D srl
 185,Geoff Conlon,Solar Brokers Associated
 185,Geoff Conlon,Evolvo srl
+754,Geoffrey Michael Brennan,Australian Digital Currency and Commerce Association
 238,GIMC Consulting,Broadcast Operations Pty Ltd
 238,GIMC Consulting,Redwave Media Pty Ltd
 238,GIMC Consulting,Hot Tomato Pty Ltd
@@ -666,6 +638,7 @@ agency_id,agency_business_entity_name,client_name
 150,Glide Pty Ltd,The Alliance for Children at Risk inc
 561,Global Issues Group,Refrigerants Australia
 561,Global Issues Group,AIR CONDITIONING AND REFRIGERATION EQUIPMENT MANUFACTURERS ASSOCIATION OF AUSTRALIA INCORPORATED
+750,GovCorp Pty Ltd,VS Connect Pty Ltd
 7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
 7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
 7,Government Relations Solutions Pty Ltd,ERO Mining Limited
@@ -743,6 +716,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,KEPCO Bylong Australia Pty Ltd
 59,GRACosway Pty Ltd,St. John Ambulance Australia Incorporated
 59,GRACosway Pty Ltd,Gaming Technologies Association Limited
+59,GRACosway Pty Ltd,Home Investment Consortium Company Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1056,6 +1030,15 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,BP Australia
 132,Megan Anwyl,P and H Marine Australia Pty Ltd
 720,MIBD Strategy ,Kurz Australia 
+699,Michael John Kauter,Nicoventures Australia Pty Limited
+699,Michael John Kauter,British American Tobacco Australia
+699,Michael John Kauter,National Australia Bank Limited
+699,Michael John Kauter,Group of Eight Universities Australia
+699,Michael John Kauter,E4 Health Australia 
+699,Michael John Kauter,University of Melbourne
+699,Michael John Kauter,Monash University
+699,Michael John Kauter,Anatomics
+699,Michael John Kauter,Anatomics Rx
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
@@ -1341,6 +1324,7 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Horticulture and Energy Investment Company Australia No. 1 Pty Ltd 
 395,Right Angle Business Services Pty Ltd,True Value Solar Pty Ltd
 395,Right Angle Business Services Pty Ltd,Maria's Farm Veggies Pty Ltd
+755,RIPNEY PTY LTD,AIA AUSTRALIA
 20,RMK Associates (RMKA),Tyre Stewardship Australia
 20,RMK Associates (RMKA),Mercury Group of Companies
 20,RMK Associates (RMKA),Flamesniffer
@@ -1399,6 +1383,8 @@ agency_id,agency_business_entity_name,client_name
 171,Shac Communications Pty Ltd ATF The Shac Trust,ATCO Structures and Logistics 
 171,Shac Communications Pty Ltd ATF The Shac Trust,Devcorp 
 171,Shac Communications Pty Ltd ATF The Shac Trust,Gemini Accident Repairs Centres PTY LTD
+681,Simeon Duncan,Intuit Inc.
+681,Simeon Duncan,Intuit Australia
 749,Sling & Stone,MailGuard
 82,Socom Pty Ltd,The Interface Councils
 82,Socom Pty Ltd,Rural Councils Victoria 
@@ -1443,18 +1429,8 @@ agency_id,agency_business_entity_name,client_name
 9,The Canberra Institute,Emirates Trading Australia
 9,The Canberra Institute,Australian Agricultural Resources
 9,The Canberra Institute,Mulligans Flat Developments Pty Ltd
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Australian Music Association
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Invictus Solutions Pty Ltd trading as Majella Global Technologies
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,JCP Investment Partners Ltd
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Asahi Group Holdings Ltd
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Australian Commercial and Entertainment Technologies Association
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Meridian Energy Australia Pty Ltd
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Independent Distillers (Aust) Pty Ltd
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Asahi Premium Beverages Pty Ltd
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Australian Multicultural Community Services
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Musical Futures Australia
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,DomaCom Limited
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Nubuild Beveridge Pty Ltd
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers of Australia Inc
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Bulla Dairy Foods
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
@@ -1530,6 +1506,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Mitsubishi Heavy Industries
 145,The Trustee for Bespoke Business Trust,National Australia Bank Limited
 145,The Trustee for Bespoke Business Trust,Fyfe Pty Ltd
+145,The Trustee for Bespoke Business Trust,Business Council of Australia
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
