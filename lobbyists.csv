@@ -262,6 +262,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Anna Martel,Associate,No,""
 319,Jo Scard Pty Ltd,Olivia Rosenman,Associate,No,""
 319,Jo Scard Pty Ltd,Vanessa Luong,Associate,No,""
+319,Jo Scard Pty Ltd,Gabrielle Ann Brophy,Associate,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 101,John Connolly & Partners Pty Limited,Gabrielle Notley,Partner,No,""
@@ -287,6 +288,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Travis Bell,Director,Yes,December 2007
 76,Kreab Gavin Anderson (Australia) Ltd,Nataly Matijevic ,Director / Melbourne Office Head ,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Justin Clark,Partner / Sydney Office Head,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Nick Westenberg,Senior Advisor,No,""
 748,Kylie Ahern Consulting,Kylie Ahern,Director,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
@@ -312,8 +314,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
 720,MIBD Strategy ,Marc (Meir) Itzchaki,Principal ,Yes,December 2014
-699,Michael John Kauter,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
-699,Michael John Kauter,David Gracey,Senior Counsel,No,""
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Managing Partner,No,""
@@ -341,12 +341,17 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Matthew Francis,Associate Partner,Yes,June 2015
 565,Newgate Communications Pty Limited,Richard Collyer,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Adam Le Lievre,Senior Consultant,Yes,March 2016
+565,Newgate Communications Pty Limited,Claire Bremner,Associate Partner,Yes,April 2006
 526,Next Level Holdings Pty Ltd,David Moore,Director,Yes,November 2007
 526,Next Level Holdings Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
 526,Next Level Holdings Pty Ltd,Stephen Beckett,Senior Manager,No,""
 526,Next Level Holdings Pty Ltd,Cameron Milner,Director,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
+86,Ogilvy PR Health,Sally Strautins,Senior Account Director,No,""
+86,Ogilvy PR Health,Rachel Stanton,Account Director,No,""
+86,Ogilvy PR Health,Kate Parson,Account Coordinator,No,""
+86,Ogilvy PR Health,Chloe Dougherty,Account Coordinator,No,""
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
@@ -498,6 +503,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 145,The Trustee for Bespoke Business Trust,Georgia Bradshaw,Associate,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Managing Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Michael Burgess,Partner,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Clancy O'Donnell,Associate,No,""
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 550,The Trustee for Connelly Project Resources,Michael Peter Connelly,Director,No,""
@@ -529,7 +535,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,CEO,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Partner,No,""
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Julie Louise Sibraa,Senior Counsel,Yes,December 2009
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Manager,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Timothy Christopher Mantiri,Account Executive,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Kathy Patricia Lindsay,Account Director,No,""

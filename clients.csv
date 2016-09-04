@@ -502,7 +502,6 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,iSelect 
 31,Endeavour Consulting Group Pty Ltd,Federal Chamber of Automotive Industries
 31,Endeavour Consulting Group Pty Ltd,Australian Automotive Dealer Association
-31,Endeavour Consulting Group Pty Ltd,Mitsubishi Heavy Industries 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -1030,15 +1029,6 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,BP Australia
 132,Megan Anwyl,P and H Marine Australia Pty Ltd
 720,MIBD Strategy ,Kurz Australia 
-699,Michael John Kauter,Nicoventures Australia Pty Limited
-699,Michael John Kauter,British American Tobacco Australia
-699,Michael John Kauter,National Australia Bank Limited
-699,Michael John Kauter,Group of Eight Universities Australia
-699,Michael John Kauter,E4 Health Australia 
-699,Michael John Kauter,University of Melbourne
-699,Michael John Kauter,Monash University
-699,Michael John Kauter,Anatomics
-699,Michael John Kauter,Anatomics Rx
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
@@ -1076,6 +1066,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Ferrier Hodgson
 565,Newgate Communications Pty Limited,Australia Post
 565,Newgate Communications Pty Limited,Football Federation Australia
+565,Newgate Communications Pty Limited,Australian Bankers' Association Inc
 526,Next Level Holdings Pty Ltd,Adani Mining Pty Ltd
 526,Next Level Holdings Pty Ltd,Linfox Proprietary Limited
 526,Next Level Holdings Pty Ltd,Gas Energy Australia
@@ -1083,8 +1074,28 @@ agency_id,agency_business_entity_name,client_name
 526,Next Level Holdings Pty Ltd,Careers Australia Group Limited
 526,Next Level Holdings Pty Ltd,BOC Limited
 526,Next Level Holdings Pty Ltd,The Lewis Land Group of Companies
+526,Next Level Holdings Pty Ltd,QRE Pty Ltd
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
+86,Ogilvy PR Health,Merck Serono
+86,Ogilvy PR Health,Genzyme
+86,Ogilvy PR Health,Celgene
+86,Ogilvy PR Health,Bristol-Myers Squibb
+86,Ogilvy PR Health,Research Australia
+86,Ogilvy PR Health,Australian Pompeâs Association
+86,Ogilvy PR Health,Australian Diabetes Council
+86,Ogilvy PR Health,CSL Limited
+86,Ogilvy PR Health,CSL Biotherapies
+86,Ogilvy PR Health,Eli Lilly Australia
+86,Ogilvy PR Health,Rare Voices Australia
+86,Ogilvy PR Health,3M Australia
+86,Ogilvy PR Health,Australian Association of Pathology Practices
+86,Ogilvy PR Health,Garvan Research Foundation
+86,Ogilvy PR Health,Fitness First
+86,Ogilvy PR Health,Johnson and Johnson Medical
+86,Ogilvy PR Health,Philips Healthcare
+86,Ogilvy PR Health,Biomarin
+86,Ogilvy PR Health,Baxalta
 632,One Degree Advisory,Edith Cowan University
 670,Open Spectrum Pty Ltd,Australian Mobile Telecommunications Association
 744,O'Reilly Consulting,Waste and Recycling Association of South Australia
@@ -1314,6 +1325,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Emergency Medicine Foundation
 35,Richardson Coutts,Magnovate Transportation Inc
 35,Richardson Coutts,Hexagon Safety and Infrastructure
+35,Richardson Coutts,Tribal Group Plc
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
@@ -1367,6 +1379,7 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Welldog Pty Ltd
 227,SAS Consulting Group Pty Ltd,MATES IN CONSTRUCTION (AUST) LIMITED
 227,SAS Consulting Group Pty Ltd,China Telecom Global Limited
+227,SAS Consulting Group Pty Ltd,Yuanda Australia Pty Ltd
 167,Scott & Beaumont Pty Ltd,ConnectLand Pty Ltd; Koppers Australia
 167,Scott & Beaumont Pty Ltd,WSLloyd
 167,Scott & Beaumont Pty Ltd,Galbraith and Co
@@ -1385,6 +1398,8 @@ agency_id,agency_business_entity_name,client_name
 171,Shac Communications Pty Ltd ATF The Shac Trust,Gemini Accident Repairs Centres PTY LTD
 681,Simeon Duncan,Intuit Inc.
 681,Simeon Duncan,Intuit Australia
+681,Simeon Duncan,Enirgi Group
+681,Simeon Duncan,Industry Capability Network
 749,Sling & Stone,MailGuard
 82,Socom Pty Ltd,The Interface Councils
 82,Socom Pty Ltd,Rural Councils Victoria 
@@ -1433,6 +1448,7 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Musical Futures Australia
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers of Australia Inc
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Bulla Dairy Foods
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Tilley Soaps Australia
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
@@ -1507,6 +1523,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,National Australia Bank Limited
 145,The Trustee for Bespoke Business Trust,Fyfe Pty Ltd
 145,The Trustee for Bespoke Business Trust,Business Council of Australia
+145,The Trustee for Bespoke Business Trust,Elegant Jubilee Limited
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1532,6 +1549,7 @@ agency_id,agency_business_entity_name,client_name
 668,The Trustee for Sandra Eccles Family Trust,BlueScope Steel Limited
 668,The Trustee for Sandra Eccles Family Trust,PTTEP Australasia Pty Ltd
 668,The Trustee for Sandra Eccles Family Trust,AREVA Resources Australia Pty Ltd
+668,The Trustee for Sandra Eccles Family Trust,The Salvation Army Employment Plus 
 117,The Trustee for the Bowden Family Trust,Group Training Australia
 117,The Trustee for the Bowden Family Trust,TAFE Directors Australia
 117,The Trustee for the Bowden Family Trust,Advisian Pty Ltd
