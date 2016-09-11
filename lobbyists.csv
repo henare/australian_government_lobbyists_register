@@ -47,6 +47,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 131,BTelecom Pty Ltd,Sarina Le,Director,No,""
 131,BTelecom Pty Ltd,Greg Fonti,General Manager,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
+760,Bushido International Pty Ltd,Peter James WHITE,Chief Executive,No,""
 654,C2hills Investments Pty Limited,dana margaret gardner,consultant,No,""
 654,C2hills Investments Pty Limited,Cara Leanne Dale,Director/Consultant,No,""
 654,C2hills Investments Pty Limited,Matthew David Field,Business Consultant,No,""
@@ -190,6 +191,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
 1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
+1,Gambolling Pty Ltd,Jane Beer,PA/Consultant,Yes,August 2016
 375,Gell Southam Group Pty Ltd,Patrick Southam,Principal,No,""
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
 754,Geoffrey Michael Brennan,Geoffrey Brennan,Owner,Yes,October 1995
@@ -272,6 +274,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,Thomas Michael O'Meara,Consultant,No,""
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
+410,Justine Caines,Justine Caines,Principal,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 621,KnowMinister.com Pty Ltd,Denise Frances Williams,Consultant,No,""
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones,Managing Director,No,""
@@ -295,6 +298,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 557,Leanne Joyce Consulting,Leanne Joyce,Public Affairs and Communications Consultant,No,""
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
+758,Lia Jacinta Cody,Lia Cody,Owner/Sole Trader,No,""
 204,Lighthouse Communications Group Pty Ltd,Peter Laidlaw,Managing Director,No,""
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Kirsten Marks,Healthcare Consultant,No,""
@@ -348,9 +352,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 526,Next Level Holdings Pty Ltd,Cameron Milner,Director,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
+86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
 86,Ogilvy PR Health,Sally Strautins,Senior Account Director,No,""
+86,Ogilvy PR Health,Rachel Beck,Account Executive,No,""
 86,Ogilvy PR Health,Rachel Stanton,Account Director,No,""
 86,Ogilvy PR Health,Kate Parson,Account Coordinator,No,""
+86,Ogilvy PR Health,Michael Lane,Senior Consultant,No,""
 86,Ogilvy PR Health,Chloe Dougherty,Account Coordinator,No,""
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
@@ -414,6 +421,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 492,Rachael Sweeney ,Stuart Beswick,Policy Advisor,Yes,July 2011
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
+763,RCO AGENCY,Radomir Kobryn-Coletti,Director ,No,""
 563,"Reith, Peter Keaston",Peter Keaston Reith,Sole Trader,Yes,November 2001
 91,REPUBLIC Consulting,Liza-Jayne Loch,Director,No,""
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
@@ -445,6 +453,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Victoria Qiu,Director China,No,""
+227,SAS Consulting Group Pty Ltd,Lisa Palu,Senior Consultant,No,""
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
 676,Sesimic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Sesimic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""

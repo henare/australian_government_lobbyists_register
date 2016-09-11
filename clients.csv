@@ -163,6 +163,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Propertylink Pty Ltd
 338,Barton Deakin ,MAG DS Corp. 
 338,Barton Deakin ,Rick Hansen Institute
+338,Barton Deakin ,Syngenta Australia Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -197,6 +198,7 @@ agency_id,agency_business_entity_name,client_name
 52,Bush Consulting Services Pty Ltd,Australian Home Entertainment Distributors Association
 52,Bush Consulting Services Pty Ltd,Fujitsu
 52,Bush Consulting Services Pty Ltd,Australian Screen Association
+760,Bushido International Pty Ltd,Finance Brokers Association of Australia Limited
 654,C2hills Investments Pty Limited,Rivcott Pty Limited
 654,C2hills Investments Pty Limited,ACN 602 837 883 Pty Limited ATF Lansdowne Property Trust
 654,C2hills Investments Pty Limited,Macleay River Meats Pty Limited
@@ -884,6 +886,7 @@ agency_id,agency_business_entity_name,client_name
 255,John Scott Barker,Winemaking Tasmania Pty Ltd
 255,John Scott Barker,Houstons Farm 
 264,"John, Susan Maree",Bioventus Australia Pty Ltd
+410,Justine Caines,Danii Foundation
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
@@ -950,6 +953,9 @@ agency_id,agency_business_entity_name,client_name
 223,Leonie M. Short,Australian Hand Therapy Association Inc
 223,Leonie M. Short,Australasian Council of Dental Schools 
 223,Leonie M. Short,Queensland Regional Training Networks (James Cook University).
+758,Lia Jacinta Cody,Vet Connections PTY LTD
+758,Lia Jacinta Cody,Open Skills Australia PTY LTD
+758,Lia Jacinta Cody,Fupos PTY LTD
 204,Lighthouse Communications Group Pty Ltd,oOH!media
 204,Lighthouse Communications Group Pty Ltd,Redkite
 204,Lighthouse Communications Group Pty Ltd,Beaumont Tiles
@@ -1075,6 +1081,7 @@ agency_id,agency_business_entity_name,client_name
 526,Next Level Holdings Pty Ltd,BOC Limited
 526,Next Level Holdings Pty Ltd,The Lewis Land Group of Companies
 526,Next Level Holdings Pty Ltd,QRE Pty Ltd
+526,Next Level Holdings Pty Ltd,Sumo Salad 
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Merck Serono
@@ -1273,6 +1280,7 @@ agency_id,agency_business_entity_name,client_name
 14,Ranicar and Nicholls Consulting,Acacia Research Pty Ltd
 14,Ranicar and Nicholls Consulting,DSIT Solutions Ltd
 14,Ranicar and Nicholls Consulting,BlueZone Group
+763,RCO AGENCY,DX SOLUTIONS
 563,"Reith, Peter Keaston",Bechtel Management Company Ltd
 563,"Reith, Peter Keaston",G4S Custodial Services Pty Ltd
 91,REPUBLIC Consulting,Lions Australia
@@ -1376,10 +1384,12 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Indue Ltd
 227,SAS Consulting Group Pty Ltd,MAX Solutions
 227,SAS Consulting Group Pty Ltd,Wanda Ridong (Gold Coast) Development Pty Ltd
-227,SAS Consulting Group Pty Ltd,Welldog Pty Ltd
 227,SAS Consulting Group Pty Ltd,MATES IN CONSTRUCTION (AUST) LIMITED
 227,SAS Consulting Group Pty Ltd,China Telecom Global Limited
 227,SAS Consulting Group Pty Ltd,Yuanda Australia Pty Ltd
+227,SAS Consulting Group Pty Ltd,Tactiv Pty Ltd
+227,SAS Consulting Group Pty Ltd,Australian Council for Private Education and Training
+227,SAS Consulting Group Pty Ltd,BGandE Pty Ltd
 167,Scott & Beaumont Pty Ltd,ConnectLand Pty Ltd; Koppers Australia
 167,Scott & Beaumont Pty Ltd,WSLloyd
 167,Scott & Beaumont Pty Ltd,Galbraith and Co
