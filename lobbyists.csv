@@ -22,6 +22,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 45,Australian Public Affairs Limited Partnership,Rodney Frail,Director  Media and Issues Management,No,""
 45,Australian Public Affairs Limited Partnership,Michael Gleeson,Senior Consultant,No,""
 45,Australian Public Affairs Limited Partnership,Amanda Parker,Senior Consultant,No,""
+45,Australian Public Affairs Limited Partnership,Nick Trainor,Consultant,Yes,August 2016
+45,Australian Public Affairs Limited Partnership,Priya Kumar,Consultant,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack,Director,Yes,June 2001
 139,Bartholomew Quinn and Associates,David Quinn,Managing Director,No,""
@@ -58,7 +60,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Michael Photios,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Cathy Duncan,Practice Manager,Yes,June 2012
 556,Capital Hill Advisory Pty Ltd,David Begg,Director,No,""
-556,Capital Hill Advisory Pty Ltd,Natalie Fitzpatrick,Manager Public Policy,No,""
 556,Capital Hill Advisory Pty Ltd,Ian Hancock,Government Policy Analyst,No,""
 556,Capital Hill Advisory Pty Ltd,Christine Kirk,Executive Assistant,No,""
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Consultant,No,""
@@ -292,6 +293,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Nataly Matijevic ,Director / Melbourne Office Head ,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Justin Clark,Partner / Sydney Office Head,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Nick Westenberg,Senior Advisor,No,""
+76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Senior Advisor,Yes,August 2016
 748,Kylie Ahern Consulting,Kylie Ahern,Director,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
@@ -346,6 +348,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Richard Collyer,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Adam Le Lievre,Senior Consultant,Yes,March 2016
 565,Newgate Communications Pty Limited,Claire Bremner,Associate Partner,Yes,April 2006
+565,Newgate Communications Pty Limited,Phillip Kelly,Senior Adviser,No,""
 526,Next Level Holdings Pty Ltd,David Moore,Director,Yes,November 2007
 526,Next Level Holdings Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
 526,Next Level Holdings Pty Ltd,Stephen Beckett,Senior Manager,No,""
@@ -353,12 +356,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
-86,Ogilvy PR Health,Sally Strautins,Senior Account Director,No,""
-86,Ogilvy PR Health,Rachel Beck,Account Executive,No,""
-86,Ogilvy PR Health,Rachel Stanton,Account Director,No,""
-86,Ogilvy PR Health,Kate Parson,Account Coordinator,No,""
-86,Ogilvy PR Health,Michael Lane,Senior Consultant,No,""
-86,Ogilvy PR Health,Chloe Dougherty,Account Coordinator,No,""
+86,Ogilvy PR Health,Rachel Beck,Senior Consultant,No,""
+86,Ogilvy PR Health,Rachel Stanton,Senior Account Director,No,""
+86,Ogilvy PR Health,Kate Parson,Account Executive,No,""
+86,Ogilvy PR Health,Michael Lane,Account Manager,No,""
+86,Ogilvy PR Health,Chloe Dougherty,Account Executive,No,""
+86,Ogilvy PR Health,Tania Jayesuria,Practice Director,No,""
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
@@ -381,7 +384,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,General Manager,No,""
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,David Begg,Director,No,""
-516,Premier State Consulting Pty Ltd,Natalie Fitzpatrick,Manager â Governance & Strategic Planning,No,""
 516,Premier State Consulting Pty Ltd,Nick Campbell,Director,Yes,December 1999
 516,Premier State Consulting Pty Ltd,Ian Hancock,Analyst,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
@@ -494,6 +496,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Manika Naidoo,Senior Account Executive,Yes,November 2010
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
+757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
 268,The Premier Communications Group Pty Ltd.,Ross Grove,Senior Advisor,No,""
@@ -503,6 +506,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,The Hon. Dr Michael Wooldridge,Advisor,Yes,October 2001
 95,The Strategic Counsel Pty Ltd,Rebecca McCarthy,Associate,No,""
+95,The Strategic Counsel Pty Ltd,Catherine McGovern,Advisor,Yes,May 2000
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
 424,The Taylor Street Consultancy P/L,Adam Leto,Senior Advisor,No,""
 424,The Taylor Street Consultancy P/L,Tania Hyde,Chief Operating Officer,Yes,February 2007

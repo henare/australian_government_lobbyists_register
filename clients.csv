@@ -252,11 +252,11 @@ agency_id,agency_business_entity_name,client_name
 558,Catherine Emma Rocchi,Partners in Grain WA
 558,Catherine Emma Rocchi,Captivate on Hold
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
-601,Catherine McGovern,Ipsen Pty Ltd
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
 601,Catherine McGovern,Urological Society of Australia and New Zealand
 601,Catherine McGovern,Juno Pharmaceuticals
 601,Catherine McGovern,Australian Mitochondrial Disease Foundation
+601,Catherine McGovern,Private Healthcare Australia
 191,"Cemdia Pty, Ltd",NBNCo
 743,CETE Consulting Pty Ltd,Calzoni S.r.l.
 265,CGP solutions Ltd,ViaSat Inc
@@ -1232,6 +1232,7 @@ agency_id,agency_business_entity_name,client_name
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
+68,Public Policy Solutions Pty Ltd,Terressentia
 242,Purple Communications Australia Pty Ltd,Energy and Minerals Australia
 242,Purple Communications Australia Pty Ltd,Rey Resources
 242,Purple Communications Australia Pty Ltd,City of Melville
@@ -1463,6 +1464,11 @@ agency_id,agency_business_entity_name,client_name
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
 90,The Fifth Estate Consultancy Pty Ltd,Hume Coal
+757,The Hon. Robert Charles Baldwin,Varley Engineering Pty Ltd 
+757,The Hon. Robert Charles Baldwin,Bob Mills Cotton (India)
+757,The Hon. Robert Charles Baldwin,Seabob Jet Pty Ltd
+757,The Hon. Robert Charles Baldwin,Nino Lani
+757,The Hon. Robert Charles Baldwin,Bluesight Building Pty Ltd
 450,The Humphrey Company Pty Limited,AMI International
 450,The Humphrey Company Pty Limited,Project Flinders Pty Ltd
 268,The Premier Communications Group Pty Ltd.,Phebra
@@ -1486,9 +1492,9 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,Complementary Medicines Association
 95,The Strategic Counsel Pty Ltd,AbbVie Pty Ltd
 95,The Strategic Counsel Pty Ltd,National Pharmaceutical Services Association
-95,The Strategic Counsel Pty Ltd,Private Healthcare Australia
 95,The Strategic Counsel Pty Ltd,KidsXpress
 95,The Strategic Counsel Pty Ltd,Seqirus Australia
+95,The Strategic Counsel Pty Ltd,Actelion Pharmaceuticals Ltd
 424,The Taylor Street Consultancy P/L,Lend Lease
 424,The Taylor Street Consultancy P/L,NRMA Motoring and Services 
 424,The Taylor Street Consultancy P/L,The Dockside Group 
@@ -1520,6 +1526,7 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,Kellogg Brown & Root Pty Ltd
 698,The Trustee for Arthur Trust,ELAN Energy Matrix
 698,The Trustee for Arthur Trust,Association of Australian Convention Bureaux 
+698,The Trustee for Arthur Trust,Carlton Football Club
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
