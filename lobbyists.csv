@@ -3,7 +3,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 739,AA Access Partnership Limited,Felicity Morrison,Advisor,Yes,January 2015
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
-746,Advisory Street Pty Ltd,Taleen Shamlian,Director,Yes,September 2003
+746,Advisory Street Pty Ltd,Taleen Shamlian,Managing Director,Yes,September 2003
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
 37,Aequum Pty Ltd,Gary Scarrabelotti,Managing Director,No,""
 104,Alkar Pty Ltd,Allan King,Director,No,""
@@ -16,6 +16,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 588,Argos Consulting,Brett Robin Hilder,Owner,No,""
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke,Director,Yes,August 2004
 379,assetpr,Anthony Rasman,Strategic Counsel,No,""
+770,Asys Consulting,Anthony Nagy,Director,No,""
+770,Asys Consulting,Matt Stevens,Director,No,""
 63,AusAccess Unit Trust,Mark Ridgway,Chairman,Yes,May 1994
 747,Australian Industry Facilitation,David Mitchell,Chief Executive Officer,Yes,August 2005
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
@@ -50,7 +52,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 131,BTelecom Pty Ltd,Greg Fonti,General Manager,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
 760,Bushido International Pty Ltd,Peter James WHITE,Chief Executive,No,""
-654,C2hills Investments Pty Limited,dana margaret gardner,consultant,No,""
 654,C2hills Investments Pty Limited,Cara Leanne Dale,Director/Consultant,No,""
 654,C2hills Investments Pty Limited,Matthew David Field,Business Consultant,No,""
 654,C2hills Investments Pty Limited,Justine Jeffery,Business Consultant,No,""
@@ -94,11 +95,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Ross Macdonald,Government Relations Adviser,Yes,July 2016
 79,CMAX Communications Pty Ltd,Kiya Taylor,Government Relations Adviser,No,""
 79,CMAX Communications Pty Ltd,Vanessa Sung,Government Relations Adviser,No,""
-428,CMGRP Pty Ltd,Jacquelynne Willcox,"Head of Corporate Public Affairs, Senior Strategic Counsel",No,""
+428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director,No,""
 428,CMGRP Pty Ltd,Eliza Newton,Senior Account Director,No,""
-428,CMGRP Pty Ltd,Alistair Nicholas,Senior Advisor,Yes,October 2000
+428,CMGRP Pty Ltd,Alistair Nicholas,Director Special Projects,Yes,October 2000
 428,CMGRP Pty Ltd,Megan McCarthy,Senior Account Manager,No,""
-428,CMGRP Pty Ltd,Justin Yuen,Senior Consultant,No,""
+428,CMGRP Pty Ltd,Justin Yuen,Account Manager,No,""
+428,CMGRP Pty Ltd,Taylee Lewis,Senior Consultant,No,""
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Dave Coggin,Director,Yes,May 2010
 625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Anthony Hasluck,Director,No,""
@@ -217,6 +219,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 122,GRA Everingham Pty Ltd,Kareece van der Woude,Client Support,No,""
 122,GRA Everingham Pty Ltd,Hon Eric Ripper,Chairman,No,""
 122,GRA Everingham Pty Ltd,Tim Fettis,Associate,No,""
+122,GRA Everingham Pty Ltd,Patrick Fagan,Associate Director ,Yes,September 2015
 59,GRACosway Pty Ltd,Richard Victor King,Partner,Yes,February 2000
 59,GRACosway Pty Ltd,Alexander Cramb,Partner,Yes,January 2008
 59,GRACosway Pty Ltd,Paolo Giovanni Bini,Partner,Yes,November 1995
@@ -233,8 +236,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Nicola Georgina Smith,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Sharon Anne Reid,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Jinesh Patel,Director,No,""
-59,GRACosway Pty Ltd,Pamela Rosa Lombardi,Research and Policy Analyst,Yes,December 2007
 59,GRACosway Pty Ltd,Liam Nilon,Research and Policy Analyst,No,""
+59,GRACosway Pty Ltd,Erin Germantis,Research and Policy Analyst,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
@@ -242,10 +245,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
 96,Hawker Britton Group Pty Ltd,Philip Reed,Director,No,""
 96,Hawker Britton Group Pty Ltd,Claire March ,Director ,Yes,September 2013
+96,Hawker Britton Group Pty Ltd,Eamonn Fitzpatrick,Director,Yes,September 2013
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
 8,Hill and Knowlton,Ian Westbrook,Head of Financial and Investor Communication,No,""
+765,IALPG PTY LTD,Joseph Wheeler,Principal,No,""
+765,IALPG PTY LTD,Harold Foxton,Solicitor,No,""
 674,Ian Peregrine Desborough,Ian Desborough,Principal,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
 714,Insight Strategy Pty Ltd,Jody Fassina,Director,Yes,April 2001
@@ -289,7 +295,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 115,KPMG,Stefano Moritsch,Senior Consultant,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Managing Partner Australia,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Jessica McIntyre,Office Manager,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Turner,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jeff Sorrell,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Travis Bell,Director,Yes,December 2007
@@ -314,6 +319,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
 80,MacGregor Public Relations,John MacGregor,Managing Director,No,""
+119,Macquarie Group Limited,Kristine Neill,Executive Director Corporate Communications  Investor Relations,No,""
 119,Macquarie Group Limited,Navleen Prasad,Division Director Corporate Communications and Investor Relations Division,No,""
 119,Macquarie Group Limited,Marina Polita,Senior Manager Corporate Communications and Investor Relations Division,No,""
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd,Managing Director,Yes,March 1996
@@ -347,17 +353,17 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Simon Troeth,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Sam Deans,Consultant,No,""
 565,Newgate Communications Pty Limited,Helen Moreland,Associate Partner,Yes,April 2015
-565,Newgate Communications Pty Limited,Libby Roberts,Account Executive,No,""
 565,Newgate Communications Pty Limited,Gail Morgan,Associate Partner,Yes,May 2006
 565,Newgate Communications Pty Limited,Matthew Francis,Associate Partner,Yes,June 2015
 565,Newgate Communications Pty Limited,Richard Collyer,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Adam Le Lievre,Senior Consultant,Yes,March 2016
 565,Newgate Communications Pty Limited,Claire Bremner,Associate Partner,Yes,April 2006
 565,Newgate Communications Pty Limited,Phillip Kelly,Senior Adviser,No,""
-526,Next Level Holdings Pty Ltd,David Moore,Director,Yes,November 2007
-526,Next Level Holdings Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
-526,Next Level Holdings Pty Ltd,Stephen Beckett,Senior Manager,No,""
-526,Next Level Holdings Pty Ltd,Cameron Milner,Director,No,""
+565,Newgate Communications Pty Limited,Kathryn Turnbull,Consultant,No,""
+766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
+766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
+766,Next Level Strategic Services Pty Ltd,Stephen Beckett,Senior Manager,No,""
+766,Next Level Strategic Services Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
 429,NTEC Australia Pty. Ltd.,Christian Groves,Director,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
@@ -378,8 +384,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Fiona Forbes,Director,No,""
 72,Parker & Partners Pty Ltd,Yat Shum,Account Coordinator,No,""
 72,Parker & Partners Pty Ltd,Ksenya Belooussova,Senior Account Manager,No,""
-72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,No,""
+72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,Yes,December 2012
 72,Parker & Partners Pty Ltd,Nicole Quinn,Director,No,""
+72,Parker & Partners Pty Ltd,Tasia Power,Account Executive,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
 736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -457,6 +464,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Peter Mahon,Chief Executive,No,""
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
+771,S Robertson and M Smith,Michael Smith,Partner,No,""
 708,Sammway Pty Limited,Samantha Dybac,Lobbyist,No,""
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
@@ -485,8 +493,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Clare Wellesley Wesley,Associate Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
 66,Statecraft,Steven Tu,Associate Consultant,Yes,September 2013
+769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes,Director,No,""
 753,Strategic Political Counsel Pty Ltd,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
 753,Strategic Political Counsel Pty Ltd,David Gracey,Senior Counsel,No,""
+759,Success Group Australia,Geoffrey Greene,Director,No,""
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 235,The Agenda Group Pty Ltd,James McGarvey,Director,No,""
 235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
@@ -537,6 +547,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 691,The Trustee for Weiderman Trainor Family Trust,Alicia Weiderman,Director,Yes,June 2014
 610,The Trusteee for the SRKM Trust,Kate Mills,Director/Principal Consultant,No,""
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy,Director,Yes,April 1992
+772,Tokua Pty Ltd,Louise Markus,Principal Consultant,Yes,July 2016
 718,Trustee of Kerans Family Trust,Andrew James Kerans,Principal,Yes,January 2014
 680,TSB Advisory Pty Ltd,Trevor John Burns,Director,Yes,June 1998
 680,TSB Advisory Pty Ltd,Paul Scott,Consultant,No,""
