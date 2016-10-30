@@ -157,7 +157,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Edwards Lifescience Pty Limited
 338,Barton Deakin ,TAL Services Limited
 338,Barton Deakin ,National Congress of First Peoples Ltd
-338,Barton Deakin ,HE NEW SOUTH WALES GREYHOUND BREEDERS OWNERS & TRAINERS ASSOCIATION LIMITED
 338,Barton Deakin ,ExecuJet Australia Pty Ltd
 338,Barton Deakin ,Brandenburg Ensemble Ltd
 338,Barton Deakin ,Propertylink Pty Ltd
@@ -170,6 +169,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,BSE Maritime Solutions
 338,Barton Deakin ,Commonwealth Bank of Australia
 338,Barton Deakin ,Fitness Australia Ltd
+338,Barton Deakin ,DLA Piper
+338,Barton Deakin ,Meat Inspectors Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -246,6 +247,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Coates Hire Ltd
 556,Capital Hill Advisory Pty Ltd,Australian Computer Society
 556,Capital Hill Advisory Pty Ltd,Lenovo Pty Ltd
+556,Capital Hill Advisory Pty Ltd,Mount Pritchard & District Community Club Ltd
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,H2OX
 558,Catherine Emma Rocchi,Southern Forests Food Council
@@ -290,6 +292,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Spacecon Australia Pty Ltd
 157,Chikarovski & Associates Pty Ltd,Option Funds Management Limited
 157,Chikarovski & Associates Pty Ltd,Hireup Pty. Ltd.
+157,Chikarovski & Associates Pty Ltd,DTZ Pty Ltd
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Fletcher Pharmacy  Pty Ltd
@@ -499,8 +502,6 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Solaris
 31,Endeavour Consulting Group Pty Ltd,Clubs Australia
 31,Endeavour Consulting Group Pty Ltd,Port Waratah Coal Services
-31,Endeavour Consulting Group Pty Ltd,Australian Road Safety Foundation
-31,Endeavour Consulting Group Pty Ltd,Truck Industry Council
 31,Endeavour Consulting Group Pty Ltd,Phonographic Performance Company of Australia
 31,Endeavour Consulting Group Pty Ltd,Manufacturing Australia
 31,Endeavour Consulting Group Pty Ltd,Coca Cola South Pacific 
@@ -515,6 +516,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,iSelect 
 31,Endeavour Consulting Group Pty Ltd,Federal Chamber of Automotive Industries
 31,Endeavour Consulting Group Pty Ltd,Australian Automotive Dealer Association
+31,Endeavour Consulting Group Pty Ltd,CropLife Australia 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -685,6 +687,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,West Australian Symphony Orchestra
 122,GRA Everingham Pty Ltd,The University of Western Australia
 122,GRA Everingham Pty Ltd,Forrest Personnel
+122,GRA Everingham Pty Ltd,Football West Limited 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -716,14 +719,12 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Canada Pension Plan Investment Board
 59,GRACosway Pty Ltd,SPC Ardmona Limited
 59,GRACosway Pty Ltd,Australian Imported Motor Vehicle Industry Association Incorporated (AIMVIA)
-59,GRACosway Pty Ltd,Hunan Dakang Pasture Farming Co. Ltd
 59,GRACosway Pty Ltd,OZ Minerals Limited
 59,GRACosway Pty Ltd,Credit Corp Group Limited
 59,GRACosway Pty Ltd,BAI Communications
 59,GRACosway Pty Ltd,Punch Metals NV
 59,GRACosway Pty Ltd,Anchorage Capital Partners Pty Limited
 59,GRACosway Pty Ltd,Hewlett Packard Australia Pty Ltd
-59,GRACosway Pty Ltd,Australian Rural Capital Limited
 59,GRACosway Pty Ltd,GE Australia Pty Ltd
 59,GRACosway Pty Ltd,TA Associates
 59,GRACosway Pty Ltd,Mortgage and Finance Association of Australia
@@ -741,6 +742,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Adobe Systems Pty Ltd
 59,GRACosway Pty Ltd,Kangaroo Island Abalone Pty Ltd
 59,GRACosway Pty Ltd,Teleperformance Australia Pty Ltd
+59,GRACosway Pty Ltd,BBHO Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -917,10 +919,13 @@ agency_id,agency_business_entity_name,client_name
 255,John Scott Barker,Winemaking Tasmania Pty Ltd
 255,John Scott Barker,Houstons Farm 
 264,"John, Susan Maree",Bioventus Australia Pty Ltd
+773,Joint Venture Consulting Group P/L,Chemo at Home
+773,Joint Venture Consulting Group P/L,Doking Hr
 410,Justine Caines,Danii Foundation
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
+775,Kommerz Pty Ltd,Study Group
 115,KPMG,The Cobra Group Pty Ltd
 115,KPMG,Distilled Spirits Industry Council of Australia Inc
 115,KPMG,The Australian Federation of Travel Agents
@@ -1004,6 +1009,7 @@ agency_id,agency_business_entity_name,client_name
 13,LOPAC Consulting Pty Limited,Hughes Network Systems
 13,LOPAC Consulting Pty Limited,Orbital  ATK Inc
 13,LOPAC Consulting Pty Limited,FORCIT Defence
+774,Lunik Pty Ltd,Olympus Solutions Ltd
 258,Lyndon George Pty Ltd,Thales Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders NSW Ltd
@@ -1379,6 +1385,10 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Mariaâs Farm Veggies Pty Ltd (Administrators Appointed)
 755,RIPNEY PTY LTD,AIA AUSTRALIA
 755,RIPNEY PTY LTD,National Credit Providers Association Ltd
+755,RIPNEY PTY LTD,Futureye
+755,RIPNEY PTY LTD,Australian Sugar Milling Council
+755,RIPNEY PTY LTD,Advisian
+755,RIPNEY PTY LTD,Financial Planning Association of Australia
 20,RMK Associates (RMKA),Tyre Stewardship Australia
 20,RMK Associates (RMKA),Mercury Group of Companies
 20,RMK Associates (RMKA),Flamesniffer
@@ -1683,10 +1693,10 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,The Smith Family
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,ThyssenKrupp Marine Systems Australia Pty Ltd
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,BMW Group Financial Services
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Fairview Architectural Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,MGC Pharmaceuticals 
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Australian Biotechnologies Pty Ltd
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Hobart District Nursing Service Inc.
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Tolmar Australia Pty Limited
