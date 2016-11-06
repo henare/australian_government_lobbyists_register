@@ -1,7 +1,6 @@
 agency_id,agency_business_entity_name,lobbyist_name,position,former_government_representative,cessation_date
 629, A.M Joseph & B.J Sundell,Adam Joseph,Partner,Yes,October 2013
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
-739,AA Access Partnership Limited,Felicity Morrison,Advisor,Yes,January 2015
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
 746,Advisory Street Pty Ltd,Taleen Shamlian,Managing Director,Yes,September 2003
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
@@ -294,8 +293,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 621,KnowMinister.com Pty Ltd,Martin Wallace Jones,Managing Director,No,""
 775,Kommerz Pty Ltd,Zoe McKenzie,Director,Yes,March 2016
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
-115,KPMG,Leigh Obradovic,Associate Director,Yes,December 2007
 115,KPMG,Stefano Moritsch,Senior Consultant,No,""
+115,KPMG,Wilson Del Socorro,Assistant Director,No,""
+115,KPMG,Jeremy Murdoch,Consultant,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Managing Partner Australia,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Turner,Associate Director,No,""
@@ -305,6 +305,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Justin Clark,Partner / Sydney Office Head,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Nick Westenberg,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Senior Advisor,Yes,August 2016
+76,Kreab Gavin Anderson (Australia) Ltd,Todd Loydell,Director,Yes,December 2006
 748,Kylie Ahern Consulting,Kylie Ahern,Director,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
@@ -365,6 +366,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Claire Bremner,Associate Partner,Yes,April 2006
 565,Newgate Communications Pty Limited,Phillip Kelly,Senior Adviser,No,""
 565,Newgate Communications Pty Limited,Kathryn Turnbull,Consultant,No,""
+565,Newgate Communications Pty Limited,Alexandra Sekuless,Communications Coordinator,Yes,August 2016
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Stephen Beckett,Senior Manager,No,""
