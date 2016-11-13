@@ -67,7 +67,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Alexander Gibson,Advisor,No,""
 556,Capital Hill Advisory Pty Ltd,Rebecca Meyer,Advisor,No,""
 556,Capital Hill Advisory Pty Ltd,Sarah Cullens,Senior Consultant,Yes,February 2016
-556,Capital Hill Advisory Pty Ltd,Matthew Heffernan,Consultant,No,""
 556,Capital Hill Advisory Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
 558,Catherine Emma Rocchi,Cate Rocchi,CEO,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
@@ -175,6 +174,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
+776,Extended Lifestyle Int. Pty Ltd,Peter Gregory Gesling,Director,Yes,September 2016
 324,FCC Partnership Pty Ltd,Hugh Fraser,Managing Director,No,""
 214,FIPRA Australia Pty Limited,John Richardson,Principal,Yes,May 1995
 214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
@@ -194,6 +194,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Senior Director,No,""
 333,FTI Consulting (Perth) Pty Ltd,Elodie Castagna,Senior Consultant,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Steve Murphy ,Senior Director ,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Hadler ,Senior Adviser,No,""
 742,G2 Media,Graham Gittins,Proprieter,No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
@@ -414,6 +415,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas,Managing Director,Yes,December 2000
 719,Property and Consulting Australia,Nathan Paine,Director,No,""
 719,Property and Consulting Australia,Matthew Clemow,Director,No,""
+719,Property and Consulting Australia,Andrew Coombe,Associate Director,Yes,August 2009
 127,PRX Unit Trust,James Aanensen,Consultant,No,""
 127,PRX Unit Trust,Michael Kelly,Consultant,No,""
 127,PRX Unit Trust,Jim Robb,Senior Consultant,No,""

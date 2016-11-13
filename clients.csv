@@ -170,6 +170,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,DLA Piper
 338,Barton Deakin ,Meat Inspectors Pty Ltd
 338,Barton Deakin ,Early Learning and Care Council of Australia
+338,Barton Deakin ,Liberty House Group
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -218,7 +219,6 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
 556,Capital Hill Advisory Pty Ltd,Pfizer Australia Pty Ltd
-556,Capital Hill Advisory Pty Ltd,William Hill Australia
 556,Capital Hill Advisory Pty Ltd,Unity Resources Group Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Glencore Coal Assets Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Employers Mutual Management Pty Ltd
@@ -250,6 +250,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Australian Automotive Dealer Association
 556,Capital Hill Advisory Pty Ltd,Australian Computer Society
 556,Capital Hill Advisory Pty Ltd,Coal Energy Australia
+556,Capital Hill Advisory Pty Ltd,MMJ Phytotech
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,H2OX
 558,Catherine Emma Rocchi,Southern Forests Food Council
@@ -428,6 +429,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,headspace National Youth Mental Health Foundation Ltd
 81,CPR Communications & Public Relations Pty Ltd,Walter and Eliza Hall Institute of Medical Research
 81,CPR Communications & Public Relations Pty Ltd,Frankston City Council
+81,CPR Communications & Public Relations Pty Ltd,MailGuard Pty Ltd
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
 683,Craig Emerson Economics Pty Ltd,KPMG
@@ -542,6 +544,8 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd,Bannister Law
 564,Etched Communications Pty Ltd,Metcash Limited
 564,Etched Communications Pty Ltd,TasFoods
+776,Extended Lifestyle Int. Pty Ltd,Shearwater Scenic Villas
+776,Extended Lifestyle Int. Pty Ltd,Parkland Estate
 324,FCC Partnership Pty Ltd,Chi - X
 324,FCC Partnership Pty Ltd,Morgan Stanley
 324,FCC Partnership Pty Ltd,IG Markets
@@ -637,6 +641,7 @@ agency_id,agency_business_entity_name,client_name
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,7-Eleven Stores Pty Ltd
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Spark Infrastructure Group
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Lindt & SprÃ¼ngli (Australia) PTY LTD
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Tassal Group Limited
 742,G2 Media,Australian Historic Motoring Federation (AHMF)
 460,Gabrielle Trainor,EFTPOS Payments  Australia Ltd
 1,Gambolling Pty Ltd,National Australia Bank
@@ -747,6 +752,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Kangaroo Island Abalone Pty Ltd
 59,GRACosway Pty Ltd,Teleperformance Australia Pty Ltd
 59,GRACosway Pty Ltd,BBHO Pty Ltd
+59,GRACosway Pty Ltd,The Academy of Interactive Entertainment Limited
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -881,6 +887,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Carly Ryan Foundation ABN 60 858 926 697 
 319,Jo Scard Pty Ltd,Australian Primary Health Care Nurses Association ABN 30 390 041 210 
 319,Jo Scard Pty Ltd,Community Sector Banking PTY LTD ABN 88 098 858 765 
+319,Jo Scard Pty Ltd,knowmore ABN 67 757 001 303 
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
@@ -1016,6 +1023,7 @@ agency_id,agency_business_entity_name,client_name
 13,LOPAC Consulting Pty Limited,FORCIT Defence
 774,Lunik Pty Ltd,Olympus Solutions Ltd
 774,Lunik Pty Ltd,DCNS
+774,Lunik Pty Ltd,Electro Optic Systems
 258,Lyndon George Pty Ltd,Thales Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders NSW Ltd
@@ -1123,6 +1131,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australian Bankers' Association Inc
 565,Newgate Communications Pty Limited,Deliveroo Australia Pty Ltd
 565,Newgate Communications Pty Limited,WorldVentures Marketing Pty Ltd
+565,Newgate Communications Pty Limited,SME Gateway Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Adani Mining Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Linfox Proprietary Limited
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
@@ -1420,7 +1429,6 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Careers Australia Group Limited
 685,Sanlaan Pty Ltd,Infigen Energy Limited
 685,Sanlaan Pty Ltd,Springfield Land Corporation
-685,Sanlaan Pty Ltd,C.A. Australia Pty. Limited
 685,Sanlaan Pty Ltd,Gerard Lighting Pty Ltd
 685,Sanlaan Pty Ltd,Bertocchi Smallgoods Pty Ltd
 685,Sanlaan Pty Ltd,Italferr S.p.A
@@ -1592,7 +1600,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
-145,The Trustee for Bespoke Business Trust,Association of Australian Medical Research Institutes
 145,The Trustee for Bespoke Business Trust,BAE Systems Australia
 145,The Trustee for Bespoke Business Trust,Asciano Limited
 145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
@@ -1605,6 +1612,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Tavistock Group
 145,The Trustee for Bespoke Business Trust,Healthe Care Australia
 145,The Trustee for Bespoke Business Trust,Moly Mines Limited
+145,The Trustee for Bespoke Business Trust,Anheuser-Busch InBev
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
