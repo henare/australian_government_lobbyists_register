@@ -171,6 +171,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Meat Inspectors Pty Ltd
 338,Barton Deakin ,Early Learning and Care Council of Australia
 338,Barton Deakin ,Liberty House Group
+338,Barton Deakin ,Niche Education Group Pty Ltd 
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -192,10 +193,9 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Sutherland Healthcare Solutions
 657,Brent William Knevett,Fivium
 657,Brent William Knevett,Anderson Morgan (Devonport) Pty Ltd
-657,Brent William Knevett,Tasmanet
 657,Brent William Knevett,Netsweeper
-657,Brent William Knevett,Voyager Blue (UK)
-657,Brent William Knevett,Government of Ontario
+657,Brent William Knevett,Imex Systems
+657,Brent William Knevett,Medimpact International
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 662,BroadSpectrum Consultants Pty Ltd,Commercial Radio Australia
 131,BTelecom Pty Ltd,Dragnet Internet Services Pty Ltd
@@ -345,6 +345,59 @@ agency_id,agency_business_entity_name,client_name
 142,Consilium International Group Pty Ltd,UXC Limited
 638,Contextual Communications Pty Ltd, ARCADIA Corporation Pty Ltd
 638,Contextual Communications Pty Ltd,DoctorHx Pty Ltd
+453,Cornerstone Group Australia ,Cemento Pty Ltd 
+453,Cornerstone Group Australia ,Demigold Pty Ltd 
+453,Cornerstone Group Australia ,Direct Freight Express Pty ltd 
+453,Cornerstone Group Australia ,Cracknell and Lonergan Architects Pty Ltd 
+453,Cornerstone Group Australia ,George Concord Pty Ltd 
+453,Cornerstone Group Australia ,Eloura Holdings 
+453,Cornerstone Group Australia ,Samstone Pty Ltd 
+453,Cornerstone Group Australia ,Greenacre Business Park Pty Ltd 
+453,Cornerstone Group Australia ,Pinpoint Marketing Pty Ltd 
+453,Cornerstone Group Australia ,Romtech Pty Ltd 
+453,Cornerstone Group Australia ,Thiess Pty Ltd 
+453,Cornerstone Group Australia ,Polio (Australia) 
+453,Cornerstone Group Australia ,Polio (NSW)
+453,Cornerstone Group Australia ,Bravehearts Inc. (Pro Bono)
+453,Cornerstone Group Australia ,China Rail 15 Group 
+453,Cornerstone Group Australia ,Popular Compass Development
+453,Cornerstone Group Australia ,Dell Australia Pty Ltd 
+453,Cornerstone Group Australia ,Staples Australia Pty Ltd
+453,Cornerstone Group Australia ,University of Western Sydney
+453,Cornerstone Group Australia ,Charlton Excavation and Demolition
+453,Cornerstone Group Australia ,The Group of Eight Limited
+453,Cornerstone Group Australia ,Young & Rubicam Group Pty Limited
+453,Cornerstone Group Australia ,Village Building Company 
+453,Cornerstone Group Australia ,Australian Institute of Building Surveyors
+453,Cornerstone Group Australia ,Women's Housing Limited 
+453,Cornerstone Group Australia ,arbias
+453,Cornerstone Group Australia ,Calcorp Services Pty Ltd 
+453,Cornerstone Group Australia ,Greenex Environmental Pty Limited 
+453,Cornerstone Group Australia ,Hunter Investment Corporation Pty Ltd 
+453,Cornerstone Group Australia ,Advanced Algal Technologies Limited
+453,Cornerstone Group Australia ,Aspen Medical Pty Ltd 
+453,Cornerstone Group Australia ,Xiuyan Guan
+453,Cornerstone Group Australia ,Deafness Forum Ltd. (Pro Bono)
+453,Cornerstone Group Australia ,Affordable Community Housing Limited
+453,Cornerstone Group Australia ,Caption It Pty Ltd 
+453,Cornerstone Group Australia ,Compass Housing Services Co Ltd
+453,Cornerstone Group Australia ,AndrÃ© Nobbs 
+453,Cornerstone Group Australia ,Nicovations Australia
+453,Cornerstone Group Australia ,British American Tobacco Australia Ltd
+453,Cornerstone Group Australia ,G.H. Varley Pty Ltd 
+453,Cornerstone Group Australia ,Nicoventures Holding  Ltd 
+453,Cornerstone Group Australia ,APIR Limited 
+453,Cornerstone Group Australia ,TOMRA Group
+453,Cornerstone Group Australia ,Business Council of Co-operatives and Mutuals 
+453,Cornerstone Group Australia ,DPL Medical Pty Limited
+453,Cornerstone Group Australia ,Australian Consulting Architects Pty Ltd 
+453,Cornerstone Group Australia ,Canedo Management Pty Ltd 
+453,Cornerstone Group Australia ,Billbergia Pty Ltd 
+453,Cornerstone Group Australia ,Champion Homes Sales Pty Limited 
+453,Cornerstone Group Australia ,Pacific Planning Pty Limited 
+453,Cornerstone Group Australia ,Varley Pty Ltd 
+453,Cornerstone Group Australia ,Alpha Nobis Pty Ltd 
+453,Cornerstone Group Australia ,Consumer Household Equipment Rental Providers Association Inc. 
 18,Corporate Words Australia Pty Limited,MEO Australia Limited
 18,Corporate Words Australia Pty Limited,Cue Energy Resources Ltd
 160,Cotterell Jannette Suzanne,The Australian and New Zealand Association of Oral and Maxillofacial Surgeons
@@ -558,59 +611,6 @@ agency_id,agency_business_entity_name,client_name
 214,FIPRA Australia Pty Limited,Veritec Solutions USA
 214,FIPRA Australia Pty Limited,KaComm Communications Pty Limited
 214,FIPRA Australia Pty Limited,Cerus Inc
-453,First State Advisors and Consultants ,Cemento Pty Ltd 
-453,First State Advisors and Consultants ,Demigold Pty Ltd 
-453,First State Advisors and Consultants ,Direct Freight Express Pty ltd 
-453,First State Advisors and Consultants ,Cracknell and Lonergan Architects Pty Ltd 
-453,First State Advisors and Consultants ,George Concord Pty Ltd 
-453,First State Advisors and Consultants ,Eloura Holdings 
-453,First State Advisors and Consultants ,Samstone Pty Ltd 
-453,First State Advisors and Consultants ,Greenacre Business Park Pty Ltd 
-453,First State Advisors and Consultants ,Pinpoint Marketing Pty Ltd 
-453,First State Advisors and Consultants ,Romtech Pty Ltd 
-453,First State Advisors and Consultants ,Thiess Pty Ltd 
-453,First State Advisors and Consultants ,Polio (Australia) 
-453,First State Advisors and Consultants ,Polio (NSW)
-453,First State Advisors and Consultants ,Bravehearts Inc. (Pro Bono)
-453,First State Advisors and Consultants ,China Rail 15 Group 
-453,First State Advisors and Consultants ,Popular Compass Development
-453,First State Advisors and Consultants ,Dell Australia Pty Ltd 
-453,First State Advisors and Consultants ,Staples Australia Pty Ltd
-453,First State Advisors and Consultants ,University of Western Sydney
-453,First State Advisors and Consultants ,Charlton Excavation and Demolition
-453,First State Advisors and Consultants ,The Group of Eight Limited
-453,First State Advisors and Consultants ,Young & Rubicam Group Pty Limited
-453,First State Advisors and Consultants ,Village Building Company 
-453,First State Advisors and Consultants ,Australian Institute of Building Surveyors
-453,First State Advisors and Consultants ,Women's Housing Limited 
-453,First State Advisors and Consultants ,arbias
-453,First State Advisors and Consultants ,Calcorp Services Pty Ltd 
-453,First State Advisors and Consultants ,Greenex Environmental Pty Limited 
-453,First State Advisors and Consultants ,Hunter Investment Corporation Pty Ltd 
-453,First State Advisors and Consultants ,Advanced Algal Technologies Limited
-453,First State Advisors and Consultants ,Aspen Medical Pty Ltd 
-453,First State Advisors and Consultants ,Xiuyan Guan
-453,First State Advisors and Consultants ,Deafness Forum Ltd. (Pro Bono)
-453,First State Advisors and Consultants ,Affordable Community Housing Limited
-453,First State Advisors and Consultants ,Caption It Pty Ltd 
-453,First State Advisors and Consultants ,Compass Housing Services Co Ltd
-453,First State Advisors and Consultants ,AndrÃ© Nobbs 
-453,First State Advisors and Consultants ,Nicovations Australia
-453,First State Advisors and Consultants ,British American Tobacco Australia Ltd
-453,First State Advisors and Consultants ,G.H. Varley Pty Ltd 
-453,First State Advisors and Consultants ,Nicoventures Holding  Ltd 
-453,First State Advisors and Consultants ,APIR Limited 
-453,First State Advisors and Consultants ,TOMRA Group
-453,First State Advisors and Consultants ,Business Council of Co-operatives and Mutuals 
-453,First State Advisors and Consultants ,DPL Medical Pty Limited
-453,First State Advisors and Consultants ,Australian Consulting Architects Pty Ltd 
-453,First State Advisors and Consultants ,Canedo Management Pty Ltd 
-453,First State Advisors and Consultants ,Billbergia Pty Ltd 
-453,First State Advisors and Consultants ,Champion Homes Sales Pty Limited 
-453,First State Advisors and Consultants ,Pacific Planning Pty Limited 
-453,First State Advisors and Consultants ,Varley Pty Ltd 
-453,First State Advisors and Consultants ,Alpha Nobis Pty Ltd 
-453,First State Advisors and Consultants ,Consumer Household Equipment Rental Providers Association Inc. 
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
 713,Flight Data Systems Pty Ltd,Lockheed Martin Overseas Corporation
@@ -929,6 +929,7 @@ agency_id,agency_business_entity_name,client_name
 255,John Scott Barker,Roberts Ltd
 255,John Scott Barker,Winemaking Tasmania Pty Ltd
 255,John Scott Barker,Houstons Farm 
+767,John William Short,Aurizon
 264,"John, Susan Maree",Bioventus Australia Pty Ltd
 773,Joint Venture Consulting Group P/L,Chemo at Home
 773,Joint Venture Consulting Group P/L,Doking Hr
@@ -982,6 +983,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Electro Optic Systems Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Faxtech Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,The George Institute
+76,Kreab Gavin Anderson (Australia) Ltd,DTEX Systems Pty Ltd
 748,Kylie Ahern Consulting,Queensland Brain Institute
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
@@ -1009,6 +1011,7 @@ agency_id,agency_business_entity_name,client_name
 204,Lighthouse Communications Group Pty Ltd,oOH!media
 204,Lighthouse Communications Group Pty Ltd,Redkite
 204,Lighthouse Communications Group Pty Ltd,Beaumont Tiles
+777,Lindsay Tanner,Australlian Unity
 566,London Agency Pty Ltd,Pathology Awareness Australia Ltd
 566,London Agency Pty Ltd,Asthma Australia
 566,London Agency Pty Ltd,Abbott Vascular
@@ -1098,10 +1101,8 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,Western Australian Deaf Society
 752,MMJ Consulting,Sound Radiology 
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
-696,MOUNTAIN MEDIA PTY LTD,Energy Industries Superannuation Scheme Pty Limited
-696,MOUNTAIN MEDIA PTY LTD,Motor Trades Association of Australia Superannuation Fund Pty Limited
-696,MOUNTAIN MEDIA PTY LTD,Electrical Trades Union Australia
 696,MOUNTAIN MEDIA PTY LTD,EOz Energy Skills Australia
+696,MOUNTAIN MEDIA PTY LTD,Norfolk Island People For Democracy
 356,Mr John Kindler,Pratt and Whitney Military Engines
 677,Naylor Phillip Gordon,Charley's Enterprises Pty Ltd
 565,Newgate Communications Pty Limited,Clontarf Foundation
@@ -1537,6 +1538,8 @@ agency_id,agency_business_entity_name,client_name
 757,The Hon. Robert Charles Baldwin,Bluesight Building Pty Ltd
 450,The Humphrey Company Pty Limited,AMI International
 450,The Humphrey Company Pty Limited,Project Flinders Pty Ltd
+768,The PR Counsel,Anatomics
+768,The PR Counsel,Anatomics Rx
 268,The Premier Communications Group Pty Ltd.,Phebra
 268,The Premier Communications Group Pty Ltd.,Astute Training
 268,The Premier Communications Group Pty Ltd.,Australian Nursing and Midwifery Federation 
