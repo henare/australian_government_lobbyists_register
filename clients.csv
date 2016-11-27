@@ -251,6 +251,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Australian Computer Society
 556,Capital Hill Advisory Pty Ltd,Coal Energy Australia
 556,Capital Hill Advisory Pty Ltd,MMJ Phytotech
+556,Capital Hill Advisory Pty Ltd,Ray Power Pte Ltd
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,H2OX
 558,Catherine Emma Rocchi,Southern Forests Food Council
@@ -300,6 +301,7 @@ agency_id,agency_business_entity_name,client_name
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Fletcher Pharmacy  Pty Ltd
 658,Chris Drummer ,Lisa Ho Shon
+658,Chris Drummer ,Rutherford Pharmacy Guy McKendry
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 113,CHRIS SCHACHT,PMB Defence
@@ -313,6 +315,8 @@ agency_id,agency_business_entity_name,client_name
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
 475,Clifton Consulting Services Pty Ltd,Greater Metropolitan Cemeteries Trust
 475,Clifton Consulting Services Pty Ltd,Victorian Regional Channels Authority
+475,Clifton Consulting Services Pty Ltd,Committee for Geelong
+475,Clifton Consulting Services Pty Ltd,City of Greater Geelong
 79,CMAX Communications Pty Ltd,Stryker 
 79,CMAX Communications Pty Ltd,Fortescue Metals Group 
 79,CMAX Communications Pty Ltd,Send Hope Not Flowers
@@ -483,6 +487,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Walter and Eliza Hall Institute of Medical Research
 81,CPR Communications & Public Relations Pty Ltd,Frankston City Council
 81,CPR Communications & Public Relations Pty Ltd,MailGuard Pty Ltd
+81,CPR Communications & Public Relations Pty Ltd,Australasian Association of Convenience Stores
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
 683,Craig Emerson Economics Pty Ltd,KPMG
@@ -576,6 +581,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Federal Chamber of Automotive Industries
 31,Endeavour Consulting Group Pty Ltd,Australian Automotive Dealer Association
 31,Endeavour Consulting Group Pty Ltd,CropLife Australia 
+31,Endeavour Consulting Group Pty Ltd,Australian Publishers Association 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -753,6 +759,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Teleperformance Australia Pty Ltd
 59,GRACosway Pty Ltd,BBHO Pty Ltd
 59,GRACosway Pty Ltd,The Academy of Interactive Entertainment Limited
+778,Grandview Innovations Pty Ltd,ViPlus Dairy Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -984,6 +991,7 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Faxtech Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,The George Institute
 76,Kreab Gavin Anderson (Australia) Ltd,DTEX Systems Pty Ltd
+76,Kreab Gavin Anderson (Australia) Ltd,Swisse Welness Pty Ltd
 748,Kylie Ahern Consulting,Queensland Brain Institute
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
@@ -1399,12 +1407,8 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,True Value Solar Pty Ltd
 395,Right Angle Business Services Pty Ltd,Maria's Farm Veggies Pty Ltd
 395,Right Angle Business Services Pty Ltd,Mariaâs Farm Veggies Pty Ltd (Administrators Appointed)
-755,RIPNEY PTY LTD,AIA AUSTRALIA
 755,RIPNEY PTY LTD,National Credit Providers Association Ltd
 755,RIPNEY PTY LTD,Futureye
-755,RIPNEY PTY LTD,Australian Sugar Milling Council
-755,RIPNEY PTY LTD,Advisian
-755,RIPNEY PTY LTD,Financial Planning Association of Australia
 20,RMK Associates (RMKA),Tyre Stewardship Australia
 20,RMK Associates (RMKA),Mercury Group of Companies
 20,RMK Associates (RMKA),Flamesniffer
@@ -1550,7 +1554,6 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Marchese Partners
 705,The Shrimpton Family Trust,Fincantieri S.p.A
 408,The Six Hats - Investor Relations Pty Ltd,Platform Youth Services
-95,The Strategic Counsel Pty Ltd,Blackmores
 95,The Strategic Counsel Pty Ltd,Hearing Care Industry Association
 95,The Strategic Counsel Pty Ltd,Australian Pharmaceutical Industries Ltd
 95,The Strategic Counsel Pty Ltd,Aspen Medical Pty Ltd
@@ -1632,6 +1635,7 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,Australia Pacific Airports Corporation Ltd
 420,The trustee for ECG Advisory Trust,National Automotive Leasing and Salary Packaging Association
 420,The trustee for ECG Advisory Trust,Jemena
+420,The trustee for ECG Advisory Trust,BP Australia Pty Ltd
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 28,The Trustee for Markeit Family Trust,Biocentral Laboratories
 28,The Trustee for Markeit Family Trust,BioFilm Solutions Pty Ltd
@@ -1674,6 +1678,7 @@ agency_id,agency_business_entity_name,client_name
 680,TSB Advisory Pty Ltd,PayPal Australia Pty Ltd
 680,TSB Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd 
 680,TSB Advisory Pty Ltd,Rabobank Australia and New Zealand Group
+680,TSB Advisory Pty Ltd,CBH Group Limited
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
 161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)
