@@ -297,6 +297,8 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Option Funds Management Limited
 157,Chikarovski & Associates Pty Ltd,Hireup Pty. Ltd.
 157,Chikarovski & Associates Pty Ltd,DTZ Pty Ltd
+157,Chikarovski & Associates Pty Ltd,Webscale Pty Ltd
+157,Chikarovski & Associates Pty Ltd,Employment Hero Pty Ltd
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Fletcher Pharmacy  Pty Ltd
@@ -402,6 +404,7 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Varley Pty Ltd 
 453,Cornerstone Group Australia ,Alpha Nobis Pty Ltd 
 453,Cornerstone Group Australia ,Consumer Household Equipment Rental Providers Association Inc. 
+453,Cornerstone Group Australia ,CIS Educational
 18,Corporate Words Australia Pty Limited,MEO Australia Limited
 18,Corporate Words Australia Pty Limited,Cue Energy Resources Ltd
 160,Cotterell Jannette Suzanne,The Australian and New Zealand Association of Oral and Maxillofacial Surgeons
@@ -1119,7 +1122,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australian Airports Association
 565,Newgate Communications Pty Limited,Whitehaven Coal Limited
 565,Newgate Communications Pty Limited,Australian Pork Limited
-565,Newgate Communications Pty Limited,Tatts Group Limited
 565,Newgate Communications Pty Limited,Sydney Airport Corporation Limited
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
 565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
@@ -1141,6 +1143,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Deliveroo Australia Pty Ltd
 565,Newgate Communications Pty Limited,WorldVentures Marketing Pty Ltd
 565,Newgate Communications Pty Limited,SME Gateway Pty Ltd
+565,Newgate Communications Pty Limited,cohealth
 766,Next Level Strategic Services Pty Ltd,Adani Mining Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Linfox Proprietary Limited
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
