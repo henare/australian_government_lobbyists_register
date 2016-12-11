@@ -46,6 +46,7 @@ agency_id,agency_business_entity_name,client_name
 770,Asys Consulting,Energy Developments Limited
 770,Asys Consulting,First State Super
 770,Asys Consulting,The Little Blue Dinosaur Foundation
+781,Atherton Advisory Pty Ltd,Holiday Rental Industry Association Inc
 63,AusAccess Unit Trust,Global Defence Industries
 63,AusAccess Unit Trust,TECC Pty Ltd
 63,AusAccess Unit Trust,Aboriginal AG-Arts Residency Kenmore Limited
@@ -278,6 +279,7 @@ agency_id,agency_business_entity_name,client_name
 265,CGP solutions Ltd,ViaSat Inc
 265,CGP solutions Ltd,OmniSpace LLC
 265,CGP solutions Ltd,Space Exploration Technologies Corp
+265,CGP solutions Ltd,The Boeing Company
 157,Chikarovski & Associates Pty Ltd,Association of Financial Advisers Ltd
 157,Chikarovski & Associates Pty Ltd,Supercharge Batteries
 157,Chikarovski & Associates Pty Ltd,Salini Impregilo
@@ -491,6 +493,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Frankston City Council
 81,CPR Communications & Public Relations Pty Ltd,MailGuard Pty Ltd
 81,CPR Communications & Public Relations Pty Ltd,Australasian Association of Convenience Stores
+81,CPR Communications & Public Relations Pty Ltd,Searoad Ferries
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
 683,Craig Emerson Economics Pty Ltd,KPMG
@@ -762,6 +765,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Teleperformance Australia Pty Ltd
 59,GRACosway Pty Ltd,BBHO Pty Ltd
 59,GRACosway Pty Ltd,The Academy of Interactive Entertainment Limited
+59,GRACosway Pty Ltd,Campbell Page Limited
 778,Grandview Innovations Pty Ltd,ViPlus Dairy Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
@@ -932,13 +936,12 @@ agency_id,agency_business_entity_name,client_name
 78,John O'Connor and Associates Pty Ltd,Capral Aluminium Limited
 255,John Scott Barker,Stornoway
 255,John Scott Barker,Font PR
-255,John Scott Barker,Marsh Pty Ltd
 255,John Scott Barker,Cuthbertson Bros
-255,John Scott Barker,St Anns Homes Inc
 255,John Scott Barker,Veolia Environmental Services
-255,John Scott Barker,Roberts Ltd
-255,John Scott Barker,Winemaking Tasmania Pty Ltd
 255,John Scott Barker,Houstons Farm 
+255,John Scott Barker,Southern Tasmania Fibre Resources Pty Ltd
+255,John Scott Barker,Oyster Farmers Pty Ltd
+255,John Scott Barker,Gutteridge Haskins  Davey (GHD)
 767,John William Short,Aurizon
 264,"John, Susan Maree",Bioventus Australia Pty Ltd
 773,Joint Venture Consulting Group P/L,Chemo at Home
@@ -979,7 +982,6 @@ agency_id,agency_business_entity_name,client_name
 76,Kreab Gavin Anderson (Australia) Ltd,Intel Australia Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Macquarie Group Limited 
 76,Kreab Gavin Anderson (Australia) Ltd,the Harmony Movement
-76,Kreab Gavin Anderson (Australia) Ltd,DCNS
 76,Kreab Gavin Anderson (Australia) Ltd,Cancer Drugs Alliance (CDA) 
 76,Kreab Gavin Anderson (Australia) Ltd,Foundation Life Insurance and Mortgage Broking
 76,Kreab Gavin Anderson (Australia) Ltd,Online Education Services  
@@ -1038,6 +1040,7 @@ agency_id,agency_business_entity_name,client_name
 774,Lunik Pty Ltd,Olympus Solutions Ltd
 774,Lunik Pty Ltd,DCNS
 774,Lunik Pty Ltd,Electro Optic Systems
+774,Lunik Pty Ltd,Online Education Services
 258,Lyndon George Pty Ltd,Thales Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders NSW Ltd
@@ -1144,6 +1147,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,WorldVentures Marketing Pty Ltd
 565,Newgate Communications Pty Limited,SME Gateway Pty Ltd
 565,Newgate Communications Pty Limited,cohealth
+565,Newgate Communications Pty Limited,Port of Newcastle Operations Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Adani Mining Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Linfox Proprietary Limited
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
@@ -1268,6 +1272,8 @@ agency_id,agency_business_entity_name,client_name
 622,Profile Consulting (Aust) Pty Ltd,PrecisionGx 
 719,Property and Consulting Australia,Toyoda Gosei Australia Pty Ltd
 719,Property and Consulting Australia,AREVA
+719,Property and Consulting Australia,Commercial and General
+719,Property and Consulting Australia,Leed Engineering and Construction Pty Ltd   
 127,PRX Unit Trust,Jetstar
 127,PRX Unit Trust,Carlton Football Club
 127,PRX Unit Trust,St Kevin's College
@@ -1338,10 +1344,7 @@ agency_id,agency_business_entity_name,client_name
 446,R A Neilson and M Salmon,The Australian Screen Directors Authorship Collecting Society (ASDACS)
 492,Rachael Sweeney ,Regional Capitals Australia 
 492,Rachael Sweeney ,Victorian Wine Industry Association Inc (Wine Victoria)
-492,Rachael Sweeney ,Inner South Metropolitan Mayors Forum
 492,Rachael Sweeney ,Gippsland Local Government Network
-492,Rachael Sweeney ,South East Melbourne Group
-492,Rachael Sweeney ,Eastern Region Group of Councils
 14,Ranicar and Nicholls Consulting,Intercorp Pty Limited
 14,Ranicar and Nicholls Consulting,Blue Glue Pty Ltd
 14,Ranicar and Nicholls Consulting,Acacia Research Pty Ltd
@@ -1427,6 +1430,7 @@ agency_id,agency_business_entity_name,client_name
 669,Royce Communications Pty Ltd,Reclink Australia
 669,Royce Communications Pty Ltd,RDA Southern Melbourne
 771,S Robertson and M Smith,Queensland Dairyfarmers' Organisation LImited
+771,S Robertson and M Smith,MPHG Saffair (Qld) Specialist Healthcare Management Pty Ltd
 708,Sammway Pty Limited,Appscore International
 708,Sammway Pty Limited,WME Australia
 685,Sanlaan Pty Ltd,Restaurant and Catering Australia
@@ -1479,7 +1483,6 @@ agency_id,agency_business_entity_name,client_name
 681,Simeon Duncan,Intuit Australia
 681,Simeon Duncan,Enirgi Group
 681,Simeon Duncan,Industry Capability Network
-749,Sling & Stone,MailGuard
 82,Socom Pty Ltd,The Interface Councils
 82,Socom Pty Ltd,Rural Councils Victoria 
 225,SPIER CONSULTING P/L,KOUNDOURIS GROUP
@@ -1538,6 +1541,7 @@ agency_id,agency_business_entity_name,client_name
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
 90,The Fifth Estate Consultancy Pty Ltd,Hume Coal
+780,The Hon. Kim Beazley AC,AECOM
 757,The Hon. Robert Charles Baldwin,Varley Engineering Pty Ltd 
 757,The Hon. Robert Charles Baldwin,Bob Mills Cotton (India)
 757,The Hon. Robert Charles Baldwin,Seabob Jet Pty Ltd
@@ -1570,6 +1574,8 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,Actelion Pharmaceuticals Ltd
 95,The Strategic Counsel Pty Ltd,Private Healthcare Australia
 95,The Strategic Counsel Pty Ltd,Abbott Australasia Pty Ltd
+95,The Strategic Counsel Pty Ltd,BTG plc
+95,The Strategic Counsel Pty Ltd,MedAdvisor
 424,The Taylor Street Consultancy P/L,Lend Lease
 424,The Taylor Street Consultancy P/L,NRMA Motoring and Services 
 424,The Taylor Street Consultancy P/L,The Dockside Group 

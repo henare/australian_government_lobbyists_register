@@ -17,6 +17,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 379,assetpr,Anthony Rasman,Strategic Counsel,No,""
 770,Asys Consulting,Anthony Nagy,Director,No,""
 770,Asys Consulting,Matt Stevens,Director,No,""
+781,Atherton Advisory Pty Ltd,Trevor Cyril Atherton,Director,No,""
 63,AusAccess Unit Trust,Mark Ridgway,Chairman,Yes,May 1994
 747,Australian Industry Facilitation,David Mitchell,Chief Executive Officer,Yes,August 2005
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
@@ -73,7 +74,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 743,CETE Consulting Pty Ltd,Cameron Thomson,Managing Director,Yes,June 1995
 265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,Yes,March 2003
-157,Chikarovski & Associates Pty Ltd,Samantha Dybac,Corporate Affairs,No,""
 157,Chikarovski & Associates Pty Ltd,Emily Young,Lobbyist,No,""
 658,Chris Drummer ,Christopher John Drummer,CEO,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
@@ -195,6 +195,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Elodie Castagna,Senior Consultant,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Steve Murphy ,Senior Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Hadler ,Senior Adviser,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Ben Hamilton,Senior Director ,No,""
 742,G2 Media,Graham Gittins,Proprieter,No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
@@ -412,7 +413,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Ian Hancock,Analyst,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
 220,Primary Communication Pty Ltd,Jennifer Muir,General Manager,No,""
-220,Primary Communication Pty Ltd,Ian Zakon,Account Director  ,Yes,June 2011
 631,Primary Policy Partners,Andrew Gibbs,Founding Partner,Yes,January 2001
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop,Director,Yes,June 2006
@@ -442,11 +442,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 446,R A Neilson and M Salmon,Michael Salmon,Director,No,""
 446,R A Neilson and M Salmon,Ross Neilson,Director,No,""
 492,Rachael Sweeney ,Rachael Sweeney,Director,No,""
-492,Rachael Sweeney ,Ashleigh Gilchrist,Consultant,No,""
-492,Rachael Sweeney ,Natasha Kociski,PR Project Administrator,No,""
-492,Rachael Sweeney ,Laura McLean,Consultant,No,""
-492,Rachael Sweeney ,Sheri Shannon,Consultant,No,""
-492,Rachael Sweeney ,Stuart Beswick,Policy Advisor,Yes,July 2011
+492,Rachael Sweeney ,Ashleigh Gilchrist,Communications Consultant,No,""
+492,Rachael Sweeney ,Natasha Kociski,Communications Coordinator ,No,""
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 763,RCO AGENCY,Radomir Kobryn-Coletti,Director ,No,""
@@ -491,7 +488,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel,Company Director,Yes,July 2003
 171,Shac Communications Pty Ltd ATF The Shac Trust,Alyson Richards,Account Director ,Yes,March 2015
 681,Simeon Duncan,Simeon Duncan,Principal,Yes,November 2007
-749,Sling & Stone,Kerrie O'Callaghan,Account Director,No,""
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
 82,Socom Pty Ltd,Zoe Weaver,Consultant,No,""
@@ -524,6 +520,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Sam Bishop,Senior Account Executive,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
+780,The Hon. Kim Beazley AC,The Hon. Kim Beazley AC,Senior Fellow,Yes,November 2007
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 768,The PR Counsel,Kristy McSweeney,Principal,Yes,September 2014
