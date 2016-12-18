@@ -122,6 +122,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 81,CPR Communications & Public Relations Pty Ltd,Tom Middleton,Senior Adviser,Yes,September 2013
 81,CPR Communications & Public Relations Pty Ltd,Joseph Fennessy,Adviser,Yes,October 2008
 683,Craig Emerson Economics Pty Ltd,Craig Emerson,Managing Director,Yes,September 2013
+783,Craig Hodges,Craig Hodges,Consultant,No,""
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
@@ -303,8 +304,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jemima Turner,Associate Director,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Jeff Sorrell,Associate Director,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Travis Bell,Director,Yes,December 2007
-76,Kreab Gavin Anderson (Australia) Ltd,Nataly Matijevic ,Director / Melbourne Office Head ,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Justin Clark,Partner / Sydney Office Head,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Nick Westenberg,Senior Advisor,No,""
 76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Senior Advisor,Yes,August 2016
@@ -408,10 +407,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Partner,No,""
 318,Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,General Manager,No,""
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
-516,Premier State Consulting Pty Ltd,David Begg,Director,No,""
-516,Premier State Consulting Pty Ltd,Nick Campbell,Director,Yes,December 1999
-516,Premier State Consulting Pty Ltd,Ian Hancock,Analyst,No,""
+516,Premier State Consulting Pty Ltd,David Begg,Partner,No,""
+516,Premier State Consulting Pty Ltd,Nick Campbell,Partner,Yes,December 1999
+516,Premier State Consulting Pty Ltd,Ian Hancock,Director,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
+516,Premier State Consulting Pty Ltd,Rebecca Meyer,Advisor,No,""
+516,Premier State Consulting Pty Ltd,Alex Gibson,Advisor,No,""
 220,Primary Communication Pty Ltd,Jennifer Muir,General Manager,No,""
 631,Primary Policy Partners,Andrew Gibbs,Founding Partner,Yes,January 2001
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
@@ -568,10 +569,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing,Managing Director,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Graham Alexander Ingerson,Government Relations Specialist,No,""
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson,Director,No,""
-463,Walker Watterson Holdings Pty Ltd, Nermin Bajric,Consultant ,No,""
+463,Walker Watterson Holdings Pty Ltd, Nermin Bajric,Senior Consultant ,No,""
 463,Walker Watterson Holdings Pty Ltd,Sidar Thams,Admin/Operations,No,""
 463,Walker Watterson Holdings Pty Ltd,Dorothy Kennedy,Senior Consultant,Yes,October 1994
-463,Walker Watterson Holdings Pty Ltd,Oisin Ocallaghan ,Consultant,No,""
+463,Walker Watterson Holdings Pty Ltd,Oisin Ocallaghan ,Senior Consultant ,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,CEO,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Partner,No,""

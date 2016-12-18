@@ -47,6 +47,7 @@ agency_id,agency_business_entity_name,client_name
 770,Asys Consulting,First State Super
 770,Asys Consulting,The Little Blue Dinosaur Foundation
 781,Atherton Advisory Pty Ltd,Holiday Rental Industry Association Inc
+781,Atherton Advisory Pty Ltd,Expedia Inc
 63,AusAccess Unit Trust,Global Defence Industries
 63,AusAccess Unit Trust,TECC Pty Ltd
 63,AusAccess Unit Trust,Aboriginal AG-Arts Residency Kenmore Limited
@@ -274,12 +275,14 @@ agency_id,agency_business_entity_name,client_name
 601,Catherine McGovern,Australian Mitochondrial Disease Foundation
 601,Catherine McGovern,Private Healthcare Australia
 601,Catherine McGovern,3D Advanced Manufacturing
+601,Catherine McGovern,Australian Society of Plastic Surgeons
 191,"Cemdia Pty, Ltd",NBNCo
 743,CETE Consulting Pty Ltd,Calzoni S.r.l.
 265,CGP solutions Ltd,ViaSat Inc
 265,CGP solutions Ltd,OmniSpace LLC
 265,CGP solutions Ltd,Space Exploration Technologies Corp
 265,CGP solutions Ltd,The Boeing Company
+265,CGP solutions Ltd,Boeing Australia
 157,Chikarovski & Associates Pty Ltd,Association of Financial Advisers Ltd
 157,Chikarovski & Associates Pty Ltd,Supercharge Batteries
 157,Chikarovski & Associates Pty Ltd,Salini Impregilo
@@ -497,6 +500,7 @@ agency_id,agency_business_entity_name,client_name
 683,Craig Emerson Economics Pty Ltd,AGL Energy
 683,Craig Emerson Economics Pty Ltd,Wesfarmers
 683,Craig Emerson Economics Pty Ltd,KPMG
+783,Craig Hodges,Daniel Taylor
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
@@ -678,13 +682,11 @@ agency_id,agency_business_entity_name,client_name
 561,Global Issues Group,Refrigerants Australia
 561,Global Issues Group,AIR CONDITIONING AND REFRIGERATION EQUIPMENT MANUFACTURERS ASSOCIATION OF AUSTRALIA INCORPORATED
 750,GovCorp Pty Ltd,VS Connect Pty Ltd
-7,Government Relations Solutions Pty Ltd,Adelaide Equity Partners Ltd
-7,Government Relations Solutions Pty Ltd,Marmota Energy Limited
-7,Government Relations Solutions Pty Ltd,ERO Mining Limited
-7,Government Relations Solutions Pty Ltd,Beach Energy Ltd
-7,Government Relations Solutions Pty Ltd,Burke Urban Developments Pty Ltd
 7,Government Relations Solutions Pty Ltd,National Pharmacies
 7,Government Relations Solutions Pty Ltd,Demographia Australia Inc
+7,Government Relations Solutions Pty Ltd,QEH Cardiology
+7,Government Relations Solutions Pty Ltd,Capricorn Shipping Pty Ltd
+7,Government Relations Solutions Pty Ltd,The Linden Group Pty Ltd
 125,Govstrat Pty Ltd,Clubs Queensland
 125,Govstrat Pty Ltd,UGL
 125,Govstrat Pty Ltd,Port of Brisbane
@@ -766,6 +768,11 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,BBHO Pty Ltd
 59,GRACosway Pty Ltd,The Academy of Interactive Entertainment Limited
 59,GRACosway Pty Ltd,Campbell Page Limited
+59,GRACosway Pty Ltd,Skillset Limited
+59,GRACosway Pty Ltd,FSS Trustee Corporation 
+59,GRACosway Pty Ltd,Macquarie Corporate Holdings Pty Limited
+59,GRACosway Pty Ltd,Morgan Stanley Infrastructure Inc.
+59,GRACosway Pty Ltd,Kohlberg Kravis Roberts and Co. L.P.
 778,Grandview Innovations Pty Ltd,ViPlus Dairy Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
@@ -957,43 +964,18 @@ agency_id,agency_business_entity_name,client_name
 115,KPMG,The Australian Federation of Travel Agents
 115,KPMG,Appco Group Australia Pty Ltd
 115,KPMG,Kawasaki Heavy Industries Ltd
-115,KPMG,ACTE Pty Ltd
 115,KPMG,Voice of Horticulture
 115,KPMG,Tourism Shopping Reform Group
-76,Kreab Gavin Anderson (Australia) Ltd,BlueScope Steel Limited
-76,Kreab Gavin Anderson (Australia) Ltd,ATM Industry Reference Group
-76,Kreab Gavin Anderson (Australia) Ltd,Arrium Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,First Data
-76,Kreab Gavin Anderson (Australia) Ltd,Good Technology Australia Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,Interlink Roads Pty Ltd 
-76,Kreab Gavin Anderson (Australia) Ltd,The Banktech Group
-76,Kreab Gavin Anderson (Australia) Ltd,Cashcard Australia Limited
-76,Kreab Gavin Anderson (Australia) Ltd,DC Payments Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,SICPA Security Solutions SA
-76,Kreab Gavin Anderson (Australia) Ltd,Australian Pork Limited (APL)
 76,Kreab Gavin Anderson (Australia) Ltd,Australian Home Heating Association
 76,Kreab Gavin Anderson (Australia) Ltd,National Association of Steel-Framed Housing (NASH)
 76,Kreab Gavin Anderson (Australia) Ltd,Intel Security
-76,Kreab Gavin Anderson (Australia) Ltd,Red Dust Role Models
-76,Kreab Gavin Anderson (Australia) Ltd,Coal Reuse
-76,Kreab Gavin Anderson (Australia) Ltd,Churchill Mining 
-76,Kreab Gavin Anderson (Australia) Ltd,Copyright Agency 
-76,Kreab Gavin Anderson (Australia) Ltd,Infant Nutrition Council
 76,Kreab Gavin Anderson (Australia) Ltd,Intel Australia Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Macquarie Group Limited 
 76,Kreab Gavin Anderson (Australia) Ltd,the Harmony Movement
 76,Kreab Gavin Anderson (Australia) Ltd,Cancer Drugs Alliance (CDA) 
-76,Kreab Gavin Anderson (Australia) Ltd,Foundation Life Insurance and Mortgage Broking
-76,Kreab Gavin Anderson (Australia) Ltd,Online Education Services  
-76,Kreab Gavin Anderson (Australia) Ltd,Ecocentric Group Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,Fireeye Australia Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,New Hope Corporation Limited
 76,Kreab Gavin Anderson (Australia) Ltd,Caltex Australia Petroleum Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Terumo Australia Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,State Grid International Development
-76,Kreab Gavin Anderson (Australia) Ltd,IVECO Trucks Australia
-76,Kreab Gavin Anderson (Australia) Ltd,Electro Optic Systems Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,Faxtech Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,The George Institute
 76,Kreab Gavin Anderson (Australia) Ltd,DTEX Systems Pty Ltd
 76,Kreab Gavin Anderson (Australia) Ltd,Swisse Welness Pty Ltd
@@ -1107,6 +1089,8 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,P and H Marine Australia Pty Ltd
 132,Megan Anwyl,Foundation for Young Australians
 132,Megan Anwyl,Town of Port Hedland
+132,Megan Anwyl,Brookfield Rail P/L 
+132,Megan Anwyl,Vector Advanced Metering Services (Australia) Pty Ltd
 720,MIBD Strategy ,Kurz Australia 
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
@@ -1223,9 +1207,6 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Merivale Group (Hemmes Trading Pty Ltd)
 516,Premier State Consulting Pty Ltd,Echo Entertainment Group Limited
 516,Premier State Consulting Pty Ltd,Mounties Group
-516,Premier State Consulting Pty Ltd,Gloucester Resources Limited
-516,Premier State Consulting Pty Ltd,Bailey Group Holdings
-516,Premier State Consulting Pty Ltd,Assetlink Services Pty Ltd
 516,Premier State Consulting Pty Ltd,Broadspectrum Limited
 516,Premier State Consulting Pty Ltd,The Star Entertainment Group Limited
 220,Primary Communication Pty Ltd,The Butterfly Foundation
@@ -1597,6 +1578,7 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,Crystal Lagoons
 424,The Taylor Street Consultancy P/L,Australian Racing Drivers Club
 424,The Taylor Street Consultancy P/L,First State Super
+424,The Taylor Street Consultancy P/L,Capella Capital
 698,The Trustee for Arthur Trust,Engineers Australia
 698,The Trustee for Arthur Trust,Accommodation Association of Australia
 698,The Trustee for Arthur Trust,bet365
@@ -1612,6 +1594,7 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,Australian Livestock Exportersâ Council 
 698,The Trustee for Arthur Trust,Red Cloud Ltd
 698,The Trustee for Arthur Trust,Australian Institute of Family Counselling
+698,The Trustee for Arthur Trust,Australian Timeshare and Holiday Ownership Council
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
@@ -1716,6 +1699,7 @@ agency_id,agency_business_entity_name,client_name
 463,Walker Watterson Holdings Pty Ltd, FIREEYE AUSTRALIA PTY LTD
 463,Walker Watterson Holdings Pty Ltd,Skyfii
 463,Walker Watterson Holdings Pty Ltd,Best Technology Services
+463,Walker Watterson Holdings Pty Ltd,Dell Boomi
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
@@ -1724,7 +1708,6 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,The Smith Family
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,ThyssenKrupp Marine Systems Australia Pty Ltd
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Fairview Architectural Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,MGC Pharmaceuticals 
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Australian Biotechnologies Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Hobart District Nursing Service Inc.
