@@ -1,5 +1,6 @@
 agency_id,agency_business_entity_name,lobbyist_name,position,former_government_representative,cessation_date
 629, A.M Joseph & B.J Sundell,Adam Joseph,Partner,Yes,October 2013
+786,2Triple4 Financial Group Pty Ltd,Hustine Jeffery,Consultant,No,""
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
 746,Advisory Street Pty Ltd,Taleen Shamlian,Managing Director,Yes,September 2003
@@ -57,6 +58,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 654,C2hills Investments Pty Limited,Danielle Ann Maltman,Business Consultant,No,""
 700,Campaigns and Communications Group P/L,Ross Bruce Hawker,Managing Director,Yes,September 2013
 700,Campaigns and Communications Group P/L,Graeme John Wedderburn,Company Director,Yes,September 2013
+787,Capetal Advisory Pty Ltd,Nathan Paine,Chief Executive Officer,No,""
+787,Capetal Advisory Pty Ltd,Matthew Clemow,Director,No,""
+787,Capetal Advisory Pty Ltd,Andrew Coombe,Associate Director,Yes,August 2009
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Michael Photios,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Cathy Duncan,Practice Manager,Yes,June 2012
@@ -544,6 +548,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Managing Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Michael Burgess,Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Clancy O'Donnell,Associate,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Delia Obst,Associate,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Shannon Hee,Associate,No,""
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 550,The Trustee for Connelly Project Resources,Michael Peter Connelly,Director,No,""
@@ -566,6 +572,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 689,Vicom Australia Pty Ltd,Roger Michael Kane,General Manager,No,""
 689,Vicom Australia Pty Ltd,David Harris Pearce,Region Manager Aviation and Defence,Yes,August 2006
 689,Vicom Australia Pty Ltd,Bruce Campbell Williams,Director,No,""
+785,Victory Edge Consulting,Victoria Louisa Martin Matterson,Director,Yes,August 2016
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing,Managing Director,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Graham Alexander Ingerson,Government Relations Specialist,No,""
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson,Director,No,""

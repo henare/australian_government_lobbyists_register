@@ -9,6 +9,8 @@ agency_id,agency_business_entity_name,client_name
 629, A.M Joseph & B.J Sundell,The Five Kungkas
 629, A.M Joseph & B.J Sundell,Sample NSW Food Festival
 629, A.M Joseph & B.J Sundell,Salumi Australia
+786,2Triple4 Financial Group Pty Ltd,AUSSEAWALL Pty Ltd
+786,2Triple4 Financial Group Pty Ltd,Tideline Construction Pty Ltd
 271,A D Evers-Buckland,Concert Lighting Systems
 271,A D Evers-Buckland,Geoff RM Howard
 271,A D Evers-Buckland,Wonthaggi Life Saving Club
@@ -218,6 +220,9 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,Hay Shire Council
 654,C2hills Investments Pty Limited,Murrumbidgee Council
 700,Campaigns and Communications Group P/L,Fincantieri
+787,Capetal Advisory Pty Ltd,AREVA
+787,Capetal Advisory Pty Ltd,Commercial and General
+787,Capetal Advisory Pty Ltd,Leed Engineering and Construction Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
 556,Capital Hill Advisory Pty Ltd,Pfizer Australia Pty Ltd
@@ -715,8 +720,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
 59,GRACosway Pty Ltd,Cobham Flight Operations & Services (Aust) / National Jet Systems
-59,GRACosway Pty Ltd,Airwave Solutions Australia
-59,GRACosway Pty Ltd,Navantia SA
 59,GRACosway Pty Ltd,Broadcast Australia
 59,GRACosway Pty Ltd,General Atomics Aeronautical Systems Inc.
 59,GRACosway Pty Ltd,ALDI Stores
@@ -740,25 +743,19 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Idemitsu Australia Resources Pty Ltd
 59,GRACosway Pty Ltd,The Mirabel Foundation Inc.
 59,GRACosway Pty Ltd,Canada Pension Plan Investment Board
-59,GRACosway Pty Ltd,SPC Ardmona Limited
 59,GRACosway Pty Ltd,Australian Imported Motor Vehicle Industry Association Incorporated (AIMVIA)
 59,GRACosway Pty Ltd,OZ Minerals Limited
 59,GRACosway Pty Ltd,Credit Corp Group Limited
 59,GRACosway Pty Ltd,BAI Communications
-59,GRACosway Pty Ltd,Punch Metals NV
 59,GRACosway Pty Ltd,Anchorage Capital Partners Pty Limited
-59,GRACosway Pty Ltd,Hewlett Packard Australia Pty Ltd
-59,GRACosway Pty Ltd,GE Australia Pty Ltd
 59,GRACosway Pty Ltd,TA Associates
 59,GRACosway Pty Ltd,Mortgage and Finance Association of Australia
 59,GRACosway Pty Ltd,Credit and Investments Ombudsman Limited
-59,GRACosway Pty Ltd,Genesee and Wyoming Australia Pty Ltd
 59,GRACosway Pty Ltd,Murray Goulburn
 59,GRACosway Pty Ltd,Capital Radiology Pty Ltd
 59,GRACosway Pty Ltd,ISS Facility Services Pty Ltd
 59,GRACosway Pty Ltd,Scope Global Pty Ltd
 59,GRACosway Pty Ltd,KEPCO Bylong Australia Pty Ltd
-59,GRACosway Pty Ltd,St. John Ambulance Australia Incorporated
 59,GRACosway Pty Ltd,Gaming Technologies Association Limited
 59,GRACosway Pty Ltd,Home Investment Consortium Company Pty Ltd
 59,GRACosway Pty Ltd,Southern Cross Travel Insurance
@@ -858,6 +855,7 @@ agency_id,agency_business_entity_name,client_name
 103,Ivydale Nominees Pty Ltd,Albemarle Corporation
 103,Ivydale Nominees Pty Ltd,Con Berbatis
 103,Ivydale Nominees Pty Ltd,CG Berbatis Holdings Pty Ltd
+103,Ivydale Nominees Pty Ltd,Studio 146
 586,Jenkins Engineering defence Systems Pty Ltd,Harris Corp.
 319,Jo Scard Pty Ltd,Kellogg (Australia)
 319,Jo Scard Pty Ltd,Homebirth Australia
@@ -1518,6 +1516,7 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers of Australia Inc
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Bulla Dairy Foods
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Tilley Soaps Australia
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Mental Health First Aid
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
@@ -1675,6 +1674,7 @@ agency_id,agency_business_entity_name,client_name
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
 161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)
 689,Vicom Australia Pty Ltd,Aeroflex a Cobham Company
+785,Victory Edge Consulting,Australian Timeshare Holiday Ownership Council
 635,Visionary  Enterprising Management Services Pty Ltd,Service Skills Industry Alliance Inc.
 635,Visionary  Enterprising Management Services Pty Ltd,Foodland Promotions
 635,Visionary  Enterprising Management Services Pty Ltd,IGA (Metcash Trading Limited)
