@@ -322,6 +322,10 @@ agency_id,agency_business_entity_name,client_name
 113,CHRIS SCHACHT,Leigh Creek Energy Ltd
 113,CHRIS SCHACHT,Paratoo Mines Pty Ltd
 764,Christmas Jalili Pty Ltd,Ultraspeed Australia
+764,Christmas Jalili Pty Ltd,The George Institute
+764,Christmas Jalili Pty Ltd,Veriluma
+764,Christmas Jalili Pty Ltd,Kidsoft
+764,Christmas Jalili Pty Ltd,Dtex Systems
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
@@ -530,9 +534,10 @@ agency_id,agency_business_entity_name,client_name
 10,Cynergy Pty Ltd,Tidal Energy Australia Pty Ltd
 221,Damian McGreevy Consulting Pty Ltd,World Wide Fund for Nature (WWF AUST)
 221,Damian McGreevy Consulting Pty Ltd,Daintree Estates
-221,Damian McGreevy Consulting Pty Ltd,Solar Silicon Resources Group
 221,Damian McGreevy Consulting Pty Ltd,Australian Solar Council
 221,Damian McGreevy Consulting Pty Ltd,Australian Energy Storage Council
+221,Damian McGreevy Consulting Pty Ltd,MBD Energy
+221,Damian McGreevy Consulting Pty Ltd,Solar Quartz Technology Ltd
 16,Day & Hodge Associates Pty Ltd,The Cycling Promotion Fund
 16,Day & Hodge Associates Pty Ltd,Bicycle Industries Australia Inc.
 16,Day & Hodge Associates Pty Ltd,National Medical Services Group
@@ -698,15 +703,12 @@ agency_id,agency_business_entity_name,client_name
 630,GPotts,Water Ice Pty Ltd
 630,GPotts,Nu Edge Solutions Pty Ltd
 630,GPotts,Ballan  District Soldiers Memorial Bush Nursing Hospital  Hostel
-122,GRA Everingham Pty Ltd,ConocoPhillips
 122,GRA Everingham Pty Ltd,Hall and Prior Aged Care Organisation
 122,GRA Everingham Pty Ltd,Cash Converters
-122,GRA Everingham Pty Ltd,Australia Treasury Management
 122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
 122,GRA Everingham Pty Ltd,City of Cockburn
 122,GRA Everingham Pty Ltd,City of Armadale 
 122,GRA Everingham Pty Ltd,Hess Corporation 
-122,GRA Everingham Pty Ltd,Asia Pacific Space Centre Pty Ltd 
 122,GRA Everingham Pty Ltd,Childrenâs Cancer Institute 
 122,GRA Everingham Pty Ltd,PHC Projects 
 122,GRA Everingham Pty Ltd,Tatts Group 
@@ -1524,7 +1526,6 @@ agency_id,agency_business_entity_name,client_name
 780,The Hon. Kim Beazley AC,AECOM
 757,The Hon. Robert Charles Baldwin,Varley Engineering Pty Ltd 
 757,The Hon. Robert Charles Baldwin,Bob Mills Cotton (India)
-757,The Hon. Robert Charles Baldwin,Seabob Jet Pty Ltd
 757,The Hon. Robert Charles Baldwin,Nino Lani
 757,The Hon. Robert Charles Baldwin,Bluesight Building Pty Ltd
 450,The Humphrey Company Pty Limited,AMI International
