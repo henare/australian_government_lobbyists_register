@@ -176,6 +176,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Early Learning and Care Council of Australia
 338,Barton Deakin ,Liberty House Group
 338,Barton Deakin ,Niche Education Group Pty Ltd 
+338,Barton Deakin ,iMove CRC
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -858,6 +859,7 @@ agency_id,agency_business_entity_name,client_name
 103,Ivydale Nominees Pty Ltd,Con Berbatis
 103,Ivydale Nominees Pty Ltd,CG Berbatis Holdings Pty Ltd
 103,Ivydale Nominees Pty Ltd,Studio 146
+103,Ivydale Nominees Pty Ltd,Holiday Inn
 586,Jenkins Engineering defence Systems Pty Ltd,Harris Corp.
 319,Jo Scard Pty Ltd,Kellogg (Australia)
 319,Jo Scard Pty Ltd,Homebirth Australia
@@ -1141,6 +1143,7 @@ agency_id,agency_business_entity_name,client_name
 766,Next Level Strategic Services Pty Ltd,QRE Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Sumo Salad
 766,Next Level Strategic Services Pty Ltd,Cutting Edge Pty Ltd
+766,Next Level Strategic Services Pty Ltd,Ardent Leisure Group
 429,NTEC Australia Pty. Ltd.,Huawei Technologies Co. LTD.
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Merck Serono
@@ -1318,6 +1321,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Sino Gas & Energy Holdings Limited 
 242,Purple Communications Australia Pty Ltd,Centre for Entrepreneurial Research and Innovation Limited 
 242,Purple Communications Australia Pty Ltd,K plus S Salt Australia
+242,Purple Communications Australia Pty Ltd,Mareterram Limited
 29,Pynfall Pty Ltd,Project System & Management GmbH
 29,Pynfall Pty Ltd,Luerssen GmbH  CO. KG
 29,Pynfall Pty Ltd,Photonis Technologies SAS
@@ -1447,6 +1451,7 @@ agency_id,agency_business_entity_name,client_name
 167,Scott & Beaumont Pty Ltd,ConnectLand Pty Ltd; Koppers Australia
 167,Scott & Beaumont Pty Ltd,WSLloyd
 167,Scott & Beaumont Pty Ltd,Galbraith and Co
+143,Sefiani Communications Group,Yara Pilbera
 676,Sesimic Asia Pacific Pty Ltd,Norbit
 676,Sesimic Asia Pacific Pty Ltd,Teledyne Reson
 676,Sesimic Asia Pacific Pty Ltd,Knudsen
@@ -1471,6 +1476,16 @@ agency_id,agency_business_entity_name,client_name
 225,SPIER CONSULTING P/L,MANILDRA GROUP
 225,SPIER CONSULTING P/L,AUSTRALIAN NEWSAGENTS FEDERATION
 225,SPIER CONSULTING P/L,AUSVEG
+239,Sports Hydrant Pty Ltd,AMP
+239,Sports Hydrant Pty Ltd,DFA Australia
+239,Sports Hydrant Pty Ltd,Virgin Blue Group of Airlines
+239,Sports Hydrant Pty Ltd,Eftpos Payments Australia
+239,Sports Hydrant Pty Ltd,Professional Golfers Association of Australia Ltd
+239,Sports Hydrant Pty Ltd,Australian Golf Industry Council
+239,Sports Hydrant Pty Ltd,Australian British Chamber of Commerce
+239,Sports Hydrant Pty Ltd,The Big Issue in Australia Ltd
+239,Sports Hydrant Pty Ltd,Australian Olympic Committee
+239,Sports Hydrant Pty Ltd,Link Digital Pty Ltd
 665,Spring Street Advisory,Vestas Australian Wind Technology Pty Ltd
 665,Spring Street Advisory,Olex Australia Pty Ltd
 665,Spring Street Advisory,Infoxchange

@@ -1,6 +1,7 @@
 agency_id,agency_business_entity_name,lobbyist_name,position,former_government_representative,cessation_date
 629, A.M Joseph & B.J Sundell,Adam Joseph,Partner,Yes,October 2013
 786,2Triple4 Financial Group Pty Ltd,Justine Jeffery,Consultant,No,""
+786,2Triple4 Financial Group Pty Ltd,Phil Cook,Consultant / Director,No,""
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
 746,Advisory Street Pty Ltd,Taleen Shamlian,Managing Director,Yes,September 2003
@@ -189,8 +190,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 295,Five Corners Pty Ltd,Deborah Bell,Director Five Corners Pty Ltd,No,""
 713,Flight Data Systems Pty Ltd,Darren Paul Privitera,Managing Director,No,""
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
-484,FPL Advisory Pty Ltd,Dimity Paul,Manager Stakeholder Engagement,Yes,October 2013
 484,FPL Advisory Pty Ltd,Susanne Porter,Executive Assistant/Research Assitant,No,""
+484,FPL Advisory Pty Ltd,Sam Perkins,Policy Analyst,No,""
 738,Freight  Trade Alliance (FTA) Pty Ltd,Travis Brooks-Garrett,Commercial and Strategy,No,""
 738,Freight  Trade Alliance (FTA) Pty Ltd,Paul David Zalai,Director,Yes,June 1999
 333,FTI Consulting (Perth) Pty Ltd,Cameron Morse,Managing Director Corporate and Public Affairs,No,""
@@ -244,6 +245,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Jinesh Patel,Director,No,""
 59,GRACosway Pty Ltd,Liam Nilon,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Erin Germantis,Research and Policy Analyst,No,""
+59,GRACosway Pty Ltd,Zoe Darling,Research and Policy Analyst,Yes,June 2016
 778,Grandview Innovations Pty Ltd,Gavan O'Connor,Chairman,Yes,October 2007
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
@@ -440,7 +442,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Astrid Serventy,Associate Director,Yes,October 2013
 242,Purple Communications Australia Pty Ltd,Karen Brown,Associate Director,Yes,March 2013
 242,Purple Communications Australia Pty Ltd,Chantal Hartstone,Account Manager,No,""
-242,Purple Communications Australia Pty Ltd,Grace Carpenter,Consultant,No,""
 242,Purple Communications Australia Pty Ltd,Matt Birney,Special Counsel,Yes,September 2008
 242,Purple Communications Australia Pty Ltd,Vessa Playfair,Director,No,""
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
@@ -480,12 +481,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
 771,S Robertson and M Smith,Michael Smith,Partner,No,""
+771,S Robertson and M Smith,Stephen Robertson,Partner,No,""
 708,Sammway Pty Limited,Samantha Dybac,Lobbyist,No,""
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Victoria Qiu,Director China,No,""
 227,SAS Consulting Group Pty Ltd,Lisa Palu,Senior Consultant,No,""
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
+143,Sefiani Communications Group,Todd Loydell,Government Relations Lead,Yes,January 2007
 676,Sesimic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Sesimic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
 676,Sesimic Asia Pacific Pty Ltd,Denis Vukovac,Technical Marketing Manager,Yes,August 2011
@@ -497,6 +500,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
 82,Socom Pty Ltd,Zoe Weaver,Consultant,No,""
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
+239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
 490,Staindl Strategic Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
