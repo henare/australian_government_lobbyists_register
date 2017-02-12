@@ -27,6 +27,13 @@ agency_id,agency_business_entity_name,client_name
 104,Alkar Pty Ltd,FoxStrategic
 104,Alkar Pty Ltd,Latrobe City Council
 104,Alkar Pty Ltd,OnDigital
+788,All Points North Advisory Pty Ltd,A Gabrielli Constructions Pty Ltd
+788,All Points North Advisory Pty Ltd,UDP Consulting Engineers
+788,All Points North Advisory Pty Ltd,Brazier Motti
+788,All Points North Advisory Pty Ltd,Mendi Cionstructions
+788,All Points North Advisory Pty Ltd,RMS Construction
+788,All Points North Advisory Pty Ltd,Civil Plus
+788,All Points North Advisory Pty Ltd,Paynter Dixon
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Narda-MITEQ
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Communications 
 745,AMG Consulting Services Pty Ltd,TexSkill
@@ -50,10 +57,8 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Aboriginal AG-Arts Residency Kenmore Limited
 63,AusAccess Unit Trust,Berrigan District Aged Care Association
 63,AusAccess Unit Trust,Daewoo Shipbuilding and Marine Engineering (DSME)
-63,AusAccess Unit Trust,Hardcat Pty Ltd
 63,AusAccess Unit Trust,Hanwha Techwin
 63,AusAccess Unit Trust,Australian Indigenous Alpine Sports Foundation
-63,AusAccess Unit Trust,Ochre Dawn
 63,AusAccess Unit Trust,Merck Sharp and Dohme (MSD)
 747,Australian Industry Facilitation,Partech Systems Pty Ltd
 747,Australian Industry Facilitation,Leonardo SpA
@@ -348,7 +353,7 @@ agency_id,agency_business_entity_name,client_name
 142,Consilium International Group Pty Ltd,Senetas
 142,Consilium International Group Pty Ltd,UXC Limited
 638,Contextual Communications Pty Ltd, ARCADIA Corporation Pty Ltd
-638,Contextual Communications Pty Ltd,DoctorHx Pty Ltd
+638,Contextual Communications Pty Ltd,New Humans of Australia
 453,Cornerstone Group Australia ,Cemento Pty Ltd 
 453,Cornerstone Group Australia ,Demigold Pty Ltd 
 453,Cornerstone Group Australia ,Direct Freight Express Pty ltd 
@@ -504,7 +509,6 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Free TV Australia Ltd
 580,Crosby Textor Research Strategies Results,Distilled Spirits Industry Council of Australia Inc.
 580,Crosby Textor Research Strategies Results,Careers Australia Group Limited
-580,Crosby Textor Research Strategies Results,Diageo Australia Limited
 580,Crosby Textor Research Strategies Results,APR Energy 
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
@@ -671,6 +675,9 @@ agency_id,agency_business_entity_name,client_name
 561,Global Issues Group,Refrigerants Australia
 561,Global Issues Group,AIR CONDITIONING AND REFRIGERATION EQUIPMENT MANUFACTURERS ASSOCIATION OF AUSTRALIA INCORPORATED
 750,GovCorp Pty Ltd,VS Connect Pty Ltd
+750,GovCorp Pty Ltd,Scahillco
+750,GovCorp Pty Ltd,Lence Novaceski
+750,GovCorp Pty Ltd,Mark O'Neill
 7,Government Relations Solutions Pty Ltd,National Pharmacies
 7,Government Relations Solutions Pty Ltd,Demographia Australia Inc
 7,Government Relations Solutions Pty Ltd,QEH Cardiology
@@ -985,7 +992,7 @@ agency_id,agency_business_entity_name,client_name
 578,Making The World A Better Place Pty Ltd,Phoenix Eagle
 578,Making The World A Better Place Pty Ltd,FairGo4All
 578,Making The World A Better Place Pty Ltd,Pacific International Hospital
-578,Making The World A Better Place Pty Ltd,AusCERT
+578,Making The World A Better Place Pty Ltd,APEC PNG 2018 Coordination Authority
 245,Marketing Elements Pty Ltd,Domestic Violence NSW
 245,Marketing Elements Pty Ltd,National Child Protection Alliance
 245,Marketing Elements Pty Ltd,National Council of Children Post Separation
@@ -1074,7 +1081,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australian Sugar Milling Council
 565,Newgate Communications Pty Limited,Ferrier Hodgson
 565,Newgate Communications Pty Limited,Australia Post
-565,Newgate Communications Pty Limited,Football Federation Australia
 565,Newgate Communications Pty Limited,Australian Bankers' Association Inc
 565,Newgate Communications Pty Limited,Deliveroo Australia Pty Ltd
 565,Newgate Communications Pty Limited,WorldVentures Marketing Pty Ltd
@@ -1082,6 +1088,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,cohealth
 565,Newgate Communications Pty Limited,Port of Newcastle Operations Pty Ltd
 565,Newgate Communications Pty Limited,Diageo Australia Limited
+565,Newgate Communications Pty Limited,COPE (Centre of Perinatal Excellence)
 766,Next Level Strategic Services Pty Ltd,Adani Mining Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Linfox Proprietary Limited
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
@@ -1351,7 +1358,6 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Restaurant and Catering Australia
 685,Sanlaan Pty Ltd,Technology One
 685,Sanlaan Pty Ltd,Mckenzie Aged Care Group
-685,Sanlaan Pty Ltd,Port of Brisbane
 685,Sanlaan Pty Ltd,Careers Australia Group Limited
 685,Sanlaan Pty Ltd,Infigen Energy Limited
 685,Sanlaan Pty Ltd,Springfield Land Corporation
@@ -1471,6 +1477,8 @@ agency_id,agency_business_entity_name,client_name
 757,The Hon. Robert Charles Baldwin,Bob Mills Cotton (India)
 757,The Hon. Robert Charles Baldwin,Nino Lani
 757,The Hon. Robert Charles Baldwin,Bluesight Building Pty Ltd
+757,The Hon. Robert Charles Baldwin,CTSi (USA)
+757,The Hon. Robert Charles Baldwin,Australian International Trade Association and Associates (China)
 450,The Humphrey Company Pty Limited,AMI International
 450,The Humphrey Company Pty Limited,Project Flinders Pty Ltd
 450,The Humphrey Company Pty Limited,Huntington Ingalls Industries
