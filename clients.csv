@@ -177,6 +177,13 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Niche Education Group Pty Ltd 
 338,Barton Deakin ,iMove CRC
 338,Barton Deakin ,Australian Packaging Covenant Organisation Ltd 
+338,Barton Deakin ,Penrith Lakes Development Corporation
+338,Barton Deakin ,Rent4keeps (Aust) Pty Ltd
+338,Barton Deakin ,Rhinosport
+338,Barton Deakin ,Prism Surgical
+338,Barton Deakin ,Device Technologies
+338,Barton Deakin ,LifeHealthcare
+338,Barton Deakin ,Woolworths Group
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -344,6 +351,7 @@ agency_id,agency_business_entity_name,client_name
 428,CMGRP Pty Ltd,Nutricia Australia Pty Ltd
 428,CMGRP Pty Ltd,IHMS
 428,CMGRP Pty Ltd,CFD & FX Margin Association
+428,CMGRP Pty Ltd,XERO
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -523,7 +531,7 @@ agency_id,agency_business_entity_name,client_name
 221,Damian McGreevy Consulting Pty Ltd,Australian Solar Council
 221,Damian McGreevy Consulting Pty Ltd,Australian Energy Storage Council
 221,Damian McGreevy Consulting Pty Ltd,MBD Energy
-221,Damian McGreevy Consulting Pty Ltd,Solar Quartz Technology Ltd
+221,Damian McGreevy Consulting Pty Ltd,Redback Technologies Australia
 16,Day & Hodge Associates Pty Ltd,The Cycling Promotion Fund
 16,Day & Hodge Associates Pty Ltd,Bicycle Industries Australia Inc.
 16,Day & Hodge Associates Pty Ltd,National Medical Services Group
@@ -585,9 +593,8 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Standards Australia
 31,Endeavour Consulting Group Pty Ltd,iSelect 
 31,Endeavour Consulting Group Pty Ltd,Federal Chamber of Automotive Industries
-31,Endeavour Consulting Group Pty Ltd,Australian Automotive Dealer Association
-31,Endeavour Consulting Group Pty Ltd,CropLife Australia 
 31,Endeavour Consulting Group Pty Ltd,Australian Publishers Association 
+31,Endeavour Consulting Group Pty Ltd,MediScriptz Australia Pty Ltd 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -916,7 +923,6 @@ agency_id,agency_business_entity_name,client_name
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 621,KnowMinister.com Pty Ltd,CSR Limited
 621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
-775,Kommerz Pty Ltd,Study Group
 775,Kommerz Pty Ltd,Technicolor Holdings Inc
 115,KPMG,The Cobra Group Pty Ltd
 115,KPMG,Distilled Spirits Industry Council of Australia Inc
@@ -925,19 +931,6 @@ agency_id,agency_business_entity_name,client_name
 115,KPMG,Kawasaki Heavy Industries Ltd
 115,KPMG,Voice of Horticulture
 115,KPMG,Tourism Shopping Reform Group
-76,Kreab Gavin Anderson (Australia) Ltd,Australian Home Heating Association
-76,Kreab Gavin Anderson (Australia) Ltd,National Association of Steel-Framed Housing (NASH)
-76,Kreab Gavin Anderson (Australia) Ltd,Intel Security
-76,Kreab Gavin Anderson (Australia) Ltd,Intel Australia Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,Macquarie Group Limited 
-76,Kreab Gavin Anderson (Australia) Ltd,the Harmony Movement
-76,Kreab Gavin Anderson (Australia) Ltd,Cancer Drugs Alliance (CDA) 
-76,Kreab Gavin Anderson (Australia) Ltd,New Hope Corporation Limited
-76,Kreab Gavin Anderson (Australia) Ltd,Caltex Australia Petroleum Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,Terumo Australia Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,The George Institute
-76,Kreab Gavin Anderson (Australia) Ltd,DTEX Systems Pty Ltd
-76,Kreab Gavin Anderson (Australia) Ltd,Swisse Welness Pty Ltd
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1057,6 +1050,7 @@ agency_id,agency_business_entity_name,client_name
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
 696,MOUNTAIN MEDIA PTY LTD,EOz Energy Skills Australia
 696,MOUNTAIN MEDIA PTY LTD,Norfolk Island People For Democracy
+696,MOUNTAIN MEDIA PTY LTD,Vision Super
 356,Mr John Kindler,Pratt and Whitney Military Engines
 677,Naylor Phillip Gordon,Charley's Enterprises Pty Ltd
 565,Newgate Communications Pty Limited,Clontarf Foundation
@@ -1138,6 +1132,11 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,Wrigley Australia
 72,Parker & Partners Pty Ltd,Mars Food Australia
 72,Parker & Partners Pty Ltd,Museum of Applied Arts and Sciences
+72,Parker & Partners Pty Ltd,Mars Chocolate Australia 
+72,Parker & Partners Pty Ltd,Chiropractors Association of Australia 
+72,Parker & Partners Pty Ltd,Australian Olive Oil Association 
+72,Parker & Partners Pty Ltd,Sanofi
+72,Parker & Partners Pty Ltd,Roche 
 298,Pavilion Consulting Pty Ltd,Australasian Lymphology Association
 298,Pavilion Consulting Pty Ltd,Lymphoedema Action Alliance
 298,Pavilion Consulting Pty Ltd,Eli Lilly
@@ -1192,7 +1191,6 @@ agency_id,agency_business_entity_name,client_name
 622,Profile Consulting (Aust) Pty Ltd,Derwent Executive
 622,Profile Consulting (Aust) Pty Ltd,Grocon Pty Ltd
 622,Profile Consulting (Aust) Pty Ltd,Hobart International Airport
-622,Profile Consulting (Aust) Pty Ltd,Herbert Smith Freehills
 622,Profile Consulting (Aust) Pty Ltd,Metcash Trading Limited
 622,Profile Consulting (Aust) Pty Ltd,Smartgroup Corporation
 622,Profile Consulting (Aust) Pty Ltd,Property Exchange Australia Ltd 
@@ -1230,39 +1228,24 @@ agency_id,agency_business_entity_name,client_name
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
 68,Public Policy Solutions Pty Ltd,Terressentia
+68,Public Policy Solutions Pty Ltd,Consolidated Press Holdings Pty Ltd
 242,Purple Communications Australia Pty Ltd,Energy and Minerals Australia
-242,Purple Communications Australia Pty Ltd,Rey Resources
-242,Purple Communications Australia Pty Ltd,City of Melville
 242,Purple Communications Australia Pty Ltd,WA Independent Power Association Inc 
 242,Purple Communications Australia Pty Ltd,Northern Minerals 
-242,Purple Communications Australia Pty Ltd,Medibank Private 
-242,Purple Communications Australia Pty Ltd,FEX
-242,Purple Communications Australia Pty Ltd,Fortescue Metals Group
-242,Purple Communications Australia Pty Ltd,Bunge 
-242,Purple Communications Australia Pty Ltd,International Mining for Development Centre
 242,Purple Communications Australia Pty Ltd,Indigenous Construction Resource Group Pty Ltd (ICRG)
-242,Purple Communications Australia Pty Ltd,BC Iron Ltd
-242,Purple Communications Australia Pty Ltd,URS Australia Pty Ltd
-242,Purple Communications Australia Pty Ltd,Metals X
 242,Purple Communications Australia Pty Ltd,Mercer Outsourcing (Australia) PTY LTD 
 242,Purple Communications Australia Pty Ltd,Australia China Business Council
 242,Purple Communications Australia Pty Ltd,The Salvation Army
-242,Purple Communications Australia Pty Ltd,Doray Minerals Limited
 242,Purple Communications Australia Pty Ltd,Northern Star Resources
 242,Purple Communications Australia Pty Ltd,Norton Gold Fields
-242,Purple Communications Australia Pty Ltd,Regis Resources
-242,Purple Communications Australia Pty Ltd,Silver Lake Resources
-242,Purple Communications Australia Pty Ltd,St Barbara Limited
-242,Purple Communications Australia Pty Ltd,Phoenix Gold Pty Ltd
 242,Purple Communications Australia Pty Ltd,Gold Fields Australia Pty Limited
-242,Purple Communications Australia Pty Ltd,Millennium Minerals Limited
 242,Purple Communications Australia Pty Ltd,Ramelius Resources Limited
-242,Purple Communications Australia Pty Ltd,Providence Housing
-242,Purple Communications Australia Pty Ltd,Clough Limited
 242,Purple Communications Australia Pty Ltd,Sino Gas & Energy Holdings Limited 
 242,Purple Communications Australia Pty Ltd,Centre for Entrepreneurial Research and Innovation Limited 
 242,Purple Communications Australia Pty Ltd,K plus S Salt Australia
 242,Purple Communications Australia Pty Ltd,Mareterram Limited
+242,Purple Communications Australia Pty Ltd,Murdoch University
+242,Purple Communications Australia Pty Ltd,Gold Road Resources Limited
 29,Pynfall Pty Ltd,Project System & Management GmbH
 29,Pynfall Pty Ltd,Luerssen GmbH  CO. KG
 29,Pynfall Pty Ltd,Photonis Technologies SAS
@@ -1279,21 +1262,15 @@ agency_id,agency_business_entity_name,client_name
 763,RCO AGENCY,DX SOLUTIONS
 563,"Reith, Peter Keaston",Bechtel Management Company Ltd
 563,"Reith, Peter Keaston",G4S Custodial Services Pty Ltd
-91,REPUBLIC Consulting,Lions Australia
-91,REPUBLIC Consulting,Franchise Council of Australia
 24,Repute Communications and Associates Pty Ltd,RichmondPRA
 24,Repute Communications and Associates Pty Ltd,Flourish Australia (Formerly RichmondPRA)
 24,Repute Communications and Associates Pty Ltd,The London P and I Club 
-98,Res Publica Pty Ltd,The Australian Private Equity & Venture Capital Association (AVCAL)
-98,Res Publica Pty Ltd,Plenary Group Australia
 98,Res Publica Pty Ltd,SpinalCure Australia
 98,Res Publica Pty Ltd,Cosmetic Physicians Society of Australasia (CPSA)
 98,Res Publica Pty Ltd,Australian Association of National Advertisers (AANA)
 98,Res Publica Pty Ltd,Unilever
 98,Res Publica Pty Ltd,Coalition for Advancement of Medical Research Australia
 98,Res Publica Pty Ltd,Lion 
-98,Res Publica Pty Ltd,Australian Marriage Equality Incorporated
-98,Res Publica Pty Ltd,Wellspect Healthcare
 98,Res Publica Pty Ltd,Cosmetic Physicians College of Australasia
 98,Res Publica Pty Ltd,Mojo Power
 497,Resolution Junction,Wavlink Incorporated
@@ -1346,11 +1323,14 @@ agency_id,agency_business_entity_name,client_name
 527,Robert J.L. Hawke & Associates Pty Ltd,Kimberley Agricultural Investment Pty Ltd (ACN 154 270 194)
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
-669,Royce Communications Pty Ltd,Belgravia Leisure
 669,Royce Communications Pty Ltd,City of Ballarat
 669,Royce Communications Pty Ltd,BSH Home Appliances
 669,Royce Communications Pty Ltd,Reclink Australia
 669,Royce Communications Pty Ltd,RDA Southern Melbourne
+669,Royce Communications Pty Ltd,Crown Coaches
+669,Royce Communications Pty Ltd,Portsea Surf Lifesaving Club
+669,Royce Communications Pty Ltd,Healthy Australia
+669,Royce Communications Pty Ltd,South East Melbourne Group of Councils
 771,S Robertson and M Smith,Queensland Dairyfarmers' Organisation LImited
 771,S Robertson and M Smith,MPHG Saffair (Qld) Specialist Healthcare Management Pty Ltd
 708,Sammway Pty Limited,Appscore International
@@ -1367,6 +1347,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Mandarin International Investments
 685,Sanlaan Pty Ltd,Advanced Warning Systems Inc
 685,Sanlaan Pty Ltd,HItec Welding 
+685,Sanlaan Pty Ltd,APR Energy
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
@@ -1426,6 +1407,8 @@ agency_id,agency_business_entity_name,client_name
 665,Spring Street Advisory,Olex Australia Pty Ltd
 665,Spring Street Advisory,Infoxchange
 665,Spring Street Advisory,Trustpower
+665,Spring Street Advisory,Tilt Renewables
+665,Spring Street Advisory,Keppel Prince Engineering
 490,Staindl Strategic Pty Ltd,Pacific Hydro
 490,Staindl Strategic Pty Ltd,LD Network
 490,Staindl Strategic Pty Ltd,Hanson Construction Materials
@@ -1565,6 +1548,8 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Healthe Care Australia
 145,The Trustee for Bespoke Business Trust,Moly Mines Limited
 145,The Trustee for Bespoke Business Trust,Anheuser-Busch InBev
+145,The Trustee for Bespoke Business Trust,Network Ten Limited
+145,The Trustee for Bespoke Business Trust,Chow Tai Fook Enterprises Limited
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1591,6 +1576,8 @@ agency_id,agency_business_entity_name,client_name
 668,The Trustee for Sandra Eccles Family Trust,BlueScope Steel Limited
 668,The Trustee for Sandra Eccles Family Trust,PTTEP Australasia Pty Ltd
 668,The Trustee for Sandra Eccles Family Trust,The Salvation Army Employment Plus 
+668,The Trustee for Sandra Eccles Family Trust,Wunambal Gaambera Aboriginal Corporation
+668,The Trustee for Sandra Eccles Family Trust,Mungalalu Truscott Airbase Pty Ltd
 117,The Trustee for the Bowden Family Trust,Group Training Australia
 117,The Trustee for the Bowden Family Trust,TAFE Directors Australia
 117,The Trustee for the Bowden Family Trust,Advisian Pty Ltd

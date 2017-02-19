@@ -63,7 +63,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 700,Campaigns and Communications Group P/L,Graeme John Wedderburn,Company Director,Yes,September 2013
 787,Capetal Advisory Pty Ltd,Nathan Paine,Chief Executive Officer,No,""
 787,Capetal Advisory Pty Ltd,Matthew Clemow,Director,No,""
-787,Capetal Advisory Pty Ltd,Andrew Coombe,Associate Director,Yes,August 2009
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Michael Photios,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Cathy Duncan,Practice Manager,Yes,June 2012
@@ -301,14 +300,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
 115,KPMG,Stefano Moritsch,Senior Consultant,No,""
 115,KPMG,Jeremy Murdoch,Consultant,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Michael Morgan,Managing Partner Australia,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Peter Sekuless,Senior Advisor,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Jemima Turner,Associate Director,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Jeff Sorrell,Associate Director,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Justin Clark,Partner / Sydney Office Head,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Nick Westenberg,Senior Advisor,No,""
-76,Kreab Gavin Anderson (Australia) Ltd,Damon Jalili,Senior Advisor,Yes,August 2016
-76,Kreab Gavin Anderson (Australia) Ltd,Todd Loydell,Director,Yes,January 2007
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 557,Leanne Joyce Consulting,Leanne Joyce,Public Affairs and Communications Consultant,No,""
@@ -388,14 +379,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
-72,Parker & Partners Pty Ltd,Peta Lange,Associate Director,Yes,January 2009
+72,Parker & Partners Pty Ltd,Peta Lange,Director,Yes,January 2009
 72,Parker & Partners Pty Ltd,Arli Miller,Director,No,""
 72,Parker & Partners Pty Ltd,Susan Redden Makatoa ,Group Managing Director Corporate,No,""
 72,Parker & Partners Pty Ltd,Fiona Forbes,Director,No,""
 72,Parker & Partners Pty Ltd,Yat Shum,Account Coordinator,No,""
 72,Parker & Partners Pty Ltd,Ksenya Belooussova,Senior Account Manager,No,""
 72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,Yes,December 2012
-72,Parker & Partners Pty Ltd,Nicole Quinn,Director,No,""
+72,Parker & Partners Pty Ltd,Nicole Quinn,Director,Yes,December 2009
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
 736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -435,6 +426,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Chantal Hartstone,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Matt Birney,Special Counsel,Yes,September 2008
 242,Purple Communications Australia Pty Ltd,Vessa Playfair,Director,No,""
+242,Purple Communications Australia Pty Ltd,William John Andrew Witham,Special Counsel,No,""
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 446,R A Neilson and M Salmon,Michael Salmon,Director,No,""
 446,R A Neilson and M Salmon,Ross Neilson,Director,No,""
@@ -445,7 +437,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 763,RCO AGENCY,Radomir Kobryn-Coletti,Director ,No,""
 563,"Reith, Peter Keaston",Peter Keaston Reith,Sole Trader,Yes,November 2001
-91,REPUBLIC Consulting,Liza-Jayne Loch,Director,No,""
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
 98,Res Publica Pty Ltd,Gabriel McDowell,Managing Director,No,""
 98,Res Publica Pty Ltd,Kate Bailey,Account Director,No,""
