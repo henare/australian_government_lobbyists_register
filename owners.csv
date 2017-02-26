@@ -1,6 +1,4 @@
 agency_id,agency_business_entity_name,owner_name
-629, A.M Joseph & B.J Sundell,Brett Sundell
-629, A.M Joseph & B.J Sundell,Adam Joseph
 786,2Triple4 Financial Group Pty Ltd,phillip Murray Cook
 271,A D Evers-Buckland,Alan Evers-Buckland
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Keen Securities Pty Limited
@@ -20,11 +18,7 @@ agency_id,agency_business_entity_name,owner_name
 499,Asia Pacific Corporation Pty Ltd,Jonathan William Crooke
 499,Asia Pacific Corporation Pty Ltd,Benjamin Andrew Crooke
 499,Asia Pacific Corporation Pty Ltd,Daniel Alexander Crooke
-379,assetpr,Julianne Dowling
-379,assetpr,Anthony Rasman
 770,Asys Consulting,Anthony Nagy
-781,Atherton Advisory Pty Ltd,Trevor Cyril Atherton
-781,Atherton Advisory Pty Ltd,Trudie Ann Atherton
 63,AusAccess Unit Trust,Mark Ridgway (Consulting Canberra Pty Ltd)
 63,AusAccess Unit Trust,Kerrie Ridgway (Consulting Canberra Pty Ltd)
 747,Australian Industry Facilitation,David Mitchell
@@ -70,7 +64,6 @@ agency_id,agency_business_entity_name,owner_name
 265,CGP solutions Ltd,CPK Communications Pty Ltd
 265,CGP solutions Ltd,Roland Craig Holman
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski
-658,Chris Drummer ,Christopher John Drummer
 113,CHRIS SCHACHT,CHRIS SCHACHT
 764,Christmas Jalili Pty Ltd,Damon Jalili
 475,Clifton Consulting Services Pty Ltd,John Ridley
@@ -85,24 +78,19 @@ agency_id,agency_business_entity_name,owner_name
 638,Contextual Communications Pty Ltd,Cassandra Scott
 638,Contextual Communications Pty Ltd,Niji-Com Holdings Pty Ltd
 453,Cornerstone Group Australia ,St Joseph Enterprises 
-18,Corporate Words Australia Pty Limited,Colin Fulton
 160,Cotterell Jannette Suzanne,Jannette S Cotterell 
 403,Covance Pty Ltd (Covance Market Access Services division),Covance Inc.
 299,CPI Strategic Pty Ltd,Stephen John Newnham
 299,CPI Strategic Pty Ltd,Frederick John Brown
-81,CPR Communications & Public Relations Pty Ltd,Enero Group Limited
 683,Craig Emerson Economics Pty Ltd,Craig Emerson
 683,Craig Emerson Economics Pty Ltd,Benjamin Emerson
 683,Craig Emerson Economics Pty Ltd,Thomas Emerson
 783,Craig Hodges,Craig Leslie Hodges
-99,Craigleed Pty Ltd,Stephen McKew
-99,Craigleed Pty Ltd,Celia McKew
 193,CRAKYL Pty Ltd,Craig Stephen Munnings
 193,CRAKYL Pty Ltd,Kylie Gaye Munnings
 105,CreditWise Pty Ltd,Kathleen Anne Keating
 105,CreditWise Pty Ltd,Stephen Mark Edwards
-580,Crosby Textor Research Strategies Results,Crosby Pty Ltd
-580,Crosby Textor Research Strategies Results,Rotxet Pty Ltd
+580,Crosby Textor Research Strategies Results,CT Group International Ltd
 153,Cultural Consulting,Mr Peter O'Neill OAM
 153,Cultural Consulting,Dr Robert Goodfellow
 386,Currie Communications,Mark Andrew Paterson
@@ -118,6 +106,7 @@ agency_id,agency_business_entity_name,owner_name
 454,Discourse Consulting Pty Ltd,John Della Bosca
 624,Donna Edman,Donna Therese Edman
 172,Dr Robert Horton,Robert Horton
+792,Du Bious Holdings Pty Ltd,Peter Sekuless
 515,Dunns4 Consulting Pty Ltd,Stephen James Dunn
 515,Dunns4 Consulting Pty Ltd,Leonora Mary Dunn
 263,ED & Associates Pty Ltd,Edmund Ng
@@ -138,7 +127,6 @@ agency_id,agency_business_entity_name,owner_name
 214,FIPRA Australia Pty Limited,Richardson Coutts Pty Limited
 295,Five Corners Pty Ltd,Deborah Bell
 295,Five Corners Pty Ltd,Brad Sheehan
-713,Flight Data Systems Pty Ltd,Darren Privitera
 484,FPL Advisory Pty Ltd,Steve Cusworth
 738,Freight  Trade Alliance (FTA) Pty Ltd,Paul David Zalai
 333,FTI Consulting (Perth) Pty Ltd,FTI Consulting (Perth) Pty Ltd
@@ -166,14 +154,12 @@ agency_id,agency_business_entity_name,owner_name
 122,GRA Everingham Pty Ltd,Jason Marocchi Family Trust
 122,GRA Everingham Pty Ltd,Eric Ripper
 59,GRACosway Pty Ltd,Diversified Marketing Services Pty Ltd
-778,Grandview Innovations Pty Ltd,Gavan O'Connor
 26,Halden Burns Pty Ltd,Anne Burns
 26,Halden Burns Pty Ltd,John Halden
 717,Hartrim Nominees Pty Ltd,Bernard Lee
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford
 96,Hawker Britton Group Pty Ltd,Singleton Ogilvy & Mather (Holdings) Pty Ltd
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle
-124,Helen & Mike O'Brien JP,Helen O'Brien and Mike O'Brien JP (Partnership)
 8,Hill and Knowlton,WPP Group
 765,IALPG PTY LTD,Joseph Wheeler
 674,Ian Peregrine Desborough,Ian Desborough
@@ -208,12 +194,9 @@ agency_id,agency_business_entity_name,owner_name
 465,LATAF CONSULTING ,Jeffrey Russell Hart
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE
 519,Lawrence Media Services Pty Ltd,Una Joanna LAWRENCE
-557,Leanne Joyce Consulting,Leanne Joyce
 4,Leisure SolutionsÂ®,Angus Muir Robinson
 4,Leisure SolutionsÂ®,Jeanette Ruth Robinson
 223,Leonie M. Short,Ms Leonie Marjorie Short
-758,Lia Jacinta Cody,Lia Cody
-204,Lighthouse Communications Group Pty Ltd,Peter Laidlaw
 777,Lindsay Tanner,Lindsay Tanner
 566,London Agency Pty Ltd,John Emmerson
 13,LOPAC Consulting Pty Limited,Robert Sidney Parker
@@ -264,7 +247,6 @@ agency_id,agency_business_entity_name,owner_name
 318,Porter Novelli Australia Pty Ltd,Clemenger Group Limited
 516,Premier State Consulting Pty Ltd,National Strategy Group Pty Ltd
 220,Primary Communication Pty Ltd,Annabelle Warren 
-631,Primary Policy Partners,Andrew Gibbs
 283,Probity International Pty. Ltd,Mary Easson
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas
@@ -284,7 +266,6 @@ agency_id,agency_business_entity_name,owner_name
 492,Rachael Sweeney ,Rachael Sweeney
 14,Ranicar and Nicholls Consulting,Nicholls and Nicholls Consulting Pty Ltd
 14,Ranicar and Nicholls Consulting,Oceanic Solutions Pty Ltd
-763,RCO AGENCY,Radomir Kobryn-Coletti
 563,"Reith, Peter Keaston",Reith Peter Keaston
 24,Repute Communications and Associates Pty Ltd,Matthew Watson
 24,Repute Communications and Associates Pty Ltd,Rochelle Watson
@@ -301,7 +282,6 @@ agency_id,agency_business_entity_name,owner_name
 395,Right Angle Business Services Pty Ltd,Linda Marion Holland
 755,RIPNEY PTY LTD,BERNARD RIPOLL
 20,RMK Associates (RMKA),John Kananghinis
-527,Robert J.L. Hawke & Associates Pty Ltd,Tate Australia Pty Ltd (ACN 054 587 432)
 669,Royce Communications Pty Ltd,Peter Mahon
 669,Royce Communications Pty Ltd,Richard Amos
 771,S Robertson and M Smith,Stephen Robertson
@@ -326,7 +306,6 @@ agency_id,agency_business_entity_name,owner_name
 239,Sports Hydrant Pty Ltd,Andrew Turnbull
 665,Spring Street Advisory,McAlpine Family Trust
 490,Staindl Strategic Pty Ltd,Philip Staindl
-66,Statecraft,Priebe Family Trust 
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes
 753,Strategic Political Counsel Pty Ltd,Michael John Kauter
 759,Success Group Australia,Geoffrey Greene
@@ -391,7 +370,6 @@ agency_id,agency_business_entity_name,owner_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew
 584,Willard Public Affairs Pty Limited,Willard Consulting Pty Ltd ATF David Miles Family Trust
 584,Willard Public Affairs Pty Limited,Mijmo Pty Ltd ATF M & J Moran Family Trust
-721,Willesee Communications,Michael Willesee
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell
 591,WILLIAM R & SUSAN V HASSELL,Susan Vicki Hassell
 751,Woodhill Communication Pty Ltd,Stephen Woodhill
