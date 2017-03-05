@@ -39,6 +39,8 @@ agency_id,agency_business_entity_name,client_name
 770,Asys Consulting,Energy Developments Limited
 770,Asys Consulting,First State Super
 770,Asys Consulting,The Little Blue Dinosaur Foundation
+781,Atherton Advisory Pty Ltd,Holiday Rental Industry Association Inc
+781,Atherton Advisory Pty Ltd,Expedia Inc
 63,AusAccess Unit Trust,Global Defence Industries
 63,AusAccess Unit Trust,TECC Pty Ltd
 63,AusAccess Unit Trust,Aboriginal AG-Arts Residency Kenmore Limited
@@ -124,7 +126,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,CUB Pty Ltd
 338,Barton Deakin ,Corning Optical Communications Pty Ltd
 338,Barton Deakin ,Palace Cinemas Pty Ltd
-338,Barton Deakin ,Brookfield Rail Pty Ltd
 338,Barton Deakin ,Vector Limited 
 338,Barton Deakin ,Fincantieri S.p.A
 338,Barton Deakin ,Lake Macquarie City Council
@@ -144,8 +145,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Brandenburg Ensemble Ltd
 338,Barton Deakin ,Propertylink Pty Ltd
 338,Barton Deakin ,MAG DS Corp. 
-338,Barton Deakin ,Rick Hansen Institute
-338,Barton Deakin ,Syngenta Australia Pty Ltd
 338,Barton Deakin ,Community Broadcasting Association of Australia
 338,Barton Deakin ,Vectus Biosystems Limited
 338,Barton Deakin ,Thorn Group Ltd
@@ -170,6 +169,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,DomaCom Australia Ltd
 338,Barton Deakin ,Work Health Group
 338,Barton Deakin ,Shooting Industry Foundation of Australia
+338,Barton Deakin ,Biomass Technologies Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -251,6 +251,8 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Ray Power Pte Ltd
 556,Capital Hill Advisory Pty Ltd,Fincantieri Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,The PRM Group Pty Ltd
+556,Capital Hill Advisory Pty Ltd,Nexus Asia Pacific Pty Ltd
+556,Capital Hill Advisory Pty Ltd,Telstra Corporation Limited
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,H2OX
 558,Catherine Emma Rocchi,Southcare
@@ -291,6 +293,11 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,DTZ Pty Ltd
 157,Chikarovski & Associates Pty Ltd,Webscale Pty Ltd
 157,Chikarovski & Associates Pty Ltd,Employment Hero Pty Ltd
+658,Chris Drummer ,Rhonda Joy Deep
+658,Chris Drummer ,Australian College of Nursing 
+658,Chris Drummer ,Fletcher Pharmacy  Pty Ltd
+658,Chris Drummer ,Rutherford Pharmacy Guy McKendry
+658,Chris Drummer ,Oceanic Multitrading Pty Ltd
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 113,CHRIS SCHACHT,PMB Defence
@@ -476,6 +483,7 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Distilled Spirits Industry Council of Australia Inc.
 580,Crosby Textor Research Strategies Results,Careers Australia Group Limited
 580,Crosby Textor Research Strategies Results,APR Energy 
+580,Crosby Textor Research Strategies Results,Northern Oil & Gas Australia Pty Limited 
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
 153,Cultural Consulting,Bapak Ian Siagian Australian Representative for the Indonesian Democratic Party of Struggle (PDIP)
@@ -773,6 +781,8 @@ agency_id,agency_business_entity_name,client_name
 137,Health Communincations Australia Pty Limited,Takeda Pharmaceuticals Australia
 137,Health Communincations Australia Pty Limited,Merck Serono Australia
 137,Health Communincations Australia Pty Limited,iNova Pharmaceuticals Pty Limited
+124,Helen & Mike O'Brien JP,Australian Pensioners & Superannuants League WA Inc
+124,Helen & Mike O'Brien JP,Parins
 8,Hill and Knowlton,Coca Cola South Pacific
 8,Hill and Knowlton,LEO Pharma
 8,Hill and Knowlton,Intuit
@@ -791,12 +801,12 @@ agency_id,agency_business_entity_name,client_name
 38,Intercorp Pty Ltd,Plasan
 103,Ivydale Nominees Pty Ltd,Coogee Chemicals
 103,Ivydale Nominees Pty Ltd,WA Nightclubs Association
-103,Ivydale Nominees Pty Ltd,B and S Consultants
 103,Ivydale Nominees Pty Ltd,Albemarle Corporation
 103,Ivydale Nominees Pty Ltd,Con Berbatis
 103,Ivydale Nominees Pty Ltd,CG Berbatis Holdings Pty Ltd
 103,Ivydale Nominees Pty Ltd,Studio 146
 103,Ivydale Nominees Pty Ltd,Holiday Inn
+103,Ivydale Nominees Pty Ltd,Esplanade Port Hedland Hotel Land Pty Ltd
 586,Jenkins Engineering defence Systems Pty Ltd,Harris Corp.
 319,Jo Scard Pty Ltd,Australian Indigenous Leadership Centre
 319,Jo Scard Pty Ltd,The Australian Charities Fund Operations Limited
@@ -887,6 +897,7 @@ agency_id,agency_business_entity_name,client_name
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
 519,Lawrence Media Services Pty Ltd,Institute of Public Works Engineering Australasia (NSW) 
 519,Lawrence Media Services Pty Ltd,Big Picture Vision Pty Ltd
+557,Leanne Joyce Consulting,Brisbane Airport Corporation
 4,Leisure SolutionsÂ®,Ecotourism Australia Ltd (Geotourism Forum)
 4,Leisure SolutionsÂ®,Geological Society of Australia
 223,Leonie M. Short,Australian Council of Social Service
@@ -1119,6 +1130,7 @@ agency_id,agency_business_entity_name,client_name
 220,Primary Communication Pty Ltd,Study Group
 220,Primary Communication Pty Ltd,Career FAQ'S
 220,Primary Communication Pty Ltd,BOC South Pacific
+220,Primary Communication Pty Ltd,Triple P International
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 283,Probity International Pty. Ltd,Teva Pharmaceutical Industries Ltd
@@ -1192,8 +1204,6 @@ agency_id,agency_business_entity_name,client_name
 14,Ranicar and Nicholls Consulting,Acacia Research Pty Ltd
 14,Ranicar and Nicholls Consulting,DSIT Solutions Ltd
 14,Ranicar and Nicholls Consulting,BlueZone Group
-563,"Reith, Peter Keaston",Bechtel Management Company Ltd
-563,"Reith, Peter Keaston",G4S Custodial Services Pty Ltd
 24,Repute Communications and Associates Pty Ltd,RichmondPRA
 24,Repute Communications and Associates Pty Ltd,Flourish Australia (Formerly RichmondPRA)
 24,Repute Communications and Associates Pty Ltd,The London P and I Club 
@@ -1247,9 +1257,6 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Maria's Farm Veggies Pty Ltd
 395,Right Angle Business Services Pty Ltd,Mariaâs Farm Veggies Pty Ltd (Administrators Appointed)
 755,RIPNEY PTY LTD,National Credit Providers Association Ltd
-20,RMK Associates (RMKA),Tyre Stewardship Australia
-20,RMK Associates (RMKA),Mercury Group of Companies
-20,RMK Associates (RMKA),Flamesniffer
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
 669,Royce Communications Pty Ltd,City of Ballarat
@@ -1343,6 +1350,17 @@ agency_id,agency_business_entity_name,client_name
 490,Staindl Strategic Pty Ltd,LD Network
 490,Staindl Strategic Pty Ltd,Hanson Construction Materials
 490,Staindl Strategic Pty Ltd,Latrobe Fertilisers
+66,Statecraft,Dimension Data
+66,Statecraft,Bouygues Construction Australia
+66,Statecraft,Moelis and Company
+66,Statecraft,KordaMentha Pty Ltd
+66,Statecraft,Yancoal
+66,Statecraft,CoreLogic RP Data
+66,Statecraft,Wollongong Coal
+66,Statecraft,PreviousNext
+66,Statecraft,Bank of Queensland
+66,Statecraft,Grifols
+66,Statecraft,Third Sector Strategy Group
 769,Strategic Partnership Group Pty Ltd,Fertility Society of Australia IVF Directors Group
 769,Strategic Partnership Group Pty Ltd,Linfox Australia Limited
 753,Strategic Political Counsel Pty Ltd,Nicoventures Australia Pty Ltd
