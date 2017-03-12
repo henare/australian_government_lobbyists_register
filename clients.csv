@@ -211,6 +211,7 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,Grainlink (NSW) Pty Ltd
 654,C2hills Investments Pty Limited,Hay Shire Council
 654,C2hills Investments Pty Limited,Murrumbidgee Council
+654,C2hills Investments Pty Limited,ACN 602  837 883 Pty Ltd
 789,Cahill and Bailey Pty Ltd,Yara Pilbara
 700,Campaigns and Communications Group P/L,Fincantieri
 787,Capetal Advisory Pty Ltd,AREVA
@@ -469,7 +470,6 @@ agency_id,agency_business_entity_name,client_name
 299,CPI Strategic Pty Ltd,Field and Game Australia
 299,CPI Strategic Pty Ltd,Australian Deer Association
 683,Craig Emerson Economics Pty Ltd,AGL Energy
-683,Craig Emerson Economics Pty Ltd,Wesfarmers
 683,Craig Emerson Economics Pty Ltd,KPMG
 783,Craig Hodges,Daniel Taylor
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
@@ -729,6 +729,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Morgan Stanley Infrastructure Inc.
 59,GRACosway Pty Ltd,Kohlberg Kravis Roberts and Co. L.P.
 59,GRACosway Pty Ltd,Biogen Australia Pty Ltd
+59,GRACosway Pty Ltd,Yumbah Aquaculture Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -897,7 +898,6 @@ agency_id,agency_business_entity_name,client_name
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
 519,Lawrence Media Services Pty Ltd,Institute of Public Works Engineering Australasia (NSW) 
 519,Lawrence Media Services Pty Ltd,Big Picture Vision Pty Ltd
-557,Leanne Joyce Consulting,Brisbane Airport Corporation
 4,Leisure SolutionsÂ®,Ecotourism Australia Ltd (Geotourism Forum)
 4,Leisure SolutionsÂ®,Geological Society of Australia
 223,Leonie M. Short,Australian Council of Social Service
@@ -1039,6 +1039,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Diageo Australia Limited
 565,Newgate Communications Pty Limited,COPE (Centre of Perinatal Excellence)
 565,Newgate Communications Pty Limited,Symphony Services Australia Limited
+565,Newgate Communications Pty Limited,Pacific National
 766,Next Level Strategic Services Pty Ltd,Adani Mining Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Linfox Proprietary Limited
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
@@ -1100,6 +1101,7 @@ agency_id,agency_business_entity_name,client_name
 736,Peter Kane,Australian Meat Industry Council
 546,Policy Australia Pty Ltd,Australian Digital Alliance
 546,Policy Australia Pty Ltd,Netflix
+557,Policy Issues,Brisbane Airport Corporation
 318,Porter Novelli Australia Pty Ltd,HVP Plantations
 318,Porter Novelli Australia Pty Ltd,General Mills Australia
 318,Porter Novelli Australia Pty Ltd,McCain Foods Australia New Zealand
@@ -1356,9 +1358,7 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,KordaMentha Pty Ltd
 66,Statecraft,Yancoal
 66,Statecraft,CoreLogic RP Data
-66,Statecraft,Wollongong Coal
 66,Statecraft,PreviousNext
-66,Statecraft,Bank of Queensland
 66,Statecraft,Grifols
 66,Statecraft,Third Sector Strategy Group
 769,Strategic Partnership Group Pty Ltd,Fertility Society of Australia IVF Directors Group
@@ -1452,6 +1452,7 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,First State Super
 424,The Taylor Street Consultancy P/L,Capella Capital
 424,The Taylor Street Consultancy P/L,GPT
+424,The Taylor Street Consultancy P/L,Carnival Australia
 698,The Trustee for Arthur Trust,Engineers Australia
 698,The Trustee for Arthur Trust,Accommodation Association of Australia
 698,The Trustee for Arthur Trust,bet365
@@ -1601,6 +1602,7 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,David & Terena Pitt T/A EW & DA Pitt
 584,Willard Public Affairs Pty Limited,Alan & Dianne Peglar O/A AN & D Peglar Pty Ltd
 584,Willard Public Affairs Pty Limited,Australia India Youth Dialogue Limited 
+584,Willard Public Affairs Pty Limited,Caltex Australia Petroleum Pty Ltd
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens

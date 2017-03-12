@@ -111,7 +111,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,Yes,February 2004
 453,Cornerstone Group Australia ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
-453,Cornerstone Group Australia ,Mark Egelstaff,Strategy and Policy Manager,No,""
+453,Cornerstone Group Australia ,Brigid Meney ,Associate Policy and Strategy ,No,""
 160,Cotterell Jannette Suzanne,Serena McAdam,Policy Analyst,No,""
 160,Cotterell Jannette Suzanne,Jessica Wright,Senior Consultant,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
@@ -294,7 +294,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 115,KPMG,Johannes Van Der Walt,Senior Consultant,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
-557,Leanne Joyce Consulting,Leanne Joyce,Public Affairs and Communications Consultant,No,""
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
 777,Lindsay Tanner,Lindsay James Tanner,sole trader,Yes,September 2010
@@ -380,6 +379,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
 736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
+557,Policy Issues,Leanne Joyce,Public Affairs and Communications Consultant,No,""
 318,Porter Novelli Australia Pty Ltd,Peter Kent,Chief Executive,No,""
 318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Managing Partner,No,""
 318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Partner,No,""
@@ -391,6 +391,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Ian Hancock,Director,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
 516,Premier State Consulting Pty Ltd,Alex Gibson,Advisor,No,""
+516,Premier State Consulting Pty Ltd,Alicja Rudz,Senior Advisor,No,""
 220,Primary Communication Pty Ltd,Jennifer Muir,Chief Counsel,No,""
 220,Primary Communication Pty Ltd,Christopher Hall,CEO,No,""
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
