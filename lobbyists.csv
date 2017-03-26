@@ -41,6 +41,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
+798,Beecher Investments Pty Ltd,Graham James McVean,Director,No,""
 162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,March 1983
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl,Managing Director,No,""
 614,Bossy Group Pty Ltd,Peter Michael McMahon,Principal Consultant,Yes,November 2006
@@ -74,6 +75,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
 556,Capital Hill Advisory Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
 556,Capital Hill Advisory Pty Ltd,Alicja Rudz,Senior Advisor,No,""
+556,Capital Hill Advisory Pty Ltd,Matt Versi,Senior Advisor,No,""
 558,Catherine Emma Rocchi,Cate Rocchi,CEO,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
@@ -166,13 +168,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Elisa Fernandes Carvalho,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Tim O'Halloran,Associate Director,Yes,June 2015
-71,Essential Media Communications Pty Ltd,Jane Garcia,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Peter Stahel,Client Manager,No,""
 71,Essential Media Communications Pty Ltd,Siobhan Lyttle,Communications Consultant ,No,""
 71,Essential Media Communications Pty Ltd,Darren Rodrigo,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Marie Bout,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Jenny Stokes,Account Manager,No,""
-71,Essential Media Communications Pty Ltd,Leesa Maroske,Communications Consultant,Yes,September 2016
 71,Essential Media Communications Pty Ltd,Monique Vandeleur,Communications Consultant,Yes,September 2016
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
@@ -231,7 +231,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Peter Greenwood,Director,Yes,December 2007
-59,GRACosway Pty Ltd,Matthew Ryan Mackay,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Duncan Thomas McDonald,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Paul Ian Lobban,Director,No,""
 59,GRACosway Pty Ltd,Jinesh Patel,Director,No,""
@@ -239,6 +238,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Erin Germantis,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Zoe Darling,Research and Policy Analyst,Yes,June 2016
 59,GRACosway Pty Ltd,Kirk Alexander Stubbs,Research and Policy Analyst,No,""
+59,GRACosway Pty Ltd,Leigh Francis Moran,Research and Policy Analyst,No,""
 26,Halden Burns Pty Ltd,John Halden,Principal,No,""
 26,Halden Burns Pty Ltd,Anne Burns,Principal,No,""
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
@@ -272,7 +272,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Margret Biersack,Operations Director,No,""
 319,Jo Scard Pty Ltd,Elise Dare,Associate,No,""
 319,Jo Scard Pty Ltd,Patria Manalili,Associate,No,""
-319,Jo Scard Pty Ltd,April Leggett,Associate,No,""
 319,Jo Scard Pty Ltd,Alys Clare Wemyss Francis,Associate,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
@@ -335,7 +334,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Feyi Akindoyeni,Partner,No,""
 565,Newgate Communications Pty Limited,Jodie Brough,Partner,No,""
 565,Newgate Communications Pty Limited,Michael van Maanen,Partner,Yes,February 2008
-565,Newgate Communications Pty Limited,Sophie Travers,Senior Consultant,No,""
+565,Newgate Communications Pty Limited,Sophie Travers,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Jeremy Vine,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
@@ -460,7 +459,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Technical Marketing Manager,Yes,August 2011
 676,Seismic Asia Pacific Pty Ltd,Damian Edwin Mullany,Senior Technician,No,""
 171,Shac Communications Pty Ltd ATF The Shac Trust,Simone Holzapfel,Company Director,Yes,July 2003
-171,Shac Communications Pty Ltd ATF The Shac Trust,Alyson Richards,Account Director ,Yes,March 2015
 681,Simeon Duncan,Simeon Duncan,Principal,Yes,November 2007
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
@@ -489,12 +487,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Andres Puig,Director,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Lucy Kozlowski,Senior Account Executive,Yes,November 2010
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora furman,Senior Manager Campaigns,No,""
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Kathryn Hall,Senior Account executive,Yes,September 2010
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Sam Bishop,Senior Account Executive,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Carlos Ibarra,Senior Account Executive,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
-790,THE GROVES FAMILY TRUST No.1,Christian Groves,Director,No,""
 780,The Hon. Kim Beazley AC,The Hon. Kim Beazley AC,Senior Fellow,Yes,November 2007
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
