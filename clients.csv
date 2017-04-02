@@ -78,11 +78,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Yellow Edge
 338,Barton Deakin ,Motorola
 338,Barton Deakin ,Harness Racing Australia Inc
-338,Barton Deakin ,Cure for Life Foundation
-338,Barton Deakin ,Camp Quality
 338,Barton Deakin ,Open Universities Australia
 338,Barton Deakin ,Aspen Medical
-338,Barton Deakin ,Playtika Ltd
 338,Barton Deakin ,International Social Games Coalition
 338,Barton Deakin ,Medibank Health Solutions Pty Ltd
 338,Barton Deakin ,Crown Castle Australia Pty Limited
@@ -93,7 +90,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,RMIT University 
 338,Barton Deakin ,Corning Cable Systems Pty Ltd 
 338,Barton Deakin ,Settlement Services International 
-338,Barton Deakin ,The Caravan Camping & Touring Industry & Manufactured Housing Industry Association of NSW Ltd
 338,Barton Deakin ,Citigroup Pty Limited
 338,Barton Deakin ,Bowel Cancer Australia
 338,Barton Deakin ,AARNet Pty Ltd
@@ -112,7 +108,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Adults Surviving Child Abuse
 338,Barton Deakin ,Orica Australia Pty Ltd
 338,Barton Deakin ,Murdoch Childrens Research Institute
-338,Barton Deakin ,Social Traders Ltd
 338,Barton Deakin ,CHC Helicopters Australia
 338,Barton Deakin ,QBE Insurance Group Limited
 338,Barton Deakin ,Ashley Services Group Limited
@@ -130,16 +125,13 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Lake Macquarie City Council
 338,Barton Deakin ,ViiV Healthcare Pty Ltd
 338,Barton Deakin ,Swisse Wellness Pty Ltd
-338,Barton Deakin ,Marathon Health Ltd
 338,Barton Deakin ,Global Orthopaedic Technology Pty Ltd
 338,Barton Deakin ,Hewlett Packard Australia Pty Ltd
 338,Barton Deakin ,Australians in Pozieres Ltd 
 338,Barton Deakin ,Australian Heavy Vehicle Repair Association
 338,Barton Deakin ,Programmed Marine Pty Ltd
-338,Barton Deakin ,Navitas Limited
 338,Barton Deakin ,StatOil Australia AS
 338,Barton Deakin ,TAL Services Limited
-338,Barton Deakin ,National Congress of First Peoples Ltd
 338,Barton Deakin ,ExecuJet Australia Pty Ltd
 338,Barton Deakin ,Brandenburg Ensemble Ltd
 338,Barton Deakin ,Propertylink Pty Ltd
@@ -169,6 +161,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Work Health Group
 338,Barton Deakin ,Shooting Industry Foundation of Australia
 338,Barton Deakin ,Biomass Technologies Pty Ltd
+338,Barton Deakin ,Cure Brain Cancer
+338,Barton Deakin ,TechSydney
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -254,6 +248,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,The PRM Group Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Nexus Asia Pacific Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Telstra Corporation Limited
+556,Capital Hill Advisory Pty Ltd,Inspiring Rare Birds
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,H2OX
 558,Catherine Emma Rocchi,Southcare
@@ -312,6 +307,7 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,Kidsoft
 764,Christmas Jalili Pty Ltd,Dtex Systems
 764,Christmas Jalili Pty Ltd,Intel Australia
+764,Christmas Jalili Pty Ltd,Splunk Services Australia
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
@@ -341,6 +337,7 @@ agency_id,agency_business_entity_name,client_name
 428,CMGRP Pty Ltd,IHMS
 428,CMGRP Pty Ltd,CFD & FX Margin Association
 428,CMGRP Pty Ltd,XERO
+428,CMGRP Pty Ltd,Ticketmaster
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
@@ -466,6 +463,7 @@ agency_id,agency_business_entity_name,client_name
 403,Covance Pty Ltd (Covance Market Access Services division),Alexion Pharmaceuticals Australasia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),AbbVie Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Novo Nordisk Pharmaceuticals Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),Bristol Myers Squibb Australia
 299,CPI Strategic Pty Ltd,Costa Group of Companies
 299,CPI Strategic Pty Ltd,Linked Solutions
 299,CPI Strategic Pty Ltd,Field and Game Australia
@@ -809,6 +807,7 @@ agency_id,agency_business_entity_name,client_name
 103,Ivydale Nominees Pty Ltd,Studio 146
 103,Ivydale Nominees Pty Ltd,Holiday Inn
 103,Ivydale Nominees Pty Ltd,Esplanade Port Hedland Hotel Land Pty Ltd
+103,Ivydale Nominees Pty Ltd,Julian Stawell
 586,Jenkins Engineering defence Systems Pty Ltd,Harris Corp.
 319,Jo Scard Pty Ltd,Australian Indigenous Leadership Centre
 319,Jo Scard Pty Ltd,The Australian Charities Fund Operations Limited
@@ -927,6 +926,7 @@ agency_id,agency_business_entity_name,client_name
 774,Lunik Pty Ltd,DCNS
 774,Lunik Pty Ltd,Electro Optic Systems
 774,Lunik Pty Ltd,Online Education Services
+774,Lunik Pty Ltd,Regis Aged Care Pty Ltd
 258,Lyndon George Pty Ltd,Thales Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders NSW Ltd
@@ -1005,6 +1005,8 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
 444,Michael Megaw,Western Australian Deaf Society
 752,MMJ Consulting,Sound Radiology 
+796,Momentum Strategic Communication Services,Intel Security
+796,Momentum Strategic Communication Services,Dtex
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
 696,MOUNTAIN MEDIA PTY LTD,EOz Energy Skills Australia
 696,MOUNTAIN MEDIA PTY LTD,Norfolk Island People For Democracy
