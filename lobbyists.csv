@@ -108,13 +108,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 428,CMGRP Pty Ltd,Megan McCarthy,Senior Account Manager,No,""
 428,CMGRP Pty Ltd,Justin Yuen,Account Manager,No,""
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Dave Coggin,Director,Yes,May 2010
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Anthony Hasluck,Director,No,""
 142,Consilium International Group Pty Ltd,Michael Zarew,Managing Director,No,""
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,Yes,February 2004
 453,Cornerstone Group Australia ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
 453,Cornerstone Group Australia ,Brigid Meney ,Associate Policy and Strategy ,No,""
+453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,No,""
 160,Cotterell Jannette Suzanne,Serena McAdam,Policy Analyst,No,""
 160,Cotterell Jannette Suzanne,Jessica Wright,Senior Consultant,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
@@ -196,6 +195,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Steve Murphy ,Senior Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Hadler ,Senior Adviser,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Ben Hamilton,Senior Director ,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Maryanna Vasilareas,Senior Consultant ,No,""
 742,G2 Media,Graham Gittins,Proprieter,No,""
 460,Gabrielle Trainor,Gabrielle Trainor,Proprietor,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
@@ -248,6 +248,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 96,Hawker Britton Group Pty Ltd,Philip Reed,Director,No,""
 96,Hawker Britton Group Pty Ltd,Claire March ,Director ,Yes,September 2013
 96,Hawker Britton Group Pty Ltd,Eamonn Fitzpatrick,Director,Yes,September 2013
+96,Hawker Britton Group Pty Ltd,Megan Anwyl,Director,Yes,February 2001
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
@@ -355,6 +356,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Stephen Beckett,Senior Manager,No,""
 766,Next Level Strategic Services Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
+1798,Nexus Asia Pacific Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
+1798,Nexus Asia Pacific Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
 86,Ogilvy PR Health,Rachel Stanton,Senior Account Director,No,""
@@ -392,6 +395,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
 516,Premier State Consulting Pty Ltd,Alex Gibson,Advisor,No,""
 516,Premier State Consulting Pty Ltd,Alicja Rudz,Senior Advisor,No,""
+516,Premier State Consulting Pty Ltd,Lachlan Crombie,Senior Advisor,No,""
 220,Primary Communication Pty Ltd,Jennifer Muir,Chief Counsel,No,""
 220,Primary Communication Pty Ltd,Christopher Hall,CEO,No,""
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
@@ -530,6 +534,15 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 691,The Trustee for Weiderman Trainor Family Trust,Alicia Weiderman,Director,Yes,June 2014
 610,The Trusteee for the SRKM Trust,Kate Mills,Director/Principal Consultant,No,""
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy,Director,Yes,April 1992
+328,THEMA Consulting Pty Ltd,Dominic Tilden,Director,No,""
+328,THEMA Consulting Pty Ltd,Suzi Cottrell,Senior Partner,No,""
+328,THEMA Consulting Pty Ltd,Mia Mudge,Senior Partner,No,""
+328,THEMA Consulting Pty Ltd,Daniel Jackson,Senior Partner,No,""
+328,THEMA Consulting Pty Ltd,Koji Makino,Senior Analyst,No,""
+328,THEMA Consulting Pty Ltd,Nimita Arora,Senior Partner,No,""
+328,THEMA Consulting Pty Ltd,Carmelina Guarnieri,Senior Analyst,No,""
+328,THEMA Consulting Pty Ltd,Matthew Needham,Senior Analyst,No,""
+328,THEMA Consulting Pty Ltd,Nathan Fox,Senior Analyst,No,""
 772,Tokua Pty Ltd,Louise Markus,Principal Consultant,Yes,July 2016
 718,Trustee of Kerans Family Trust,Andrew James Kerans,Principal,Yes,January 2014
 680,TSB Advisory Pty Ltd,Trevor John Burns,Director,Yes,June 1998

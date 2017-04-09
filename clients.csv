@@ -23,6 +23,7 @@ agency_id,agency_business_entity_name,client_name
 788,All Points North Advisory Pty Ltd,RMS Construction
 788,All Points North Advisory Pty Ltd,Civil Plus
 788,All Points North Advisory Pty Ltd,Paynter Dixon
+788,All Points North Advisory Pty Ltd,Pacific Blue Capital
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Narda-MITEQ
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Communications 
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L3 Technologies
@@ -163,6 +164,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Biomass Technologies Pty Ltd
 338,Barton Deakin ,Cure Brain Cancer
 338,Barton Deakin ,TechSydney
+338,Barton Deakin ,Used Tyre Recycling Corporation Pty Ltd
+338,Barton Deakin ,Cormorant Policy Advice
+338,Barton Deakin ,Bunnings Warehouse
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -341,10 +345,6 @@ agency_id,agency_business_entity_name,client_name
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,O3b
 472,Comsult(Aust) Pty Ltd,OmniSpace
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,FQM Australia Nickel Pty Ltd
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,First Quantum Minerals Limited 
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,Rosslyn Hill Mining Pty Ltd
-625,Connect GR Pty Ltd as Trustee for Connect GR Unit Trust,European Space Agency
 142,Consilium International Group Pty Ltd,Senetas
 142,Consilium International Group Pty Ltd,UXC Limited
 638,Contextual Communications Pty Ltd, ARCADIA Corporation Pty Ltd
@@ -649,7 +649,6 @@ agency_id,agency_business_entity_name,client_name
 150,Glide Pty Ltd,Western Australian Men's Shed Association Inc
 561,Global Issues Group,Refrigerants Australia
 561,Global Issues Group,AIR CONDITIONING AND REFRIGERATION EQUIPMENT MANUFACTURERS ASSOCIATION OF AUSTRALIA INCORPORATED
-750,GovCorp Pty Ltd,VS Connect Pty Ltd
 750,GovCorp Pty Ltd,Scahillco
 750,GovCorp Pty Ltd,Lence Novaceski
 750,GovCorp Pty Ltd,Mark O'Neill
@@ -1056,6 +1055,8 @@ agency_id,agency_business_entity_name,client_name
 766,Next Level Strategic Services Pty Ltd,Cutting Edge Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Ardent Leisure Group
 766,Next Level Strategic Services Pty Ltd,Betway
+1798,Nexus Asia Pacific Pty Ltd,H and R Block
+1798,Nexus Asia Pacific Pty Ltd,Booking.com
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Merck Serono
 86,Ogilvy PR Health,Genzyme
@@ -1263,11 +1264,9 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
 395,Right Angle Business Services Pty Ltd,Solar Juice Pty Ltd
 395,Right Angle Business Services Pty Ltd,SOLARGAIN Pty Ltd
-395,Right Angle Business Services Pty Ltd,Yingli Green Energy Australia Pty Ltd
 395,Right Angle Business Services Pty Ltd,Australian Geothermal Energy Association
-395,Right Angle Business Services Pty Ltd,True Value Solar Pty Ltd
-395,Right Angle Business Services Pty Ltd,Maria's Farm Veggies Pty Ltd
 395,Right Angle Business Services Pty Ltd,Mariaâs Farm Veggies Pty Ltd (Administrators Appointed)
+395,Right Angle Business Services Pty Ltd,Euroluce Lighting Australia Pty Ltd
 755,RIPNEY PTY LTD,National Credit Providers Association Ltd
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
@@ -1471,14 +1470,12 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,Accommodation Association of Australia
 698,The Trustee for Arthur Trust,bet365
 698,The Trustee for Arthur Trust,bet365 Group Limited
-698,The Trustee for Arthur Trust,ELAN Energy Management
 698,The Trustee for Arthur Trust,Caltex Australia Petroleum Pty Ltd
 698,The Trustee for Arthur Trust,Submarine Institute of Australia
 698,The Trustee for Arthur Trust,Australian Liquor Stores Association
 698,The Trustee for Arthur Trust,Kellogg Brown & Root Pty Ltd
 698,The Trustee for Arthur Trust,ELAN Energy Matrix
 698,The Trustee for Arthur Trust,Association of Australian Convention Bureaux 
-698,The Trustee for Arthur Trust,Carlton Football Club
 698,The Trustee for Arthur Trust,Australian Livestock Exportersâ Council 
 698,The Trustee for Arthur Trust,Red Cloud Ltd
 698,The Trustee for Arthur Trust,Australian Institute of Family Counselling
@@ -1550,6 +1547,17 @@ agency_id,agency_business_entity_name,client_name
 610,The Trusteee for the SRKM Trust,Artgold
 240,The Write Connection Pty Ltd,InterGen (Australia)
 240,The Write Connection Pty Ltd,Group of Eight Universities
+328,THEMA Consulting Pty Ltd,Shire Australia Pty Ltd
+328,THEMA Consulting Pty Ltd,sanofi aventis
+328,THEMA Consulting Pty Ltd,Bayer Australia Ltd
+328,THEMA Consulting Pty Ltd,Lundbeck Australia Pty Ltd
+328,THEMA Consulting Pty Ltd,Actelion Pharmaceuticals Australia Pty Limited
+328,THEMA Consulting Pty Ltd,Biogen Idec Australia Pty Ltd
+328,THEMA Consulting Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd
+328,THEMA Consulting Pty Ltd,Boston Scientific Pty Ltd
+328,THEMA Consulting Pty Ltd,Merck Sharp & Dohme (Australia) Pty Limited
+328,THEMA Consulting Pty Ltd,GlaxoSmithKline Australia
+328,THEMA Consulting Pty Ltd,Genomic Health Inc
 772,Tokua Pty Ltd,Calibre Group
 718,Trustee of Kerans Family Trust,Motorola Solutions Inc.
 718,Trustee of Kerans Family Trust,Facebook Inc.
@@ -1612,13 +1620,13 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,Tolmar Australia Pty Limited
 584,Willard Public Affairs Pty Limited,ATEC Rail Group Pty Ltd 
 584,Willard Public Affairs Pty Limited,eBay International AG
-584,Willard Public Affairs Pty Limited,AusBiotech Ltd
 584,Willard Public Affairs Pty Limited,AIA Australia Limited 
 584,Willard Public Affairs Pty Limited,Ken & Helen Smith T/A KR & HC Smith
 584,Willard Public Affairs Pty Limited,David & Terena Pitt T/A EW & DA Pitt
 584,Willard Public Affairs Pty Limited,Alan & Dianne Peglar O/A AN & D Peglar Pty Ltd
 584,Willard Public Affairs Pty Limited,Australia India Youth Dialogue Limited 
 584,Willard Public Affairs Pty Limited,Caltex Australia Petroleum Pty Ltd
+584,Willard Public Affairs Pty Limited,Eastern Domestic Violence Service Inc. (EDVOS)
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
