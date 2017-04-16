@@ -167,6 +167,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Used Tyre Recycling Corporation Pty Ltd
 338,Barton Deakin ,Cormorant Policy Advice
 338,Barton Deakin ,Bunnings Warehouse
+338,Barton Deakin ,Elliott Advisors (HK) Limited
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -312,6 +313,8 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,Dtex Systems
 764,Christmas Jalili Pty Ltd,Intel Australia
 764,Christmas Jalili Pty Ltd,Splunk Services Australia
+764,Christmas Jalili Pty Ltd,McAfee Australia
+764,Christmas Jalili Pty Ltd,Australian Digital Currency Commerce Association
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
@@ -728,6 +731,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Kohlberg Kravis Roberts and Co. L.P.
 59,GRACosway Pty Ltd,Biogen Australia Pty Ltd
 59,GRACosway Pty Ltd,Yumbah Aquaculture Ltd
+59,GRACosway Pty Ltd,Fletcher Insulation Pty Limited
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -835,6 +839,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Hepatitis Australia ABN 38 442 686 487 
 319,Jo Scard Pty Ltd,Mind  Australia ABN 17 123 159 526
 319,Jo Scard Pty Ltd,PANDA - Perinatal Anxiety & Depression Australia Inc ABN 64 063 647 374 
+319,Jo Scard Pty Ltd,Australian International Marine Export Group Limited ABN 94 082 384 030
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
@@ -882,7 +887,6 @@ agency_id,agency_business_entity_name,client_name
 410,Justine Caines,World Vision Australia
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 621,KnowMinister.com Pty Ltd,CSR Limited
-621,KnowMinister.com Pty Ltd,Gypsum Resources Australia
 775,Kommerz Pty Ltd,Technicolor Holdings Inc
 115,KPMG,The Cobra Group Pty Ltd
 115,KPMG,Distilled Spirits Industry Council of Australia Inc
@@ -926,6 +930,8 @@ agency_id,agency_business_entity_name,client_name
 774,Lunik Pty Ltd,Electro Optic Systems
 774,Lunik Pty Ltd,Online Education Services
 774,Lunik Pty Ltd,Regis Aged Care Pty Ltd
+774,Lunik Pty Ltd,Ability Options
+774,Lunik Pty Ltd,Thomas Global Systems
 258,Lyndon George Pty Ltd,Thales Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders NSW Ltd
@@ -1267,6 +1273,8 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Australian Geothermal Energy Association
 395,Right Angle Business Services Pty Ltd,Mariaâs Farm Veggies Pty Ltd (Administrators Appointed)
 395,Right Angle Business Services Pty Ltd,Euroluce Lighting Australia Pty Ltd
+395,Right Angle Business Services Pty Ltd,Light Culture Australia Pty Ltd
+395,Right Angle Business Services Pty Ltd,Light Project Pty Ltd
 755,RIPNEY PTY LTD,National Credit Providers Association Ltd
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
@@ -1583,6 +1591,35 @@ agency_id,agency_business_entity_name,client_name
 635,Visionary  Enterprising Management Services Pty Ltd,The Fourth Force Pty Ltd (trading as Drake Supermarkets)
 635,Visionary  Enterprising Management Services Pty Ltd,South Australian Independent Retailers Inc 
 793,W.J Wilcher Pty Ltd,PBA Imports ABN 12101366885
+793,W.J Wilcher Pty Ltd,AMBROSE Gillian
+793,W.J Wilcher Pty Ltd,BUTCHER Steven
+793,W.J Wilcher Pty Ltd,COLLIBEE Stuart
+793,W.J Wilcher Pty Ltd,DANG Tranh Tam
+793,W.J Wilcher Pty Ltd,DAWSON Paul
+793,W.J Wilcher Pty Ltd,DEAN Jay
+793,W.J Wilcher Pty Ltd,FLICK Bradley
+793,W.J Wilcher Pty Ltd,GAVAN Anthony
+793,W.J Wilcher Pty Ltd,GOULD Kent
+793,W.J Wilcher Pty Ltd,HANLY David
+793,W.J Wilcher Pty Ltd,HEAZLEWOOD Owen
+793,W.J Wilcher Pty Ltd,HOVER Greg
+793,W.J Wilcher Pty Ltd,HOY Steven
+793,W.J Wilcher Pty Ltd,LASCELLES David
+793,W.J Wilcher Pty Ltd,LASCELLES Narelle
+793,W.J Wilcher Pty Ltd,MANSELL Martyn
+793,W.J Wilcher Pty Ltd,MEDLIN Matthew
+793,W.J Wilcher Pty Ltd,MOLCHANOV Dmytro
+793,W.J Wilcher Pty Ltd,MOLCHANOV Oleksiy
+793,W.J Wilcher Pty Ltd,JOHNSON Graeme
+793,W.J Wilcher Pty Ltd,OWEN David
+793,W.J Wilcher Pty Ltd,RUTELEDGE Stephen John
+793,W.J Wilcher Pty Ltd,SAUNBY Terry
+793,W.J Wilcher Pty Ltd,SMITH Louise
+793,W.J Wilcher Pty Ltd,SMITH Nigel
+793,W.J Wilcher Pty Ltd,THOMPSON Jason
+793,W.J Wilcher Pty Ltd,TOWNSEND Glenn
+793,W.J Wilcher Pty Ltd,WERE Gail
+793,W.J Wilcher Pty Ltd,WHATMAN John.
 463,Walker Watterson Holdings Pty Ltd,Nutanix
 463,Walker Watterson Holdings Pty Ltd,Emerson Network Power Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,BIS Shrapnel Pty Limited
