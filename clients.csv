@@ -201,6 +201,9 @@ agency_id,agency_business_entity_name,client_name
 52,Bush Consulting Services Pty Ltd,Australian Screen Association
 760,Bushido International Pty Ltd,Finance Brokers Association of Australia Limited
 760,Bushido International Pty Ltd,Genesis Group Inc
+1799,Butler Hardy Corporate Pty Ltd,Whelan Jim and Kym
+1799,Butler Hardy Corporate Pty Ltd,Constantin Nicholas
+1799,Butler Hardy Corporate Pty Ltd,We Fix Credit (Australia) Pty Ltd
 654,C2hills Investments Pty Limited,Rivcott Pty Limited
 654,C2hills Investments Pty Limited,Macleay River Meats Pty Limited
 654,C2hills Investments Pty Limited,Macleay River Proteins Pty Limited
@@ -776,6 +779,8 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Syngenta Australia Pty Ltd
 96,Hawker Britton Group Pty Ltd,Australian Packaging Covenant Organisation Ltd
 96,Hawker Britton Group Pty Ltd,Woolworths
+96,Hawker Britton Group Pty Ltd,Commonwealth Bank
+96,Hawker Britton Group Pty Ltd,Bankwest
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -1029,14 +1034,12 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
 565,Newgate Communications Pty Limited,Mondelez Australia Pty Ltd
 565,Newgate Communications Pty Limited,Uber
-565,Newgate Communications Pty Limited,Reachout Australia
 565,Newgate Communications Pty Limited,Foxtel Management Pty Limited
 565,Newgate Communications Pty Limited,Bluearth Foundation
 565,Newgate Communications Pty Limited,Swisse Wellness Pty Ltd
 565,Newgate Communications Pty Limited,Minter Ellison
 565,Newgate Communications Pty Limited,Southern Cross Austereo Pty Ltd
 565,Newgate Communications Pty Limited,TPI Enterprises
-565,Newgate Communications Pty Limited,Australian Sugar Milling Council
 565,Newgate Communications Pty Limited,Ferrier Hodgson
 565,Newgate Communications Pty Limited,Australia Post
 565,Newgate Communications Pty Limited,Australian Bankers' Association Inc
@@ -1188,6 +1191,7 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Sweeney Real Estate
 127,PRX Unit Trust,TWUSUPER
 127,PRX Unit Trust,Value My Business
+127,PRX Unit Trust,Prysm Industries Pty Ltd
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1247,7 +1251,6 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Royal Caribbean Line Australia
 35,Richardson Coutts,Brookfield Infrastructure Group
 35,Richardson Coutts,FIPRA
-35,Richardson Coutts,Optus
 35,Richardson Coutts,Law In Order
 35,Richardson Coutts,Sydney Marine Sand
 35,Richardson Coutts,Goodman
@@ -1270,11 +1273,11 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
 395,Right Angle Business Services Pty Ltd,Solar Juice Pty Ltd
 395,Right Angle Business Services Pty Ltd,SOLARGAIN Pty Ltd
-395,Right Angle Business Services Pty Ltd,Australian Geothermal Energy Association
 395,Right Angle Business Services Pty Ltd,Mariaâs Farm Veggies Pty Ltd (Administrators Appointed)
 395,Right Angle Business Services Pty Ltd,Euroluce Lighting Australia Pty Ltd
 395,Right Angle Business Services Pty Ltd,Light Culture Australia Pty Ltd
 395,Right Angle Business Services Pty Ltd,Light Project Pty Ltd
+395,Right Angle Business Services Pty Ltd,Baker & McAuliffe Holdings Pty Ltd
 755,RIPNEY PTY LTD,National Credit Providers Association Ltd
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
@@ -1507,6 +1510,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Anheuser-Busch InBev
 145,The Trustee for Bespoke Business Trust,Network Ten Limited
 145,The Trustee for Bespoke Business Trust,Chow Tai Fook Enterprises Limited
+145,The Trustee for Bespoke Business Trust,Liberty House Group
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1620,6 +1624,15 @@ agency_id,agency_business_entity_name,client_name
 793,W.J Wilcher Pty Ltd,TOWNSEND Glenn
 793,W.J Wilcher Pty Ltd,WERE Gail
 793,W.J Wilcher Pty Ltd,WHATMAN John.
+793,W.J Wilcher Pty Ltd,MORRIS Matthew Karl
+793,W.J Wilcher Pty Ltd,MOLCHANOVA Natalia
+793,W.J Wilcher Pty Ltd,MOROZ Craig Anthony.
+793,W.J Wilcher Pty Ltd,STANFORD Brett F
+793,W.J Wilcher Pty Ltd,Covenanter Arms
+793,W.J Wilcher Pty Ltd,EDWARDS Michael.
+793,W.J Wilcher Pty Ltd,JORDON Paul
+793,W.J Wilcher Pty Ltd,SULLY Robert
+793,W.J Wilcher Pty Ltd,GOZZARD Mark
 463,Walker Watterson Holdings Pty Ltd,Nutanix
 463,Walker Watterson Holdings Pty Ltd,Emerson Network Power Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,BIS Shrapnel Pty Limited

@@ -54,6 +54,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 131,BTelecom Pty Ltd,Greg Fonti,General Manager,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
 760,Bushido International Pty Ltd,Peter James WHITE,Chief Executive,No,""
+1799,Butler Hardy Corporate Pty Ltd,John Codrington,Director,No,""
 654,C2hills Investments Pty Limited,Cara Leanne Dale,Director/Consultant,No,""
 654,C2hills Investments Pty Limited,Matthew David Field,Business Consultant,No,""
 654,C2hills Investments Pty Limited,Danielle Ann Maltman,Business Consultant,No,""
@@ -100,7 +101,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Davina Langton,Government Relations Adviser,Yes,June 2009
 79,CMAX Communications Pty Ltd,Ashley Rice,Government Relations Adviser,No,""
 79,CMAX Communications Pty Ltd,Ross Macdonald,Government Relations Adviser,Yes,July 2016
-79,CMAX Communications Pty Ltd,Kiya Taylor,Government Relations Adviser,No,""
 79,CMAX Communications Pty Ltd,Vanessa Sung,Government Relations Adviser,No,""
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Eliza Newton,Senior Account Director,No,""
@@ -231,7 +231,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Brent Crockford,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
-59,GRACosway Pty Ltd,Peter Greenwood,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Duncan Thomas McDonald,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Paul Ian Lobban,Director,No,""
 59,GRACosway Pty Ltd,Jinesh Patel,Director,No,""
@@ -409,7 +408,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 127,PRX Unit Trust,Mark Kerr,Bercon,No,""
 127,PRX Unit Trust,Stephen Kerr,Chief Executive,No,""
 127,PRX Unit Trust,Patrick Rasmussen,Consultant,No,""
-127,PRX Unit Trust,John Mitchell,Consultant,No,""
 89,Public Affairs Network Pty Ltd,Rosie Yeo,Director,Yes,April 1995
 68,Public Policy Solutions Pty Ltd,Christopher John Fry,Director,No,""
 242,Purple Communications Australia Pty Ltd,Warrick Hazeldine,Managing Director,No,""
