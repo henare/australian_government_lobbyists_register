@@ -257,6 +257,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Nexus Asia Pacific Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Telstra Corporation Limited
 556,Capital Hill Advisory Pty Ltd,Inspiring Rare Birds
+556,Capital Hill Advisory Pty Ltd,International Justice Mission Australia
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,H2OX
 558,Catherine Emma Rocchi,Southcare
@@ -679,6 +680,8 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,The University of Western Australia
 122,GRA Everingham Pty Ltd,Football West Limited 
 122,GRA Everingham Pty Ltd,City of South Perth
+122,GRA Everingham Pty Ltd,Maxima Pearling Company
+122,GRA Everingham Pty Ltd,AWE Limited 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -735,6 +738,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Biogen Australia Pty Ltd
 59,GRACosway Pty Ltd,Yumbah Aquaculture Ltd
 59,GRACosway Pty Ltd,Fletcher Insulation Pty Limited
+59,GRACosway Pty Ltd,Lottoland Australia Pty Ltd
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -900,6 +904,7 @@ agency_id,agency_business_entity_name,client_name
 115,KPMG,Kawasaki Heavy Industries Ltd
 115,KPMG,Voice of Horticulture
 115,KPMG,Tourism Shopping Reform Group
+115,KPMG,Amazon.com Inc
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1015,6 +1020,7 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
 444,Michael Megaw,Western Australian Deaf Society
 752,MMJ Consulting,Sound Radiology 
+756,MMR Consulting Pty Ltd,Solutions4Strategy
 796,Momentum Strategic Communication Services,Intel Security
 796,Momentum Strategic Communication Services,Dtex
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
@@ -1410,6 +1416,7 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Varian Medical Systems
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,CyberGym Global Limited
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Israel Electric Corporation Ltd
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Kikki K
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
@@ -1499,7 +1506,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Asciano Limited
 145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
 145,The Trustee for Bespoke Business Trust,Medibank Private Limited
-145,The Trustee for Bespoke Business Trust,a2 Milk Company 
 145,The Trustee for Bespoke Business Trust,Mitsubishi Heavy Industries
 145,The Trustee for Bespoke Business Trust,National Australia Bank Limited
 145,The Trustee for Bespoke Business Trust,Business Council of Australia
@@ -1511,6 +1517,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Network Ten Limited
 145,The Trustee for Bespoke Business Trust,Chow Tai Fook Enterprises Limited
 145,The Trustee for Bespoke Business Trust,Liberty House Group
+145,The Trustee for Bespoke Business Trust,Careers Australia Group Limited (Careers Australia)
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1533,6 +1540,9 @@ agency_id,agency_business_entity_name,client_name
 28,The Trustee for Markeit Family Trust,BioFilm Solutions Pty Ltd
 28,The Trustee for Markeit Family Trust,Austal Limited
 28,The Trustee for Markeit Family Trust,Saab Australia
+794,THE TRUSTEE FOR PARSNIP & PARSNIP UNIT TRUST,Australian Reproductive Technologies Pty Ltd 
+794,THE TRUSTEE FOR PARSNIP & PARSNIP UNIT TRUST,Karl McManus Foundation
+794,THE TRUSTEE FOR PARSNIP & PARSNIP UNIT TRUST,Uncle Jimmy Thumbs Up limited
 668,The Trustee for Sandra Eccles Family Trust,The Mirabel Foundation
 668,The Trustee for Sandra Eccles Family Trust,BlueScope Steel Limited
 668,The Trustee for Sandra Eccles Family Trust,PTTEP Australasia Pty Ltd
@@ -1630,7 +1640,6 @@ agency_id,agency_business_entity_name,client_name
 793,W.J Wilcher Pty Ltd,STANFORD Brett F
 793,W.J Wilcher Pty Ltd,Covenanter Arms
 793,W.J Wilcher Pty Ltd,EDWARDS Michael.
-793,W.J Wilcher Pty Ltd,JORDON Paul
 793,W.J Wilcher Pty Ltd,SULLY Robert
 793,W.J Wilcher Pty Ltd,GOZZARD Mark
 463,Walker Watterson Holdings Pty Ltd,Nutanix
