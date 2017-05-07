@@ -682,6 +682,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,City of South Perth
 122,GRA Everingham Pty Ltd,Maxima Pearling Company
 122,GRA Everingham Pty Ltd,AWE Limited 
+122,GRA Everingham Pty Ltd,Australian Finance Group
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -942,6 +943,8 @@ agency_id,agency_business_entity_name,client_name
 774,Lunik Pty Ltd,Regis Aged Care Pty Ltd
 774,Lunik Pty Ltd,Ability Options
 774,Lunik Pty Ltd,Thomas Global Systems
+774,Lunik Pty Ltd,Austal Limited
+774,Lunik Pty Ltd,Fr. Fassmer GmbH  Co. KG
 258,Lyndon George Pty Ltd,Thales Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders NSW Ltd
@@ -1020,7 +1023,7 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
 444,Michael Megaw,Western Australian Deaf Society
 752,MMJ Consulting,Sound Radiology 
-756,MMR Consulting Pty Ltd,Solutions4Strategy
+756,MMR Consulting Pty Ltd,Before and After School Care Pty Ltd
 796,Momentum Strategic Communication Services,Intel Security
 796,Momentum Strategic Communication Services,Dtex
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
@@ -1142,8 +1145,6 @@ agency_id,agency_business_entity_name,client_name
 220,Primary Communication Pty Ltd,The Butterfly Foundation
 220,Primary Communication Pty Ltd,Scouts Australia
 220,Primary Communication Pty Ltd,National Eating Disorders Collaboration
-220,Primary Communication Pty Ltd,Delta Electricity Renewable Project
-220,Primary Communication Pty Ltd,Gas Industry Alliance
 220,Primary Communication Pty Ltd,Education Testing Service
 220,Primary Communication Pty Ltd,Hunter Institute of Mental Health
 220,Primary Communication Pty Ltd,Elgas
@@ -1159,6 +1160,7 @@ agency_id,agency_business_entity_name,client_name
 220,Primary Communication Pty Ltd,Triple P International
 220,Primary Communication Pty Ltd,Eaton Industries
 220,Primary Communication Pty Ltd,Smiling Minds
+220,Primary Communication Pty Ltd,White Ribbon Australia
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 283,Probity International Pty. Ltd,Teva Pharmaceutical Industries Ltd
@@ -1484,6 +1486,7 @@ agency_id,agency_business_entity_name,client_name
 424,The Taylor Street Consultancy P/L,Capella Capital
 424,The Taylor Street Consultancy P/L,GPT
 424,The Taylor Street Consultancy P/L,Carnival Australia
+424,The Taylor Street Consultancy P/L,Campbelltown Council
 698,The Trustee for Arthur Trust,Engineers Australia
 698,The Trustee for Arthur Trust,Accommodation Association of Australia
 698,The Trustee for Arthur Trust,bet365
@@ -1662,6 +1665,11 @@ agency_id,agency_business_entity_name,client_name
 463,Walker Watterson Holdings Pty Ltd,Skyfii
 463,Walker Watterson Holdings Pty Ltd,Best Technology Services
 463,Walker Watterson Holdings Pty Ltd,Dell Boomi
+97,Wayne Smith,Renewable Energy Traders Australia
+97,Wayne Smith,REC Agents Association
+97,Wayne Smith,Australian Solar Council
+97,Wayne Smith,Greenbank Environmental
+97,Wayne Smith,Australian Energy Storage Council
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
@@ -1671,9 +1679,9 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,ThyssenKrupp Marine Systems Australia Pty Ltd
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,MGC Pharmaceuticals 
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Australian Biotechnologies Pty Ltd
-503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Hobart District Nursing Service Inc.
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Silver Chain Group
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexion Pharmaceuticals Australasia
+503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Asbestos Injuries Compensation Fund
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Tolmar Australia Pty Limited
