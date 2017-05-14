@@ -39,6 +39,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
 338,Barton Deakin ,Vanessa Findaly,Director ,Yes,July 2016
 338,Barton Deakin ,Lucas Pender,Policy and Business Analyst,No,""
+338,Barton Deakin ,Gabrielle Hedge,Policy and Business Analyst,No,""
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
@@ -159,7 +160,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 734,Emerald Corporate Group Pty Ltd,George Papadopoulos,Managing Director,No,""
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
 31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Partner,Yes,June 1986
-31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,October 2007
+31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,December 2007
 31,Endeavour Consulting Group Pty Ltd,Fiona Landis ,Associate Partner,Yes,April 2010
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
@@ -228,7 +229,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Paolo Giovanni Bini,Partner,Yes,November 1995
 59,GRACosway Pty Ltd,Kirsten Mulley,Partner,No,""
 59,GRACosway Pty Ltd,Leslie Graham Timar,CEO,No,""
-59,GRACosway Pty Ltd,Trista Rochelle Grainger,Consultant,No,""
 59,GRACosway Pty Ltd,Brent Crockford,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
@@ -359,6 +359,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Stephen Beckett,Senior Manager,No,""
 766,Next Level Strategic Services Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
+766,Next Level Strategic Services Pty Ltd,Danyelle Nolan ,Senior Consultant,No,""
 1798,Nexus Asia Pacific Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
 1798,Nexus Asia Pacific Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
@@ -376,8 +377,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
 72,Parker & Partners Pty Ltd,Peta Lange,Director,Yes,January 2009
 72,Parker & Partners Pty Ltd,Arli Miller,Director,No,""
-72,Parker & Partners Pty Ltd,Susan Redden Makatoa ,Group Managing Director Corporate,No,""
-72,Parker & Partners Pty Ltd,Fiona Forbes,Director,No,""
 72,Parker & Partners Pty Ltd,Yat Shum,Account Coordinator,No,""
 72,Parker & Partners Pty Ltd,Ksenya Belooussova,Senior Account Manager,No,""
 72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,Yes,December 2012
@@ -459,6 +458,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 227,SAS Consulting Group Pty Ltd,Victoria Qiu,Director China,No,""
 227,SAS Consulting Group Pty Ltd,Lisa Palu,Senior Consultant,No,""
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
+1806,Scott Mitchell and Partners Pty Ltd,Scott Mitchell,Director,Yes,February 2006
 143,Sefiani Communications Group,Todd Loydell,Government Relations Lead,Yes,January 2007
 143,Sefiani Communications Group,Jane Keeley,Associate Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
@@ -479,7 +479,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Jackson Busse,Consultant,No,""
 66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
-66,Statecraft,Steven Tu,Associate Consultant,Yes,September 2013
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes,Director,No,""
 753,Strategic Political Counsel Pty Ltd,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
 753,Strategic Political Counsel Pty Ltd,David Gracey,Senior Counsel,No,""
