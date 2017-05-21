@@ -41,7 +41,6 @@ agency_id,agency_business_entity_name,client_name
 770,Asys Consulting,First State Super
 770,Asys Consulting,The Little Blue Dinosaur Foundation
 781,Atherton Advisory Pty Ltd,Holiday Rental Industry Association Inc
-781,Atherton Advisory Pty Ltd,Expedia Inc
 63,AusAccess Unit Trust,Global Defence Industries
 63,AusAccess Unit Trust,TECC Pty Ltd
 63,AusAccess Unit Trust,Aboriginal AG-Arts Residency Kenmore Limited
@@ -170,6 +169,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Bunnings Warehouse
 338,Barton Deakin ,Elliott Advisors (HK) Limited
 338,Barton Deakin ,Womenâs Legal Service Queensland
+338,Barton Deakin ,Vanguard Health
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -320,6 +320,7 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,McAfee Australia
 764,Christmas Jalili Pty Ltd,Australian Digital Currency Commerce Association
 764,Christmas Jalili Pty Ltd,Agripower Australia Limited
+764,Christmas Jalili Pty Ltd,Fireseed Capital
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
@@ -741,6 +742,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Yumbah Aquaculture Ltd
 59,GRACosway Pty Ltd,Fletcher Insulation Pty Limited
 59,GRACosway Pty Ltd,Lottoland Australia Pty Ltd
+59,GRACosway Pty Ltd,Hexion Australia Pty Ltd 
+59,GRACosway Pty Ltd,Ixom Operations Pty Ltd 
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -1319,6 +1322,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Advanced Warning Systems Inc
 685,Sanlaan Pty Ltd,HItec Welding 
 685,Sanlaan Pty Ltd,APR Energy
+685,Sanlaan Pty Ltd,The Pharmacy Guild of Australia
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
@@ -1404,9 +1408,11 @@ agency_id,agency_business_entity_name,client_name
 753,Strategic Political Counsel Pty Ltd,National Australia Bank Ltd
 753,Strategic Political Counsel Pty Ltd,APA Group
 753,Strategic Political Counsel Pty Ltd,Group of Eight Universities Ltd
-753,Strategic Political Counsel Pty Ltd,University of Melbourne
 753,Strategic Political Counsel Pty Ltd,Monash University
 753,Strategic Political Counsel Pty Ltd,E4 Health Australia
+753,Strategic Political Counsel Pty Ltd,NAB Health
+753,Strategic Political Counsel Pty Ltd,Aircraft Owners and Pilots Association of Australia
+753,Strategic Political Counsel Pty Ltd,Australian Lotteries and Newsagents Association
 759,Success Group Australia,Carbon Renewable Energy
 759,Success Group Australia,AviAssist Pty Ltd
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
@@ -1544,6 +1550,7 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,National Automotive Leasing and Salary Packaging Association
 420,The trustee for ECG Advisory Trust,Jemena
 420,The trustee for ECG Advisory Trust,BP Australia Pty Ltd
+420,The trustee for ECG Advisory Trust,TPG Capital
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 28,The Trustee for Markeit Family Trust,Biocentral Laboratories
 28,The Trustee for Markeit Family Trust,BioFilm Solutions Pty Ltd
@@ -1590,6 +1597,8 @@ agency_id,agency_business_entity_name,client_name
 328,THEMA Consulting Pty Ltd,GlaxoSmithKline Australia
 328,THEMA Consulting Pty Ltd,Genomic Health Inc
 772,Tokua Pty Ltd,Calibre Group
+772,Tokua Pty Ltd,Escarpment Group
+772,Tokua Pty Ltd,Interclean Pty Ltd
 718,Trustee of Kerans Family Trust,Motorola Solutions Inc.
 718,Trustee of Kerans Family Trust,Facebook Inc.
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
@@ -1654,6 +1663,15 @@ agency_id,agency_business_entity_name,client_name
 793,W.J Wilcher Pty Ltd,HATSWELL Robert
 793,W.J Wilcher Pty Ltd,WADDELL Stephen
 793,W.J Wilcher Pty Ltd,HANGER Christopher
+793,W.J Wilcher Pty Ltd,NEWPORT Danny
+793,W.J Wilcher Pty Ltd,VAN DOORN Eugene
+793,W.J Wilcher Pty Ltd,HILLS Keenan
+793,W.J Wilcher Pty Ltd,MAYNARD Heath
+793,W.J Wilcher Pty Ltd,WATSON Evan
+793,W.J Wilcher Pty Ltd,WILTON Mark
+793,W.J Wilcher Pty Ltd,DUNNE Jack
+793,W.J Wilcher Pty Ltd,BLAND Cameron
+793,W.J Wilcher Pty Ltd,BIRD Jason
 463,Walker Watterson Holdings Pty Ltd,Nutanix
 463,Walker Watterson Holdings Pty Ltd,Emerson Network Power Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,BIS Shrapnel Pty Limited
