@@ -78,7 +78,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
 556,Capital Hill Advisory Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
 556,Capital Hill Advisory Pty Ltd,Alicja Rudz,Senior Advisor,No,""
-556,Capital Hill Advisory Pty Ltd,Matthew Versi,Senior Advisor,No,""
+556,Capital Hill Advisory Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
 558,Catherine Emma Rocchi,Cate Rocchi,CEO,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
@@ -89,6 +89,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 658,Chris Drummer ,Christopher John Drummer,CEO,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
 764,Christmas Jalili Pty Ltd,Damon Jalili,Principal,Yes,August 2016
+1808,Clean Energy Strategies Pty Ltd,Kristina Photios,Director,No,""
+1808,Clean Energy Strategies Pty Ltd,Ian Hancock,Director,No,""
+1808,Clean Energy Strategies Pty Ltd,Alex Gibson,Advisor,No,""
 475,Clifton Consulting Services Pty Ltd,John Ridley,Principal,No,""
 475,Clifton Consulting Services Pty Ltd,Ken Davis,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Louisa McPhee,Senior Consultant,No,""
@@ -122,6 +125,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 299,CPI Strategic Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
 299,CPI Strategic Pty Ltd,Frederick John Brown,Director,Yes,November 2007
+81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director Government Relations,Yes,January 2007
+81,CPR Communications & Public Relations Pty Ltd,William Forwood,Strategic Counsel,No,""
+81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
+81,CPR Communications & Public Relations Pty Ltd,Chanmali Tregambe,Senior Adviser,No,""
+81,CPR Communications & Public Relations Pty Ltd,Tom Middleton,Senior Adviser,Yes,September 2013
+81,CPR Communications & Public Relations Pty Ltd,Joseph Fennessy,Adviser,Yes,October 2008
 683,Craig Emerson Economics Pty Ltd,Craig Emerson,Managing Director,Yes,September 2013
 783,Craig Hodges,Craig Hodges,Consultant,No,""
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
@@ -204,7 +213,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1,Gambolling Pty Ltd,Jane Beer,PA/Consultant,Yes,August 2016
 375,Gell Southam Group Pty Ltd,Patrick Southam,Principal,No,""
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
-754,Geoffrey Michael Brennan,Geoffrey Brennan,Owner,Yes,October 1995
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
 150,Glide Pty Ltd,Gail White,Senior Consultant,No,""
 150,Glide Pty Ltd,Michael Woodhouse,Director,No,""
@@ -382,6 +390,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Ksenya Belooussova,Senior Account Manager,No,""
 72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,Yes,December 2012
 72,Parker & Partners Pty Ltd,Nicole Quinn,Director,Yes,December 2009
+72,Parker & Partners Pty Ltd,Leon Beswick ,Group Managing Director ,No,""
 298,Pavilion Consulting Pty Ltd,Nicholette Ann Conway,Principal ,No,""
 736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -425,6 +434,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Vessa Playfair,Director,No,""
 242,Purple Communications Australia Pty Ltd,William John Andrew Witham,Special Counsel,No,""
 242,Purple Communications Australia Pty Ltd,Timonthy Grey Smith,Special Counsel,No,""
+242,Purple Communications Australia Pty Ltd,Molly Cooke,Consultant,No,""
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 446,R A Neilson and M Salmon,Michael Salmon,Director,No,""
 446,R A Neilson and M Salmon,Ross Neilson,Director,No,""
