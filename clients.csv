@@ -265,6 +265,8 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,International Justice Mission Australia
 556,Capital Hill Advisory Pty Ltd,Sydney Airport Corporation Limited
 556,Capital Hill Advisory Pty Ltd,Carlton and United Breweries
+556,Capital Hill Advisory Pty Ltd,Anheuser-Busch InBev
+556,Capital Hill Advisory Pty Ltd,Generic and Biosimilar Medicines Association
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,H2OX
 558,Catherine Emma Rocchi,Leadership WA
@@ -711,6 +713,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Maxima Pearling Company
 122,GRA Everingham Pty Ltd,AWE Limited 
 122,GRA Everingham Pty Ltd,Australian Finance Group
+122,GRA Everingham Pty Ltd,Finder Exploration Pty Ltd 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -770,6 +773,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Lottoland Australia Pty Ltd
 59,GRACosway Pty Ltd,Hexion Australia Pty Ltd 
 59,GRACosway Pty Ltd,Ixom Operations Pty Ltd 
+59,GRACosway Pty Ltd,NTT DATA 
+59,GRACosway Pty Ltd,Western Sydney Rail Alliance
 26,Halden Burns Pty Ltd,Strzelecki Holdings Pty Ltd
 26,Halden Burns Pty Ltd,Satterley Property Group
 26,Halden Burns Pty Ltd,Italian Earthquake Disaster Fund
@@ -929,12 +934,10 @@ agency_id,agency_business_entity_name,client_name
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 621,KnowMinister.com Pty Ltd,CSR Limited
 775,Kommerz Pty Ltd,Technicolor Holdings Inc
-115,KPMG,The Cobra Group Pty Ltd
 115,KPMG,Distilled Spirits Industry Council of Australia Inc
 115,KPMG,The Australian Federation of Travel Agents
 115,KPMG,Appco Group Australia Pty Ltd
 115,KPMG,Kawasaki Heavy Industries Ltd
-115,KPMG,Voice of Horticulture
 115,KPMG,Tourism Shopping Reform Group
 115,KPMG,Amazon.com Inc
 465,LATAF CONSULTING ,Paydirt Media
@@ -1069,7 +1072,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australian Airports Association
 565,Newgate Communications Pty Limited,Whitehaven Coal Limited
 565,Newgate Communications Pty Limited,Australian Pork Limited
-565,Newgate Communications Pty Limited,Sydney Airport Corporation Limited
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
 565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
 565,Newgate Communications Pty Limited,Mondelez Australia Pty Ltd
@@ -1078,8 +1080,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Bluearth Foundation
 565,Newgate Communications Pty Limited,Swisse Wellness Pty Ltd
 565,Newgate Communications Pty Limited,Minter Ellison
-565,Newgate Communications Pty Limited,Southern Cross Austereo Pty Ltd
-565,Newgate Communications Pty Limited,TPI Enterprises
 565,Newgate Communications Pty Limited,Ferrier Hodgson
 565,Newgate Communications Pty Limited,Australia Post
 565,Newgate Communications Pty Limited,Australian Bankers' Association Inc
@@ -1093,6 +1093,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Symphony Services Australia Limited
 565,Newgate Communications Pty Limited,Pacific National
 565,Newgate Communications Pty Limited,Luerssen GmbH CO. KG
+565,Newgate Communications Pty Limited,Murray Darling Medical School
 766,Next Level Strategic Services Pty Ltd,Adani Mining Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Linfox Proprietary Limited
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
@@ -1703,6 +1704,12 @@ agency_id,agency_business_entity_name,client_name
 793,W.J Wilcher Pty Ltd,DUNNE Jack
 793,W.J Wilcher Pty Ltd,BLAND Cameron
 793,W.J Wilcher Pty Ltd,BIRD Jason
+793,W.J Wilcher Pty Ltd,ATKINS Justyn
+793,W.J Wilcher Pty Ltd,FERRERO Shaun
+793,W.J Wilcher Pty Ltd,SUTTON Chris.
+793,W.J Wilcher Pty Ltd,MILLER Neal
+793,W.J Wilcher Pty Ltd,VAFIAS Demitri
+793,W.J Wilcher Pty Ltd,TAN Daniel
 463,Walker Watterson Holdings Pty Ltd,Nutanix
 463,Walker Watterson Holdings Pty Ltd,Emerson Network Power Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,BIS Shrapnel Pty Limited
