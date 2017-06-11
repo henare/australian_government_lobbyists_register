@@ -66,6 +66,7 @@ agency_id,agency_business_entity_name,client_name
 45,Australian Public Affairs Limited Partnership,Rirratingu Aboriginal Corporation
 45,Australian Public Affairs Limited Partnership,Bunuwal Investments Pty Ltd
 45,Australian Public Affairs Limited Partnership,The Tipping Point Group
+45,Australian Public Affairs Limited Partnership,Santos
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
@@ -306,9 +307,10 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Employment Hero Pty Ltd
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian College of Nursing 
-658,Chris Drummer ,Fletcher Pharmacy  Pty Ltd
-658,Chris Drummer ,Rutherford Pharmacy Guy McKendry
 658,Chris Drummer ,Oceanic Multitrading Pty Ltd
+658,Chris Drummer ,Australian Mobile Health Clinics Association
+658,Chris Drummer ,Australian Mobile Dental Care
+658,Chris Drummer ,Smiles On Site Pty Ltd
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 113,CHRIS SCHACHT,PMB Defence
@@ -327,6 +329,7 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,Australian Digital Currency Commerce Association
 764,Christmas Jalili Pty Ltd,Agripower Australia Limited
 764,Christmas Jalili Pty Ltd,Fireseed Capital
+764,Christmas Jalili Pty Ltd,TransGrid
 1808,Clean Energy Strategies Pty Ltd,AGL Energy Limited
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
@@ -821,6 +824,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Woolworths
 96,Hawker Britton Group Pty Ltd,Commonwealth Bank
 96,Hawker Britton Group Pty Ltd,Bankwest
+96,Hawker Britton Group Pty Ltd,Mid West Infrastructure Group
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -886,6 +890,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Mind  Australia ABN 17 123 159 526
 319,Jo Scard Pty Ltd,PANDA - Perinatal Anxiety & Depression Australia Inc ABN 64 063 647 374 
 319,Jo Scard Pty Ltd,Australian International Marine Export Group Limited ABN 94 082 384 030
+319,Jo Scard Pty Ltd,Sliced Tech ABN 53 165 997  008
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
@@ -934,7 +939,6 @@ agency_id,agency_business_entity_name,client_name
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 621,KnowMinister.com Pty Ltd,CSR Limited
 775,Kommerz Pty Ltd,Technicolor Holdings Inc
-115,KPMG,Distilled Spirits Industry Council of Australia Inc
 115,KPMG,The Australian Federation of Travel Agents
 115,KPMG,Appco Group Australia Pty Ltd
 115,KPMG,Kawasaki Heavy Industries Ltd
@@ -1050,6 +1054,7 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,Town of Port Hedland
 132,Megan Anwyl,Brookfield Rail P/L 
 132,Megan Anwyl,Vector Advanced Metering Services (Australia) Pty Ltd
+132,Megan Anwyl,Australia China Business Council WA
 720,MIBD Strategy ,Kurz Australia 
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
@@ -1057,9 +1062,11 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
 444,Michael Megaw,Western Australian Deaf Society
 752,MMJ Consulting,Sound Radiology 
+752,MMJ Consulting,Readymade Productions Pty Ltd
 756,MMR Consulting Pty Ltd,Before and After School Care Pty Ltd
 796,Momentum Strategic Communication Services,Intel Security
 796,Momentum Strategic Communication Services,Dtex
+796,Momentum Strategic Communication Services,Transgrid
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
 696,MOUNTAIN MEDIA PTY LTD,EOz Energy Skills Australia
 696,MOUNTAIN MEDIA PTY LTD,Norfolk Island People For Democracy
@@ -1376,6 +1383,7 @@ agency_id,agency_business_entity_name,client_name
 167,Scott & Beaumont Pty Ltd,WSLloyd
 167,Scott & Beaumont Pty Ltd,Galbraith and Co
 1806,Scott Mitchell and Partners Pty Ltd,Telstra Corporation Ltd
+1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
 143,Sefiani Communications Group,Yara Pilbera
 143,Sefiani Communications Group,Seafarms Group
 143,Sefiani Communications Group,Cancer Drugs Alliance
@@ -1445,6 +1453,7 @@ agency_id,agency_business_entity_name,client_name
 753,Strategic Political Counsel Pty Ltd,NAB Health
 753,Strategic Political Counsel Pty Ltd,Aircraft Owners and Pilots Association of Australia
 753,Strategic Political Counsel Pty Ltd,Australian Lotteries and Newsagents Association
+753,Strategic Political Counsel Pty Ltd,JAR Aerospace
 759,Success Group Australia,Carbon Renewable Energy
 759,Success Group Australia,AviAssist Pty Ltd
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
@@ -1550,21 +1559,14 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
 145,The Trustee for Bespoke Business Trust,BAE Systems Australia
-145,The Trustee for Bespoke Business Trust,Asciano Limited
-145,The Trustee for Bespoke Business Trust,ACE Insurance Ltd
 145,The Trustee for Bespoke Business Trust,Medibank Private Limited
-145,The Trustee for Bespoke Business Trust,Mitsubishi Heavy Industries
-145,The Trustee for Bespoke Business Trust,National Australia Bank Limited
 145,The Trustee for Bespoke Business Trust,Business Council of Australia
-145,The Trustee for Bespoke Business Trust,Elegant Jubilee Limited
-145,The Trustee for Bespoke Business Trust,Tavistock Group
-145,The Trustee for Bespoke Business Trust,Healthe Care Australia
-145,The Trustee for Bespoke Business Trust,Moly Mines Limited
 145,The Trustee for Bespoke Business Trust,Anheuser-Busch InBev
 145,The Trustee for Bespoke Business Trust,Network Ten Limited
 145,The Trustee for Bespoke Business Trust,Chow Tai Fook Enterprises Limited
 145,The Trustee for Bespoke Business Trust,Liberty House Group
 145,The Trustee for Bespoke Business Trust,Careers Australia Group Limited (Careers Australia)
+145,The Trustee for Bespoke Business Trust,ANZ The Australia and New Zealand Banking Group Limited
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1584,6 +1586,9 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,BP Australia Pty Ltd
 420,The trustee for ECG Advisory Trust,TPG Capital
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
+1809,The Trustee for Jackman Family Trust,The Big Issue
+1809,The Trustee for Jackman Family Trust,Home for Homes
+1809,The Trustee for Jackman Family Trust,Cooper Energy
 28,The Trustee for Markeit Family Trust,Biocentral Laboratories
 28,The Trustee for Markeit Family Trust,BioFilm Solutions Pty Ltd
 28,The Trustee for Markeit Family Trust,Austal Limited

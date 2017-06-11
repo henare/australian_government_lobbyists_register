@@ -26,6 +26,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 45,Australian Public Affairs Limited Partnership,Amanda Parker,Senior Consultant,No,""
 45,Australian Public Affairs Limited Partnership,Nick Trainor,Consultant,Yes,August 2016
 45,Australian Public Affairs Limited Partnership,Priya Kumar,Consultant,No,""
+45,Australian Public Affairs Limited Partnership,Armon Hicks,Director,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack,Director,Yes,June 2001
 139,Bartholomew Quinn and Associates,David Quinn,Managing Director,No,""
@@ -169,7 +170,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 734,Emerald Corporate Group Pty Ltd,George Papadopoulos,Managing Director,No,""
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
 31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Partner,Yes,June 1986
-31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,December 2007
+31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,July 2016
 31,Endeavour Consulting Group Pty Ltd,Fiona Landis ,Associate Partner,Yes,April 2010
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
@@ -303,6 +304,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 115,KPMG,Jeremy Murdoch,Consultant,No,""
 115,KPMG,Johannes Van Der Walt,Senior Consultant,No,""
 115,KPMG,Daniel Naef,Consultant,No,""
+115,KPMG,Lachlan Yeend,Consultant,No,""
+115,KPMG,Emma Lomas,Consultant,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
@@ -542,6 +545,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 420,The trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
 420,The trustee for ECG Advisory Trust,Jonathan Epstein,Director,Yes,November 2007
 41,The Trustee for Hilton Valley Investment,Alistair Urquhart,Director,No,""
+1809,The Trustee for Jackman Family Trust,Gavin Jackman,Director,Yes,December 2007
 28,The Trustee for Markeit Family Trust,Keith Blyth,Managing Director,No,""
 668,The Trustee for Sandra Eccles Family Trust,Sandra Joy Eccles,Director ,Yes,January 1999
 117,The Trustee for the Bowden Family Trust,Bob Bowden,Chief Executive,No,""
