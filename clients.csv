@@ -40,7 +40,6 @@ agency_id,agency_business_entity_name,client_name
 770,Asys Consulting,Energy Developments Limited
 770,Asys Consulting,First State Super
 770,Asys Consulting,The Little Blue Dinosaur Foundation
-781,Atherton Advisory Pty Ltd,Holiday Rental Industry Association Inc
 63,AusAccess Unit Trust,Global Defence Industries
 63,AusAccess Unit Trust,TECC Pty Ltd
 63,AusAccess Unit Trust,Aboriginal AG-Arts Residency Kenmore Limited
@@ -174,6 +173,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Vanguard Health
 338,Barton Deakin ,EMKC Developments Pty Ltd
 338,Barton Deakin ,Schwartz Family Co Pty Ltd
+338,Barton Deakin ,Coal River Products Association
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,SuperMicro
@@ -268,6 +268,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Carlton and United Breweries
 556,Capital Hill Advisory Pty Ltd,Anheuser-Busch InBev
 556,Capital Hill Advisory Pty Ltd,Generic and Biosimilar Medicines Association
+556,Capital Hill Advisory Pty Ltd,Philips Healthcare
 558,Catherine Emma Rocchi,Farming Champions
 558,Catherine Emma Rocchi,H2OX
 558,Catherine Emma Rocchi,Leadership WA
@@ -525,6 +526,7 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,APR Energy 
 580,Crosby Textor Research Strategies Results,Northern Oil & Gas Australia Pty Limited 
 580,Crosby Textor Research Strategies Results,Elliott Advisers (HK) Limited
+580,Crosby Textor Research Strategies Results,Pearson Australia Group Pty Ltd
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
 153,Cultural Consulting,Bapak Ian Siagian Australian Representative for the Indonesian Democratic Party of Struggle (PDIP)
@@ -1379,6 +1381,7 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,National Trunk Rail 
 227,SAS Consulting Group Pty Ltd,Gulf Coast Group
 227,SAS Consulting Group Pty Ltd,Australian Cablemakers Association
+227,SAS Consulting Group Pty Ltd,Santos
 167,Scott & Beaumont Pty Ltd,ConnectLand Pty Ltd; Koppers Australia
 167,Scott & Beaumont Pty Ltd,WSLloyd
 167,Scott & Beaumont Pty Ltd,Galbraith and Co

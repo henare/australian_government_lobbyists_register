@@ -17,7 +17,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke,Director,Yes,August 2004
 770,Asys Consulting,Anthony Nagy,Director,No,""
 770,Asys Consulting,Matt Stevens,Director,No,""
-781,Atherton Advisory Pty Ltd,Trevor Cyril Atherton,Director,No,""
 63,AusAccess Unit Trust,Mark Ridgway,Chairman,Yes,May 1994
 747,Australian Industry Facilitation,David Mitchell,Chief Executive Officer,Yes,August 2005
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
@@ -35,10 +34,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Matt Hingerty,CEO and MD ,Yes,June 2012
 338,Barton Deakin ,David Alexander,Managing Director (Federal),Yes,November 2007
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
-338,Barton Deakin ,Eacham Curry ,Managing Director (WA),Yes,February 2005
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
-338,Barton Deakin ,Vanessa Findaly,Director ,Yes,July 2016
+338,Barton Deakin ,Vanessa Findlay,Director ,Yes,July 2016
 338,Barton Deakin ,Lucas Pender,Policy and Business Analyst,No,""
 338,Barton Deakin ,Gabrielle Hedge,Policy and Business Analyst,No,""
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
@@ -306,6 +304,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 115,KPMG,Daniel Naef,Consultant,No,""
 115,KPMG,Lachlan Yeend,Consultant,No,""
 115,KPMG,Emma Lomas,Consultant,No,""
+115,KPMG,Jeremy Murdoch,Contractor,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
@@ -476,6 +475,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Victoria Qiu,Director China,No,""
 227,SAS Consulting Group Pty Ltd,Lisa Palu,Senior Consultant,No,""
+227,SAS Consulting Group Pty Ltd,John Short,Principal Consultant,No,""
 167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
 1806,Scott Mitchell and Partners Pty Ltd,Scott Mitchell,Director,Yes,February 2006
 143,Sefiani Communications Group,Todd Loydell,Government Relations Lead,Yes,January 2007
