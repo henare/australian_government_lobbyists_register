@@ -60,13 +60,12 @@ agency_id,agency_business_entity_name,client_name
 234,Australian Project Developments Pty. Ltd.,Wakefield Group
 234,Australian Project Developments Pty. Ltd.,Canberra Airport
 234,Australian Project Developments Pty. Ltd.,AustraliaNZ Regional Association Science International
-45,Australian Public Affairs Limited Partnership,Excelsia College
 45,Australian Public Affairs Limited Partnership,Access Testing Pty Ltd
-45,Australian Public Affairs Limited Partnership,IWU Holdings LLC
 45,Australian Public Affairs Limited Partnership,Rirratingu Aboriginal Corporation
 45,Australian Public Affairs Limited Partnership,Bunuwal Investments Pty Ltd
 45,Australian Public Affairs Limited Partnership,The Tipping Point Group
 45,Australian Public Affairs Limited Partnership,Santos
+45,Australian Public Affairs Limited Partnership,Australian Vaping Advocacy Trade and Research Organisation
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
@@ -329,6 +328,9 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,Agripower Australia Limited
 764,Christmas Jalili Pty Ltd,Fireseed Capital
 764,Christmas Jalili Pty Ltd,TransGrid
+764,Christmas Jalili Pty Ltd,Secure Code Warrior
+215,"Clark, Kerren G",Oliver Hume Property Funds
+215,"Clark, Kerren G",OMC International
 1808,Clean Energy Strategies Pty Ltd,AGL Energy Limited
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
@@ -524,6 +526,7 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Elliott Advisers (HK) Limited
 580,Crosby Textor Research Strategies Results,Pearson Australia Group Pty Ltd
 580,Crosby Textor Research Strategies Results,Blunden & Associates Pty Ltd
+580,Crosby Textor Research Strategies Results,IndiIT Pty Ltd
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
 153,Cultural Consulting,Bapak Ian Siagian Australian Representative for the Indonesian Democratic Party of Struggle (PDIP)
@@ -680,6 +683,7 @@ agency_id,agency_business_entity_name,client_name
 238,GIMC Consulting,Hot Tomato Pty Ltd
 238,GIMC Consulting,Get Real Media
 238,GIMC Consulting,Sunshine Coast Broadcasters
+238,GIMC Consulting,Macquarie Media Pty Ltd
 150,Glide Pty Ltd,The Alliance for Children at Risk inc
 150,Glide Pty Ltd,Western Australian Men's Shed Association Inc
 561,Global Issues Group,Refrigerants Australia
@@ -933,7 +937,6 @@ agency_id,agency_business_entity_name,client_name
 410,Justine Caines,Danii Foundation
 410,Justine Caines,World Vision Australia
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
-621,KnowMinister.com Pty Ltd,CSR Limited
 115,KPMG,The Australian Federation of Travel Agents
 115,KPMG,Kawasaki Heavy Industries Ltd
 115,KPMG,Tourism Shopping Reform Group
