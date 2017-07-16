@@ -12,7 +12,6 @@ agency_id,agency_business_entity_name,owner_name
 788,All Points North Advisory Pty Ltd,Linda Louise Jones
 671,ALSADA TECHNOLOGY PTY. LIMITED ,ALAN FUNG
 745,AMG Consulting Services Pty Ltd,Colin Michael Warnock
-666,APEC Lawyers and Consultants Pty Ltd.,Mr. Kam Sham LEUNG
 415,APS Networking Pty Ltd,Anthony Stewart
 588,Argos Consulting,Brett Robin Hilder
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke
@@ -94,6 +93,8 @@ agency_id,agency_business_entity_name,owner_name
 683,Craig Emerson Economics Pty Ltd,Benjamin Emerson
 683,Craig Emerson Economics Pty Ltd,Thomas Emerson
 783,Craig Hodges,Craig Leslie Hodges
+99,Craigleed Pty Ltd,Stephen McKew
+99,Craigleed Pty Ltd,Celia McKew
 193,CRAKYL Pty Ltd,Craig Stephen Munnings
 193,CRAKYL Pty Ltd,Kylie Gaye Munnings
 105,CreditWise Pty Ltd,Kathleen Anne Keating
@@ -152,6 +153,8 @@ agency_id,agency_business_entity_name,owner_name
 150,Glide Pty Ltd,Michael Woodhouse
 561,Global Issues Group,Gregory Rowe Picker
 750,GovCorp Pty Ltd,Nikola Vujasin
+750,GovCorp Pty Ltd,Classic Kitchens Interiors Pty Ltd
+750,GovCorp Pty Ltd,NISAJUV PTY LTD
 7,Government Relations Solutions Pty Ltd,Matthew Family Trust (37 921 720 624)
 125,Govstrat Pty Ltd,Louise Power
 125,Govstrat Pty Ltd,Damian Power
@@ -256,6 +259,7 @@ agency_id,agency_business_entity_name,owner_name
 736,Peter Kane,Peter Kane
 546,Policy Australia Pty Ltd,Carolyn Dalton
 318,Porter Novelli Australia Pty Ltd,Clemenger Group Limited
+1812,Preferment Associates ,John Thomas Campbell Lake 
 516,Premier State Consulting Pty Ltd,National Strategy Group Pty Ltd
 1805,Primary Communication Partners Pty Limited,Christopher Hall
 283,Probity International Pty. Ltd,Mary Easson

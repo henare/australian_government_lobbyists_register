@@ -10,9 +10,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 788,All Points North Advisory Pty Ltd,Ewen Thomas Jones,Managing Director,Yes,July 2017
 671,ALSADA TECHNOLOGY PTY. LIMITED ,ALAN FUNG,DIRECTOR,No,""
 745,AMG Consulting Services Pty Ltd,Colin Michael Warnock,Director,No,""
-666,APEC Lawyers and Consultants Pty Ltd.,Mr. Kam Sham LEUNG,Managing Director,No,""
-666,APEC Lawyers and Consultants Pty Ltd.,Dr. Robert John Cooke,Executive Director,No,""
-666,APEC Lawyers and Consultants Pty Ltd.,Ms Debra Kaye Cooke,Executive Director,No,""
 415,APS Networking Pty Ltd,Anthony Stewart,Director,Yes,March 2011
 588,Argos Consulting,Brett Robin Hilder,Owner,No,""
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke,Director,Yes,August 2004
@@ -37,6 +34,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
+338,Barton Deakin ,Jessica Yu,Policy and Business Analyst,No,""
 338,Barton Deakin ,Vanessa Findlay,Director ,Yes,July 2016
 338,Barton Deakin ,Lucas Pender,Policy and Business Analyst,No,""
 338,Barton Deakin ,Gabrielle Hedge,Policy and Business Analyst,No,""
@@ -68,7 +66,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 787,Capetal Advisory Pty Ltd,Bradley Green,Associate Director,No,""
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Michael Photios,Director,No,""
-556,Capital Hill Advisory Pty Ltd,Cathy Duncan,Practice Manager,Yes,June 2012
 556,Capital Hill Advisory Pty Ltd,David Begg,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Ian Hancock,Government Policy Analyst,No,""
 556,Capital Hill Advisory Pty Ltd,Christine Kirk,Executive Assistant,No,""
@@ -79,6 +76,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
 556,Capital Hill Advisory Pty Ltd,Alicja Rudz,Senior Advisor,No,""
 556,Capital Hill Advisory Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
+556,Capital Hill Advisory Pty Ltd,Cameron Sinclair,Manager Public Policy,No,""
 558,Catherine Emma Rocchi,Cate Rocchi,CEO,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
@@ -134,6 +132,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 81,CPR Communications & Public Relations Pty Ltd,Joseph Fennessy,Adviser,Yes,October 2008
 683,Craig Emerson Economics Pty Ltd,Craig Emerson,Managing Director,Yes,September 2013
 783,Craig Hodges,Craig Hodges,Consultant,No,""
+99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
 580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Director Campaign Communications,No,""
@@ -401,6 +400,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Partner,No,""
 318,Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,General Manager,No,""
 318,Porter Novelli Australia Pty Ltd,Jennifer Hill,Senior consultant,Yes,August 2014
+1812,Preferment Associates ,John Thomas Campbell Lake,principal,Yes,November 2009
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,David Begg,Partner,No,""
 516,Premier State Consulting Pty Ltd,Nick Campbell,Partner,Yes,December 1999
@@ -488,6 +488,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
 82,Socom Pty Ltd,Kath Christie,Senior Consultant,No,""
+82,Socom Pty Ltd,Isaac Ransom,Senior Consultant,No,""
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
@@ -583,6 +584,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Oisin Ocallaghan ,Senior Consultant ,No,""
 463,Walker Watterson Holdings Pty Ltd,Ruth Grigg,Admin/Operations,No,""
 463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Senior Consultant,No,""
+97,Wayne Smith,Wayne Christopher Smith,Director,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,CEO,No,""
 503,WELLS HASLEM STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Partner,No,""
