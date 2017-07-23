@@ -100,6 +100,7 @@ agency_id,agency_business_entity_name,owner_name
 105,CreditWise Pty Ltd,Kathleen Anne Keating
 105,CreditWise Pty Ltd,Stephen Mark Edwards
 580,Crosby Textor Research Strategies Results,CT Group International Ltd
+673,CT International and Corporate Advisory Pty Ltd,CT International and Corporate Advisory Ltd UK
 153,Cultural Consulting,Mr Peter O'Neill OAM
 153,Cultural Consulting,Dr Robert Goodfellow
 386,Currie Communications,Mark Andrew Paterson
@@ -173,9 +174,7 @@ agency_id,agency_business_entity_name,owner_name
 96,Hawker Britton Group Pty Ltd,Singleton Ogilvy & Mather (Holdings) Pty Ltd
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle
 124,Helen & Mike O'Brien JP,Helen O'Brien and Mike O'Brien JP (Partnership)
-8,Hill and Knowlton,WPP Group
 765,IALPG PTY LTD,Joseph Wheeler
-674,Ian Peregrine Desborough,Ian Desborough
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen
 714,Insight Strategy Pty Ltd,Leo Holding Pty Ltd
 170,Intech Strategies P/L,Barry Batagol
@@ -191,7 +190,6 @@ agency_id,agency_business_entity_name,owner_name
 101,John Connolly & Partners Pty Limited,Manager Pty Ltd 
 101,John Connolly & Partners Pty Limited,Julie Lyn Connolly
 241,John Cook,Dr John Cook
-731,John McDonald,John C. McDonald
 78,John O'Connor and Associates Pty Ltd,Amanda O'Connor
 78,John O'Connor and Associates Pty Ltd,John O'Connor
 255,John Scott Barker,John Scott Barker
@@ -217,7 +215,6 @@ agency_id,agency_business_entity_name,owner_name
 1811,Luz Ardiden Consulting,Andrew Coombe
 258,Lyndon George Pty Ltd,Hellen Georgopoulos
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole
-80,MacGregor Public Relations,John MacGregor
 119,Macquarie Group Limited,Macquarie Group Ltd
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd
 245,Marketing Elements Pty Ltd,Cecelia Haddad
@@ -238,7 +235,6 @@ agency_id,agency_business_entity_name,owner_name
 696,MOUNTAIN MEDIA PTY LTD,PHILIP JAMES DAVEY 
 696,MOUNTAIN MEDIA PTY LTD,VICTORIA ANNE DAVEY
 356,Mr John Kindler,John Walter Kindler
-677,Naylor Phillip Gordon,Phillip Gordon Naylor
 565,Newgate Communications Pty Limited,Porta Communications plc
 766,Next Level Strategic Services Pty Ltd,Milner Strategic Services Pty Ltd and Next Level Holdings Pty Ltd
 1798,Nexus Asia Pacific Pty Ltd,The Trustee for Nexus Asia Pacific Investments Unit Trust
@@ -321,8 +317,6 @@ agency_id,agency_business_entity_name,owner_name
 66,Statecraft,Priebe Family Trust 
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes
 753,Strategic Political Counsel Pty Ltd,Michael John Kauter
-759,Success Group Australia,Geoffrey Greene
-759,Success Group Australia,Di Greene
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn
 528,SYSTECH Consultants Pty Ltd,Janine Carol Wirthensohn
 235,The Agenda Group Pty Ltd,Damian Mannix
