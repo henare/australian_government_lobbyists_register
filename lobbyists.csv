@@ -105,6 +105,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 453,Cornerstone Group Australia ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
 453,Cornerstone Group Australia ,Brigid Meney ,Associate Policy and Strategy ,Yes,September 2016
 453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,No,""
+403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
+403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
+403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director Health Economics,No,""
+403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director Government Relations,Yes,January 2007
 81,CPR Communications & Public Relations Pty Ltd,William Forwood,Strategic Counsel,No,""
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
@@ -239,7 +243,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 103,Ivydale Nominees Pty Ltd,The Hon James G Clarko AM AE JP,Senior Associate,Yes,December 1996
 103,Ivydale Nominees Pty Ltd,Michael Megaw,Senior Associate,Yes,November 1996
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
-586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,No,""
+586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,Yes,January 2000
+1816,Jerome Rault Media Pty Ltd,Jerome Rault,CEO,No,""
 319,Jo Scard Pty Ltd,Jo Scard,Business Founder former adviser to former Minister for Immigration & Citizenship until 14/9/10,Yes,September 2010
 319,Jo Scard Pty Ltd,Jackie Hanafie,Director,No,""
 319,Jo Scard Pty Ltd,Elise Dare,Associate,No,""
@@ -308,20 +313,19 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Jodie Brough,Partner,No,""
 565,Newgate Communications Pty Limited,Michael van Maanen,Partner,Yes,February 2008
 565,Newgate Communications Pty Limited,Sophie Travers,Associate Partner,No,""
-565,Newgate Communications Pty Limited,Jeremy Vine,Senior Consultant,No,""
+565,Newgate Communications Pty Limited,Jeremy Vine,Account Director,No,""
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 565,Newgate Communications Pty Limited,Simon Troeth,Associate Partner,Yes,November 2007
-565,Newgate Communications Pty Limited,Sam Deans,Consultant,No,""
+565,Newgate Communications Pty Limited,Sam Deans,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Gail Morgan,Associate Partner,Yes,May 2006
-565,Newgate Communications Pty Limited,Matthew Francis,Associate Partner,Yes,June 2015
-565,Newgate Communications Pty Limited,Adam Le Lievre,Senior Consultant,Yes,March 2016
+565,Newgate Communications Pty Limited,Adam Le Lievre,Account Director,Yes,March 2016
 565,Newgate Communications Pty Limited,Claire Bremner,Associate Partner,Yes,April 2006
 565,Newgate Communications Pty Limited,Phillip Kelly,Senior Adviser,No,""
-565,Newgate Communications Pty Limited,Kathryn Turnbull,Consultant,No,""
-565,Newgate Communications Pty Limited,Sara Hourigan,Senior Consultant,No,""
+565,Newgate Communications Pty Limited,Sara Hourigan,Account Director,No,""
 565,Newgate Communications Pty Limited,Nicholas Maher,Senior Adviser,Yes,September 2014
+565,Newgate Communications Pty Limited,David Reeves,Senior Consultant,Yes,February 2008
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Stephen Beckett,Senior Manager,No,""
@@ -514,6 +518,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 689,Vicom Australia Pty Ltd,Roger Michael Kane,General Manager,No,""
 689,Vicom Australia Pty Ltd,David Harris Pearce,Region Manager Aviation and Defence,Yes,August 2006
 689,Vicom Australia Pty Ltd,Bruce Campbell Williams,Director,No,""
+785,Victory Edge Consulting,Victoria Louisa Martin Matterson,Director,Yes,August 2016
+1814,Victory Edge Consulting Pty Ltd,Victoria Louisa Martin Matterson,Managing Director,Yes,August 2016
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing,Managing Director,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Graham Alexander Ingerson,Government Relations Specialist,No,""
 793,W.J Wilcher Pty Ltd,William John Wilcher,Director,No,""

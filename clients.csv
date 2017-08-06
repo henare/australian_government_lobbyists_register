@@ -154,6 +154,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Greyhound Racing New South Wales       
 338,Barton Deakin ,Sydney Film School
 338,Barton Deakin ,NSW Greyhound Breeders Owners & Trainers Association
+338,Barton Deakin ,Carlton Football Club
+338,Barton Deakin ,Leonardo-Finmeccanica S.p.a.
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -246,6 +248,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Generic and Biosimilar Medicines Association
 556,Capital Hill Advisory Pty Ltd,Global Silicones Council
 556,Capital Hill Advisory Pty Ltd,Philips Electronics Australia Limited
+556,Capital Hill Advisory Pty Ltd,Swisse Wellness
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
 601,Catherine McGovern,Urological Society of Australia and New Zealand
@@ -268,6 +271,8 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Option Funds Management Limited
 157,Chikarovski & Associates Pty Ltd,DTZ Pty Ltd
 157,Chikarovski & Associates Pty Ltd,AUSMEDIA PTY LTD
+157,Chikarovski & Associates Pty Ltd,Cyan Stone Pty Ltd
+157,Chikarovski & Associates Pty Ltd,BOYUAN HOLDINGS LIMITED
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 113,CHRIS SCHACHT,PMB Defence
@@ -294,6 +299,7 @@ agency_id,agency_business_entity_name,client_name
 1808,Clean Energy Strategies Pty Ltd,AGL Energy Limited
 1808,Clean Energy Strategies Pty Ltd,Siemens Ltd
 1808,Clean Energy Strategies Pty Ltd,Future Superannuation Holdings Pty Ltd
+1808,Clean Energy Strategies Pty Ltd,Acciona
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
@@ -384,6 +390,14 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,HDND Enterprises Pty Ltd 
 453,Cornerstone Group Australia ,Evolve Housing Pty Ltd 
 453,Cornerstone Group Australia ,GEMA Group Pty Ltd 
+453,Cornerstone Group Australia ,THE VINCE & LEAH ANNETTA FAMILY TRUST
+403,Covance Pty Ltd (Covance Market Access Services division),Janssen Cilag Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
+403,Covance Pty Ltd (Covance Market Access Services division),STALLERGENES Australia Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),Alexion Pharmaceuticals Australasia Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),AbbVie Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),Novo Nordisk Pharmaceuticals Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),Bristol Myers Squibb Australia
 81,CPR Communications & Public Relations Pty Ltd,Regional Cities Victoria
 81,CPR Communications & Public Relations Pty Ltd,Greater Shepparton City Council
 81,CPR Communications & Public Relations Pty Ltd,City of Wodonga
@@ -421,6 +435,7 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Pearson Australia Group Pty Ltd
 580,Crosby Textor Research Strategies Results,Blunden & Associates Pty Ltd
 580,Crosby Textor Research Strategies Results,IndiIT Pty Ltd
+580,Crosby Textor Research Strategies Results,Beetson & Associates
 673,CT International and Corporate Advisory Pty Ltd,Parmalat Australia Pty Ltd 
 673,CT International and Corporate Advisory Pty Ltd,STOCKLAND CORPORATION LTD
 673,CT International and Corporate Advisory Pty Ltd,SNIIP (AUSTRALIA) PTY LTD
@@ -650,6 +665,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,NTT DATA 
 59,GRACosway Pty Ltd,Western Sydney Rail Alliance
 59,GRACosway Pty Ltd,Ability First Australia Limited
+59,GRACosway Pty Ltd,Prospa Advance Pty Ltd
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -714,6 +730,12 @@ agency_id,agency_business_entity_name,client_name
 103,Ivydale Nominees Pty Ltd,CG Berbatis Holdings
 103,Ivydale Nominees Pty Ltd,Ord Irrigation Cooperative Ltd
 586,Jenkins Engineering defence Systems Pty Ltd,Harris Corp.
+1816,Jerome Rault Media Pty Ltd,Gold Age Australia Aged Care
+1816,Jerome Rault Media Pty Ltd,Bambra House Aged Care
+1816,Jerome Rault Media Pty Ltd,Vermont Aged Care
+1816,Jerome Rault Media Pty Ltd,Samkay Health Aged Care
+1816,Jerome Rault Media Pty Ltd,Emerald Terrace Aged Care
+1816,Jerome Rault Media Pty Ltd,Park Lane Residential Aged Care
 319,Jo Scard Pty Ltd,Australian Indigenous Leadership Centre
 319,Jo Scard Pty Ltd,The Australian Charities Fund Operations Limited
 319,Jo Scard Pty Ltd,Quintessential Equities 023 Pty Ltd
@@ -830,6 +852,7 @@ agency_id,agency_business_entity_name,client_name
 774,Lunik Pty Ltd,Austal Limited
 774,Lunik Pty Ltd,Fr. Fassmer GmbH  Co. KG
 774,Lunik Pty Ltd,Naval Group Australia
+774,Lunik Pty Ltd,MBDA Australia
 1811,Luz Ardiden Consulting,Detmold Group
 258,Lyndon George Pty Ltd,Thales Australia
 258,Lyndon George Pty Ltd,Thoroughbred Breeders Australia
@@ -921,7 +944,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
 565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
 565,Newgate Communications Pty Limited,Mondelez Australia Pty Ltd
-565,Newgate Communications Pty Limited,Uber
 565,Newgate Communications Pty Limited,Foxtel Management Pty Limited
 565,Newgate Communications Pty Limited,Bluearth Foundation
 565,Newgate Communications Pty Limited,Swisse Wellness Pty Ltd
@@ -968,6 +990,7 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Darwin International Airport
 1798,Nexus Asia Pacific Pty Ltd,Zenex Pharmaceuticals
 1798,Nexus Asia Pacific Pty Ltd,Australian Food and Grocery Council
+1798,Nexus Asia Pacific Pty Ltd,Pathology Australia
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Merck Serono
 86,Ogilvy PR Health,Genzyme
@@ -998,6 +1021,7 @@ agency_id,agency_business_entity_name,client_name
 86,Ogilvy PR Health,AstraZeneca
 86,Ogilvy PR Health,Indivior
 86,Ogilvy PR Health,Janssen
+86,Ogilvy PR Health,Ipsen
 632,One Degree Advisory,Edith Cowan University
 670,Open Spectrum Pty Ltd,Australian Mobile Telecommunications Association
 744,O'Reilly Consulting,Waste and Recycling Association of South Australia
@@ -1217,6 +1241,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,The Pharmacy Guild of Australia
 685,Sanlaan Pty Ltd,SDP Consolidated Pty Ltd
 685,Sanlaan Pty Ltd,RSL Care
+685,Sanlaan Pty Ltd,Redback Technologies
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
@@ -1454,6 +1479,7 @@ agency_id,agency_business_entity_name,client_name
 668,The Trustee for Sandra Eccles Family Trust,Mungalalu Truscott Airbase Pty Ltd
 668,The Trustee for Sandra Eccles Family Trust,The Communications Council
 668,The Trustee for Sandra Eccles Family Trust,Friendly Societies of Australia 
+668,The Trustee for Sandra Eccles Family Trust,Media Federation of Australia
 117,The Trustee for the Bowden Family Trust,Group Training Australia
 117,The Trustee for the Bowden Family Trust,TAFE Directors Australia
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Mundipharma Pty Ltd
@@ -1510,6 +1536,12 @@ agency_id,agency_business_entity_name,client_name
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
 161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)
 689,Vicom Australia Pty Ltd,Aeroflex a Cobham Company
+785,Victory Edge Consulting,Australian Timeshare Holiday Ownership Council
+785,Victory Edge Consulting,Angus Knight Group 
+785,Victory Edge Consulting,Alibaba (Australia) Company Pty Ltd
+1814,Victory Edge Consulting Pty Ltd,Australian Timeshare and Holiday Ownership Council
+1814,Victory Edge Consulting Pty Ltd,Alibaba (Australia) Pty Ltd
+1814,Victory Edge Consulting Pty Ltd,Angus Knight Group 
 635,Visionary  Enterprising Management Services Pty Ltd,Service Skills Industry Alliance Inc.
 635,Visionary  Enterprising Management Services Pty Ltd,Foodland Promotions
 635,Visionary  Enterprising Management Services Pty Ltd,IGA (Metcash Trading Limited)
