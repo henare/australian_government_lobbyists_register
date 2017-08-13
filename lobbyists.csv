@@ -109,6 +109,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
+403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
 81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director Government Relations,Yes,January 2007
 81,CPR Communications & Public Relations Pty Ltd,William Forwood,Strategic Counsel,No,""
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
@@ -125,6 +126,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Yaron Finkelstein,CEO Australasia ,Yes,February 2006
 580,Crosby Textor Research Strategies Results,Justin de Domenico ,Senior Consultant,Yes,October 2016
 580,Crosby Textor Research Strategies Results,Talia Katz,Consultant ,No,""
+580,Crosby Textor Research Strategies Results,Molly Hughes ,Consultant ,Yes,August 2016
+580,Crosby Textor Research Strategies Results,Renee Shingles ,Consultant,No,""
 673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Director,No,""
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
@@ -187,6 +190,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
 1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
 1,Gambolling Pty Ltd,Jane Beer,PA/Consultant,Yes,August 2016
+1,Gambolling Pty Ltd,Barbara Joan Carney,Consultant,Yes,June 2002
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
 150,Glide Pty Ltd,Gail White,Senior Consultant,No,""
@@ -271,6 +275,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
 777,Lindsay Tanner,Lindsay James Tanner,sole trader,Yes,September 2010
+1815,Liz Stephens Consulting,Elizabeth Stephens,CEO,No,""
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Annette Stenhouse,Account Manager,No,""
 566,London Agency Pty Ltd,Sophie Herlihy,Account Manager,No,""
@@ -341,7 +346,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
 86,Ogilvy PR Health,Kate Parson,Senior Consultant,No,""
 86,Ogilvy PR Health,Michael Lane,Account Manager,No,""
+86,Ogilvy PR Health,Chloe Dougherty,Account Executive,No,""
 86,Ogilvy PR Health,Tania Jayesuria,Practice Director,No,""
+86,Ogilvy PR Health,Carly Vale,Senior Consultant,No,""
 86,Ogilvy PR Health,Alex McInnes,Account Coordinator,No,""
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
@@ -369,6 +376,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Alex Gibson,Advisor,No,""
 516,Premier State Consulting Pty Ltd,Alicja Rudz,Senior Advisor,No,""
 516,Premier State Consulting Pty Ltd,Lachlan Crombie,Senior Advisor,No,""
+1817,PremierNational Pty Ltd,Michael Photios,Chairman,No,""
+1817,PremierNational Pty Ltd,Ian Hancock,Managing Director,No,""
+1817,PremierNational Pty Ltd,Alex Gibson,Senior Adviser,No,""
+1817,PremierNational Pty Ltd,Alicja Rudz,Senior Adviser,No,""
 1805,Primary Communication Partners Pty Limited,Christopher Hall,CEO,No,""
 1805,Primary Communication Partners Pty Limited,Irina Kamychnikova,Account Director  ,No,""
 1805,Primary Communication Partners Pty Limited,Jennifer Muir,Chief Counsel,No,""
@@ -418,6 +429,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Peter Mahon,Chief Executive,No,""
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
+771,S Robertson and M Smith,Stephen Robertson,Partner,No,""
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Victoria Qiu,Director China,No,""
@@ -440,7 +452,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
-490,Staindl Strategic Pty Ltd,Jenny Beales,Executive Officer,Yes,March 2008
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
 66,Statecraft,Jackson Busse,Senior Consultant,No,""
 66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""

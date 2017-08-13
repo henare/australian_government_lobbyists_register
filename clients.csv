@@ -273,6 +273,12 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,AUSMEDIA PTY LTD
 157,Chikarovski & Associates Pty Ltd,Cyan Stone Pty Ltd
 157,Chikarovski & Associates Pty Ltd,BOYUAN HOLDINGS LIMITED
+658,Chris Drummer ,Rhonda Joy Deep
+658,Chris Drummer ,Australian College of Nursing 
+658,Chris Drummer ,Oceanic Multitrading Pty Ltd
+658,Chris Drummer ,Australian Mobile Health Clinics Association
+658,Chris Drummer ,Australian Mobile Dental Care
+658,Chris Drummer ,Smiles On Site Pty Ltd
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 113,CHRIS SCHACHT,PMB Defence
@@ -427,7 +433,6 @@ agency_id,agency_business_entity_name,client_name
 193,CRAKYL Pty Ltd,Owada International
 105,CreditWise Pty Ltd,Australian Finance Industry Assocation
 580,Crosby Textor Research Strategies Results,Corporate Health Services Pty Ltd
-580,Crosby Textor Research Strategies Results,Reconciliation Australia Limited
 580,Crosby Textor Research Strategies Results,Free TV Australia Ltd
 580,Crosby Textor Research Strategies Results,APR Energy 
 580,Crosby Textor Research Strategies Results,Northern Oil & Gas Australia Pty Limited 
@@ -436,6 +441,8 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Blunden & Associates Pty Ltd
 580,Crosby Textor Research Strategies Results,IndiIT Pty Ltd
 580,Crosby Textor Research Strategies Results,Beetson & Associates
+580,Crosby Textor Research Strategies Results,Santos Ltd
+580,Crosby Textor Research Strategies Results,Canopy Growth Corporation
 673,CT International and Corporate Advisory Pty Ltd,Parmalat Australia Pty Ltd 
 673,CT International and Corporate Advisory Pty Ltd,STOCKLAND CORPORATION LTD
 673,CT International and Corporate Advisory Pty Ltd,SNIIP (AUSTRALIA) PTY LTD
@@ -666,6 +673,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Western Sydney Rail Alliance
 59,GRACosway Pty Ltd,Ability First Australia Limited
 59,GRACosway Pty Ltd,Prospa Advance Pty Ltd
+59,GRACosway Pty Ltd,Aerocare Operations Pty Ltd 
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -832,6 +840,7 @@ agency_id,agency_business_entity_name,client_name
 223,Leonie M. Short,Australasian Council of Dental Schools 
 223,Leonie M. Short,Queensland Regional Training Networks (James Cook University).
 777,Lindsay Tanner,Australlian Unity
+1815,Liz Stephens Consulting,TechSydney
 566,London Agency Pty Ltd,Pathology Awareness Australia Ltd
 566,London Agency Pty Ltd,Asthma Australia
 566,London Agency Pty Ltd,Abbott Vascular
@@ -1065,6 +1074,7 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Compass Housing Services
 516,Premier State Consulting Pty Ltd,BlueCHP Limited
 516,Premier State Consulting Pty Ltd,Siemens Ltd
+1817,PremierNational Pty Ltd,Acciona
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1228,6 +1238,8 @@ agency_id,agency_business_entity_name,client_name
 669,Royce Communications Pty Ltd,Victoria University
 669,Royce Communications Pty Ltd,Salta Group
 669,Royce Communications Pty Ltd,Australian Live Export Council
+771,S Robertson and M Smith,Queensland Dairyfarmers' Organisation LImited
+771,S Robertson and M Smith,MPHG Saffair (Qld) Specialist Healthcare Management Pty Ltd
 685,Sanlaan Pty Ltd,Restaurant and Catering Australia
 685,Sanlaan Pty Ltd,Technology One
 685,Sanlaan Pty Ltd,Mckenzie Aged Care Group
@@ -1464,6 +1476,7 @@ agency_id,agency_business_entity_name,client_name
 420,The trustee for ECG Advisory Trust,Jemena
 420,The trustee for ECG Advisory Trust,BP Australia Pty Ltd
 420,The trustee for ECG Advisory Trust,TPG Capital
+420,The trustee for ECG Advisory Trust,Oaktree Capital
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 1809,The Trustee for Jackman Family Trust,The Big Issue
 1809,The Trustee for Jackman Family Trust,Home for Homes
