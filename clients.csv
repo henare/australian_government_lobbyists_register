@@ -25,9 +25,6 @@ agency_id,agency_business_entity_name,client_name
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Narda-MITEQ
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Communications 
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L3 Technologies
-745,AMG Consulting Services Pty Ltd,TexSkill
-745,AMG Consulting Services Pty Ltd,Vet Connections
-745,AMG Consulting Services Pty Ltd,Phoenix Compliance 
 415,APS Networking Pty Ltd,Clubs Australia
 415,APS Networking Pty Ltd,Clubs NSW
 588,Argos Consulting,Phoenix Compliance Management Pty Ltd
@@ -43,13 +40,13 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Hanwha Techwin
 63,AusAccess Unit Trust,Australian Indigenous Alpine Sports Foundation
 63,AusAccess Unit Trust,Merck Sharp and Dohme (MSD)
+63,AusAccess Unit Trust,DXC Technology
 747,Australian Industry Facilitation,Partech Systems Pty Ltd
 747,Australian Industry Facilitation,Leonardo SpA
 747,Australian Industry Facilitation,Leonanrdo MW Ltd
 45,Australian Public Affairs Limited Partnership,Access Testing Pty Ltd
 45,Australian Public Affairs Limited Partnership,Rirratingu Aboriginal Corporation
 45,Australian Public Affairs Limited Partnership,Bunuwal Investments Pty Ltd
-45,Australian Public Affairs Limited Partnership,The Tipping Point Group
 45,Australian Public Affairs Limited Partnership,Santos
 45,Australian Public Affairs Limited Partnership,Australian Vaping Advocacy Trade and Research Organisation
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
@@ -397,6 +394,64 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Evolve Housing Pty Ltd 
 453,Cornerstone Group Australia ,GEMA Group Pty Ltd 
 453,Cornerstone Group Australia ,THE VINCE & LEAH ANNETTA FAMILY TRUST
+160,Cotterell Jannette Suzanne,The Australian and New Zealand Association of Oral and Maxillofacial Surgeons
+160,Cotterell Jannette Suzanne,Private Cancer Physicians of Australia
+160,Cotterell Jannette Suzanne,Community Pharmacy Chemotherapy Services Group
+160,Cotterell Jannette Suzanne,National Association of Specialist Obstetricians and Gynaecologists
+160,Cotterell Jannette Suzanne,Australian Aged Care Association
+160,Cotterell Jannette Suzanne,Childcare Queensland
+160,Cotterell Jannette Suzanne,Royal Australian and New Zealand College of Radiologists
+160,Cotterell Jannette Suzanne,Professionals for Safe Cancer Treatment
+160,Cotterell Jannette Suzanne,Childcare NSW
+160,Cotterell Jannette Suzanne,Childcare WA
+160,Cotterell Jannette Suzanne,Generic Medicines Industry Association
+160,Cotterell Jannette Suzanne,Australian and International Pilots' Association
+160,Cotterell Jannette Suzanne,Pharmaceutical Industry Council
+160,Cotterell Jannette Suzanne,Australian Childcare Alliance
+160,Cotterell Jannette Suzanne,Australian Technology Network (of universities)
+160,Cotterell Jannette Suzanne,canSpeak Australia (pro bono)
+160,Cotterell Jannette Suzanne,Medical Oncology Group of Australia
+160,Cotterell Jannette Suzanne,Pharmaceutical Industry Council
+160,Cotterell Jannette Suzanne,Gas Energy Australia
+160,Cotterell Jannette Suzanne,Alphapharm
+160,Cotterell Jannette Suzanne,Childcare SA
+160,Cotterell Jannette Suzanne,Leukaemia Foundation
+160,Cotterell Jannette Suzanne,Australian Technology Network
+160,Cotterell Jannette Suzanne,Carers Australia
+160,Cotterell Jannette Suzanne,BioCSL Pty Ltd
+160,Cotterell Jannette Suzanne,HWL Ebsworth Lawyers
+160,Cotterell Jannette Suzanne,Merck Sharp & Dohme (Australia) Pty Limited
+160,Cotterell Jannette Suzanne,AHISA LIMITED
+160,Cotterell Jannette Suzanne,Fuji Xerox Australia Pty Ltd
+160,Cotterell Jannette Suzanne,Victorian Automobile Chamber of Commerce
+160,Cotterell Jannette Suzanne,Pharmacy Guild of Australia
+160,Cotterell Jannette Suzanne,The Bionics Institute
+160,Cotterell Jannette Suzanne,Genworth Mortgage Insurance Australia Limited
+160,Cotterell Jannette Suzanne,Melanoma Patients Australia
+160,Cotterell Jannette Suzanne,100 Lives Limited (An Armenian Anniversary Project) 
+160,Cotterell Jannette Suzanne,Adopt Change (Adoption Awareness Ltd) pro bono
+160,Cotterell Jannette Suzanne,State Grid Corporation of China
+160,Cotterell Jannette Suzanne,eBay International AG
+160,Cotterell Jannette Suzanne,PayPal Australia
+160,Cotterell Jannette Suzanne,LEO Pharma Pty Ltd
+160,Cotterell Jannette Suzanne,Lung Foundation Australia
+160,Cotterell Jannette Suzanne,Tandem College 
+160,Cotterell Jannette Suzanne,Leading Age Services Australia Ltd
+160,Cotterell Jannette Suzanne,Minderoo Foundation PTY LTD
+160,Cotterell Jannette Suzanne,Kimberly-Clark Australia Pty Ltd 
+160,Cotterell Jannette Suzanne,Catholic Health Australia
+160,Cotterell Jannette Suzanne,The Society of Hospital Pharmacists of Australia
+160,Cotterell Jannette Suzanne,Australian Private Hospitals Association
+160,Cotterell Jannette Suzanne,Baxalta Australia Pty Ltd
+160,Cotterell Jannette Suzanne,Sayyid Mohammad Taqi al-Modarresi
+160,Cotterell Jannette Suzanne,Australia Sino Agriculture 100 years Agriculture and Food Safety Partnership
+160,Cotterell Jannette Suzanne,Perinatal Anxiety and Depression Australia
+160,Cotterell Jannette Suzanne,Business Council of Australia
+160,Cotterell Jannette Suzanne,Bayer Pharmaceuticals
+160,Cotterell Jannette Suzanne,Consultative Group for International Agricultural Research (CGIAR)
+160,Cotterell Jannette Suzanne,Sleep Health Foundation
+160,Cotterell Jannette Suzanne,The Action Group of Companies
+160,Cotterell Jannette Suzanne,The Pew Charitable Trusts
 403,Covance Pty Ltd (Covance Market Access Services division),Janssen Cilag Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
 403,Covance Pty Ltd (Covance Market Access Services division),STALLERGENES Australia Pty Ltd
@@ -484,6 +539,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,Searoad Ferries
 360,Diplomacy Pty Limited,Colac Otway Shire Council
 360,Diplomacy Pty Limited,MHG Asia Pacific
+360,Diplomacy Pty Limited,City of Greater Geelong
 454,Discourse Consulting Pty Ltd,ADA
 454,Discourse Consulting Pty Ltd,NDS
 454,Discourse Consulting Pty Ltd,Life withour Barriers
@@ -710,6 +766,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Bankwest
 96,Hawker Britton Group Pty Ltd,Mid West Infrastructure Group
 96,Hawker Britton Group Pty Ltd,APT Management Services Pty Ltd
+96,Hawker Britton Group Pty Ltd,Pharmacy Guild of Australia
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -773,6 +830,7 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,PANDA - Perinatal Anxiety & Depression Australia Inc ABN 64 063 647 374 
 319,Jo Scard Pty Ltd,Australian International Marine Export Group Limited ABN 94 082 384 030
 319,Jo Scard Pty Ltd,Sliced Tech ABN 53 165 997  008
+319,Jo Scard Pty Ltd,The Benevolent Society ABN 95 084 695 045 
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
@@ -787,6 +845,10 @@ agency_id,agency_business_entity_name,client_name
 241,John Cook,Learning and Life Centre
 241,John Cook,North Melbourne Football Club
 241,John Cook,Casino Management International
+1813,John Fetter Group Pty Ltd,Acer Computer Australia
+1813,John Fetter Group Pty Ltd,Adshel Outdoor Furniture
+1813,John Fetter Group Pty Ltd,Century Plaza Trading
+1813,John Fetter Group Pty Ltd,Gippland Water
 78,John O'Connor and Associates Pty Ltd,ROH Automotive
 78,John O'Connor and Associates Pty Ltd,CSBP Limited
 78,John O'Connor and Associates Pty Ltd,Orica Australia Pty Ltd
@@ -979,20 +1041,13 @@ agency_id,agency_business_entity_name,client_name
 766,Next Level Strategic Services Pty Ltd,Ardent Leisure Group
 766,Next Level Strategic Services Pty Ltd,Betway
 766,Next Level Strategic Services Pty Ltd,Australian Super
-766,Next Level Strategic Services Pty Ltd,BHP
 766,Next Level Strategic Services Pty Ltd,Brogent Technologies
 766,Next Level Strategic Services Pty Ltd,Broadspectrum
 766,Next Level Strategic Services Pty Ltd,Costa Group
 766,Next Level Strategic Services Pty Ltd,Consolidated Properties
 766,Next Level Strategic Services Pty Ltd,ITV
 766,Next Level Strategic Services Pty Ltd,Gas Energy Australia
-766,Next Level Strategic Services Pty Ltd,Pure Projects
-766,Next Level Strategic Services Pty Ltd,Remserv
-766,Next Level Strategic Services Pty Ltd,Shell
 766,Next Level Strategic Services Pty Ltd,QER
-766,Next Level Strategic Services Pty Ltd,Queensland Resources Council
-766,Next Level Strategic Services Pty Ltd,Westpac
-766,Next Level Strategic Services Pty Ltd,QRE
 1798,Nexus Asia Pacific Pty Ltd,H and R Block
 1798,Nexus Asia Pacific Pty Ltd,Booking.com
 1798,Nexus Asia Pacific Pty Ltd,Australian Airports Association
@@ -1239,7 +1294,7 @@ agency_id,agency_business_entity_name,client_name
 669,Royce Communications Pty Ltd,Salta Group
 669,Royce Communications Pty Ltd,Australian Live Export Council
 771,S Robertson and M Smith,Queensland Dairyfarmers' Organisation LImited
-771,S Robertson and M Smith,MPHG Saffair (Qld) Specialist Healthcare Management Pty Ltd
+771,S Robertson and M Smith,Transition Energy Corporation Pty Ltd 
 685,Sanlaan Pty Ltd,Restaurant and Catering Australia
 685,Sanlaan Pty Ltd,Technology One
 685,Sanlaan Pty Ltd,Mckenzie Aged Care Group
@@ -1350,6 +1405,7 @@ agency_id,agency_business_entity_name,client_name
 753,Strategic Political Counsel Pty Ltd,Australian Lotteries and Newsagents Association
 753,Strategic Political Counsel Pty Ltd,JAR Aerospace
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
+528,SYSTECH Consultants Pty Ltd,HENSOLDT Sensors GmbH
 235,The Agenda Group Pty Ltd,Epworth Health Care
 235,The Agenda Group Pty Ltd,Principals Australia Insitutute
 9,The Canberra Institute,Emirates Trading Australia
@@ -1670,3 +1726,4 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
 737,WORD TUCKER PTY LTD,ENPHASE ENERGY
+1819,Zennex Pty Ltd,Haus Holdings
