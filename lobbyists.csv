@@ -74,7 +74,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 743,CETE Consulting Pty Ltd,Cameron Thomson,Managing Director,Yes,June 1995
-265,CGP solutions Ltd,Paddy Costanzo,Principal & Director,Yes,May 1992
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,Yes,March 2003
 157,Chikarovski & Associates Pty Ltd,Emily Young,Lobbyist,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
@@ -123,13 +122,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
 580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Director Campaign Communications,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
+580,Crosby Textor Research Strategies Results,George Brougham,Campaign Consultant,No,""
 580,Crosby Textor Research Strategies Results,Giorgia Christmas,Consultant,Yes,October 2015
 580,Crosby Textor Research Strategies Results,Yaron Finkelstein,CEO Australasia ,Yes,February 2006
 580,Crosby Textor Research Strategies Results,Justin de Domenico ,Senior Consultant,Yes,October 2016
 580,Crosby Textor Research Strategies Results,Talia Katz,Consultant ,No,""
 580,Crosby Textor Research Strategies Results,Molly Hughes ,Consultant ,Yes,August 2016
 580,Crosby Textor Research Strategies Results,Renee Shingles ,Consultant,No,""
-673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Director,No,""
+673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Chief Operating Officer,No,""
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
 153,Cultural Consulting,Dr Robert Goodfellow,Principal Consultant,No,""
@@ -218,7 +218,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Brent Crockford,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
-59,GRACosway Pty Ltd,Duncan Thomas McDonald,Research and Policy Analyst,No,""
+59,GRACosway Pty Ltd,Duncan Thomas McDonald,Associate,No,""
 59,GRACosway Pty Ltd,Jinesh Patel,Director,No,""
 59,GRACosway Pty Ltd,Liam Nilon,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Erin Germantis,Research and Policy Analyst,No,""
@@ -227,6 +227,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Leigh Francis Moran,Research and Policy Analyst,No,""
 59,GRACosway Pty Ltd,Sharon Anne Reid,Associate Director Marketing and Research,No,""
 59,GRACosway Pty Ltd,Vanessa Vartto,Director,No,""
+59,GRACosway Pty Ltd,Andrew Cox,Director,Yes,December 2007
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
@@ -367,8 +368,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
 318,Porter Novelli Australia Pty Ltd,Peter Kent,Chief Executive,No,""
 318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Managing Partner,No,""
-318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Partner,No,""
-318,Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,General Manager,No,""
+318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Director Melbourne,No,""
+318,Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,Managing Director Sydney,No,""
 318,Porter Novelli Australia Pty Ltd,Jennifer Hill,Senior consultant,Yes,August 2014
 1812,Preferment Associates ,John Thomas Campbell Lake,principal,Yes,November 2009
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
@@ -432,6 +433,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Peter Mahon,Chief Executive,No,""
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
+771,S Robertson and M Smith,Michael Smith,Partner,No,""
 771,S Robertson and M Smith,Stephen Robertson,Partner,No,""
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
