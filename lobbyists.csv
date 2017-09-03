@@ -6,6 +6,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
 104,Alkar Pty Ltd,Allan King,Director,No,""
 788,All Points North Advisory Pty Ltd,Ewen Thomas Jones,Managing Director,Yes,July 2017
+1820,ALPHA Consult Pty Ltd,LIZA-JAYNE LOCH,CEO,No,""
 671,ALSADA TECHNOLOGY PTY. LIMITED ,ALAN FUNG,DIRECTOR,No,""
 745,AMG Consulting Services Pty Ltd,Colin Michael Warnock,Director,No,""
 415,APS Networking Pty Ltd,Anthony Stewart,Director,Yes,March 2011
@@ -161,13 +162,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 31,Endeavour Consulting Group Pty Ltd,Fiona Landis ,Associate Partner,Yes,April 2010
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
-71,Essential Media Communications Pty Ltd,Olivia Greentree,Senior Account Manager,Yes,February 2013
+71,Essential Media Communications Pty Ltd,Olivia Greentree,Associate Director ,Yes,February 2013
 71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
-71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Communications Consultant,No,""
-71,Essential Media Communications Pty Ltd,Peter Stahel,Client Manager,No,""
+71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Senior Account Manager,No,""
+71,Essential Media Communications Pty Ltd,Peter Stahel,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Siobhan Lyttle,Communications Consultant ,No,""
-71,Essential Media Communications Pty Ltd,Darren Rodrigo,Account Manager,No,""
+71,Essential Media Communications Pty Ltd,Darren Rodrigo,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jenny Stokes,Account Manager,No,""
+71,Essential Media Communications Pty Ltd,Luke Brown,Associate Director,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
@@ -176,6 +178,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
 214,FIPRA Australia Pty Limited,Shannan Manton,Account Executive,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director Five Corners Pty Ltd,No,""
+202,Fowlstone Communications,Geoff Fowlstone,Principal ,No,""
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
 484,FPL Advisory Pty Ltd,Susanne Porter,Operations and Digital Communications Manager,No,""
 484,FPL Advisory Pty Ltd,Sam Perkins,Policy Analyst,No,""
@@ -558,7 +561,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
 584,Willard Public Affairs Pty Limited,Mary Andrew,Consultant,No,""
-584,Willard Public Affairs Pty Limited,Rosemary Apps,Office Manager,No,""
+584,Willard Public Affairs Pty Limited,Kathryn Yule,Office Manager,No,""
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 737,WORD TUCKER PTY LTD,LESLIE GABRIEL WONG,PRINCIPAL,No,""
 1819,Zennex Pty Ltd,Wilhelm Harnisch,Managing Director,No,""

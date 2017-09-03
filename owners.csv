@@ -9,6 +9,7 @@ agency_id,agency_business_entity_name,owner_name
 104,Alkar Pty Ltd,Karen King
 788,All Points North Advisory Pty Ltd,Ewen Thomas Jones 
 788,All Points North Advisory Pty Ltd,Linda Louise Jones
+1820,ALPHA Consult Pty Ltd,LIZA-JAYNE LOCH
 671,ALSADA TECHNOLOGY PTY. LIMITED ,ALAN FUNG
 745,AMG Consulting Services Pty Ltd,Colin Michael Warnock
 415,APS Networking Pty Ltd,Anthony Stewart
@@ -66,7 +67,6 @@ agency_id,agency_business_entity_name,owner_name
 764,Christmas Jalili Pty Ltd,Damon Jalili
 215,"Clark, Kerren G",Kerren Clark
 1808,Clean Energy Strategies Pty Ltd,Kristina Photios
-1808,Clean Energy Strategies Pty Ltd,Michael Photios
 475,Clifton Consulting Services Pty Ltd,John Ridley
 79,CMAX Communications Pty Ltd,Tara Taubenschlag
 79,CMAX Communications Pty Ltd,Christian Taubenschlag
@@ -126,6 +126,8 @@ agency_id,agency_business_entity_name,owner_name
 214,FIPRA Australia Pty Limited,Stephen Coutts Pty Ltd
 295,Five Corners Pty Ltd,Deborah Bell
 295,Five Corners Pty Ltd,Brad Sheehan
+202,Fowlstone Communications,Janene Fowlstone
+202,Fowlstone Communications,Geoff Fowlstone
 484,FPL Advisory Pty Ltd,Steve Cusworth
 738,Freight  Trade Alliance (FTA) Pty Ltd,Paul David Zalai
 738,Freight  Trade Alliance (FTA) Pty Ltd,Caroline Zalai

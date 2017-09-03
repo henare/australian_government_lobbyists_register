@@ -22,6 +22,7 @@ agency_id,agency_business_entity_name,client_name
 788,All Points North Advisory Pty Ltd,RMS Construction
 788,All Points North Advisory Pty Ltd,Civil Plus
 788,All Points North Advisory Pty Ltd,Pacific Blue Capital
+1820,ALPHA Consult Pty Ltd,International Franchise Association
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Narda-MITEQ
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L-3 Communications 
 671,ALSADA TECHNOLOGY PTY. LIMITED ,L3 Technologies
@@ -300,6 +301,7 @@ agency_id,agency_business_entity_name,client_name
 1808,Clean Energy Strategies Pty Ltd,Siemens Ltd
 1808,Clean Energy Strategies Pty Ltd,Future Superannuation Holdings Pty Ltd
 1808,Clean Energy Strategies Pty Ltd,Acciona
+1808,Clean Energy Strategies Pty Ltd,Lighting and Energy Conservation Australia 
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
@@ -589,6 +591,8 @@ agency_id,agency_business_entity_name,client_name
 71,Essential Media Communications Pty Ltd,Shop Distributive & Allied Employees Association Nat Branch
 71,Essential Media Communications Pty Ltd,UFU of Australia - Aviation Branch
 71,Essential Media Communications Pty Ltd, United Firefighters' Union of Australia-Victorian Branch
+71,Essential Media Communications Pty Ltd,Wattwatchers
+71,Essential Media Communications Pty Ltd,Lyon Solar 
 564,Etched Communications Pty Ltd,Nestle Australia
 564,Etched Communications Pty Ltd,Achieve Australia
 564,Etched Communications Pty Ltd, Interface Aust Pty Limited
@@ -608,6 +612,8 @@ agency_id,agency_business_entity_name,client_name
 214,FIPRA Australia Pty Limited,Cerus Inc
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
 295,Five Corners Pty Ltd,Glernn Moore Executive Director Aurora Bioscience PO Box 946 Baulkham Hills NSW 2153
+202,Fowlstone Communications,Domacom Pty Limited
+202,Fowlstone Communications,Budvalt Pty Ltd
 484,FPL Advisory Pty Ltd,Building Designers Association of Victoria
 484,FPL Advisory Pty Ltd,GlaxoSmithKline
 484,FPL Advisory Pty Ltd,Mars Australia Pty Ltd
@@ -673,6 +679,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Finder Exploration Pty Ltd 
 122,GRA Everingham Pty Ltd,Perth Radiological Clinic
 122,GRA Everingham Pty Ltd,Decmil Group Limited
+122,GRA Everingham Pty Ltd,Safe Watch Global 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -1053,6 +1060,7 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Zenex Pharmaceuticals
 1798,Nexus Asia Pacific Pty Ltd,Australian Food and Grocery Council
 1798,Nexus Asia Pacific Pty Ltd,Pathology Australia
+1798,Nexus Asia Pacific Pty Ltd,Nevro Medical Pty Ltd
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Merck Serono
 86,Ogilvy PR Health,Genzyme
@@ -1507,6 +1515,8 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,Australian Timeshare and Holiday Ownership Council
 698,The Trustee for Arthur Trust,FrontierDC Ltd
 698,The Trustee for Arthur Trust,Friendly Societies of Australia 
+698,The Trustee for Arthur Trust,The Communications Council
+698,The Trustee for Arthur Trust,Media Federation of Australia
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
@@ -1516,7 +1526,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Anheuser-Busch InBev
 145,The Trustee for Bespoke Business Trust,Network Ten Limited
 145,The Trustee for Bespoke Business Trust,Liberty House Group
-145,The Trustee for Bespoke Business Trust,Careers Australia Group Limited (Careers Australia)
 145,The Trustee for Bespoke Business Trust,ANZ The Australia and New Zealand Banking Group Limited
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
