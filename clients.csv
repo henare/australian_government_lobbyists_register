@@ -42,9 +42,17 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Australian Indigenous Alpine Sports Foundation
 63,AusAccess Unit Trust,Merck Sharp and Dohme (MSD)
 63,AusAccess Unit Trust,DXC Technology
+63,AusAccess Unit Trust,Vault Systems
 747,Australian Industry Facilitation,Partech Systems Pty Ltd
 747,Australian Industry Facilitation,Leonardo SpA
 747,Australian Industry Facilitation,Leonanrdo MW Ltd
+234,Australian Project Developments Pty. Ltd.,Cape York Sustainable Futures
+234,Australian Project Developments Pty. Ltd.,HydroSun Ltd
+234,Australian Project Developments Pty. Ltd.,Adelaide City Council
+234,Australian Project Developments Pty. Ltd.,Alexandrina Council
+234,Australian Project Developments Pty. Ltd.,Wakefield Group
+234,Australian Project Developments Pty. Ltd.,Canberra Airport
+234,Australian Project Developments Pty. Ltd.,AustraliaNZ Regional Association Science International
 45,Australian Public Affairs Limited Partnership,Access Testing Pty Ltd
 45,Australian Public Affairs Limited Partnership,Rirratingu Aboriginal Corporation
 45,Australian Public Affairs Limited Partnership,Bunuwal Investments Pty Ltd
@@ -154,6 +162,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,NSW Greyhound Breeders Owners & Trainers Association
 338,Barton Deakin ,Carlton Football Club
 338,Barton Deakin ,Leonardo-Finmeccanica S.p.a.
+338,Barton Deakin ,International Council of Mining and Metals
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -487,7 +496,6 @@ agency_id,agency_business_entity_name,client_name
 193,CRAKYL Pty Ltd,Owada International
 105,CreditWise Pty Ltd,Australian Finance Industry Assocation
 580,Crosby Textor Research Strategies Results,Corporate Health Services Pty Ltd
-580,Crosby Textor Research Strategies Results,Free TV Australia Ltd
 580,Crosby Textor Research Strategies Results,APR Energy 
 580,Crosby Textor Research Strategies Results,Northern Oil & Gas Australia Pty Limited 
 580,Crosby Textor Research Strategies Results,Elliott Advisers (HK) Limited
@@ -593,6 +601,8 @@ agency_id,agency_business_entity_name,client_name
 71,Essential Media Communications Pty Ltd, United Firefighters' Union of Australia-Victorian Branch
 71,Essential Media Communications Pty Ltd,Wattwatchers
 71,Essential Media Communications Pty Ltd,Lyon Solar 
+71,Essential Media Communications Pty Ltd,Lyon Infrastructure Investments 1 Pty Ltd
+71,Essential Media Communications Pty Ltd,The Trustee for Lyon Battery Storage Trust
 564,Etched Communications Pty Ltd,Nestle Australia
 564,Etched Communications Pty Ltd,Achieve Australia
 564,Etched Communications Pty Ltd, Interface Aust Pty Limited
@@ -603,6 +613,11 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd,Acer Computers Australia Pty Ltd
 776,Extended Lifestyle Int. Pty Ltd,Shearwater Scenic Villas
 776,Extended Lifestyle Int. Pty Ltd,Parkland Estate
+324,FCC Partnership Pty Ltd,Chi - X
+324,FCC Partnership Pty Ltd,Morgan Stanley
+324,FCC Partnership Pty Ltd,IG Markets
+324,FCC Partnership Pty Ltd,CFD and FX Forum
+324,FCC Partnership Pty Ltd,Sydney Stock Exchange
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Australia
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Limited USA
 214,FIPRA Australia Pty Limited,FIPRA International UK
@@ -680,6 +695,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Perth Radiological Clinic
 122,GRA Everingham Pty Ltd,Decmil Group Limited
 122,GRA Everingham Pty Ltd,Safe Watch Global 
+122,GRA Everingham Pty Ltd,Redimed
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -735,6 +751,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Ability First Australia Limited
 59,GRACosway Pty Ltd,Prospa Advance Pty Ltd
 59,GRACosway Pty Ltd,Aerocare Operations Pty Ltd 
+59,GRACosway Pty Ltd,CBS Corporation 
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -907,7 +924,8 @@ agency_id,agency_business_entity_name,client_name
 223,Leonie M. Short,Australasian Council of Dental Schools 
 223,Leonie M. Short,Queensland Regional Training Networks (James Cook University).
 777,Lindsay Tanner,Australlian Unity
-1815,Liz Stephens Consulting,TechSydney
+273,LK Creative as trustee for LK Trust,EML
+273,LK Creative as trustee for LK Trust,Agersens
 566,London Agency Pty Ltd,Pathology Awareness Australia Ltd
 566,London Agency Pty Ltd,Asthma Australia
 566,London Agency Pty Ltd,Abbott Vascular
@@ -1039,6 +1057,8 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Murray Darling Medical School
 565,Newgate Communications Pty Limited,Dexus Holdings Pty Limited
 565,Newgate Communications Pty Limited,Google Australia
+565,Newgate Communications Pty Limited,Capital Recycling Solutions
+565,Newgate Communications Pty Limited,Access Recycling
 766,Next Level Strategic Services Pty Ltd,Adani Mining Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
 766,Next Level Strategic Services Pty Ltd,QRE Pty Ltd
@@ -1207,6 +1227,8 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Plenary Group Holdings Pty Ltd
 127,PRX Unit Trust,Edge Loyalty Systems Pty Ltd 
 127,PRX Unit Trust,aSpace Recreation
+127,PRX Unit Trust,Social Traders
+127,PRX Unit Trust,KHQ Lawyers
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1244,10 +1266,10 @@ agency_id,agency_business_entity_name,client_name
 98,Res Publica Pty Ltd,Cosmetic Physicians College of Australasia
 98,Res Publica Pty Ltd,Mojo Power
 98,Res Publica Pty Ltd,Pepsi Co.
+98,Res Publica Pty Ltd,Woolworths 
 497,Resolution Junction,Wavlink Incorporated
 497,Resolution Junction,Monash Mens Shed
 497,Resolution Junction,Richmond Cricket Club Inc
-587,Richard Gilbert Corporate Advisory Pty Ltd,Rule of Law Institute of Australia Inc
 587,Richard Gilbert Corporate Advisory Pty Ltd,National Australia Bank Limited
 35,Richardson Coutts,Merck Serono Australia Pty Ltd
 35,Richardson Coutts,Intergraph
@@ -1414,6 +1436,7 @@ agency_id,agency_business_entity_name,client_name
 753,Strategic Political Counsel Pty Ltd,JAR Aerospace
 753,Strategic Political Counsel Pty Ltd,Plateau View Aged Care Pty Ltd
 753,Strategic Political Counsel Pty Ltd,AMGEN
+753,Strategic Political Counsel Pty Ltd,FSHD Global Research Foundation Ltd
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
 528,SYSTECH Consultants Pty Ltd,HENSOLDT Sensors GmbH
 235,The Agenda Group Pty Ltd,Epworth Health Care

@@ -16,6 +16,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 770,Asys Consulting,Matt Stevens,Director,No,""
 63,AusAccess Unit Trust,Mark Ridgway,Chairman,Yes,May 1994
 747,Australian Industry Facilitation,David Mitchell,Chief Executive Officer,Yes,August 2005
+234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
 45,Australian Public Affairs Limited Partnership,Michael Gleeson,Senior Consultant,No,""
 45,Australian Public Affairs Limited Partnership,Nick Trainor,Consultant,Yes,August 2016
 45,Australian Public Affairs Limited Partnership,Armon Hicks,Director,No,""
@@ -123,8 +124,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
 580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Director Campaign Communications,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
-580,Crosby Textor Research Strategies Results,George Brougham,Campaign Consultant,No,""
-580,Crosby Textor Research Strategies Results,Giorgia Christmas,Consultant,Yes,October 2015
+580,Crosby Textor Research Strategies Results,George Brougham,Consultant,No,""
+580,Crosby Textor Research Strategies Results,Giorgia Christmas,Senior Consultant,Yes,October 2015
 580,Crosby Textor Research Strategies Results,Yaron Finkelstein,CEO Australasia ,Yes,February 2006
 580,Crosby Textor Research Strategies Results,Justin de Domenico ,Senior Consultant,Yes,October 2016
 580,Crosby Textor Research Strategies Results,Talia Katz,Consultant ,No,""
@@ -170,10 +171,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Darren Rodrigo,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jenny Stokes,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Luke Brown,Associate Director,No,""
+71,Essential Media Communications Pty Ltd,Alana Mew ,Media Advisor,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
 776,Extended Lifestyle Int. Pty Ltd,Peter Gregory Gesling,Director,Yes,September 2016
+324,FCC Partnership Pty Ltd,Hugh Fraser,Managing Director,No,""
 214,FIPRA Australia Pty Limited,John Richardson,Principal,Yes,May 1995
 214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
 214,FIPRA Australia Pty Limited,Shannan Manton,Account Executive,No,""
@@ -213,6 +216,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 122,GRA Everingham Pty Ltd,Hon Eric Ripper,Chairman,No,""
 122,GRA Everingham Pty Ltd,Tim Fettis,Associate,No,""
 122,GRA Everingham Pty Ltd,Patrick Fagan,Associate Director ,Yes,September 2015
+122,GRA Everingham Pty Ltd,Elizabeth Nedela Campbell,Associate,Yes,August 2013
 59,GRACosway Pty Ltd,Richard Victor King,Partner,Yes,February 2000
 59,GRACosway Pty Ltd,Alexander Cramb,Partner,Yes,January 2008
 59,GRACosway Pty Ltd,Paolo Giovanni Bini,Partner,Yes,November 1995
@@ -282,7 +286,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
 777,Lindsay Tanner,Lindsay James Tanner,sole trader,Yes,September 2010
-1815,Liz Stephens Consulting,Elizabeth Stephens,CEO,No,""
+273,LK Creative as trustee for LK Trust,Llewellyn Rees,Director,Yes,January 2007
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Annette Stenhouse,Account Manager,No,""
 566,London Agency Pty Ltd,Sophie Herlihy,Account Manager,No,""
