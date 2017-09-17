@@ -257,6 +257,18 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Global Silicones Council
 556,Capital Hill Advisory Pty Ltd,Philips Electronics Australia Limited
 556,Capital Hill Advisory Pty Ltd,Swisse Wellness
+558,Catherine Emma Rocchi,Farming Champions
+558,Catherine Emma Rocchi,H2OX
+558,Catherine Emma Rocchi,Leadership WA
+558,Catherine Emma Rocchi,Linkwest
+558,Catherine Emma Rocchi,Australian Vanadium Limited
+558,Catherine Emma Rocchi,urbi
+558,Catherine Emma Rocchi,Captivate on Hold
+558,Catherine Emma Rocchi,Shire of Dandaragan
+558,Catherine Emma Rocchi,VSUN Energy
+558,Catherine Emma Rocchi,Energy and Mines Australia Summit
+558,Catherine Emma Rocchi,Rockcliffe Winery
+558,Catherine Emma Rocchi,Veritas
 601,Catherine McGovern,Australasian College of Podiatric Surgeons
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
 601,Catherine McGovern,Urological Society of Australia and New Zealand
@@ -290,6 +302,7 @@ agency_id,agency_business_entity_name,client_name
 113,CHRIS SCHACHT,Janesce Pty Ltd
 113,CHRIS SCHACHT,Leigh Creek Energy Ltd
 113,CHRIS SCHACHT,Paratoo Mines Pty Ltd
+113,CHRIS SCHACHT,AMS Filtration Pty Ltd
 764,Christmas Jalili Pty Ltd,Ultraspeed Australia
 764,Christmas Jalili Pty Ltd,The George Institute
 764,Christmas Jalili Pty Ltd,Veriluma
@@ -786,7 +799,6 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Woolworths
 96,Hawker Britton Group Pty Ltd,Commonwealth Bank
 96,Hawker Britton Group Pty Ltd,Bankwest
-96,Hawker Britton Group Pty Ltd,Mid West Infrastructure Group
 96,Hawker Britton Group Pty Ltd,APT Management Services Pty Ltd
 96,Hawker Britton Group Pty Ltd,Pharmacy Guild of Australia
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
@@ -1059,6 +1071,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Google Australia
 565,Newgate Communications Pty Limited,Capital Recycling Solutions
 565,Newgate Communications Pty Limited,Access Recycling
+565,Newgate Communications Pty Limited,QANTAS
 766,Next Level Strategic Services Pty Ltd,Adani Mining Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
 766,Next Level Strategic Services Pty Ltd,QRE Pty Ltd
@@ -1081,6 +1094,8 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Australian Food and Grocery Council
 1798,Nexus Asia Pacific Pty Ltd,Pathology Australia
 1798,Nexus Asia Pacific Pty Ltd,Nevro Medical Pty Ltd
+1798,Nexus Asia Pacific Pty Ltd,Osteoporosis Australia
+1798,Nexus Asia Pacific Pty Ltd,Complete Office Supplies
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Merck Serono
 86,Ogilvy PR Health,Genzyme
@@ -1158,6 +1173,8 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,BlueCHP Limited
 516,Premier State Consulting Pty Ltd,Siemens Ltd
 1817,PremierNational Pty Ltd,Acciona
+1817,PremierNational Pty Ltd,New Horizons Enterprises Ltd
+1817,PremierNational Pty Ltd,AA Crown Holdings Pty Ltd
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1455,6 +1472,7 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Israel Electric Corporation Ltd
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Kikki K
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Market Eye Pty Ltd
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Health Insurance Fund of Macedonia
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
@@ -1625,6 +1643,7 @@ agency_id,agency_business_entity_name,client_name
 772,Tokua Pty Ltd,Interclean Pty Ltd
 718,Trustee of Kerans Family Trust,Motorola Solutions Inc.
 718,Trustee of Kerans Family Trust,Facebook Inc.
+718,Trustee of Kerans Family Trust,ViaSat Inc.
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
 680,TSB Advisory Pty Ltd,UniSuper Management Pty Ltd
