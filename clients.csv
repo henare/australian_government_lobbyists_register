@@ -163,6 +163,10 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Carlton Football Club
 338,Barton Deakin ,Leonardo-Finmeccanica S.p.a.
 338,Barton Deakin ,International Council of Mining and Metals
+338,Barton Deakin ,OMERS Private Equity
+338,Barton Deakin ,Dow Chemicals
+338,Barton Deakin ,Predicate Partners
+338,Barton Deakin ,Silk Road Commercial Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -765,6 +769,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Prospa Advance Pty Ltd
 59,GRACosway Pty Ltd,Aerocare Operations Pty Ltd 
 59,GRACosway Pty Ltd,CBS Corporation 
+59,GRACosway Pty Ltd,BHP
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -1438,6 +1443,9 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,PreviousNext
 66,Statecraft,Grifols
 66,Statecraft,Third Sector Strategy Group
+385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
+385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
+385,Strategic Partnership Group (Aust) Pty Limited,Linfox Pty Limited
 769,Strategic Partnership Group Pty Ltd,Fertility Society of Australia IVF Directors Group
 769,Strategic Partnership Group Pty Ltd,Linfox Australia Limited
 753,Strategic Political Counsel Pty Ltd,Nicoventures Australia Pty Ltd
