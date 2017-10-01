@@ -1,7 +1,6 @@
 agency_id,agency_business_entity_name,lobbyist_name,position,former_government_representative,cessation_date
 271,A D Evers-Buckland,Alan Evers-Buckland,Owner / Former Adviser,Yes,October 2007
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Paul Keen,Managing Director,No,""
-1810,Absolute Certified Equipment Appraisals  Business Pty Ltd,Paul Anthony Nielsen,Managing Director,No,""
 746,Advisory Street Pty Ltd,Taleen Shamlian,Managing Director,Yes,September 2003
 36,Aegis Consulting Group Pty Ltd,Vishal Beri,Managing Director,Yes,July 1997
 104,Alkar Pty Ltd,Allan King,Director,No,""
@@ -22,6 +21,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 45,Australian Public Affairs Limited Partnership,Armon Hicks,Director,No,""
 45,Australian Public Affairs Limited Partnership,Matthew Snelson,Senior Consultant,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
+1810,Avantia Corporate Services Pty Ltd,Paul Anthony Nielsen,Managing Director,No,""
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack,Director,Yes,June 2001
 139,Bartholomew Quinn and Associates,David Quinn,Managing Director,No,""
 338,Barton Deakin ,Grahame Morris,Federal Director ,Yes,September 1997
@@ -105,7 +105,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 142,Consilium International Group Pty Ltd,Michael Zarew,Managing Director,No,""
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,No,""
-453,Cornerstone Group Australia ,Dr. John Tierney OAM ,Special Counsel ,Yes,April 2005
 453,Cornerstone Group Australia ,Brigid Meney ,Associate Policy and Strategy ,Yes,September 2016
 453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,No,""
 160,Cotterell Jannette Suzanne,Serena Beaumont Owles,Senior Consultant,No,""
@@ -124,7 +123,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
-580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Director Campaign Communications,No,""
+580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Director ,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
 580,Crosby Textor Research Strategies Results,George Brougham,Consultant,No,""
 580,Crosby Textor Research Strategies Results,Giorgia Christmas,Senior Consultant,Yes,October 2015
@@ -169,7 +168,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
 71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Peter Stahel,Senior Account Manager,No,""
-71,Essential Media Communications Pty Ltd,Siobhan Lyttle,Communications Consultant ,No,""
 71,Essential Media Communications Pty Ltd,Darren Rodrigo,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jenny Stokes,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Luke Brown,Associate Director,No,""
@@ -273,7 +271,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,Thomas Michael O'Meara,Consultant,No,""
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
-773,Joint Venture Consulting Group P/L,Hon Ljiljanna Ravlich,Director,Yes,March 2015
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
 115,KPMG,Stefano Moritsch,Senior Consultant,No,""
@@ -301,9 +298,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1811,Luz Ardiden Consulting,Andrew Coombe,Director,Yes,November 2007
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
-119,Macquarie Group Limited,Kristine Neill,Executive Director Corporate Communications  Investor Relations,No,""
-119,Macquarie Group Limited,Navleen Prasad,Division Director Corporate Communications and Investor Relations Division,No,""
-119,Macquarie Group Limited,Marina Polita,Senior Manager Corporate Communications and Investor Relations Division,No,""
+119,Macquarie Group Limited,Navleen Prasad,Division Director Corporate Communications  Investor Relations,No,""
+119,Macquarie Group Limited,Marina Polita,Senior Manager Corporate Communications  Investor Relations,No,""
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd,Managing Director,Yes,March 1996
 245,Marketing Elements Pty Ltd,Cecelia Haddad,Director,No,""
 425,Maser Defence Pty Ltd,Graham Elliott,General Manager,No,""
@@ -373,6 +369,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,Yes,December 2012
 72,Parker & Partners Pty Ltd,Nicole Quinn,Director,Yes,December 2009
 72,Parker & Partners Pty Ltd,Leon Beswick ,Group Managing Director ,No,""
+1821,People First HR Solutions Pty Ltd,Rohan Robertson,Director,No,""
 736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
 318,Porter Novelli Australia Pty Ltd,Peter Kent,Chief Executive,No,""
@@ -463,6 +460,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
 82,Socom Pty Ltd,Kath Christie,Senior Consultant,No,""
 82,Socom Pty Ltd,Isaac Ransom,Senior Consultant,No,""
+82,Socom Pty Ltd,Zoe Forbes,Consultant ,No,""
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
