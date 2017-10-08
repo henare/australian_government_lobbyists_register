@@ -143,7 +143,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 16,Day & Hodge Associates Pty Ltd,Adrienne Day-Hodge,Director,No,""
 360,Diplomacy Pty Limited,Adam Kilgour,Managing Director,Yes,July 1993
 360,Diplomacy Pty Limited,Josh Williams,Director,No,""
-360,Diplomacy Pty Limited,Anthony Reed,Associate Director,No,""
 454,Discourse Consulting Pty Ltd,Belinda Neal,Director,Yes,August 2010
 454,Discourse Consulting Pty Ltd,John Della Bosca,Director,No,""
 624,Donna Edman,Donna Therese Edman,CEO,Yes,March 1999
@@ -264,6 +263,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 319,Jo Scard Pty Ltd,Alys Clare Wemyss Francis,Associate,No,""
 319,Jo Scard Pty Ltd,RosemarySpry,Consultant,Yes,December 2007
 319,Jo Scard Pty Ltd,Kristie Kocanov,Administration Officer,Yes,October 2012
+319,Jo Scard Pty Ltd,Kaela Good ,Associate,No,""
+319,Jo Scard Pty Ltd,Nicolle White,Associate,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 241,John Cook,Dr John Cook,Principal,Yes,April 2009
@@ -570,4 +571,5 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Kathryn Yule,Office Manager,No,""
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 737,WORD TUCKER PTY LTD,LESLIE GABRIEL WONG,PRINCIPAL,No,""
+641,Wurley Group Pty Ltd,Sarah Bernice Griffin,Principal,No,""
 1819,Zennex Pty Ltd,Wilhelm Harnisch,Managing Director,No,""

@@ -876,6 +876,8 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Sliced Tech ABN 53 165 997  008
 319,Jo Scard Pty Ltd,The Benevolent Society ABN 95 084 695 045 
 319,Jo Scard Pty Ltd,Australasian Association of College and University Housing Officers ABN 38 558 365 045
+319,Jo Scard Pty Ltd,Australian Self Medication Industry (ASMI) 55082798952
+319,Jo Scard Pty Ltd,Vendor Panel 68129460751
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
@@ -1053,7 +1055,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Clontarf Foundation
 565,Newgate Communications Pty Limited,Sydney Swans Ltd
 565,Newgate Communications Pty Limited,The Trustee for Diversified Infrastructure Trust
-565,Newgate Communications Pty Limited,Australian Airports Association
 565,Newgate Communications Pty Limited,Whitehaven Coal Limited
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
 565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
@@ -1142,8 +1143,6 @@ agency_id,agency_business_entity_name,client_name
 744,O'Reilly Consulting,Impress Media
 72,Parker & Partners Pty Ltd,STW Group Ltd
 72,Parker & Partners Pty Ltd,WPP plc
-72,Parker & Partners Pty Ltd,Australian Veterinary Association
-72,Parker & Partners Pty Ltd,Council of Private Higher Education
 72,Parker & Partners Pty Ltd,Microsoft Pty Ltd
 72,Parker & Partners Pty Ltd,AbbVie Australia
 72,Parker & Partners Pty Ltd,Mars Australia
@@ -1156,6 +1155,10 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,Sanofi
 72,Parker & Partners Pty Ltd,Roche 
 72,Parker & Partners Pty Ltd,ANZRP
+72,Parker & Partners Pty Ltd,Australia and New Zealand Recycling Platform Limited
+72,Parker & Partners Pty Ltd,MYOB AUSTRALIA PTY LTD
+72,Parker & Partners Pty Ltd,3M AUSTRALIA PTY LTD
+72,Parker & Partners Pty Ltd,AUSTRALIAN INTERNATIONAL MILITARY GAMES LIMITED
 1821,People First HR Solutions Pty Ltd,E Qubed
 1821,People First HR Solutions Pty Ltd,Mobile Electrics
 736,Peter Kane,Australian Meat Industry Council
@@ -1261,9 +1264,6 @@ agency_id,agency_business_entity_name,client_name
 68,Public Policy Solutions Pty Ltd,Terressentia
 242,Purple Communications Australia Pty Ltd,WA Independent Power Association Inc 
 242,Purple Communications Australia Pty Ltd,Northern Minerals 
-242,Purple Communications Australia Pty Ltd,Indigenous Construction Resource Group Pty Ltd (ICRG)
-242,Purple Communications Australia Pty Ltd,Australia China Business Council
-242,Purple Communications Australia Pty Ltd,The Salvation Army
 242,Purple Communications Australia Pty Ltd,Sino Gas & Energy Holdings Limited 
 242,Purple Communications Australia Pty Ltd,Centre for Entrepreneurial Research and Innovation Limited 
 242,Purple Communications Australia Pty Ltd,K plus S Salt Australia
@@ -1653,6 +1653,7 @@ agency_id,agency_business_entity_name,client_name
 718,Trustee of Kerans Family Trust,Motorola Solutions Inc.
 718,Trustee of Kerans Family Trust,Facebook Inc.
 718,Trustee of Kerans Family Trust,ViaSat Inc.
+718,Trustee of Kerans Family Trust,OmniSpace
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
 680,TSB Advisory Pty Ltd,UniSuper Management Pty Ltd
@@ -1792,4 +1793,6 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
 737,WORD TUCKER PTY LTD,ENPHASE ENERGY
+641,Wurley Group Pty Ltd,Edwards Lifesciences Pty Ltd
+641,Wurley Group Pty Ltd,Globus Medical Australia Pty Ltd
 1819,Zennex Pty Ltd,Haus Holdings
