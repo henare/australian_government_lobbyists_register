@@ -168,6 +168,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Predicate Partners
 338,Barton Deakin ,Silk Road Commercial Pty Ltd
 338,Barton Deakin ,AGL Energy Limited
+338,Barton Deakin ,Kaspersky Lab
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -745,11 +746,9 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Mortgage and Finance Association of Australia
 59,GRACosway Pty Ltd,Credit and Investments Ombudsman Limited
 59,GRACosway Pty Ltd,Murray Goulburn
-59,GRACosway Pty Ltd,ISS Facility Services Pty Ltd
 59,GRACosway Pty Ltd,KEPCO Bylong Australia Pty Ltd
 59,GRACosway Pty Ltd,Gaming Technologies Association Limited
 59,GRACosway Pty Ltd,Home Investment Consortium Company Pty Ltd
-59,GRACosway Pty Ltd,Southern Cross Travel Insurance
 59,GRACosway Pty Ltd,Adobe Systems Pty Ltd
 59,GRACosway Pty Ltd,Kangaroo Island Abalone Pty Ltd
 59,GRACosway Pty Ltd,Teleperformance Australia Pty Ltd
@@ -774,6 +773,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,CBS Corporation 
 59,GRACosway Pty Ltd,BHP
 59,GRACosway Pty Ltd,Pacific Equity Partners Pty Limited
+59,GRACosway Pty Ltd,d?TERRA Australia Pty Ltd 
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -928,6 +928,7 @@ agency_id,agency_business_entity_name,client_name
 115,KPMG,Tourism Shopping Reform Group
 115,KPMG,Amazon.com Inc
 115,KPMG,Australian Mushroom Growers Association
+115,KPMG,Seafast Pty Ltd
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1105,6 +1106,7 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Nevro Medical Pty Ltd
 1798,Nexus Asia Pacific Pty Ltd,Osteoporosis Australia
 1798,Nexus Asia Pacific Pty Ltd,Complete Office Supplies
+1798,Nexus Asia Pacific Pty Ltd,Fonterra Australia Pty Ltd
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Merck Serono
 86,Ogilvy PR Health,Genzyme
@@ -1188,6 +1190,7 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,Acciona
 1817,PremierNational Pty Ltd,New Horizons Enterprises Ltd
 1817,PremierNational Pty Ltd,AA Crown Holdings Pty Ltd
+1817,PremierNational Pty Ltd,Children's Medical Research Institute
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1376,11 +1379,7 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,MATES IN CONSTRUCTION (AUST) LIMITED
 227,SAS Consulting Group Pty Ltd,China Telecom Global Limited
 227,SAS Consulting Group Pty Ltd,Yuanda Australia Pty Ltd
-227,SAS Consulting Group Pty Ltd,Tactiv Pty Ltd
 227,SAS Consulting Group Pty Ltd,Australian Council for Private Education and Training
-227,SAS Consulting Group Pty Ltd,United Synergies
-227,SAS Consulting Group Pty Ltd,Waste and Recycling Association of South Australia (WRASA)
-227,SAS Consulting Group Pty Ltd,National Trunk Rail 
 227,SAS Consulting Group Pty Ltd,Gulf Coast Group
 227,SAS Consulting Group Pty Ltd,Australian Cablemakers Association
 227,SAS Consulting Group Pty Ltd,Santos
@@ -1579,6 +1578,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Network Ten Limited
 145,The Trustee for Bespoke Business Trust,Liberty House Group
 145,The Trustee for Bespoke Business Trust,ANZ The Australia and New Zealand Banking Group Limited
+145,The Trustee for Bespoke Business Trust,Chow Tai Fook Enterprises Limited 
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
