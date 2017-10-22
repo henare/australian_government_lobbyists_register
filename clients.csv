@@ -219,7 +219,6 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,Iona Sports Club Incorporated
 654,C2hills Investments Pty Limited,St Columba Anglican School Council Incorporated
 789,Cahill and Bailey Pty Ltd,Yara Pilbara
-700,Campaigns and Communications Group P/L,Fincantieri
 787,Capetal Advisory Pty Ltd,AREVA
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Norton Rose Fulbright Australia
@@ -299,8 +298,6 @@ agency_id,agency_business_entity_name,client_name
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Oceanic Multitrading Pty Ltd
 658,Chris Drummer ,Australian Mobile Health Clinics Association
-658,Chris Drummer ,Australian Mobile Dental Care
-658,Chris Drummer ,Smiles On Site Pty Ltd
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 113,CHRIS SCHACHT,PMB Defence
@@ -361,6 +358,7 @@ agency_id,agency_business_entity_name,client_name
 428,CMGRP Pty Ltd,CFD & FX Margin Association
 428,CMGRP Pty Ltd,XERO
 428,CMGRP Pty Ltd,Ticketmaster
+428,CMGRP Pty Ltd,Aus Gold
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,OmniSpace
 472,Comsult(Aust) Pty Ltd,O3b/SES
@@ -384,7 +382,6 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Popular Compass Development
 453,Cornerstone Group Australia ,Dell Australia Pty Ltd 
 453,Cornerstone Group Australia ,Staples Australia Pty Ltd
-453,Cornerstone Group Australia ,University of Western Sydney
 453,Cornerstone Group Australia ,Charlton Excavation and Demolition
 453,Cornerstone Group Australia ,The Group of Eight Limited
 453,Cornerstone Group Australia ,Young & Rubicam Group Pty Limited
@@ -525,6 +522,7 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Beetson & Associates
 580,Crosby Textor Research Strategies Results,Santos Ltd
 580,Crosby Textor Research Strategies Results,Canopy Growth Corporation
+580,Crosby Textor Research Strategies Results,Literacy for Life Foundation
 673,CT International and Corporate Advisory Pty Ltd,Parmalat Australia Pty Ltd 
 673,CT International and Corporate Advisory Pty Ltd,STOCKLAND CORPORATION LTD
 673,CT International and Corporate Advisory Pty Ltd,SNIIP (AUSTRALIA) PTY LTD
@@ -533,6 +531,7 @@ agency_id,agency_business_entity_name,client_name
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
 153,Cultural Consulting,Bapak Ian Siagian Australian Representative for the Indonesian Democratic Party of Struggle (PDIP)
+153,Cultural Consulting,Future of the Children Liberia
 386,Currie Communications,Victorian Building Authority
 386,Currie Communications,PrimeSafe
 10,Cynergy Pty Ltd,Solastor Pty Ltd
@@ -606,6 +605,8 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,TELSTRA
 31,Endeavour Consulting Group Pty Ltd,ENGIE
 31,Endeavour Consulting Group Pty Ltd,Woolworths Limited 
+31,Endeavour Consulting Group Pty Ltd,Subaru (Aust) Pty Limited
+31,Endeavour Consulting Group Pty Ltd,DANONE
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -773,7 +774,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,CBS Corporation 
 59,GRACosway Pty Ltd,BHP
 59,GRACosway Pty Ltd,Pacific Equity Partners Pty Limited
-59,GRACosway Pty Ltd,d?TERRA Australia Pty Ltd 
+59,GRACosway Pty Ltd,Doterra Australia Pty Ltd
+59,GRACosway Pty Ltd,Dun & Bradstreet (Australia) Pty Ltd
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -896,7 +898,6 @@ agency_id,agency_business_entity_name,client_name
 1813,John Fetter Group Pty Ltd,Adshel Outdoor Furniture
 1813,John Fetter Group Pty Ltd,Century Plaza Trading
 1813,John Fetter Group Pty Ltd,Gippland Water
-78,John O'Connor and Associates Pty Ltd,ROH Automotive
 78,John O'Connor and Associates Pty Ltd,CSBP Limited
 78,John O'Connor and Associates Pty Ltd,Orica Australia Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Sunbeam Foods Pty Ltd
@@ -904,7 +905,6 @@ agency_id,agency_business_entity_name,client_name
 78,John O'Connor and Associates Pty Ltd,BlueScope Steel Limited
 78,John O'Connor and Associates Pty Ltd,Nufarm Limited
 78,John O'Connor and Associates Pty Ltd,H J Heinz Australia Limited
-78,John O'Connor and Associates Pty Ltd,Arrium Limited
 78,John O'Connor and Associates Pty Ltd,Norske Skog Australasia Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Dried Fruits Australia
 78,John O'Connor and Associates Pty Ltd,Simcoa Operations Pty Ltd
@@ -914,6 +914,7 @@ agency_id,agency_business_entity_name,client_name
 78,John O'Connor and Associates Pty Ltd,Capral Aluminium Limited
 78,John O'Connor and Associates Pty Ltd,BBRG Australia Pty Ltd
 78,John O'Connor and Associates Pty Ltd,MolyCop Pty Ltd
+78,John O'Connor and Associates Pty Ltd,Dematic Pty Ltd
 255,John Scott Barker,Stornoway
 255,John Scott Barker,Font PR
 255,John Scott Barker,Cuthbertson Bros
@@ -1107,6 +1108,7 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Osteoporosis Australia
 1798,Nexus Asia Pacific Pty Ltd,Complete Office Supplies
 1798,Nexus Asia Pacific Pty Ltd,Fonterra Australia Pty Ltd
+1798,Nexus Asia Pacific Pty Ltd,Australian Self Medication Industry
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Merck Serono
 86,Ogilvy PR Health,Genzyme
@@ -1138,6 +1140,7 @@ agency_id,agency_business_entity_name,client_name
 86,Ogilvy PR Health,Indivior
 86,Ogilvy PR Health,Janssen
 86,Ogilvy PR Health,Ipsen
+86,Ogilvy PR Health,Amicus
 632,One Degree Advisory,Edith Cowan University
 670,Open Spectrum Pty Ltd,Australian Mobile Telecommunications Association
 744,O'Reilly Consulting,Waste and Recycling Association of South Australia
@@ -1212,6 +1215,7 @@ agency_id,agency_business_entity_name,client_name
 1805,Primary Communication Partners Pty Limited,White Ribbon Australia
 1805,Primary Communication Partners Pty Limited,Gas Industry Alliance
 1805,Primary Communication Partners Pty Limited,Cruise Lines international Association Australasia
+1805,Primary Communication Partners Pty Limited,Charity Bounce
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 283,Probity International Pty. Ltd,Teva Pharmaceutical Industries Ltd
@@ -1528,30 +1532,27 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,Glaukos Corporation
 95,The Strategic Counsel Pty Ltd,JanssenCilag Pty Ltd
 424,The Taylor Street Consultancy P/L,Lend Lease
-424,The Taylor Street Consultancy P/L,NRMA Motoring and Services 
 424,The Taylor Street Consultancy P/L,The Dockside Group 
-424,The Taylor Street Consultancy P/L,SAP Australia Pty Ltd
 424,The Taylor Street Consultancy P/L,Sydney Olympic Park Business Association
 424,The Taylor Street Consultancy P/L,Sydney Airport Corporation Ltd
 424,The Taylor Street Consultancy P/L,Walker Corporation
 424,The Taylor Street Consultancy P/L,Western Sydney Leadership Dialogue
 424,The Taylor Street Consultancy P/L,Celestino Pty Ltd
 424,The Taylor Street Consultancy P/L,Royal Agricultural Society of NSW
-424,The Taylor Street Consultancy P/L,Liverpool City Council
-424,The Taylor Street Consultancy P/L,Australian Turf Club
-424,The Taylor Street Consultancy P/L,Westline Partnership
-424,The Taylor Street Consultancy P/L,Elanor Investors Group
 424,The Taylor Street Consultancy P/L,Goodman Group
 424,The Taylor Street Consultancy P/L,Leichhardt Council
-424,The Taylor Street Consultancy P/L,Western Sydney Rail Alliance
 424,The Taylor Street Consultancy P/L,QIC
 424,The Taylor Street Consultancy P/L,Crystal Lagoons
 424,The Taylor Street Consultancy P/L,Australian Racing Drivers Club
-424,The Taylor Street Consultancy P/L,First State Super
-424,The Taylor Street Consultancy P/L,Capella Capital
 424,The Taylor Street Consultancy P/L,GPT
 424,The Taylor Street Consultancy P/L,Carnival Australia
 424,The Taylor Street Consultancy P/L,Campbelltown Council
+424,The Taylor Street Consultancy P/L,Keolis Downer Pty Ltd
+424,The Taylor Street Consultancy P/L,National Australia Bank Limited 
+424,The Taylor Street Consultancy P/L,Heworth Grand Development Pty Ltd
+424,The Taylor Street Consultancy P/L,Bankstown Airport Limited
+424,The Taylor Street Consultancy P/L,Accor Pacific 
+424,The Taylor Street Consultancy P/L,National Rugby League
 698,The Trustee for Arthur Trust,Engineers Australia
 698,The Trustee for Arthur Trust,Accommodation Association of Australia
 698,The Trustee for Arthur Trust,bet365
@@ -1579,6 +1580,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Liberty House Group
 145,The Trustee for Bespoke Business Trust,ANZ The Australia and New Zealand Banking Group Limited
 145,The Trustee for Bespoke Business Trust,Chow Tai Fook Enterprises Limited 
+145,The Trustee for Bespoke Business Trust,SMEC Holdings Pty Ltd 
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
@@ -1647,6 +1649,7 @@ agency_id,agency_business_entity_name,client_name
 328,THEMA Consulting Pty Ltd,Genomic Health Inc
 328,THEMA Consulting Pty Ltd,Alcon 
 328,THEMA Consulting Pty Ltd,Glaukos
+1825,Times Lawyers Pty Ltd,Australian Chinese General Chamber of Business
 772,Tokua Pty Ltd,Calibre Group
 772,Tokua Pty Ltd,Escarpment Group
 772,Tokua Pty Ltd,Interclean Pty Ltd

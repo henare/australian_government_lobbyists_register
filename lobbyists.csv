@@ -55,8 +55,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 654,C2hills Investments Pty Limited,Danielle Ann Maltman,Business Consultant,No,""
 789,Cahill and Bailey Pty Ltd,Casey Cahill,Managing Partner,No,""
 789,Cahill and Bailey Pty Ltd,Simon Bailey,Partner,No,""
-700,Campaigns and Communications Group P/L,Ross Bruce Hawker,Managing Director,Yes,September 2013
-700,Campaigns and Communications Group P/L,Graeme John Wedderburn,Company Director,Yes,September 2013
 787,Capetal Advisory Pty Ltd,Nathan Paine,Chief Executive Officer,No,""
 787,Capetal Advisory Pty Ltd,Matthew Clemow,Director,No,""
 787,Capetal Advisory Pty Ltd,Bradley Green,Associate Director,No,""
@@ -128,7 +126,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,George Brougham,Consultant,No,""
 580,Crosby Textor Research Strategies Results,Giorgia Christmas,Senior Consultant,Yes,October 2015
 580,Crosby Textor Research Strategies Results,Yaron Finkelstein,CEO Australasia ,Yes,February 2006
-580,Crosby Textor Research Strategies Results,Justin de Domenico ,Senior Consultant,Yes,October 2016
 580,Crosby Textor Research Strategies Results,Talia Katz,Consultant ,No,""
 580,Crosby Textor Research Strategies Results,Molly Hughes ,Consultant ,Yes,August 2016
 580,Crosby Textor Research Strategies Results,Renee Shingles ,Consultant,No,""
@@ -351,6 +348,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1798,Nexus Asia Pacific Pty Ltd,Nick Campbell,Chairman,Yes,December 1999
 1798,Nexus Asia Pacific Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
 1798,Nexus Asia Pacific Pty Ltd,Cameron Sinclair,Manager Public Policy,No,""
+1798,Nexus Asia Pacific Pty Ltd,Peter Sykes,Senior Consultant,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
 86,Ogilvy PR Health,Emma Nunan,Senior Account Manager,No,""
@@ -503,9 +501,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 95,The Strategic Counsel Pty Ltd,Rebecca McCarthy,Associate,No,""
 95,The Strategic Counsel Pty Ltd,Catherine McGovern,Advisor,Yes,May 2000
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
-424,The Taylor Street Consultancy P/L,Adam Leto,Senior Advisor,No,""
+424,The Taylor Street Consultancy P/L,Adam Leto,Director  Communication ,No,""
 424,The Taylor Street Consultancy P/L,Tania Hyde,Chief Operating Officer,Yes,February 2007
-424,The Taylor Street Consultancy P/L,Luke Turner,Policy Manager,No,""
+424,The Taylor Street Consultancy P/L,Luke Turner,Senior Policy Manager,No,""
 698,The Trustee for Arthur Trust,Hamish Arthur,Director,No,""
 145,The Trustee for Bespoke Business Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Business Trust,Delia Obst,Associate,No,""
@@ -536,6 +534,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 328,THEMA Consulting Pty Ltd,Carmelina Guarnieri,Senior Analyst,No,""
 328,THEMA Consulting Pty Ltd,Matthew Needham,Senior Analyst,No,""
 328,THEMA Consulting Pty Ltd,Magda Ellis,Senior Analyst,No,""
+1825,Times Lawyers Pty Ltd,Mr. Kam Sham LEUNG,Managing Director,No,""
+1825,Times Lawyers Pty Ltd,Mr. Kenneth K. K. Chow,Legal Executive Director,No,""
 772,Tokua Pty Ltd,Louise Markus,Principal Consultant,Yes,July 2016
 718,Trustee of Kerans Family Trust,Andrew James Kerans,Principal,Yes,January 2014
 680,TSB Advisory Pty Ltd,Trevor John Burns,Director,Yes,June 1998
