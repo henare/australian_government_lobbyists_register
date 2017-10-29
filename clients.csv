@@ -169,6 +169,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Silk Road Commercial Pty Ltd
 338,Barton Deakin ,AGL Energy Limited
 338,Barton Deakin ,Kaspersky Lab
+338,Barton Deakin ,Ausgrid
+338,Barton Deakin ,Fullerton Healthcare Corporation Limited
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -345,7 +347,6 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Soldier On
 79,CMAX Communications Pty Ltd,The MITRE Corporation
 79,CMAX Communications Pty Ltd,ServiceNow
-79,CMAX Communications Pty Ltd,Comlux The Aviation Group
 79,CMAX Communications Pty Ltd,Rafael Advanced Defense Systems
 79,CMAX Communications Pty Ltd,Rockwell Collins
 79,CMAX Communications Pty Ltd,Penn Schoen Berland (PSB)
@@ -545,6 +546,7 @@ agency_id,agency_business_entity_name,client_name
 221,Damian McGreevy Consulting Pty Ltd,Redback Technologies Australia
 221,Damian McGreevy Consulting Pty Ltd,Australian Conservation Foundation
 221,Damian McGreevy Consulting Pty Ltd,Australian Marine Conservation Society
+1827,David Charles Barrow,FungiCo
 16,Day & Hodge Associates Pty Ltd,Bicycle Industries Australia Inc.
 16,Day & Hodge Associates Pty Ltd,National Medical Services Group
 16,Day & Hodge Associates Pty Ltd,National Association for Medical Deputising Australia Ltd
@@ -813,6 +815,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,APT Management Services Pty Ltd
 96,Hawker Britton Group Pty Ltd,Pharmacy Guild of Australia
 96,Hawker Britton Group Pty Ltd,Institute of Public Accountants
+96,Hawker Britton Group Pty Ltd,Ausgrid
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -922,6 +925,7 @@ agency_id,agency_business_entity_name,client_name
 255,John Scott Barker,Southern Tasmania Fibre Resources Pty Ltd
 255,John Scott Barker,Oyster Farmers Pty Ltd
 255,John Scott Barker,Gutteridge Haskins  Davey (GHD)
+255,John Scott Barker,Moortech Pty Ltd
 264,"John, Susan Maree",Bioventus Australia Pty Ltd
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 115,KPMG,The Australian Federation of Travel Agents
@@ -990,6 +994,7 @@ agency_id,agency_business_entity_name,client_name
 425,Maser Defence Pty Ltd,Cobham Antenna Systems
 179,McGrane-Fitzgerald Unit Trust,Deflecta Crete Seals ABN 84068618931
 179,McGrane-Fitzgerald Unit Trust,RuralSuper Australia Pty Ltd
+762,McGuinness Media,JFD Australia
 201,Media Affairs,Technique Solar Group
 201,Media Affairs,Ausker Group
 201,Media Affairs,Norwood Hall Asia Group
@@ -1109,14 +1114,10 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Complete Office Supplies
 1798,Nexus Asia Pacific Pty Ltd,Fonterra Australia Pty Ltd
 1798,Nexus Asia Pacific Pty Ltd,Australian Self Medication Industry
+1798,Nexus Asia Pacific Pty Ltd,Medicines Australia Limited
 3,Oceanic Solutions Pty Ltd,Navantia
-86,Ogilvy PR Health,Merck Serono
-86,Ogilvy PR Health,Genzyme
 86,Ogilvy PR Health,Celgene
-86,Ogilvy PR Health,Bristol-Myers Squibb
 86,Ogilvy PR Health,Research Australia
-86,Ogilvy PR Health,Australian Pompeâs Association
-86,Ogilvy PR Health,Australian Diabetes Council
 86,Ogilvy PR Health,CSL Limited
 86,Ogilvy PR Health,CSL Biotherapies
 86,Ogilvy PR Health,Eli Lilly Australia
@@ -1128,12 +1129,10 @@ agency_id,agency_business_entity_name,client_name
 86,Ogilvy PR Health,Johnson and Johnson Medical
 86,Ogilvy PR Health,Philips Healthcare
 86,Ogilvy PR Health,Biomarin
-86,Ogilvy PR Health,Baxalta
 86,Ogilvy PR Health,Prostate Cancer Foundation Australia
 86,Ogilvy PR Health,Astellas Pharma Australia
 86,Ogilvy PR Health,Roche Australia
 86,Ogilvy PR Health,AbbVie
-86,Ogilvy PR Health,Rare Voices Australia
 86,Ogilvy PR Health,Biogen
 86,Ogilvy PR Health,Royal Australian College of General Practitioners
 86,Ogilvy PR Health,AstraZeneca
@@ -1164,6 +1163,7 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,MYOB AUSTRALIA PTY LTD
 72,Parker & Partners Pty Ltd,3M AUSTRALIA PTY LTD
 72,Parker & Partners Pty Ltd,AUSTRALIAN INTERNATIONAL MILITARY GAMES LIMITED
+72,Parker & Partners Pty Ltd,Tresillian
 1821,People First HR Solutions Pty Ltd,E Qubed
 1821,People First HR Solutions Pty Ltd,Mobile Electrics
 736,Peter Kane,Australian Meat Industry Council
@@ -1216,6 +1216,7 @@ agency_id,agency_business_entity_name,client_name
 1805,Primary Communication Partners Pty Limited,Gas Industry Alliance
 1805,Primary Communication Partners Pty Limited,Cruise Lines international Association Australasia
 1805,Primary Communication Partners Pty Limited,Charity Bounce
+1805,Primary Communication Partners Pty Limited,Metis Technologies Pty Ltd
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 283,Probity International Pty. Ltd,Teva Pharmaceutical Industries Ltd
@@ -1388,6 +1389,7 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Australian Cablemakers Association
 227,SAS Consulting Group Pty Ltd,Santos
 227,SAS Consulting Group Pty Ltd,Sunset Power International T/A Delta Electricity
+227,SAS Consulting Group Pty Ltd,CNVM Investment Pty Ltd
 167,Scott & Beaumont Pty Ltd,ConnectLand Pty Ltd; Koppers Australia
 167,Scott & Beaumont Pty Ltd,WSLloyd
 167,Scott & Beaumont Pty Ltd,Galbraith and Co
@@ -1450,9 +1452,6 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,PreviousNext
 66,Statecraft,Grifols
 66,Statecraft,Third Sector Strategy Group
-385,Strategic Partnership Group (Aust) Pty Limited,Fertility Society of Australia
-385,Strategic Partnership Group (Aust) Pty Limited,IVF Directors Group
-385,Strategic Partnership Group (Aust) Pty Limited,Linfox Pty Limited
 769,Strategic Partnership Group Pty Ltd,Fertility Society of Australia IVF Directors Group
 769,Strategic Partnership Group Pty Ltd,Linfox Australia Limited
 753,Strategic Political Counsel Pty Ltd,Nicoventures Australia Pty Ltd
@@ -1569,6 +1568,7 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,Friendly Societies of Australia 
 698,The Trustee for Arthur Trust,The Communications Council
 698,The Trustee for Arthur Trust,Media Federation of Australia
+698,The Trustee for Arthur Trust,James Fisher Australia Pty Ltd
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
@@ -1667,6 +1667,7 @@ agency_id,agency_business_entity_name,client_name
 680,TSB Advisory Pty Ltd,Rabobank Australia and New Zealand Group
 680,TSB Advisory Pty Ltd,CBH Group Limited
 680,TSB Advisory Pty Ltd,SAAB Australia Pty Ltd
+680,TSB Advisory Pty Ltd,Amazon Web Services
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
 161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)

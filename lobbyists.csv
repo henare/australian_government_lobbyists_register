@@ -94,9 +94,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Jacob Traeger,Account Manager,No,""
 79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
 79,CMAX Communications Pty Ltd,Ashley Rice,Government Relations Adviser,No,""
-79,CMAX Communications Pty Ltd,Ross Macdonald,Government Relations Adviser,Yes,July 2016
 79,CMAX Communications Pty Ltd,Vanessa Sung,Government Relations Adviser,No,""
 79,CMAX Communications Pty Ltd,Bronwyn Fagan,Chief Operating Officer ,No,""
+79,CMAX Communications Pty Ltd,Maddie Gay,Government Relations Adviser ,Yes,September 2017
+79,CMAX Communications Pty Ltd,Ali Humphreys ,Government Relations Adviser ,No,""
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Alistair Nicholas,Director Special Projects,Yes,October 2000
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
@@ -137,6 +138,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 386,Currie Communications,Mark Paterson,Principal,No,""
 10,Cynergy Pty Ltd,Norman Bruce Higgs,Managing Director,No,""
 221,Damian McGreevy Consulting Pty Ltd,Damian McGreevy,Principal,Yes,March 2009
+1827,David Charles Barrow,David Charles Barrow,Myself,No,""
 16,Day & Hodge Associates Pty Ltd,Adrienne Day-Hodge,Director,No,""
 360,Diplomacy Pty Limited,Adam Kilgour,Managing Director,Yes,July 1993
 360,Diplomacy Pty Limited,Josh Williams,Director,No,""
@@ -160,7 +162,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 31,Endeavour Consulting Group Pty Ltd,Fiona Landis ,Associate Partner,Yes,April 2010
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
-71,Essential Media Communications Pty Ltd,Olivia Greentree,Associate Director ,Yes,February 2013
 71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
 71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Peter Stahel,Senior Account Manager,No,""
@@ -352,6 +353,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
 86,Ogilvy PR Health,Emma Nunan,Senior Account Manager,No,""
+86,Ogilvy PR Health,Rachel Stanton,Senior Account Director,No,""
 86,Ogilvy PR Health,Kate Parson,Senior Consultant,No,""
 86,Ogilvy PR Health,Michael Lane,Account Manager,No,""
 86,Ogilvy PR Health,Chloe Dougherty,Account Executive,No,""
@@ -368,6 +370,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,Yes,December 2012
 72,Parker & Partners Pty Ltd,Nicole Quinn,Director,Yes,December 2009
 72,Parker & Partners Pty Ltd,Leon Beswick ,Group Managing Director ,No,""
+72,Parker & Partners Pty Ltd,Tim Jackson,Account Coordinator ,No,""
 1821,People First HR Solutions Pty Ltd,Rohan Robertson,Director,No,""
 736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -469,7 +472,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
 66,Statecraft,Anna Nix,Consultant,No,""
-385,Strategic Partnership Group (Aust) Pty Limited,Eric Lindsay Forbes,Director,No,""
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes,Director,No,""
 753,Strategic Political Counsel Pty Ltd,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
 753,Strategic Political Counsel Pty Ltd,Professor David Gracey,Senior Counsel,No,""
