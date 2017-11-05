@@ -171,6 +171,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Kaspersky Lab
 338,Barton Deakin ,Ausgrid
 338,Barton Deakin ,Fullerton Healthcare Corporation Limited
+338,Barton Deakin ,Serco Australia Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -673,7 +674,7 @@ agency_id,agency_business_entity_name,client_name
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,JBS Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Spark Infrastructure Group
-678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Tassal Group Limited
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Australian Payments Network 
 1,Gambolling Pty Ltd,National Australia Bank
 1,Gambolling Pty Ltd,Intercapital 
 1,Gambolling Pty Ltd,Project Flinders Pty Ltd
@@ -778,6 +779,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Pacific Equity Partners Pty Limited
 59,GRACosway Pty Ltd,Doterra Australia Pty Ltd
 59,GRACosway Pty Ltd,Dun & Bradstreet (Australia) Pty Ltd
+59,GRACosway Pty Ltd,Australian Airports Association Limited
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -816,6 +818,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Pharmacy Guild of Australia
 96,Hawker Britton Group Pty Ltd,Institute of Public Accountants
 96,Hawker Britton Group Pty Ltd,Ausgrid
+96,Hawker Britton Group Pty Ltd,MLC Life Insurance
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -1164,6 +1167,7 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,3M AUSTRALIA PTY LTD
 72,Parker & Partners Pty Ltd,AUSTRALIAN INTERNATIONAL MILITARY GAMES LIMITED
 72,Parker & Partners Pty Ltd,Tresillian
+72,Parker & Partners Pty Ltd,Bell Shakespeare 
 1821,People First HR Solutions Pty Ltd,E Qubed
 1821,People First HR Solutions Pty Ltd,Mobile Electrics
 736,Peter Kane,Australian Meat Industry Council
@@ -1292,7 +1296,6 @@ agency_id,agency_business_entity_name,client_name
 24,Repute Communications and Associates Pty Ltd,RichmondPRA
 24,Repute Communications and Associates Pty Ltd,Flourish Australia (Formerly RichmondPRA)
 98,Res Publica Pty Ltd,SpinalCure Australia
-98,Res Publica Pty Ltd,Cosmetic Physicians Society of Australasia (CPSA)
 98,Res Publica Pty Ltd,Australian Association of National Advertisers (AANA)
 98,Res Publica Pty Ltd,Unilever
 98,Res Publica Pty Ltd,Coalition for Advancement of Medical Research Australia
@@ -1301,6 +1304,7 @@ agency_id,agency_business_entity_name,client_name
 98,Res Publica Pty Ltd,Mojo Power
 98,Res Publica Pty Ltd,Pepsi Co.
 98,Res Publica Pty Ltd,Woolworths 
+98,Res Publica Pty Ltd,AusFilm 
 497,Resolution Junction,Wavlink Incorporated
 497,Resolution Junction,Monash Mens Shed
 497,Resolution Junction,Richmond Cricket Club Inc
@@ -1490,6 +1494,13 @@ agency_id,agency_business_entity_name,client_name
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
 90,The Fifth Estate Consultancy Pty Ltd,Hume Coal
+83,The Holland Trust,Statecraft
+83,The Holland Trust,Speyside Group
+83,The Holland Trust,British American Tobacco Australia
+83,The Holland Trust,Beam Suntory Australia
+83,The Holland Trust,Mawson's Huts Foundation
+83,The Holland Trust,Australia Israel Labor Dialogue
+83,The Holland Trust,Cronulla Surf Life Saving Club
 780,The Hon. Kim Beazley AC,AECOM
 757,The Hon. Robert Charles Baldwin,Varley Engineering Pty Ltd 
 757,The Hon. Robert Charles Baldwin,CTSi (USA)
@@ -1513,6 +1524,8 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Southern Expansion Pty Ltd
 268,The Premier Communications Group Pty Ltd.,Aboriginal Legal Service (NSW/ACT)
 268,The Premier Communications Group Pty Ltd.,Australasian Health manufacturers Development Association 
+1826,The Shape Agency,Redundancy Payment Central Fund Ltd (trading as Incolink)
+1826,The Shape Agency,National Home Doctor Service Pty Ltd
 705,The Shrimpton Family Trust,Fincantieri S.p.A
 95,The Strategic Counsel Pty Ltd,Hearing Care Industry Association
 95,The Strategic Counsel Pty Ltd,Australian Pharmaceutical Industries Ltd
@@ -1575,12 +1588,13 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,BAE Systems Australia
 145,The Trustee for Bespoke Business Trust,Medibank Private Limited
 145,The Trustee for Bespoke Business Trust,Business Council of Australia
-145,The Trustee for Bespoke Business Trust,Anheuser-Busch InBev
 145,The Trustee for Bespoke Business Trust,Network Ten Limited
 145,The Trustee for Bespoke Business Trust,Liberty House Group
 145,The Trustee for Bespoke Business Trust,ANZ The Australia and New Zealand Banking Group Limited
 145,The Trustee for Bespoke Business Trust,Chow Tai Fook Enterprises Limited 
 145,The Trustee for Bespoke Business Trust,SMEC Holdings Pty Ltd 
+145,The Trustee for Bespoke Business Trust,I-MED Radiology Network
+145,The Trustee for Bespoke Business Trust,Illumina
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd

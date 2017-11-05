@@ -31,9 +31,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
-338,Barton Deakin ,Jessica Yu,Policy and Business Analyst,No,""
-338,Barton Deakin ,Vanessa Findlay,Director ,Yes,July 2016
-338,Barton Deakin ,Lucas Pender,Policy and Business Analyst,No,""
 338,Barton Deakin ,Gabrielle Hedge,Policy and Business Analyst,No,""
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
@@ -191,6 +188,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Hadler ,Senior Adviser,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Ben Hamilton,Senior Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Maryanna Vasilareas,Senior Consultant ,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Celia Moore,Senior Consultant ,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
 1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
 1,Gambolling Pty Ltd,Jane Beer,PA/Consultant,Yes,August 2016
@@ -425,11 +423,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
-98,Res Publica Pty Ltd,Gabriel McDowell,Managing Director,No,""
-98,Res Publica Pty Ltd,Kate Bailey,Account Director,No,""
-98,Res Publica Pty Ltd,James Tait,Director,No,""
-98,Res Publica Pty Ltd,Adam Facer,Account Executive,No,""
+98,Res Publica Pty Ltd,Gabriel McDowell,Executive Chairman,No,""
+98,Res Publica Pty Ltd,James Tait,Principal,No,""
 98,Res Publica Pty Ltd,Baden Parker Brown,Account Executive,No,""
+98,Res Publica Pty Ltd,Simone Rayner,Account Manager ,No,""
 497,Resolution Junction,Gregory Male,Director,Yes,September 2012
 587,Richard Gilbert Corporate Advisory Pty Ltd,Richard Gilbert,Director,Yes,October 1994
 35,Richardson Coutts,John Richardson,Director,Yes,May 1995
@@ -490,12 +487,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Thomas Grant Cameron,Senior Account Executive,Yes,October 2013
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
+83,The Holland Trust,Gregory Holland,Managing Director,Yes,May 1988
 780,The Hon. Kim Beazley AC,The Hon. Kim Beazley AC,Senior Fellow,Yes,November 2007
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 768,The PR Counsel,Kristy McSweeney,Principal,Yes,September 2014
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
 268,The Premier Communications Group Pty Ltd.,Ross Grove,Senior Advisor,No,""
+1826,The Shape Agency,Timothy James O'Halloran,Director,Yes,September 2013
 705,The Shrimpton Family Trust,Barry Shrimpton,Director,No,""
 95,The Strategic Counsel Pty Ltd,Donna Staunton,Managing Director,No,""
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
@@ -516,6 +515,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 550,The Trustee for Connelly Project Resources,Michael Peter Connelly,Director,No,""
+550,The Trustee for Connelly Project Resources,Christopher Mark Kenward,Senior Consultant,No,""
 420,The trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
 420,The trustee for ECG Advisory Trust,Jonathan Epstein,Director,Yes,November 2007
 41,The Trustee for Hilton Valley Investment,Alistair Urquhart,Director,No,""
