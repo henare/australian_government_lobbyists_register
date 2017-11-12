@@ -115,7 +115,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Swisse Wellness Pty Ltd
 338,Barton Deakin ,Global Orthopaedic Technology Pty Ltd
 338,Barton Deakin ,Hewlett Packard Australia Pty Ltd
-338,Barton Deakin ,Australians in Pozieres Ltd 
 338,Barton Deakin ,Australian Heavy Vehicle Repair Association
 338,Barton Deakin ,Programmed Marine Pty Ltd
 338,Barton Deakin ,StatOil Australia AS
@@ -126,8 +125,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Community Broadcasting Association of Australia
 338,Barton Deakin ,Vectus Biosystems Limited
 338,Barton Deakin ,BSE Maritime Solutions
-338,Barton Deakin ,Commonwealth Bank of Australia
-338,Barton Deakin ,Fitness Australia Ltd
 338,Barton Deakin ,DLA Piper
 338,Barton Deakin ,Meat Inspectors Pty Ltd
 338,Barton Deakin ,Liberty House Group
@@ -139,7 +136,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Prism Surgical
 338,Barton Deakin ,Device Technologies
 338,Barton Deakin ,LifeHealthcare
-338,Barton Deakin ,Woolworths Group
 338,Barton Deakin ,Cleanaway
 338,Barton Deakin ,DomaCom Australia Ltd
 338,Barton Deakin ,Work Health Group
@@ -190,7 +186,11 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Netsweeper
 657,Brent William Knevett,Imex Systems
 657,Brent William Knevett,Medimpact International
-657,Brent William Knevett,Ramco Systems
+657,Brent William Knevett,PBT Group Australia
+657,Brent William Knevett,Eaglecrest Technology
+657,Brent William Knevett,DXC Technology
+657,Brent William Knevett,Radio IP
+657,Brent William Knevett,Ocean Health Systems
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 662,BroadSpectrum Consultants Pty Ltd,Commercial Radio Australia
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
@@ -400,7 +400,6 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Caption It Pty Ltd 
 453,Cornerstone Group Australia ,Compass Housing Services Co Ltd
 453,Cornerstone Group Australia ,G.H. Varley Pty Ltd 
-453,Cornerstone Group Australia ,APIR Limited 
 453,Cornerstone Group Australia ,TOMRA Group
 453,Cornerstone Group Australia ,Business Council of Co-operatives and Mutuals 
 453,Cornerstone Group Australia ,DPL Medical Pty Limited
@@ -419,6 +418,7 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Evolve Housing Pty Ltd 
 453,Cornerstone Group Australia ,GEMA Group Pty Ltd 
 453,Cornerstone Group Australia ,THE VINCE & LEAH ANNETTA FAMILY TRUST
+453,Cornerstone Group Australia ,Australasian College of Cosmetic Surgery
 160,Cotterell Jannette Suzanne,The Australian and New Zealand Association of Oral and Maxillofacial Surgeons
 160,Cotterell Jannette Suzanne,Private Cancer Physicians of Australia
 160,Cotterell Jannette Suzanne,Community Pharmacy Chemotherapy Services Group
@@ -530,6 +530,7 @@ agency_id,agency_business_entity_name,client_name
 673,CT International and Corporate Advisory Pty Ltd,SNIIP (AUSTRALIA) PTY LTD
 673,CT International and Corporate Advisory Pty Ltd,The Trustee for R F Capital Trust
 673,CT International and Corporate Advisory Pty Ltd,LEND LEASE CORPORATION LTD
+795,Cube Public Relations Pty Ltd,Medicines Australia
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
 153,Cultural Consulting,Bapak Ian Siagian Australian Representative for the Indonesian Democratic Party of Struggle (PDIP)
@@ -610,6 +611,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Woolworths Limited 
 31,Endeavour Consulting Group Pty Ltd,Subaru (Aust) Pty Limited
 31,Endeavour Consulting Group Pty Ltd,DANONE
+31,Endeavour Consulting Group Pty Ltd,Plumbing Industry Climate Action Centre 
 74,Enhance Corporate Pty Ltd,Tri Investments Pty Ltd
 74,Enhance Corporate Pty Ltd,Centurian Group
 74,Enhance Corporate Pty Ltd,China Rail 15 Group
@@ -819,6 +821,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Institute of Public Accountants
 96,Hawker Britton Group Pty Ltd,Ausgrid
 96,Hawker Britton Group Pty Ltd,MLC Life Insurance
+96,Hawker Britton Group Pty Ltd,Bristol-Myers Squibb 
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -886,6 +889,8 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Australasian Association of College and University Housing Officers ABN 38 558 365 045
 319,Jo Scard Pty Ltd,Australian Self Medication Industry (ASMI) 55082798952
 319,Jo Scard Pty Ltd,Vendor Panel 68129460751
+319,Jo Scard Pty Ltd,South Australian Health and Medical Research Institute Limited ABN 54 141 228 346
+319,Jo Scard Pty Ltd,The trustee for the Jodi Lee Foundation ABN 22 313 584 765
 56,John C Blackwell,Autodesk
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
@@ -1813,4 +1818,6 @@ agency_id,agency_business_entity_name,client_name
 737,WORD TUCKER PTY LTD,ENPHASE ENERGY
 641,Wurley Group Pty Ltd,Edwards Lifesciences Pty Ltd
 641,Wurley Group Pty Ltd,Globus Medical Australia Pty Ltd
+641,Wurley Group Pty Ltd,BXTAccelyon Australia Pty Ltd
+641,Wurley Group Pty Ltd,dorsaVi Ltd
 1819,Zennex Pty Ltd,Haus Holdings

@@ -46,7 +46,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 131,BTelecom Pty Ltd,Greg Fonti,General Manager,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
 760,Bushido International Pty Ltd,Peter James WHITE,Chief Executive,No,""
-1799,Butler Hardy Corporate Pty Ltd,John Codrington,Director,No,""
+1799,Butler Hardy Corporate Pty Ltd,John Codrington,Senior Advocate,No,""
 654,C2hills Investments Pty Limited,Cara Leanne Dale,Director/Consultant,No,""
 654,C2hills Investments Pty Limited,Matthew David Field,Business Consultant,No,""
 654,C2hills Investments Pty Limited,Danielle Ann Maltman,Business Consultant,No,""
@@ -57,7 +57,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 787,Capetal Advisory Pty Ltd,Bradley Green,Associate Director,No,""
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Michael Photios,Director,No,""
-556,Capital Hill Advisory Pty Ltd,David Begg,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Ian Hancock,Government Policy Analyst,No,""
 556,Capital Hill Advisory Pty Ltd,Christine Kirk,Executive Assistant,No,""
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Consultant,No,""
@@ -129,6 +128,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Renee Shingles ,Consultant,No,""
 673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Chief Operating Officer,No,""
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
+795,Cube Public Relations Pty Ltd,Anne-Marie Sparrow,Managing Director/Owner,No,""
+795,Cube Public Relations Pty Ltd,Georgina Morris,Deputy Managing Director ,No,""
+795,Cube Public Relations Pty Ltd,Bonnie Leibel,Senior Account Manager,No,""
+795,Cube Public Relations Pty Ltd,Elise Rattigan,Senior Account Executive ,No,""
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
 153,Cultural Consulting,Dr Robert Goodfellow,Principal Consultant,No,""
 386,Currie Communications,Susan McNair,Managing Director,No,""
@@ -314,7 +317,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 752,MMJ Consulting,Melissa Cheesman-Faull,Director,Yes,May 1997
 756,MMR Consulting Pty Ltd,Melina Rohan,Founder,No,""
 796,Momentum Strategic Communication Services,Michael Morgan,Principal,No,""
-796,Momentum Strategic Communication Services,Alexandra Sekuless,Adviser,Yes,August 2016
 696,MOUNTAIN MEDIA PTY LTD,JULIEANNE STRACHAN, CANBERRA MANAGER,No,""
 696,MOUNTAIN MEDIA PTY LTD,PHILIP JAMES DAVEY,DIRECTOR,No,""
 696,MOUNTAIN MEDIA PTY LTD,Timothy Kevin Vollmer,Consultant,No,""
@@ -379,7 +381,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Jennifer Hill,Senior consultant,Yes,August 2014
 1812,Preferment Associates ,John Thomas Campbell Lake,principal,Yes,November 2009
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
-516,Premier State Consulting Pty Ltd,David Begg,Partner,No,""
 516,Premier State Consulting Pty Ltd,Nick Campbell,Partner,Yes,December 1999
 516,Premier State Consulting Pty Ltd,Ian Hancock,Director,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
@@ -511,11 +512,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Managing Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Michael Burgess,Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Delia Obst,Associate,No,""
-589,The Trustee for Bespoke Territory Unit Trust,Shannon Hee,Associate,No,""
+589,The Trustee for Bespoke Territory Unit Trust,Sarah Day,Associate ,No,""
 550,The Trustee for Connelly Project Resources,Suzelie Gerardine Connelly,Principal,Yes,March 1997
 550,The Trustee for Connelly Project Resources,Michelle Mary Connelly,Principal,No,""
 550,The Trustee for Connelly Project Resources,Michael Peter Connelly,Director,No,""
 550,The Trustee for Connelly Project Resources,Christopher Mark Kenward,Senior Consultant,No,""
+550,The Trustee for Connelly Project Resources,Cassandra Fenaughty,Senior Consultant,No,""
 420,The trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
 420,The trustee for ECG Advisory Trust,Jonathan Epstein,Director,Yes,November 2007
 41,The Trustee for Hilton Valley Investment,Alistair Urquhart,Director,No,""
@@ -566,6 +568,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Manager,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Timothy Christopher Mantiri,Account Executive,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Kathy Patricia Lindsay,Account Director,No,""
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Stav Pisk,Account Executive,No,""
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
