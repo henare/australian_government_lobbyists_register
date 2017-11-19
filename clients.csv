@@ -178,6 +178,7 @@ agency_id,agency_business_entity_name,client_name
 583,BDaaS Consulting Pty Ltd,Gulanga Group Pty Ltd
 162,Belman Consulting Pty Ltd,Olbia Pty Limited
 110,Bluegrass Consulting Pty Ltd,iTIC Australia Pty Ltd
+1828,Blunden and Associates,PayPal Australia
 614,Bossy Group Pty Ltd,The Hospitals Contribution Fund of Australia Limited
 614,Bossy Group Pty Ltd,Simavita Limited
 6,Bramex Pty Ltd,Reach Beyond Australia
@@ -506,7 +507,6 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Malaysian Resources Corporation Berhad
 81,CPR Communications & Public Relations Pty Ltd,Baker Heart and Diabetes Institute
 683,Craig Emerson Economics Pty Ltd,KPMG
-783,Craig Hodges Consultancy,Daniel Taylor
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
@@ -676,7 +676,6 @@ agency_id,agency_business_entity_name,client_name
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,JBS Australia Pty Ltd 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Spark Infrastructure Group
-678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Australian Payments Network 
 1,Gambolling Pty Ltd,National Australia Bank
 1,Gambolling Pty Ltd,Intercapital 
 1,Gambolling Pty Ltd,Project Flinders Pty Ltd
@@ -1096,6 +1095,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Capital Recycling Solutions
 565,Newgate Communications Pty Limited,Access Recycling
 565,Newgate Communications Pty Limited,QANTAS
+565,Newgate Communications Pty Limited,Coca Cola Amatil Limited
 766,Next Level Strategic Services Pty Ltd,Adani Mining Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
 766,Next Level Strategic Services Pty Ltd,QRE Pty Ltd
@@ -1148,6 +1148,7 @@ agency_id,agency_business_entity_name,client_name
 86,Ogilvy PR Health,Janssen
 86,Ogilvy PR Health,Ipsen
 86,Ogilvy PR Health,Amicus
+86,Ogilvy PR Health,Tresillian
 632,One Degree Advisory,Edith Cowan University
 670,Open Spectrum Pty Ltd,Australian Mobile Telecommunications Association
 744,O'Reilly Consulting,Waste and Recycling Association of South Australia
@@ -1185,6 +1186,7 @@ agency_id,agency_business_entity_name,client_name
 318,Porter Novelli Australia Pty Ltd,MedHealth
 318,Porter Novelli Australia Pty Ltd,Mars Australia Pty Ltd
 318,Porter Novelli Australia Pty Ltd,Rural Bank Ltd
+1829,Porter Thomas Pty Ltd,The Polygon Group Pty Ltd
 1812,Preferment Associates ,Ingham Group Limited
 516,Premier State Consulting Pty Ltd,Australian Hotels Association (NSW)
 516,Premier State Consulting Pty Ltd,Employers Mutual Limited
@@ -1387,7 +1389,6 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
 227,SAS Consulting Group Pty Ltd,Lives Lived Well
-227,SAS Consulting Group Pty Ltd,Indue Ltd
 227,SAS Consulting Group Pty Ltd,MAX Solutions
 227,SAS Consulting Group Pty Ltd,Wanda Ridong (Gold Coast) Development Pty Ltd
 227,SAS Consulting Group Pty Ltd,MATES IN CONSTRUCTION (AUST) LIMITED
