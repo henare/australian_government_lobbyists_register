@@ -43,7 +43,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 191,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=191,"Cemdia Pty, Ltd",Cemdia,49006518412,2017-07-04
 743,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=743,CETE Consulting Pty Ltd,CETE Consulting Pty Ltd,34065114187,2017-11-01
 157,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=157,Chikarovski & Associates Pty Ltd,Chikarovski & Associates Pty Ltd,92715851492,2017-09-27
-658,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=658,Chris Drummer ,Australian Corporate Affairs and Advocacy Counsel,54633570549,2017-10-12
+658,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=658,Chris Drummer ,Australian Corporate Affairs and Advocacy Counsel,54633570549,2017-11-20
 113,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=113,CHRIS SCHACHT,CHRIS SCHACHT,19927269400,2017-09-12
 764,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=764,Christmas Jalili Pty Ltd,Christmas Jalili,26614088881,2017-09-18
 215,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=215,"Clark, Kerren G",Numbat Consulting,98879897568,2017-06-28
@@ -55,15 +55,15 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 142,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=142,Consilium International Group Pty Ltd,Consilium International Group Pty Ltd,84094846358,2017-09-18
 638,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=638,Contextual Communications Pty Ltd,Contextual Communications,64142498557,2017-07-12
 453,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=453,Cornerstone Group Australia ,Cornerstone Group,99153936719,2017-11-03
-160,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=160,Cotterell Jannette Suzanne,Executive Counsel Australia,51364113263,2017-05-24
+160,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=160,Cotterell Jannette Suzanne,Executive Counsel Australia,51364113263,2017-11-21
 403,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=403,Covance Pty Ltd (Covance Market Access Services division),Covance Pty Ltd,99 003 613 134,2017-09-18
-81,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=81,CPR Communications & Public Relations Pty Ltd,CPR Communications & Public Relations Pty Ltd,94064357544,2017-09-18
+81,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=81,CPR Communications & Public Relations Pty Ltd,CPR Communications & Public Relations Pty Ltd,94064357544,2017-11-22
 683,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=683,Craig Emerson Economics Pty Ltd,Craig Emerson Economics Pty Ltd,24165141426,2017-07-03
 99,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=99,Craigleed Pty Ltd,McKew and Associates,91008657065,2017-07-05
 193,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=193,CRAKYL Pty Ltd,CRAKYL Pty Ltd,40105759279,2017-09-23
 105,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=105,CreditWise Pty Ltd,CreditWise,55097768799,2017-07-09
 580,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=580,Crosby Textor Research Strategies Results,CT Canberra Liaison,58101934454,2017-10-09
-673,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=673,CT International and Corporate Advisory Pty Ltd,CT International and Corporate Advisory Pty Ltd,72600464855,2017-11-17
+673,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=673,CT International and Corporate Advisory Pty Ltd,CT International and Corporate Advisory Pty Ltd,72600464855,2017-11-26
 795,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=795,Cube Public Relations Pty Ltd,Cube PR Pty Ltd,54110321090,2017-11-01
 153,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=153,Cultural Consulting,Cultural Consulting,87954656895,2017-10-16
 386,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=386,Currie Communications,Currie Communications Pty Ltd,82 050 913 909,2017-06-23
@@ -71,6 +71,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 221,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=221,Damian McGreevy Consulting Pty Ltd,Damian McGreevy Consulting Pty Ltd,93136533330,2017-07-08
 1827,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=1827,David Charles Barrow,David Charles Barrow,38933737108,2017-10-24
 16,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=16,Day & Hodge Associates Pty Ltd,Day & Hodge Associates Pty Ltd,28088863852,2017-07-12
+1830,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=1830,Denison Toyer Pty Ltd,Denison Toyer,25146672264,2017-11-14
 360,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=360,Diplomacy Pty Limited,Diplomacy,17148998645,2017-10-02
 454,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=454,Discourse Consulting Pty Ltd,Discourse Consulting Pty Ltd,49090692014,2017-07-19
 624,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=624,Donna Edman,Astute Advocacy,60366005776,2017-06-20
@@ -100,13 +101,14 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 750,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=750,GovCorp Pty Ltd,GovCorp Pty Ltd,87612391741,2017-07-04
 7,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=7,Government Relations Solutions Pty Ltd,GR Solutions,28125233543,2017-07-10
 125,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=125,Govstrat Pty Ltd,Govstrat,64964952044,2017-07-18
-122,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=122,GRA Everingham Pty Ltd,GRA Everingham Pty Ltd,56131702755,2017-10-09
-59,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=59,GRACosway Pty Ltd,GRACosway Pty Ltd,50082123822,2017-10-31
+122,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=122,GRA Everingham Pty Ltd,GRA Everingham Pty Ltd,56131702755,2017-11-21
+59,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=59,GRACosway Pty Ltd,GRACosway Pty Ltd,50082123822,2017-11-22
 717,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=717,Hartrim Nominees Pty Ltd,Hartrim Nominees Pty Ltd,98007408497,2017-07-04
 96,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=96,Hawker Britton Group Pty Ltd,Hawker Britton,79109681405,2017-11-03
 137,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=137,Health Communincations Australia Pty Limited,Health Communications Australia,87059613348,2017-07-10
 124,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=124,Helen & Mike O'Brien JP,Helen & Mike O'Brien JP,65791217178,2017-07-19
 541,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=541,Innovative Electronics Pty Ltd,Innovative Electronics Pty Ltd,47 008 579 566,2017-07-04
+714,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=714,Insight Strategy Pty Ltd,Insight Strategy,47609028015,2017-07-07
 170,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=170,Intech Strategies P/L,Intech Strategies,66006582921,2017-07-04
 38,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=38,Intercorp Pty Ltd,Intercorp Pty Ltd,88327768518,2017-09-18
 103,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=103,Ivydale Nominees Pty Ltd,Riley Mathewson Public Relations,97081134698,2017-07-28
@@ -157,7 +159,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 632,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=632,One Degree Advisory,One Degree,53153921058,2017-07-18
 670,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=670,Open Spectrum Pty Ltd,Open Spectrum Pty Ltd,55600755137,2017-07-07
 744,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=744,O'Reilly Consulting,O'Reilly Consulting,96727742003,2017-07-04
-72,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=72,Parker & Partners Pty Ltd,Parker & Partners Public Affairs,22083475683,2017-10-27
+72,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=72,Parker & Partners Pty Ltd,Parker & Partners Public Affairs,22083475683,2017-11-20
 1821,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=1821,People First HR Solutions Pty Ltd,People First HR Solutions Pty Ltd,72105160736,2017-09-15
 736,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=736,Peter Kane,Peter Kane,20 739 240 475,2017-06-20
 546,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=546,Policy Australia Pty Ltd,Policy Australia Pty Ltd ,27143938523,2017-09-19
@@ -165,7 +167,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 1829,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=1829,Porter Thomas Pty Ltd,Porter Thomas,28611394382,2017-11-06
 1812,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=1812,Preferment Associates ,John Thomas Campbell Lake ,30432308596,2017-07-06
 516,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=516,Premier State Consulting Pty Ltd,PremierState, 26 149 964 189,2017-11-10
-1817,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=1817,PremierNational Pty Ltd,PremierNational,71619450841,2017-10-05
+1817,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=1817,PremierNational Pty Ltd,PremierNational,71619450841,2017-11-21
 1805,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=1805,Primary Communication Partners Pty Limited,Primary Communication,36617864347,2017-10-20
 283,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=283,Probity International Pty. Ltd,Probity International,77076174126,2017-06-20
 622,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=622,Profile Consulting (Aust) Pty Ltd,Profile Consulting (Aust) Pty Ltd,47166122434,2017-09-25
@@ -198,7 +200,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 239,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=239,Sports Hydrant Pty Ltd,Sports Advocacy Group,91133062012,2017-07-18
 665,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=665,Spring Street Advisory,Spring Street Advisory,92603411650,2017-07-03
 490,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=490,Staindl Strategic Pty Ltd,Staindl Strategic,90 158 415 920,2017-08-07
-66,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=66,Statecraft,Statecraft Pty. Ltd.,90116598924,2017-07-18
+66,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=66,Statecraft,Statecraft Pty. Ltd.,90116598924,2017-11-21
 769,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=769,Strategic Partnership Group Pty Ltd,Strategic Partnership Group Pty Ltd,92613243057,2017-06-21
 753,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=753,Strategic Political Counsel Pty Ltd,Strategic Political Counsel Pty Ltd,24613884763,2017-09-26
 528,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=528,SYSTECH Consultants Pty Ltd,SYSTECH Consultants Pty Ltd,32008220577,2017-08-10
@@ -215,7 +217,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 1826,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=1826,The Shape Agency,The Shape Agency,67618969332,2017-11-01
 705,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=705,The Shrimpton Family Trust,Systems Engineering Services Pty Ltd,35038341041,2017-07-04
 95,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=95,The Strategic Counsel Pty Ltd,The Strategic Counsel,41087883675,2017-07-06
-424,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=424,The Taylor Street Consultancy P/L,Taylor Street Advisory,25069333400,2017-10-10
+424,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=424,The Taylor Street Consultancy P/L,Taylor Street Advisory,25069333400,2017-11-23
 698,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=698,The Trustee for Arthur Trust,MCM Strategic Communications Pty Ltd,63272133108,2017-10-24
 145,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=145,The Trustee for Bespoke Business Trust,Bespoke Approach,86231566780,2017-11-01
 589,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=589,The Trustee for Bespoke Territory Unit Trust,Bespoke Territory,31665863451,2017-11-02
@@ -243,7 +245,7 @@ id,url,business_entity_name,trading_name,abn,details_last_updated
 463,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=463,Walker Watterson Holdings Pty Ltd,Watterson Marketing Communications,73 067 056 311,2017-07-07
 97,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=97,Wayne Smith,Clean Economy Services,43635118016,2017-07-06
 503,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,52159456685,2017-11-03
-584,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=584,Willard Public Affairs Pty Limited,Willard Public Affairs Pty Limited,17165851856,2017-09-18
+584,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=584,Willard Public Affairs Pty Limited,Willard Public Affairs Pty Limited,17165851856,2017-11-20
 591,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=591,WILLIAM R & SUSAN V HASSELL,Hassell Advisory Services,85949464187,2017-07-03
 737,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=737,WORD TUCKER PTY LTD,WORD TUCKER PTY LTD,64610290929,2017-06-26
 641,http://lobbyists.pmc.gov.au/register/view_agency.cfm?id=641,Wurley Group Pty Ltd,Medtechnique Consulting,13100392827,2017-11-08

@@ -141,6 +141,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 221,Damian McGreevy Consulting Pty Ltd,Damian McGreevy,Principal,Yes,March 2009
 1827,David Charles Barrow,David Charles Barrow,Myself,No,""
 16,Day & Hodge Associates Pty Ltd,Adrienne Day-Hodge,Director,No,""
+1830,Denison Toyer Pty Ltd,Peter Doukas,Managing Director,No,""
 360,Diplomacy Pty Limited,Adam Kilgour,Managing Director,Yes,July 1993
 360,Diplomacy Pty Limited,Josh Williams,Director,No,""
 454,Discourse Consulting Pty Ltd,Belinda Neal,Director,Yes,August 2010
@@ -246,6 +247,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
+714,Insight Strategy Pty Ltd,Jody Fassina,Director,Yes,April 2001
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
 38,Intercorp Pty Ltd,Sonnie Lipshut,Chairman,No,""
 38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
@@ -468,7 +470,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
-66,Statecraft,Jackson Busse,Senior Consultant,No,""
 66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
 66,Statecraft,Anna Nix,Consultant,No,""
@@ -575,7 +576,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
 584,Willard Public Affairs Pty Limited,Mary Andrew,Consultant,No,""
-584,Willard Public Affairs Pty Limited,Kathryn Yule,Office Manager,No,""
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 737,WORD TUCKER PTY LTD,LESLIE GABRIEL WONG,PRINCIPAL,No,""
 641,Wurley Group Pty Ltd,Sarah Bernice Griffin,Principal,No,""

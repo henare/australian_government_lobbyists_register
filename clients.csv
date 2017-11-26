@@ -434,7 +434,6 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Australian and International Pilots' Association
 160,Cotterell Jannette Suzanne,Pharmaceutical Industry Council
 160,Cotterell Jannette Suzanne,Australian Childcare Alliance
-160,Cotterell Jannette Suzanne,Australian Technology Network (of universities)
 160,Cotterell Jannette Suzanne,canSpeak Australia (pro bono)
 160,Cotterell Jannette Suzanne,Medical Oncology Group of Australia
 160,Cotterell Jannette Suzanne,Pharmaceutical Industry Council
@@ -442,7 +441,6 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Alphapharm
 160,Cotterell Jannette Suzanne,Childcare SA
 160,Cotterell Jannette Suzanne,Leukaemia Foundation
-160,Cotterell Jannette Suzanne,Australian Technology Network
 160,Cotterell Jannette Suzanne,Carers Australia
 160,Cotterell Jannette Suzanne,BioCSL Pty Ltd
 160,Cotterell Jannette Suzanne,HWL Ebsworth Lawyers
@@ -526,7 +524,6 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Canopy Growth Corporation
 580,Crosby Textor Research Strategies Results,Literacy for Life Foundation
 673,CT International and Corporate Advisory Pty Ltd,Parmalat Australia Pty Ltd 
-673,CT International and Corporate Advisory Pty Ltd,STOCKLAND CORPORATION LTD
 673,CT International and Corporate Advisory Pty Ltd,SNIIP (AUSTRALIA) PTY LTD
 673,CT International and Corporate Advisory Pty Ltd,The Trustee for R F Capital Trust
 673,CT International and Corporate Advisory Pty Ltd,LEND LEASE CORPORATION LTD
@@ -553,6 +550,7 @@ agency_id,agency_business_entity_name,client_name
 16,Day & Hodge Associates Pty Ltd,National Medical Services Group
 16,Day & Hodge Associates Pty Ltd,National Association for Medical Deputising Australia Ltd
 16,Day & Hodge Associates Pty Ltd,Australian Cycling Promotion Foundation Limited
+1830,Denison Toyer Pty Ltd,Trades College Australia Pty Ltd
 360,Diplomacy Pty Limited,Anindilyakwa Land Council
 360,Diplomacy Pty Limited,G21 - Geelong Regional Alliance
 360,Diplomacy Pty Limited,Air New Zealand
@@ -716,12 +714,13 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Maxima Pearling Company
 122,GRA Everingham Pty Ltd,AWE Limited 
 122,GRA Everingham Pty Ltd,Australian Finance Group
-122,GRA Everingham Pty Ltd,Finder Exploration Pty Ltd 
 122,GRA Everingham Pty Ltd,Perth Radiological Clinic
 122,GRA Everingham Pty Ltd,Decmil Group Limited
 122,GRA Everingham Pty Ltd,Safe Watch Global 
 122,GRA Everingham Pty Ltd,Redimed
 122,GRA Everingham Pty Ltd,Newcrest Mining Limited 
+122,GRA Everingham Pty Ltd,Chamber of Commerce and Industry of Western Australia
+122,GRA Everingham Pty Ltd,Broadcast Australia 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -833,6 +832,11 @@ agency_id,agency_business_entity_name,client_name
 124,Helen & Mike O'Brien JP,Parins
 541,Innovative Electronics Pty Ltd,ESA/Inmarsat
 541,Innovative Electronics Pty Ltd,CSIRO
+714,Insight Strategy Pty Ltd,Capital Hill Advisory
+714,Insight Strategy Pty Ltd,Medical Technology Association of Australia
+714,Insight Strategy Pty Ltd,Wyndham Vacation Resorts
+714,Insight Strategy Pty Ltd,Open Colleges
+714,Insight Strategy Pty Ltd,Australian Timeshare and Holiday Ownership Council
 170,Intech Strategies P/L,Elbit Systems Ltd
 170,Intech Strategies P/L,Elbit Systems of Australia P/L
 38,Intercorp Pty Ltd,Israel Aerospace Industries Limited
@@ -1174,6 +1178,12 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,AUSTRALIAN INTERNATIONAL MILITARY GAMES LIMITED
 72,Parker & Partners Pty Ltd,Tresillian
 72,Parker & Partners Pty Ltd,Bell Shakespeare 
+72,Parker & Partners Pty Ltd,Amgen Australia
+72,Parker & Partners Pty Ltd,Seqirus
+72,Parker & Partners Pty Ltd,Royal College of General Practitioners
+72,Parker & Partners Pty Ltd,Tempus Energy
+72,Parker & Partners Pty Ltd,MARS Petcare Australia 
+72,Parker & Partners Pty Ltd,MARS WRIGLEY CONFECTIONERY
 1821,People First HR Solutions Pty Ltd,E Qubed
 1821,People First HR Solutions Pty Ltd,Mobile Electrics
 736,Peter Kane,Australian Meat Industry Council
@@ -1812,6 +1822,7 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,Eastern Domestic Violence Service Inc. (EDVOS)
 584,Willard Public Affairs Pty Limited,U.S. Chamber of Commerce
 584,Willard Public Affairs Pty Limited,Medicines Australia Ltd
+584,Willard Public Affairs Pty Limited,StubHub (an ebay company)
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
