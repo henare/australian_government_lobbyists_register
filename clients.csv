@@ -302,6 +302,7 @@ agency_id,agency_business_entity_name,client_name
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Oceanic Multitrading Pty Ltd
 658,Chris Drummer ,Australian Mobile Health Clinics Association
+658,Chris Drummer ,Warner Pharmacy
 113,CHRIS SCHACHT,PILATUS
 113,CHRIS SCHACHT,Liebherr Australia
 113,CHRIS SCHACHT,PMB Defence
@@ -527,6 +528,8 @@ agency_id,agency_business_entity_name,client_name
 673,CT International and Corporate Advisory Pty Ltd,SNIIP (AUSTRALIA) PTY LTD
 673,CT International and Corporate Advisory Pty Ltd,The Trustee for R F Capital Trust
 673,CT International and Corporate Advisory Pty Ltd,LEND LEASE CORPORATION LTD
+673,CT International and Corporate Advisory Pty Ltd,Ansaldo STS Australia Pty Ltd
+673,CT International and Corporate Advisory Pty Ltd,Platypus Investment Partners Ltd 
 795,Cube Public Relations Pty Ltd,Medicines Australia
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
@@ -780,6 +783,9 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Doterra Australia Pty Ltd
 59,GRACosway Pty Ltd,Dun & Bradstreet (Australia) Pty Ltd
 59,GRACosway Pty Ltd,Australian Airports Association Limited
+59,GRACosway Pty Ltd,Lutheran Services
+59,GRACosway Pty Ltd,Hays Specialist Recruitment (Australia) Pty Ltd
+59,GRACosway Pty Ltd,Recruitment & Consulting Services Association Australia & New Zealand 
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -1215,6 +1221,7 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,New Horizons Enterprises Ltd
 1817,PremierNational Pty Ltd,AA Crown Holdings Pty Ltd
 1817,PremierNational Pty Ltd,Children's Medical Research Institute
+1817,PremierNational Pty Ltd,Sydney Airport Corporation
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
