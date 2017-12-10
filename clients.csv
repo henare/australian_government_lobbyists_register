@@ -168,6 +168,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Ausgrid
 338,Barton Deakin ,Fullerton Healthcare Corporation Limited
 338,Barton Deakin ,Serco Australia Pty Ltd
+338,Barton Deakin ,Amazon
+338,Barton Deakin ,Vodafone Australia
+338,Barton Deakin ,Relationships Australia
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -313,12 +316,7 @@ agency_id,agency_business_entity_name,client_name
 113,CHRIS SCHACHT,AMS Filtration Pty Ltd
 764,Christmas Jalili Pty Ltd,Ultraspeed Australia
 764,Christmas Jalili Pty Ltd,The George Institute
-764,Christmas Jalili Pty Ltd,Veriluma
-764,Christmas Jalili Pty Ltd,Kidsoft
-764,Christmas Jalili Pty Ltd,Dtex Systems
 764,Christmas Jalili Pty Ltd,Intel Australia
-764,Christmas Jalili Pty Ltd,Splunk Services Australia
-764,Christmas Jalili Pty Ltd,McAfee Australia
 764,Christmas Jalili Pty Ltd,Australian Digital Currency Commerce Association
 764,Christmas Jalili Pty Ltd,Agripower Australia Limited
 764,Christmas Jalili Pty Ltd,Fireseed Capital
@@ -709,6 +707,7 @@ agency_id,agency_business_entity_name,client_name
 125,Govstrat Pty Ltd,Clubs Queensland
 125,Govstrat Pty Ltd,UGL
 125,Govstrat Pty Ltd,Port of Brisbane
+125,Govstrat Pty Ltd,Adani
 122,GRA Everingham Pty Ltd,Hall and Prior Aged Care Organisation
 122,GRA Everingham Pty Ltd,Cash Converters
 122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
@@ -786,6 +785,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Lutheran Services
 59,GRACosway Pty Ltd,Hays Specialist Recruitment (Australia) Pty Ltd
 59,GRACosway Pty Ltd,Recruitment & Consulting Services Association Australia & New Zealand 
+59,GRACosway Pty Ltd,Mattel Pty Ltd 
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -1089,7 +1089,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Minter Ellison
 565,Newgate Communications Pty Limited,Australia Post
 565,Newgate Communications Pty Limited,Australian Bankers' Association Inc
-565,Newgate Communications Pty Limited,Deliveroo Australia Pty Ltd
 565,Newgate Communications Pty Limited,WorldVentures Marketing Pty Ltd
 565,Newgate Communications Pty Limited,SME Gateway Pty Ltd
 565,Newgate Communications Pty Limited,cohealth
@@ -1126,13 +1125,15 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Darwin International Airport
 1798,Nexus Asia Pacific Pty Ltd,Zenex Pharmaceuticals
 1798,Nexus Asia Pacific Pty Ltd,Australian Food and Grocery Council
-1798,Nexus Asia Pacific Pty Ltd,Pathology Australia
 1798,Nexus Asia Pacific Pty Ltd,Nevro Medical Pty Ltd
 1798,Nexus Asia Pacific Pty Ltd,Osteoporosis Australia
 1798,Nexus Asia Pacific Pty Ltd,Complete Office Supplies
 1798,Nexus Asia Pacific Pty Ltd,Fonterra Australia Pty Ltd
 1798,Nexus Asia Pacific Pty Ltd,Australian Self Medication Industry
 1798,Nexus Asia Pacific Pty Ltd,Medicines Australia Limited
+1798,Nexus Asia Pacific Pty Ltd,Google Australia Pty Ltd
+1798,Nexus Asia Pacific Pty Ltd,ASC Pty Ltd
+1798,Nexus Asia Pacific Pty Ltd,The Star Pty Ltd
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Celgene
 86,Ogilvy PR Health,Research Australia
@@ -1694,6 +1695,7 @@ agency_id,agency_business_entity_name,client_name
 718,Trustee of Kerans Family Trust,Facebook Inc.
 718,Trustee of Kerans Family Trust,ViaSat Inc.
 718,Trustee of Kerans Family Trust,OmniSpace
+718,Trustee of Kerans Family Trust,The Boeing Company
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
 680,TSB Advisory Pty Ltd,UniSuper Management Pty Ltd
@@ -1830,6 +1832,7 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,U.S. Chamber of Commerce
 584,Willard Public Affairs Pty Limited,Medicines Australia Ltd
 584,Willard Public Affairs Pty Limited,StubHub (an ebay company)
+584,Willard Public Affairs Pty Limited,DHL Supply Chain Pty Ltd
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens

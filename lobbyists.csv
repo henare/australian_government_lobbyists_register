@@ -12,7 +12,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 588,Argos Consulting,Brett Robin Hilder,Owner,No,""
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke,Director,Yes,August 2004
 770,Asys Consulting,Anthony Nagy,Director,No,""
-770,Asys Consulting,Matt Stevens,Director,No,""
 63,AusAccess Unit Trust,Mark Ridgway,Chairman,Yes,May 1994
 747,Australian Industry Facilitation,David Mitchell,Chief Executive Officer,Yes,August 2005
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
@@ -31,7 +30,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
 338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
-338,Barton Deakin ,Gabrielle Hedge,Policy and Business Analyst,No,""
 338,Barton Deakin ,Robert Bower,Policy and Business Analyst,No,""
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
@@ -103,7 +101,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,No,""
 453,Cornerstone Group Australia ,Brigid Meney ,Associate Policy and Strategy ,Yes,September 2016
-453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,No,""
+453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,Yes,March 2017
 160,Cotterell Jannette Suzanne,Serena Beaumont Owles,Senior Consultant,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
@@ -333,7 +331,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
-565,Newgate Communications Pty Limited,Simon Troeth,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Sam Deans,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Gail Morgan,Associate Partner,Yes,May 2006
 565,Newgate Communications Pty Limited,Adam Le Lievre,Account Director,Yes,March 2016
@@ -416,8 +413,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Bob Stevens ,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Astrid Serventy,Associate Director,Yes,October 2013
 242,Purple Communications Australia Pty Ltd,Karen Brown,Associate Director,Yes,March 2013
-242,Purple Communications Australia Pty Ltd,Chantal Hartstone,Account Manager,No,""
-242,Purple Communications Australia Pty Ltd,Timonthy Grey Smith,Special Counsel,No,""
+242,Purple Communications Australia Pty Ltd,Chantal Hartstone,Associate Director,No,""
+242,Purple Communications Australia Pty Ltd,Timonthy Grey Smith,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Molly Cooke,Consultant,No,""
 242,Purple Communications Australia Pty Ltd,Ruth Callaghan,Associate Director,No,""
 242,Purple Communications Australia Pty Ltd,Jamie Henderson ,Associate Director,Yes,March 2017
