@@ -76,9 +76,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
 764,Christmas Jalili Pty Ltd,Damon Jalili,Principal,Yes,August 2016
 215,"Clark, Kerren G",Kerren Clark,Principal,No,""
-1808,Clean Energy Strategies Pty Ltd,Kristina Photios,Director,No,""
-1808,Clean Energy Strategies Pty Ltd,Ian Hancock,Director,No,""
-1808,Clean Energy Strategies Pty Ltd,Alex Gibson,Advisor,No,""
 475,Clifton Consulting Services Pty Ltd,John Ridley,Principal,No,""
 475,Clifton Consulting Services Pty Ltd,Ken Davis,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Louisa McPhee,Senior Consultant,No,""
@@ -276,11 +273,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 115,KPMG,Warwick Ryan,Director,Yes,January 1993
 115,KPMG,Stefano Moritsch,Senior Consultant,No,""
-115,KPMG,Jeremy Murdoch,Consultant,No,""
-115,KPMG,Johannes Van Der Walt,Senior Consultant,No,""
-115,KPMG,Daniel Naef,Consultant,No,""
 115,KPMG,Lachlan Yeend,Consultant,No,""
-115,KPMG,Emma Lomas,Consultant,No,""
 115,KPMG,Jeremy Murdoch,Contractor,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
@@ -421,7 +414,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 492,Rachael Sweeney ,Rachael Sweeney,Director,No,""
 492,Rachael Sweeney ,Natasha Kociski,Junior Communications Consultant,No,""
-492,Rachael Sweeney ,Emma McQuilkin,Senior Policy Adviser ,Yes,September 2016
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
@@ -448,7 +440,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 227,SAS Consulting Group Pty Ltd,Victoria Qiu,Director China,No,""
 227,SAS Consulting Group Pty Ltd,Lisa Palu,Senior Consultant,No,""
 227,SAS Consulting Group Pty Ltd,John Short,Principal Consultant,No,""
-167,Scott & Beaumont Pty Ltd,Glenda Gartrell,Director,No,""
 1806,Scott Mitchell and Partners Pty Ltd,Scott Mitchell,Director,Yes,February 2006
 143,Sefiani Communications Group,Todd Loydell,Government Relations Lead,Yes,January 2007
 143,Sefiani Communications Group,Justin Clark,Director,No,""

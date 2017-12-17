@@ -171,6 +171,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Amazon
 338,Barton Deakin ,Vodafone Australia
 338,Barton Deakin ,Relationships Australia
+338,Barton Deakin ,Vietnam Nurses Action Group 
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -325,11 +326,6 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,Adobe Systems
 215,"Clark, Kerren G",Oliver Hume Property Funds
 215,"Clark, Kerren G",OMC International
-1808,Clean Energy Strategies Pty Ltd,AGL Energy Limited
-1808,Clean Energy Strategies Pty Ltd,Siemens Ltd
-1808,Clean Energy Strategies Pty Ltd,Future Superannuation Holdings Pty Ltd
-1808,Clean Energy Strategies Pty Ltd,Acciona
-1808,Clean Energy Strategies Pty Ltd,Lighting and Energy Conservation Australia 
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
@@ -945,12 +941,10 @@ agency_id,agency_business_entity_name,client_name
 255,John Scott Barker,Moortech Pty Ltd
 264,"John, Susan Maree",Bioventus Australia Pty Ltd
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
-115,KPMG,The Australian Federation of Travel Agents
 115,KPMG,Kawasaki Heavy Industries Ltd
-115,KPMG,Tourism Shopping Reform Group
-115,KPMG,Amazon.com Inc
 115,KPMG,Australian Mushroom Growers Association
 115,KPMG,Seafast Pty Ltd
+115,KPMG,The Good Foundation Pty Ltd
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1418,9 +1412,6 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Santos
 227,SAS Consulting Group Pty Ltd,Sunset Power International T/A Delta Electricity
 227,SAS Consulting Group Pty Ltd,CNVM Investment Pty Ltd
-167,Scott & Beaumont Pty Ltd,ConnectLand Pty Ltd; Koppers Australia
-167,Scott & Beaumont Pty Ltd,WSLloyd
-167,Scott & Beaumont Pty Ltd,Galbraith and Co
 1806,Scott Mitchell and Partners Pty Ltd,Telstra Corporation Ltd
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
 143,Sefiani Communications Group,Yara Pilbera
@@ -1696,6 +1687,7 @@ agency_id,agency_business_entity_name,client_name
 718,Trustee of Kerans Family Trust,ViaSat Inc.
 718,Trustee of Kerans Family Trust,OmniSpace
 718,Trustee of Kerans Family Trust,The Boeing Company
+718,Trustee of Kerans Family Trust,Iridium Satellite LLC
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
 680,TSB Advisory Pty Ltd,UniSuper Management Pty Ltd
