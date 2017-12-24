@@ -172,6 +172,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Vodafone Australia
 338,Barton Deakin ,Relationships Australia
 338,Barton Deakin ,Vietnam Nurses Action Group 
+338,Barton Deakin ,Chamber of Commerce and Industry Western Australia
+338,Barton Deakin ,DTI Corporation Australia Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -185,6 +187,8 @@ agency_id,agency_business_entity_name,client_name
 1828,Blunden and Associates,PayPal Australia
 614,Bossy Group Pty Ltd,The Hospitals Contribution Fund of Australia Limited
 614,Bossy Group Pty Ltd,Simavita Limited
+614,Bossy Group Pty Ltd,Apptio Inc
+614,Bossy Group Pty Ltd,Infosys
 6,Bramex Pty Ltd,Reach Beyond Australia
 6,Bramex Pty Ltd,Inmarsat and subsidiaries
 657,Brent William Knevett,Fivium
@@ -782,6 +786,10 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Hays Specialist Recruitment (Australia) Pty Ltd
 59,GRACosway Pty Ltd,Recruitment & Consulting Services Association Australia & New Zealand 
 59,GRACosway Pty Ltd,Mattel Pty Ltd 
+59,GRACosway Pty Ltd,Rocla Pty Limited 
+59,GRACosway Pty Ltd,Stramit Corporation Pty Ltd
+59,GRACosway Pty Ltd,Tradelink Pty Ltd 
+59,GRACosway Pty Ltd,Iplex Pipelines Australia Pty Ltd
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -1059,8 +1067,8 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,Coogee Chemicals Pty Ltd
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
 444,Michael Megaw,Western Australian Deaf Society
-752,MMJ Consulting,Sound Radiology 
 752,MMJ Consulting,Readymade Productions Pty Ltd
+752,MMJ Consulting,Family Drug Support
 756,MMR Consulting Pty Ltd,Before and After School Care Pty Ltd
 796,Momentum Strategic Communication Services,Dtex
 796,Momentum Strategic Communication Services,Transgrid
@@ -1154,6 +1162,7 @@ agency_id,agency_business_entity_name,client_name
 86,Ogilvy PR Health,Ipsen
 86,Ogilvy PR Health,Amicus
 86,Ogilvy PR Health,Tresillian
+86,Ogilvy PR Health,Metabolic Dietary Disorders Association
 632,One Degree Advisory,Edith Cowan University
 670,Open Spectrum Pty Ltd,Australian Mobile Telecommunications Association
 744,O'Reilly Consulting,Waste and Recycling Association of South Australia
@@ -1303,6 +1312,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Gold Road Resources Limited
 242,Purple Communications Australia Pty Ltd,SAI Global Pty Limited
 242,Purple Communications Australia Pty Ltd,Australian Institute of Conveyancers (WA Division)
+242,Purple Communications Australia Pty Ltd,Contract Resources
 29,Pynfall Pty Ltd,Project System & Management GmbH
 29,Pynfall Pty Ltd,Photonis Technologies SAS
 492,Rachael Sweeney ,Regional Capitals Australia 
@@ -1331,9 +1341,7 @@ agency_id,agency_business_entity_name,client_name
 587,Richard Gilbert Corporate Advisory Pty Ltd,National Australia Bank Limited
 35,Richardson Coutts,Merck Serono Australia Pty Ltd
 35,Richardson Coutts,Intergraph
-35,Richardson Coutts,Boveri Defence Systems
 35,Richardson Coutts,McKinsey and Company
-35,Richardson Coutts,Jagermeister
 35,Richardson Coutts,Royal Caribbean Line Australia
 35,Richardson Coutts,Brookfield Infrastructure Group
 35,Richardson Coutts,FIPRA
@@ -1347,7 +1355,6 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Sustain Community Housing
 35,Richardson Coutts,Goals A and N
 35,Richardson Coutts,Partners in Performance
-35,Richardson Coutts,Mallinckrodt Pharmaceuticals Inc 
 35,Richardson Coutts,GTI Media
 35,Richardson Coutts,Emergency Medicine Foundation
 35,Richardson Coutts,Magnovate Transportation Inc
@@ -1355,6 +1362,8 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Tribal Group Plc
 35,Richardson Coutts,Bengalla Mining Company
 35,Richardson Coutts,Conexu Foundation
+35,Richardson Coutts,Turnkey Education Solutions
+35,Richardson Coutts,Sky Education Group
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 

@@ -157,7 +157,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
 31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Partner,Yes,June 1986
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,July 2016
-31,Endeavour Consulting Group Pty Ltd,Fiona Landis ,Associate Partner,Yes,April 2010
 74,Enhance Corporate Pty Ltd,James Peter Elder,Executive Chairman,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
 71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
@@ -332,6 +331,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Sara Hourigan,Account Director,No,""
 565,Newgate Communications Pty Limited,Nicholas Maher,Senior Adviser,Yes,September 2014
 565,Newgate Communications Pty Limited,David Reeves,Senior Consultant,Yes,February 2008
+565,Newgate Communications Pty Limited,Liam Jones,Consultant,Yes,May 2016
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
@@ -346,13 +346,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
 86,Ogilvy PR Health,Emma Nunan,Senior Account Manager,No,""
-86,Ogilvy PR Health,Rachel Stanton,Senior Account Director,No,""
+86,Ogilvy PR Health,Rachel Stanton,Business Director,No,""
 86,Ogilvy PR Health,Kate Parson,Senior Consultant,No,""
-86,Ogilvy PR Health,Michael Lane,Account Manager,No,""
+86,Ogilvy PR Health,Michael Lane,Senior Account Manager,No,""
 86,Ogilvy PR Health,Chloe Dougherty,Account Executive,No,""
 86,Ogilvy PR Health,Tania Jayesuria,Practice Director,No,""
 86,Ogilvy PR Health,Carly Vale,Senior Consultant,No,""
-86,Ogilvy PR Health,Alex McInnes,Account Coordinator,No,""
+86,Ogilvy PR Health,Alex McInnes,Account Executive,No,""
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
@@ -407,8 +407,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Astrid Serventy,Associate Director,Yes,October 2013
 242,Purple Communications Australia Pty Ltd,Karen Brown,Associate Director,Yes,March 2013
 242,Purple Communications Australia Pty Ltd,Chantal Hartstone,Associate Director,No,""
-242,Purple Communications Australia Pty Ltd,Timonthy Grey Smith,Account Manager,No,""
-242,Purple Communications Australia Pty Ltd,Molly Cooke,Consultant,No,""
+242,Purple Communications Australia Pty Ltd,Timothy Grey Smith,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Ruth Callaghan,Associate Director,No,""
 242,Purple Communications Australia Pty Ltd,Jamie Henderson ,Associate Director,Yes,March 2017
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
@@ -461,6 +460,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
 66,Statecraft,Anna Nix,Consultant,No,""
+66,Statecraft,Zann Maxwell ShickGrant,Associate Consultant,Yes,July 2016
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes,Director,No,""
 753,Strategic Political Counsel Pty Ltd,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
 753,Strategic Political Counsel Pty Ltd,Professor David Gracey,Senior Counsel,No,""
