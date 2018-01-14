@@ -114,7 +114,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
-580,Crosby Textor Research Strategies Results,Andrew Laidlaw,Director ,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
 580,Crosby Textor Research Strategies Results,George Brougham,Consultant,No,""
 580,Crosby Textor Research Strategies Results,Giorgia Christmas,Senior Consultant,Yes,October 2015
@@ -174,6 +173,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
 214,FIPRA Australia Pty Limited,Shannan Manton,Account Executive,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director Five Corners Pty Ltd,No,""
+1835,For Purpose Pty Ltd ,Caterina Giorgi ,Managing Director ,Yes,December 2007
 202,Fowlstone Communications,Geoff Fowlstone,Principal ,No,""
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
 484,FPL Advisory Pty Ltd,Susanne Porter,Operations and Digital Communications Manager,No,""
@@ -247,8 +247,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 38,Intercorp Pty Ltd,Jack Baldwin,Marketing Manager,No,""
 103,Ivydale Nominees Pty Ltd,Richard Taylor,Senior Consultant,No,""
 103,Ivydale Nominees Pty Ltd,Des Riley,Director,No,""
-103,Ivydale Nominees Pty Ltd,Clint Ford,Senior Consultant,No,""
-103,Ivydale Nominees Pty Ltd,The Hon James G Clarko AM AE JP,Senior Associate,Yes,December 1996
 103,Ivydale Nominees Pty Ltd,Michael Megaw,Senior Associate,Yes,November 1996
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
 586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,Yes,January 2000
@@ -335,6 +333,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
 766,Next Level Strategic Services Pty Ltd,Danyelle Nolan ,Senior Consultant,No,""
+766,Next Level Strategic Services Pty Ltd,Mark Hrycek,Senior Advisor,No,""
 1798,Nexus Asia Pacific Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
 1798,Nexus Asia Pacific Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
 1798,Nexus Asia Pacific Pty Ltd,Sarah Cullens,Senior Advisor,Yes,February 2016
