@@ -167,6 +167,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
+564,Etched Communications Pty Ltd,Nick Albrow,Account Director,No,""
 776,Extended Lifestyle Int. Pty Ltd,Peter Gregory Gesling,Director,Yes,September 2016
 324,FCC Partnership Pty Ltd,Hugh Fraser,Managing Director,No,""
 214,FIPRA Australia Pty Limited,John Richardson,Principal,Yes,May 1995
@@ -191,7 +192,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
 1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
 1,Gambolling Pty Ltd,Jane Beer,PA/Consultant,Yes,August 2016
-1,Gambolling Pty Ltd,Barbara Joan Carney,Consultant,Yes,June 2002
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
 150,Glide Pty Ltd,Gail White,Senior Consultant,No,""
@@ -299,6 +299,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
 720,MIBD Strategy ,Marc (Meir) Itzchaki,Principal ,Yes,December 2014
+1836,MIBD Strategy Pty Ltd,Marc (Meir) Itzchaki,CEO,No,""
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Chairman,No,""
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Managing Partner,No,""
@@ -356,7 +357,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
 72,Parker & Partners Pty Ltd,Peta Lange,Director,Yes,January 2009
 72,Parker & Partners Pty Ltd,Arli Miller,Director,No,""
-72,Parker & Partners Pty Ltd,Yat Shum,Account Coordinator,No,""
+72,Parker & Partners Pty Ltd,Yat Shum,Account Executive,No,""
 72,Parker & Partners Pty Ltd,Ksenya Belooussova,Senior Account Manager,No,""
 72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,Yes,December 2012
 72,Parker & Partners Pty Ltd,Nicole Quinn,Director,Yes,December 2009
@@ -369,7 +370,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Managing Partner,No,""
 318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Director Melbourne,No,""
 318,Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,Managing Director Sydney,No,""
-318,Porter Novelli Australia Pty Ltd,Jennifer Hill,Senior consultant,Yes,August 2014
 1829,Porter Thomas Pty Ltd,Paul Tierney,Managing Director,No,""
 1812,Preferment Associates ,John Thomas Campbell Lake,principal,Yes,November 2009
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
@@ -383,6 +383,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1817,PremierNational Pty Ltd,Ian Hancock,Managing Director,No,""
 1817,PremierNational Pty Ltd,Alex Gibson,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Alicja Rudz,Senior Adviser,No,""
+1817,PremierNational Pty Ltd,Sabina Husic,Director,No,""
 1805,Primary Communication Partners Pty Limited,Christopher Hall,CEO,No,""
 1805,Primary Communication Partners Pty Limited,Irina Kamychnikova,Account Director  ,No,""
 1805,Primary Communication Partners Pty Limited,Jennifer Muir,Chief Counsel,No,""
@@ -410,7 +411,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Jamie Henderson ,Associate Director,Yes,March 2017
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 492,Rachael Sweeney ,Rachael Sweeney,Director,No,""
-492,Rachael Sweeney ,Natasha Kociski,Junior Communications Consultant,No,""
+492,Rachael Sweeney ,Angela Scicluna,Media Communications Consultant ,No,""
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
@@ -460,8 +461,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Anna Nix,Consultant,No,""
 66,Statecraft,Zann Maxwell ShickGrant,Associate Consultant,Yes,July 2016
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes,Director,No,""
-753,Strategic Political Counsel Pty Ltd,Michael John Kauter,Founder and Principal Counsel,Yes,December 2014
-753,Strategic Political Counsel Pty Ltd,Professor David Gracey,Senior Counsel,No,""
+753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter,Founder and Principal Counsel,Yes,December 2014
+753,Strategic Political Counsel Pty Ltd,Professor David Matthew Gracey,Senior Counsel,No,""
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 235,The Agenda Group Pty Ltd,James McGarvey,Director,No,""
 235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
@@ -473,7 +474,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Lucy Kozlowski,Senior Account Executive,Yes,November 2010
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora furman,Senior Manager Campaigns,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Sam Bishop,Senior Account Executive,No,""
-292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Carlos Ibarra,Senior Account Executive,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Thomas Grant Cameron,Senior Account Executive,Yes,October 2013
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
@@ -525,7 +525,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 328,THEMA Consulting Pty Ltd,Koji Makino,Senior Analyst,No,""
 328,THEMA Consulting Pty Ltd,Nimita Arora,Senior Partner,No,""
 328,THEMA Consulting Pty Ltd,Carmelina Guarnieri,Senior Analyst,No,""
-328,THEMA Consulting Pty Ltd,Matthew Needham,Senior Analyst,No,""
 328,THEMA Consulting Pty Ltd,Magda Ellis,Senior Analyst,No,""
 1825,Times Lawyers Pty Ltd,Mr. Kam Sham LEUNG,Managing Director,No,""
 1825,Times Lawyers Pty Ltd,Mr. Kenneth K. K. Chow,Legal Executive Director,No,""
