@@ -52,7 +52,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 654,C2hills Investments Pty Limited,Danielle Ann Maltman,Business Consultant,No,""
 789,Cahill and Bailey Pty Ltd,Casey Cahill,Managing Partner,No,""
 789,Cahill and Bailey Pty Ltd,Simon Bailey,Partner,No,""
-787,Capetal Advisory Pty Ltd,Nathan Paine,Chief Executive Officer,No,""
+787,Capetal Advisory Pty Ltd,Nathan Paine,Managing Director,No,""
 787,Capetal Advisory Pty Ltd,Matthew Clemow,Director,No,""
 787,Capetal Advisory Pty Ltd,Bradley Green,Associate Director,No,""
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
@@ -95,6 +95,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 142,Consilium International Group Pty Ltd,Michael Zarew,Managing Director,No,""
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
+2837,Coode Holdings Pty Ltd,Clint Robert Ford,Managing Director,No,""
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,No,""
 453,Cornerstone Group Australia ,Brigid Meney ,Associate Policy and Strategy ,Yes,September 2016
 453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,Yes,March 2017
@@ -163,7 +164,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Darren Rodrigo,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jenny Stokes,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Luke Brown,Associate Director,No,""
-71,Essential Media Communications Pty Ltd,Alana Mew ,Media Advisor,No,""
+71,Essential Media Communications Pty Ltd,Alana Mew ,Senior Account Manager,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
@@ -206,7 +207,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 125,Govstrat Pty Ltd,Ken Macpherson,Principal Adviser,No,""
 122,GRA Everingham Pty Ltd,Jason Marocchi,Managing Director ,No,""
 122,GRA Everingham Pty Ltd,Amanda Reid,Director,Yes,January 2002
-122,GRA Everingham Pty Ltd,Kareece van der Woude,Client Support,No,""
+122,GRA Everingham Pty Ltd,Kareece Broadway,Client Support,No,""
 122,GRA Everingham Pty Ltd,Hon Eric Ripper,Chairman,No,""
 122,GRA Everingham Pty Ltd,Patrick Fagan,Associate Director ,Yes,September 2015
 122,GRA Everingham Pty Ltd,Elizabeth Nedela Campbell,Associate,Yes,August 2013
@@ -280,7 +281,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Annette Stenhouse,Account Manager,No,""
 566,London Agency Pty Ltd,Sophie Herlihy,Account Manager,No,""
-566,London Agency Pty Ltd,Niamh O'Connor,PR ,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
 13,LOPAC Consulting Pty Limited,Robert Sidney Parker,Managing Director,Yes,June 2005
 774,Lunik Pty Ltd,Emily Minson,Director,Yes,July 2008
@@ -443,7 +443,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 143,Sefiani Communications Group,Justin Clark,Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
-676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Technical Marketing Manager,Yes,August 2011
+676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Business and Operations Manager,Yes,August 2011
 676,Seismic Asia Pacific Pty Ltd,Damian Edwin Mullany,Senior Technician,No,""
 681,Simeon Duncan,Simeon Duncan,Principal,Yes,November 2007
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
@@ -463,6 +463,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes,Director,No,""
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter,Founder and Principal Counsel,Yes,December 2014
 753,Strategic Political Counsel Pty Ltd,Professor David Matthew Gracey,Senior Counsel,No,""
+753,Strategic Political Counsel Pty Ltd,Clint Robert Ford,Head of Operations WA,No,""
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 235,The Agenda Group Pty Ltd,James McGarvey,Director,No,""
 235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
@@ -483,7 +484,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 768,The PR Counsel,Kristy McSweeney,Principal,Yes,September 2014
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
-268,The Premier Communications Group Pty Ltd.,Ross Grove,Senior Advisor,No,""
 1826,The Shape Agency,Timothy James O'Halloran,Director,Yes,September 2013
 705,The Shrimpton Family Trust,Barry Shrimpton,Director,No,""
 95,The Strategic Counsel Pty Ltd,Donna Staunton,Managing Director,No,""
@@ -526,8 +526,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 328,THEMA Consulting Pty Ltd,Nimita Arora,Senior Partner,No,""
 328,THEMA Consulting Pty Ltd,Carmelina Guarnieri,Senior Analyst,No,""
 328,THEMA Consulting Pty Ltd,Magda Ellis,Senior Analyst,No,""
-1825,Times Lawyers Pty Ltd,Mr. Kam Sham LEUNG,Managing Director,No,""
-1825,Times Lawyers Pty Ltd,Mr. Kenneth K. K. Chow,Legal Executive Director,No,""
+1825,Times Lawyers Pty Ltd,Kenneth Kok Kin Chow,Director,No,""
 772,Tokua Pty Ltd,Louise Markus,Principal Consultant,Yes,July 2016
 718,Trustee of Kerans Family Trust,Andrew James Kerans,Principal,Yes,January 2014
 680,TSB Advisory Pty Ltd,Trevor John Burns,Director,Yes,June 1998
@@ -545,9 +544,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Hannah Watterson,Director,No,""
 463,Walker Watterson Holdings Pty Ltd, Nermin Bajric,Senior Consultant ,No,""
 463,Walker Watterson Holdings Pty Ltd,Sidar Thams,Admin/Operations,No,""
-463,Walker Watterson Holdings Pty Ltd,Dorothy Kennedy,Senior Consultant,Yes,October 1994
 463,Walker Watterson Holdings Pty Ltd,Oisin Ocallaghan ,Senior Consultant ,No,""
-463,Walker Watterson Holdings Pty Ltd,Ruth Grigg,Admin/Operations,No,""
 463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Senior Consultant,No,""
 97,Wayne Smith,Wayne Christopher Smith,Director,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
