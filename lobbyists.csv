@@ -92,6 +92,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Warren King,Special Counsel ,Yes,March 2015
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Alistair Nicholas,Director Special Projects,Yes,October 2000
+428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 142,Consilium International Group Pty Ltd,Michael Zarew,Managing Director,No,""
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
@@ -163,8 +164,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Peter Stahel,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Darren Rodrigo,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jenny Stokes,Account Manager,No,""
+71,Essential Media Communications Pty Ltd,Monique Vandeleur,Communications Consultant,Yes,September 2016
 71,Essential Media Communications Pty Ltd,Luke Brown,Associate Director,No,""
 71,Essential Media Communications Pty Ltd,Alana Mew ,Senior Account Manager,No,""
+71,Essential Media Communications Pty Ltd,Bronte Kerr,Communications Consultant,No,""
+71,Essential Media Communications Pty Ltd,Hayley Conway,Senior Account Manager,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
@@ -180,7 +184,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 484,FPL Advisory Pty Ltd,Steve Cusworth,Director,No,""
 484,FPL Advisory Pty Ltd,Susanne Porter,Operations and Digital Communications Manager,No,""
 484,FPL Advisory Pty Ltd,Sam Perkins,Policy Analyst,No,""
-738,Freight  Trade Alliance (FTA) Pty Ltd,Travis Brooks-Garrett,Commercial and Strategy,No,""
+738,Freight  Trade Alliance (FTA) Pty Ltd,Travis Brooks-Garrett,Director,No,""
 738,Freight  Trade Alliance (FTA) Pty Ltd,Paul David Zalai,Director,Yes,June 1999
 333,FTI Consulting (Perth) Pty Ltd,Cameron Morse,Managing Director Corporate and Public Affairs,No,""
 333,FTI Consulting (Perth) Pty Ltd,Michael Groves,Director,No,""
@@ -230,6 +234,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Vanessa Vartto,Director,No,""
 59,GRACosway Pty Ltd,Andrew Cox,Director,Yes,December 2007
 59,GRACosway Pty Ltd,James Ricupito ,Research and Policy Analyst ,Yes,December 2015
+2838,GrayMorr Consulting Pty. Ltd.,Garth Morrison,Director,No,""
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
@@ -241,7 +246,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
-714,Insight Strategy Pty Ltd,Jody Fassina,Director,Yes,April 2001
+714,Insight Strategy Pty Ltd,Jody Fassina,Managing Director,Yes,April 2001
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
 38,Intercorp Pty Ltd,Sonnie Lipshut,Chairman,No,""
 38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
@@ -254,12 +259,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1816,Jerome Rault Media Pty Ltd,Jerome Rault,CEO,No,""
 319,Jo Scard Pty Ltd,Jo Scard,Business Founder former adviser to former Minister for Immigration & Citizenship until 14/9/10,Yes,September 2010
 319,Jo Scard Pty Ltd,Jackie Hanafie,Director,No,""
-319,Jo Scard Pty Ltd,Elise Dare,Associate,No,""
 319,Jo Scard Pty Ltd,Alys Clare Wemyss Francis,Associate,No,""
 319,Jo Scard Pty Ltd,RosemarySpry,Consultant,Yes,December 2007
-319,Jo Scard Pty Ltd,Kristie Kocanov,Administration Officer,Yes,October 2012
 319,Jo Scard Pty Ltd,Kaela Good ,Associate,No,""
-319,Jo Scard Pty Ltd,Nicolle White,Associate,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 241,John Cook,Dr John Cook,Principal,Yes,April 2009
@@ -333,7 +335,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Madeline Simmonds,Senior Advisor,No,""
-766,Next Level Strategic Services Pty Ltd,Danyelle Nolan ,Senior Consultant,No,""
 766,Next Level Strategic Services Pty Ltd,Mark Hrycek,Senior Advisor,No,""
 1798,Nexus Asia Pacific Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
 1798,Nexus Asia Pacific Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
@@ -373,12 +374,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1829,Porter Thomas Pty Ltd,Paul Tierney,Managing Director,No,""
 1812,Preferment Associates ,John Thomas Campbell Lake,principal,Yes,November 2009
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
-516,Premier State Consulting Pty Ltd,Nick Campbell,Partner,Yes,December 1999
 516,Premier State Consulting Pty Ltd,Ian Hancock,Director,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
 516,Premier State Consulting Pty Ltd,Alex Gibson,Advisor,No,""
 516,Premier State Consulting Pty Ltd,Alicja Rudz,Senior Advisor,No,""
 516,Premier State Consulting Pty Ltd,Lachlan Crombie,Senior Advisor,No,""
+516,Premier State Consulting Pty Ltd,Sabina Husic,Director,No,""
 1817,PremierNational Pty Ltd,Michael Photios,Chairman,No,""
 1817,PremierNational Pty Ltd,Ian Hancock,Managing Director,No,""
 1817,PremierNational Pty Ltd,Alex Gibson,Senior Adviser,No,""
@@ -409,6 +410,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Timothy Grey Smith,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Ruth Callaghan,Associate Director,No,""
 242,Purple Communications Australia Pty Ltd,Jamie Henderson ,Associate Director,Yes,March 2017
+242,Purple Communications Australia Pty Ltd,Michael Cairnduff,Associate Director,No,""
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 492,Rachael Sweeney ,Rachael Sweeney,Director,No,""
 492,Rachael Sweeney ,Angela Scicluna,Media Communications Consultant ,No,""
@@ -458,7 +460,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
 66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
-66,Statecraft,Anna Nix,Consultant,No,""
+66,Statecraft,Anna Kumar,Consultant,No,""
 66,Statecraft,Zann Maxwell ShickGrant,Associate Consultant,Yes,July 2016
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes,Director,No,""
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter,Founder and Principal Counsel,Yes,December 2014
@@ -507,10 +509,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 550,The Trustee for Connelly Project Resources,Michael Peter Connelly,Director,No,""
 550,The Trustee for Connelly Project Resources,Christopher Mark Kenward,Senior Consultant,No,""
 550,The Trustee for Connelly Project Resources,Cassandra Fenaughty,Senior Consultant,No,""
-420,The trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
-420,The trustee for ECG Advisory Trust,Jonathan Epstein,Director,Yes,November 2007
+420,The Trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
+420,The Trustee for ECG Advisory Trust,Jonathan Epstein,Director,Yes,November 2007
 41,The Trustee for Hilton Valley Investment,Alistair Urquhart,Director,No,""
-1809,The Trustee for Jackman Family Trust,Gavin Jackman,Director,Yes,December 2007
+1809,The Trustee for Jackman Family Trust,Gavin Jackman,Principal,Yes,December 2007
 28,The Trustee for Markeit Family Trust,Keith Blyth,Managing Director,No,""
 668,The Trustee for Sandra Eccles Family Trust,Sandra Joy Eccles,Director ,Yes,January 1999
 117,The Trustee for the Bowden Family Trust,Bob Bowden,Chief Executive,No,""
@@ -546,6 +548,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Sidar Thams,Admin/Operations,No,""
 463,Walker Watterson Holdings Pty Ltd,Oisin Ocallaghan ,Senior Consultant ,No,""
 463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Senior Consultant,No,""
+463,Walker Watterson Holdings Pty Ltd,Jackson Rose,Adminstration,No,""
 97,Wayne Smith,Wayne Christopher Smith,Director,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,Co CEO,No,""
