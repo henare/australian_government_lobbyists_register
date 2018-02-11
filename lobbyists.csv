@@ -66,13 +66,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 556,Capital Hill Advisory Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
 556,Capital Hill Advisory Pty Ltd,Alicja Rudz,Senior Advisor,No,""
 556,Capital Hill Advisory Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
-556,Capital Hill Advisory Pty Ltd,Cameron Sinclair,Manager Public Policy,No,""
 558,Catherine Emma Rocchi,Cate Rocchi,CEO,No,""
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 743,CETE Consulting Pty Ltd,Cameron Thomson,Managing Director,Yes,June 1995
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,Yes,March 2003
 157,Chikarovski & Associates Pty Ltd,Emily Young,Lobbyist,No,""
+658,Chris Drummer ,Christopher John Drummer,CEO,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
 764,Christmas Jalili Pty Ltd,Damon Jalili,Principal,Yes,August 2016
 215,"Clark, Kerren G",Kerren Clark,Principal,No,""
@@ -93,6 +93,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Alistair Nicholas,Director Special Projects,Yes,October 2000
 428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
+428,CMGRP Pty Ltd,Francisco,lacerda,No,""
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 142,Consilium International Group Pty Ltd,Michael Zarew,Managing Director,No,""
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
@@ -126,7 +127,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Chief Operating Officer,No,""
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 795,Cube Public Relations Pty Ltd,Anne-Marie Sparrow,Managing Director/Owner,No,""
-795,Cube Public Relations Pty Ltd,Georgina Morris,Deputy Managing Director ,No,""
 795,Cube Public Relations Pty Ltd,Bonnie Leibel,Senior Account Manager,No,""
 795,Cube Public Relations Pty Ltd,Elise Rattigan,Senior Account Executive ,No,""
 153,Cultural Consulting,Mr Peter O'Neill OAM,Principal Consultant,No,""
@@ -265,6 +265,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 241,John Cook,Dr John Cook,Principal,Yes,April 2009
+1813,John Fetter Group Pty Ltd,John Fetter,Director,No,""
 78,John O'Connor and Associates Pty Ltd,John O'Connor,Director,No,""
 255,John Scott Barker,Thomas Michael O'Meara,Consultant,No,""
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
@@ -297,6 +298,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 425,Maser Defence Pty Ltd,Graham Elliott,General Manager,No,""
 425,Maser Defence Pty Ltd,Jamie Johnson,Business Development Manager,Yes,June 2011
 179,McGrane-Fitzgerald Unit Trust,Robert Hennessy-Hawks,Lobbyist,No,""
+762,McGuinness Media,Georgina McGuinness,Director,No,""
 201,Media Affairs,George Hazim,Director,No,""
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
@@ -341,7 +343,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1798,Nexus Asia Pacific Pty Ltd,Sarah Cullens,Senior Advisor,Yes,February 2016
 1798,Nexus Asia Pacific Pty Ltd,Nick Campbell,Chairman,Yes,December 1999
 1798,Nexus Asia Pacific Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
-1798,Nexus Asia Pacific Pty Ltd,Cameron Sinclair,Manager Public Policy,No,""
 1798,Nexus Asia Pacific Pty Ltd,Peter Sykes,Senior Consultant,No,""
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
@@ -385,6 +386,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1817,PremierNational Pty Ltd,Alex Gibson,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Alicja Rudz,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Sabina Husic,Director,No,""
+1817,PremierNational Pty Ltd,Lachlan Crombie,Senior Adviser,No,""
 1805,Primary Communication Partners Pty Limited,Christopher Hall,CEO,No,""
 1805,Primary Communication Partners Pty Limited,Irina Kamychnikova,Account Director  ,No,""
 1805,Primary Communication Partners Pty Limited,Jennifer Muir,Chief Counsel,No,""
@@ -399,6 +401,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 127,PRX Unit Trust,Patrick Rasmussen,Consultant,No,""
 89,Public Affairs Network Pty Ltd,Rosie Yeo,Director,Yes,April 1995
 68,Public Policy Solutions Pty Ltd,Christopher John Fry,Director,No,""
+68,Public Policy Solutions Pty Ltd,Meredith Laverty,consultatnt,Yes,August 2016
 242,Purple Communications Australia Pty Ltd,Warrick Hazeldine,Managing Director,No,""
 242,Purple Communications Australia Pty Ltd,Annette Ellis,Director,No,""
 242,Purple Communications Australia Pty Ltd,Richard Harris,Director,No,""
@@ -480,6 +483,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Thomas Grant Cameron,Senior Account Executive,Yes,October 2013
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
+90,The Fifth Estate Consultancy Pty Ltd,Timothy Mort,Analyst,No,""
 83,The Holland Trust,Gregory Holland,Managing Director,Yes,May 1988
 780,The Hon. Kim Beazley AC,The Hon. Kim Beazley AC,Senior Fellow,Yes,November 2007
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
