@@ -214,7 +214,7 @@ agency_id,agency_business_entity_name,client_name
 760,Bushido International Pty Ltd,Genesis Group Inc
 1799,Butler Hardy Corporate Pty Ltd,Whelan Jim and Kym
 1799,Butler Hardy Corporate Pty Ltd,Constantin Nicholas
-1799,Butler Hardy Corporate Pty Ltd,We Fix Credit (Australia) Pty Ltd
+1799,Butler Hardy Corporate Pty Ltd,We Fix Credit (Auspac) Pty Ltd
 654,C2hills Investments Pty Limited,Rivcott Pty Limited
 654,C2hills Investments Pty Limited,Barellan Aged Care Support Group
 654,C2hills Investments Pty Limited,Griffith City Council
@@ -328,9 +328,11 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Navantia Australia Pty Ltd 
 79,CMAX Communications Pty Ltd,Digital Workforce Australia
 79,CMAX Communications Pty Ltd,Proximity
+79,CMAX Communications Pty Ltd,Pink Hope
 428,CMGRP Pty Ltd,XERO
 428,CMGRP Pty Ltd,Ticketmaster
 428,CMGRP Pty Ltd,Aus Gold
+428,CMGRP Pty Ltd,Reckitt Benckiser
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,OmniSpace
 472,Comsult(Aust) Pty Ltd,O3b/SES
@@ -378,7 +380,6 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Champion Homes Sales Pty Limited 
 453,Cornerstone Group Australia ,Pacific Planning Pty Limited 
 453,Cornerstone Group Australia ,Varley Pty Ltd 
-453,Cornerstone Group Australia ,Alpha Nobis Pty Ltd 
 453,Cornerstone Group Australia ,Consumer Household Equipment Rental Providers Association Inc. 
 453,Cornerstone Group Australia ,CIS Educational
 453,Cornerstone Group Australia ,SEEK Limited 
@@ -542,7 +543,6 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,American Express International Incorporated
 31,Endeavour Consulting Group Pty Ltd,The Shell Company of Australia Ltd
 31,Endeavour Consulting Group Pty Ltd,Seven Network
-31,Endeavour Consulting Group Pty Ltd,Pindo Deli
 31,Endeavour Consulting Group Pty Ltd,Solaris
 31,Endeavour Consulting Group Pty Ltd,Clubs Australia
 31,Endeavour Consulting Group Pty Ltd,Port Waratah Coal Services
@@ -556,15 +556,11 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Murray Darling Medical School
 31,Endeavour Consulting Group Pty Ltd,IOOF Holdings Limited
 31,Endeavour Consulting Group Pty Ltd,Standards Australia
-31,Endeavour Consulting Group Pty Ltd,iSelect 
 31,Endeavour Consulting Group Pty Ltd,Federal Chamber of Automotive Industries
-31,Endeavour Consulting Group Pty Ltd,MediScriptz Australia Pty Ltd 
 31,Endeavour Consulting Group Pty Ltd,TELSTRA
 31,Endeavour Consulting Group Pty Ltd,ENGIE
-31,Endeavour Consulting Group Pty Ltd,Woolworths Limited 
 31,Endeavour Consulting Group Pty Ltd,Subaru (Aust) Pty Limited
 31,Endeavour Consulting Group Pty Ltd,DANONE
-31,Endeavour Consulting Group Pty Ltd,Plumbing Industry Climate Action Centre 
 71,Essential Media Communications Pty Ltd,Australian Marriage Equality
 71,Essential Media Communications Pty Ltd,Luke Batty Foundation Limited
 71,Essential Media Communications Pty Ltd,Women's Legal Service Inc
@@ -654,6 +650,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Growth Areas Perth and Peel 
 122,GRA Everingham Pty Ltd,Hanson 
 122,GRA Everingham Pty Ltd,Pathfinders Australia (probono)
+122,GRA Everingham Pty Ltd,Serco
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -1061,6 +1058,7 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Insight Strategy Pty Ltd
 1798,Nexus Asia Pacific Pty Ltd,Global Silicones Council
 1798,Nexus Asia Pacific Pty Ltd,Medical Technology Association of Australia
+1798,Nexus Asia Pacific Pty Ltd,Australian Computer Society
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Celgene
 86,Ogilvy PR Health,Research Australia
@@ -1220,6 +1218,40 @@ agency_id,agency_business_entity_name,client_name
 622,Profile Consulting (Aust) Pty Ltd,Knox Medical 
 622,Profile Consulting (Aust) Pty Ltd,North Rossa Pty Ltd
 622,Profile Consulting (Aust) Pty Ltd,Group of 100 Incorporated
+127,PRX Unit Trust,Jetstar
+127,PRX Unit Trust,Carlton Football Club
+127,PRX Unit Trust,Hawthorn Resources Limited
+127,PRX Unit Trust,Caterpillar
+127,PRX Unit Trust,Maxxia
+127,PRX Unit Trust,Kmart Australia
+127,PRX Unit Trust,Tyresmart Australia Pty Ltd
+127,PRX Unit Trust,Latitude Australia Holdings
+127,PRX Unit Trust,Victorian Transport Association
+127,PRX Unit Trust,Caydon Property Group
+127,PRX Unit Trust,DPR & Co Pty Ltd
+127,PRX Unit Trust,Moore Stephens (VIC)
+127,PRX Unit Trust,Johns Lyng Group
+127,PRX Unit Trust,Concourse Golf Pty Ltd
+127,PRX Unit Trust,Frontstream Asia Pacific
+127,PRX Unit Trust,Tribeca Financial
+127,PRX Unit Trust,Narracan Lakes Partnership
+127,PRX Unit Trust,TWUSUPER
+127,PRX Unit Trust,Perfekt Pty Ltd
+127,PRX Unit Trust,Victorian State Emergency Services
+127,PRX Unit Trust,Tynong Pastoral Co Pty Ltd
+127,PRX Unit Trust,Plenary Group Holdings Pty Ltd
+127,PRX Unit Trust,Edge Loyalty Systems Pty Ltd 
+127,PRX Unit Trust,Social Traders
+127,PRX Unit Trust,KHQ Lawyers
+127,PRX Unit Trust,Aquanita Racing
+127,PRX Unit Trust,EML Payments
+127,PRX Unit Trust,Ettamogah Group
+127,PRX Unit Trust,FromHereOn
+127,PRX Unit Trust,JJH Trust
+127,PRX Unit Trust,Lifestyle Rewards
+127,PRX Unit Trust,Mills Oakley
+127,PRX Unit Trust,McMillan Shakespeare Group
+127,PRX Unit Trust,Myer Family Investments
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1531,6 +1563,7 @@ agency_id,agency_business_entity_name,client_name
 420,The Trustee for ECG Advisory Trust,BP Australia Pty Ltd
 420,The Trustee for ECG Advisory Trust,TPG Capital
 420,The Trustee for ECG Advisory Trust,Oaktree Capital
+420,The Trustee for ECG Advisory Trust,Challenger Limited
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 1809,The Trustee for Jackman Family Trust,The Big Issue
 1809,The Trustee for Jackman Family Trust,Home for Homes
@@ -1727,4 +1760,5 @@ agency_id,agency_business_entity_name,client_name
 641,Wurley Group Pty Ltd,Globus Medical Australia Pty Ltd
 641,Wurley Group Pty Ltd,BXTAccelyon Australia Pty Ltd
 641,Wurley Group Pty Ltd,dorsaVi Ltd
+641,Wurley Group Pty Ltd,Orthocell Ltd
 1819,Zennex Pty Ltd,Haus Holdings
