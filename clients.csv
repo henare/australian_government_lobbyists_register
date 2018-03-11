@@ -266,6 +266,7 @@ agency_id,agency_business_entity_name,client_name
 558,Catherine Emma Rocchi,Rockcliffe Winery
 558,Catherine Emma Rocchi,Veritas
 558,Catherine Emma Rocchi,Bryah Resources
+558,Catherine Emma Rocchi,Vue Group
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
 601,Catherine McGovern,Urological Society of Australia and New Zealand
 601,Catherine McGovern,Australian Mitochondrial Disease Foundation
@@ -360,8 +361,6 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Dell Australia Pty Ltd 
 453,Cornerstone Group Australia ,Charlton Excavation and Demolition
 453,Cornerstone Group Australia ,Young & Rubicam Group Pty Limited
-453,Cornerstone Group Australia ,Village Building Company 
-453,Cornerstone Group Australia ,Australian Institute of Building Surveyors
 453,Cornerstone Group Australia ,Women's Housing Limited 
 453,Cornerstone Group Australia ,arbias
 453,Cornerstone Group Australia ,Calcorp Services Pty Ltd 
@@ -389,6 +388,7 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Australasian College of Cosmetic Surgery
 453,Cornerstone Group Australia ,ofo AU Pty Ltd
 453,Cornerstone Group Australia ,Online Education Services Pty Ltd
+453,Cornerstone Group Australia ,Radio Rentals Group
 160,Cotterell Jannette Suzanne,The Australian and New Zealand Association of Oral and Maxillofacial Surgeons
 160,Cotterell Jannette Suzanne,Private Cancer Physicians of Australia
 160,Cotterell Jannette Suzanne,Community Pharmacy Chemotherapy Services Group
@@ -439,6 +439,9 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,The Action Group of Companies
 160,Cotterell Jannette Suzanne,The Pew Charitable Trusts
 160,Cotterell Jannette Suzanne,Australian Sleep Association
+160,Cotterell Jannette Suzanne,Minderoo Foundation
+160,Cotterell Jannette Suzanne,Minderoo Group PTY Lltd
+160,Cotterell Jannette Suzanne,Australian Marine Conservation Society
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
 403,Covance Pty Ltd (Covance Market Access Services division),Alexion Pharmaceuticals Australasia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),AbbVie Pty Ltd
@@ -509,6 +512,7 @@ agency_id,agency_business_entity_name,client_name
 16,Day & Hodge Associates Pty Ltd,National Medical Services Group
 16,Day & Hodge Associates Pty Ltd,National Association for Medical Deputising Australia Ltd
 16,Day & Hodge Associates Pty Ltd,Australian Cycling Promotion Foundation Limited
+16,Day & Hodge Associates Pty Ltd,Bicycle Industries Australia
 1830,Denison Toyer Pty Ltd,Trades College Australia Pty Ltd
 360,Diplomacy Pty Limited,Anindilyakwa Land Council
 360,Diplomacy Pty Limited,G21 - Geelong Regional Alliance
@@ -712,6 +716,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Kongsberg Protech Systems Australia Pty Ltd
 59,GRACosway Pty Ltd,illion Australia
 59,GRACosway Pty Ltd,White Cloud Foundation
+59,GRACosway Pty Ltd,The Hydroponics Company 
 2838,GrayMorr Consulting Pty. Ltd.,SAAB Australia
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
@@ -977,7 +982,6 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,Town of Port Hedland
 132,Megan Anwyl,Vector Advanced Metering Services (Australia) Pty Ltd
 132,Megan Anwyl,Australia China Business Council WA
-720,MIBD Strategy ,Kurz Australia 
 1836,MIBD Strategy Pty Ltd,KURZ Australia
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
@@ -1158,6 +1162,7 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Assetlink Services P/L
 516,Premier State Consulting Pty Ltd,Wilson Security
 516,Premier State Consulting Pty Ltd,Genex Power Ltd
+516,Premier State Consulting Pty Ltd,Greyhound Racing NSW
 1817,PremierNational Pty Ltd,Acciona
 1817,PremierNational Pty Ltd,New Horizons Enterprises Ltd
 1817,PremierNational Pty Ltd,AA Crown Holdings Pty Ltd
@@ -1177,6 +1182,7 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,Wilson Security
 1817,PremierNational Pty Ltd,Assetlink Services P/L
 1817,PremierNational Pty Ltd,Genex Power Ltd
+1817,PremierNational Pty Ltd,Greyhound Racing NSW
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1282,6 +1288,7 @@ agency_id,agency_business_entity_name,client_name
 14,Ranicar and Nicholls Consulting,BlueZone Group
 24,Repute Communications and Associates Pty Ltd,RichmondPRA
 24,Repute Communications and Associates Pty Ltd,Flourish Australia (Formerly RichmondPRA)
+24,Repute Communications and Associates Pty Ltd,State Medical Assistance 
 98,Res Publica Pty Ltd,SpinalCure Australia
 98,Res Publica Pty Ltd,Australian Association of National Advertisers (AANA)
 98,Res Publica Pty Ltd,Unilever
@@ -1374,6 +1381,7 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Australian Cablemakers Association
 227,SAS Consulting Group Pty Ltd,Sunset Power International T/A Delta Electricity
 227,SAS Consulting Group Pty Ltd,CNVM Investment Pty Ltd
+227,SAS Consulting Group Pty Ltd,St Baker Energy Innovation Fund
 1806,Scott Mitchell and Partners Pty Ltd,Telstra Corporation Ltd
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
 143,Sefiani Communications Group,Yara Pilbera
@@ -1719,16 +1727,22 @@ agency_id,agency_business_entity_name,client_name
 463,Walker Watterson Holdings Pty Ltd,Avaya Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,Motorola Solutions Australia Pty Limited
 463,Walker Watterson Holdings Pty Ltd,FireEye Inc.
-463,Walker Watterson Holdings Pty Ltd,Desire2Learn
-463,Walker Watterson Holdings Pty Ltd,Dimension Data
 463,Walker Watterson Holdings Pty Ltd, CIENA AUSTRALIA PTY LTD
-463,Walker Watterson Holdings Pty Ltd, Intercad Pty Limited
 463,Walker Watterson Holdings Pty Ltd,12D SOLUTIONS PTY LTD
 463,Walker Watterson Holdings Pty Ltd, FIREEYE AUSTRALIA PTY LTD
-463,Walker Watterson Holdings Pty Ltd,Skyfii
 463,Walker Watterson Holdings Pty Ltd,Dell Boomi
 463,Walker Watterson Holdings Pty Ltd,Vertiv Co 
 463,Walker Watterson Holdings Pty Ltd,BIS Oxford Economics
+463,Walker Watterson Holdings Pty Ltd,D2L Australia Pty Ltd
+463,Walker Watterson Holdings Pty Ltd,DATS
+463,Walker Watterson Holdings Pty Ltd,Dimension Data Australia Pty Limited
+463,Walker Watterson Holdings Pty Ltd,FitT
+463,Walker Watterson Holdings Pty Ltd,Food Industry Foresight
+463,Walker Watterson Holdings Pty Ltd,Greenbox
+463,Walker Watterson Holdings Pty Ltd,Macquarie Telecom
+463,Walker Watterson Holdings Pty Ltd,Securonix
+463,Walker Watterson Holdings Pty Ltd,Southern Cross Cable Network
+463,Walker Watterson Holdings Pty Ltd,TedX Melbourne
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
