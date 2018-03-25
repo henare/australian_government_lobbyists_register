@@ -40,9 +40,8 @@ agency_id,agency_business_entity_name,owner_name
 162,Belman Consulting Pty Ltd,Jeanne Bathgate
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl
 1828,Blunden and Associates,Nigel Blunden
-614,Bossy Group Pty Ltd,Nicole Martine Gill Cameron
-614,Bossy Group Pty Ltd,McMahon Family Trust
 614,Bossy Group Pty Ltd,Peter Michael McMahon
+614,Bossy Group Pty Ltd,McMahon Family Trust
 6,Bramex Pty Ltd,Mrs Barbara Ramsay
 6,Bramex Pty Ltd,Mr Mervyn Ross Ramsay 
 657,Brent William Knevett,Brent William Knevett
@@ -57,6 +56,9 @@ agency_id,agency_business_entity_name,owner_name
 789,Cahill and Bailey Pty Ltd,Simon Bailey
 787,Capetal Advisory Pty Ltd,Nathan Paine
 787,Capetal Advisory Pty Ltd,Matthew Clemow
+2836,Capital Advisory Group Australia,Todd Hayward 
+2836,Capital Advisory Group Australia,Mark Sutton
+2836,Capital Advisory Group Australia,Martin Cole
 556,Capital Hill Advisory Pty Ltd,National Strategy Group
 558,Catherine Emma Rocchi,Cate Rocchi
 601,Catherine McGovern,Catherine McGovern
@@ -185,8 +187,6 @@ agency_id,agency_business_entity_name,owner_name
 255,John Scott Barker,John Scott Barker
 264,"John, Susan Maree",Sue John
 576,KENDAL AND ASSOCIATES,STEPHEN L KENDAL
-115,KPMG,The partners of KPMG change from time to time. A list of partners is available from KPMG on request.
-115,KPMG,If you would like a copy please contact Warwick Ryan at wryan@kpmg.com.au
 465,LATAF CONSULTING ,Jeffrey Russell Hart
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE
 519,Lawrence Media Services Pty Ltd,Una Joanna LAWRENCE
@@ -308,6 +308,7 @@ agency_id,agency_business_entity_name,owner_name
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn
 528,SYSTECH Consultants Pty Ltd,Janine Carol Wirthensohn
+2843,Tarramot Pty Ltd,Gemma Tognini
 235,The Agenda Group Pty Ltd,Damian Mannix
 235,The Agenda Group Pty Ltd,James McGarvey 
 9,The Canberra Institute,Peter Michael Conway

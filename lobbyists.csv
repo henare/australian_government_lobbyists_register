@@ -32,7 +32,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
 338,Barton Deakin ,Robert Bower,Policy and Business Analyst,No,""
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
-186,BBS Communications Group Pty Ltd,Daniel Pollard,Associate,Yes,September 2008
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
 162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,March 1983
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl,Managing Director,No,""
@@ -55,6 +54,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 787,Capetal Advisory Pty Ltd,Nathan Paine,Managing Director,No,""
 787,Capetal Advisory Pty Ltd,Matthew Clemow,Director,No,""
 787,Capetal Advisory Pty Ltd,Bradley Green,Associate Director,No,""
+2836,Capital Advisory Group Australia,Todd Hayward,Director,No,""
+2836,Capital Advisory Group Australia,Mark Sutton ,Director,No,""
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Consultant,No,""
 556,Capital Hill Advisory Pty Ltd,Alexander Gibson,Advisor,No,""
@@ -124,6 +125,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Chief Operating Officer,No,""
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 673,CT International and Corporate Advisory Pty Ltd,Michael Teoh,Consultant,No,""
+673,CT International and Corporate Advisory Pty Ltd,Remo Nogarotto,Managing Director,No,""
 795,Cube Public Relations Pty Ltd,Anne-Marie Sparrow,Managing Director/Owner,No,""
 795,Cube Public Relations Pty Ltd,Bonnie Leibel,Senior Account Manager,No,""
 795,Cube Public Relations Pty Ltd,Elise Rattigan,Senior Account Executive ,No,""
@@ -265,10 +267,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
-115,KPMG,Warwick Ryan,Director,Yes,January 1993
-115,KPMG,Stefano Moritsch,Senior Consultant,No,""
-115,KPMG,Lachlan Yeend,Consultant,No,""
-115,KPMG,Jeremy Murdoch,Contractor,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
@@ -402,7 +400,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Bob Stevens ,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Astrid Serventy,Associate Director,Yes,October 2013
 242,Purple Communications Australia Pty Ltd,Karen Brown,Associate Director,Yes,March 2013
-242,Purple Communications Australia Pty Ltd,Chantal Hartstone,Associate Director,No,""
 242,Purple Communications Australia Pty Ltd,Timothy Grey Smith,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Ruth Callaghan,Associate Director,No,""
 242,Purple Communications Australia Pty Ltd,Jamie Henderson ,Associate Director,Yes,March 2017
@@ -443,7 +440,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 676,Seismic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
 676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Business and Operations Manager,Yes,August 2011
-676,Seismic Asia Pacific Pty Ltd,Damian Edwin Mullany,Senior Technician,No,""
 681,Simeon Duncan,Simeon Duncan,Principal,Yes,November 2007
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
@@ -464,6 +460,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 753,Strategic Political Counsel Pty Ltd,Professor David Matthew Gracey,Senior Counsel,No,""
 753,Strategic Political Counsel Pty Ltd,Clint Robert Ford,Head of Operations WA,No,""
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
+2843,Tarramot Pty Ltd,Peter Rowe,Consultant Advisor,Yes,March 2017
 235,The Agenda Group Pty Ltd,James McGarvey,Director,No,""
 235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
 235,The Agenda Group Pty Ltd,Catherine McGovern,Senior Associate,Yes,May 2000
