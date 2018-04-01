@@ -86,7 +86,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,IPAR Rehabilitation Pty Ltd
 338,Barton Deakin ,Company B Limited
 338,Barton Deakin ,The ORS Group Pty Ltd
-338,Barton Deakin ,Lockheed Martin Overseas Corporation
 338,Barton Deakin ,Opal Aged Care
 338,Barton Deakin ,Adults Surviving Child Abuse
 338,Barton Deakin ,Orica Australia Pty Ltd
@@ -95,7 +94,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,QBE Insurance Group Limited
 338,Barton Deakin ,Ashley Services Group Limited
 338,Barton Deakin ,Palace Cinemas Nominees Pty Ltd
-338,Barton Deakin ,Tata Consultancy Services Limited
 338,Barton Deakin ,Unisys Australia Pty Limited
 338,Barton Deakin ,Literacy for Life Foundation Limited
 338,Barton Deakin ,Caravan Industry Association of Australia Ltd
@@ -135,7 +133,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Cleanaway
 338,Barton Deakin ,DomaCom Australia Ltd
 338,Barton Deakin ,Work Health Group
-338,Barton Deakin ,Shooting Industry Foundation of Australia
 338,Barton Deakin ,Cure Brain Cancer
 338,Barton Deakin ,TechSydney
 338,Barton Deakin ,Used Tyre Recycling Corporation Pty Ltd
@@ -171,6 +168,9 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,GM Holden
 338,Barton Deakin ,MLC Life Insurance
 338,Barton Deakin ,Dixon Advisory
+338,Barton Deakin ,Lottoland (Australia) Pty Ltd
+338,Barton Deakin ,Medlab Clinical
+338,Barton Deakin ,General Dynamics
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -289,6 +289,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,CUSHMAN & WAKEFIELD (AUSTRALIA) PTY LTD
 157,Chikarovski & Associates Pty Ltd,Pymore Recyclers International Pty Ltd
 157,Chikarovski & Associates Pty Ltd,Australis 2020
+157,Chikarovski & Associates Pty Ltd,Epochal Pty Ltd 
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Oceanic Multitrading Pty Ltd
@@ -330,6 +331,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Digital Workforce Australia
 79,CMAX Communications Pty Ltd,Proximity
 79,CMAX Communications Pty Ltd,Pink Hope
+79,CMAX Communications Pty Ltd,Hologic
 428,CMGRP Pty Ltd,XERO
 428,CMGRP Pty Ltd,Aus Gold
 428,CMGRP Pty Ltd,Reckitt Benckiser
@@ -530,6 +532,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,City of Greater Geelong
 360,Diplomacy Pty Limited,Veritas
 360,Diplomacy Pty Limited,Regional Development Australia Barwon South West
+360,Diplomacy Pty Limited,SolarReserve
 454,Discourse Consulting Pty Ltd,ADA
 454,Discourse Consulting Pty Ltd,Life withour Barriers
 454,Discourse Consulting Pty Ltd,Employers Mutual
@@ -625,6 +628,7 @@ agency_id,agency_business_entity_name,client_name
 1,Gambolling Pty Ltd,Dassault Aviation
 1,Gambolling Pty Ltd,Huntington Ingalls Industries
 1,Gambolling Pty Ltd,Axiom Mining Limited
+1,Gambolling Pty Ltd,Cannim Pty Ltd
 185,Geoff Conlon,H & D srl
 185,Geoff Conlon,Solar Brokers Associated
 185,Geoff Conlon,Evolvo srl
@@ -670,7 +674,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Clemenger BBDO
 59,GRACosway Pty Ltd,Cobham Flight Operations & Services (Aust) / National Jet Systems
 59,GRACosway Pty Ltd,Broadcast Australia
-59,GRACosway Pty Ltd,General Atomics Aeronautical Systems Inc.
 59,GRACosway Pty Ltd,ALDI Stores
 59,GRACosway Pty Ltd,Project Management Institute
 59,GRACosway Pty Ltd,SingTel Optus Pty Ltd
@@ -722,6 +725,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,The Hydroponics Company 
 59,GRACosway Pty Ltd,L'Oreal Australia Pty Ltd
 2838,GrayMorr Consulting Pty. Ltd.,SAAB Australia
+2838,GrayMorr Consulting Pty. Ltd.,My Lotto 24
+2838,GrayMorr Consulting Pty. Ltd.,Sefiani
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -990,6 +995,8 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,Coogee Chemicals Pty Ltd
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
 444,Michael Megaw,Western Australian Deaf Society
+2842,Michelson Alexander Consulting,Australia-Israel Labor Dialogue
+2842,Michelson Alexander Consulting,Migration Council Australia
 752,MMJ Consulting,Readymade Productions Pty Ltd
 752,MMJ Consulting,Family Drug Support
 796,Momentum Strategic Communication Services,Transgrid
@@ -1135,6 +1142,7 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,Rare Voices Australia
 72,Parker & Partners Pty Ltd,Caltex
 72,Parker & Partners Pty Ltd,Seeing Machines
+72,Parker & Partners Pty Ltd,First Voice Australia
 1821,People First HR Solutions Pty Ltd,E Qubed
 1821,People First HR Solutions Pty Ltd,Mobile Electrics
 736,Peter Kane,Australian Meat Industry Council
@@ -1159,8 +1167,6 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Eastwood Rugby Club
 516,Premier State Consulting Pty Ltd,Literacy For Life Foundation
 516,Premier State Consulting Pty Ltd,NEXTDC Limited
-516,Premier State Consulting Pty Ltd,Compass Housing Services
-516,Premier State Consulting Pty Ltd,BlueCHP Limited
 516,Premier State Consulting Pty Ltd,Siemens Ltd
 516,Premier State Consulting Pty Ltd,Fincantieri Australia Pty Ltd
 516,Premier State Consulting Pty Ltd,Telstra
@@ -1168,6 +1174,21 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Wilson Security
 516,Premier State Consulting Pty Ltd,Genex Power Ltd
 516,Premier State Consulting Pty Ltd,Greyhound Racing NSW
+516,Premier State Consulting Pty Ltd,Glencore Coal (NSW) Pty Ltd
+516,Premier State Consulting Pty Ltd,Built Pty Ltd
+516,Premier State Consulting Pty Ltd,O'Hara's Fairfield Hotel Pty Limited	
+516,Premier State Consulting Pty Ltd,BIZFURN EXPRESS AUSTRALIA PTY LTD	
+516,Premier State Consulting Pty Ltd,ALPHA NOBIS FM PTY LTD	
+516,Premier State Consulting Pty Ltd,MARK MORAN GROUP PTY LIMITED	
+516,Premier State Consulting Pty Ltd,FIVEX SERVICES PTY LIMITED	
+516,Premier State Consulting Pty Ltd,ORAN PARK WEST PTY LTD	
+516,Premier State Consulting Pty Ltd,EASTERN SUBURBS LEAGUES CLUB LTD	
+516,Premier State Consulting Pty Ltd,SYDNEY AIRPORT CORPORATION LIMITED	
+516,Premier State Consulting Pty Ltd,CHILDREN'S MEDICAL RESEARCH INSTITUTE	
+516,Premier State Consulting Pty Ltd,NEW HORIZONS ENTERPRISES LIMITED	
+516,Premier State Consulting Pty Ltd,BEINFORMED GROUP PTY LTD	
+516,Premier State Consulting Pty Ltd,Waterbrook Australia Pty Ltd	
+516,Premier State Consulting Pty Ltd,Event Hospitality and Entertainment Limited
 1817,PremierNational Pty Ltd,Acciona
 1817,PremierNational Pty Ltd,New Horizons Enterprises Ltd
 1817,PremierNational Pty Ltd,AA Crown Holdings Pty Ltd
@@ -1188,6 +1209,19 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,Assetlink Services P/L
 1817,PremierNational Pty Ltd,Genex Power Ltd
 1817,PremierNational Pty Ltd,Greyhound Racing NSW
+1817,PremierNational Pty Ltd,Glencore Coal (NSW) Pty Ltd	
+1817,PremierNational Pty Ltd,BUILT PTY LIMITED	
+1817,PremierNational Pty Ltd,BIZFURN EXPRESS AUSTRALIA PTY LTD	
+1817,PremierNational Pty Ltd,EVENT HOSPITALITY AND ENTERTAINMENT LTD	
+1817,PremierNational Pty Ltd,O'Hara's Fairfield Hotel Pty Limited	
+1817,PremierNational Pty Ltd,MARK MORAN GROUP PTY LIMITED	
+1817,PremierNational Pty Ltd,ALPHA NOBIS FM PTY LTD	
+1817,PremierNational Pty Ltd,EASTWOOD DISTRICT RUGBY UNION FOOTBALL CLUB INCORPORATED	
+1817,PremierNational Pty Ltd,FIVEX SERVICES PTY LIMITED	
+1817,PremierNational Pty Ltd,ORAN PARK WEST PTY LTD	
+1817,PremierNational Pty Ltd,EASTERN SUBURBS LEAGUES CLUB LTD	
+1817,PremierNational Pty Ltd,BEINFORMED GROUP PTY LTD	
+1817,PremierNational Pty Ltd,Waterbrook Australia Pty Ltd	
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1263,6 +1297,11 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Mills Oakley
 127,PRX Unit Trust,McMillan Shakespeare Group
 127,PRX Unit Trust,Myer Family Investments
+127,PRX Unit Trust,Brown Property Group
+127,PRX Unit Trust,Ryman Healthcare
+127,PRX Unit Trust,Sunshine Groupe
+127,PRX Unit Trust,Delaware North
+127,PRX Unit Trust,EBOS Group
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1299,7 +1338,6 @@ agency_id,agency_business_entity_name,client_name
 98,Res Publica Pty Ltd,Unilever
 98,Res Publica Pty Ltd,Coalition for Advancement of Medical Research Australia
 98,Res Publica Pty Ltd,Lion 
-98,Res Publica Pty Ltd,Cosmetic Physicians College of Australasia
 98,Res Publica Pty Ltd,Mojo Power
 98,Res Publica Pty Ltd,Pepsi Co.
 98,Res Publica Pty Ltd,Woolworths 
@@ -1737,6 +1775,7 @@ agency_id,agency_business_entity_name,client_name
 793,W.J Wilcher Pty Ltd,ZIELINSKI David
 793,W.J Wilcher Pty Ltd,HOUSTON Scott Andrew
 793,W.J Wilcher Pty Ltd,TAN  Ivan (Tan Hsiao Loong Ivan)
+793,W.J Wilcher Pty Ltd,Voxgroup Pty Ltd ABN 69167593142
 463,Walker Watterson Holdings Pty Ltd,Nutanix
 463,Walker Watterson Holdings Pty Ltd,Avaya Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,Motorola Solutions Australia Pty Limited

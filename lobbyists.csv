@@ -28,9 +28,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Matt Hingerty,CEO and MD ,Yes,June 2012
 338,Barton Deakin ,David Alexander,Managing Director (Federal),Yes,November 2007
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
-338,Barton Deakin ,Gerard Paynter,Managing Director (QLD),No,""
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
 338,Barton Deakin ,Robert Bower,Policy and Business Analyst,No,""
+338,Barton Deakin ,Andrew Coombe,Managing Director (South Australia),Yes,August 2009
+338,Barton Deakin ,Elizabeth Burrows,Policy and Business Analyst,No,""
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
 162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,March 1983
@@ -83,10 +84,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
 79,CMAX Communications Pty Ltd,Jacob Traeger,Account Manager,No,""
 79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
-79,CMAX Communications Pty Ltd,Bronwyn Fagan,Chief Operating Officer ,No,""
 79,CMAX Communications Pty Ltd,Maddie Gay,Government Relations Adviser ,Yes,September 2017
 79,CMAX Communications Pty Ltd,Ali Humphreys ,Government Relations Adviser ,No,""
 79,CMAX Communications Pty Ltd,Warren King,Special Counsel ,Yes,March 2015
+79,CMAX Communications Pty Ltd,Alexander Arnott,Government Relations Adviser,Yes,December 2017
+79,CMAX Communications Pty Ltd,Patrick Doyle,Government Relations Adviser,No,""
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Alistair Nicholas,Director Special Projects,Yes,October 2000
 428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
@@ -238,6 +240,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 96,Hawker Britton Group Pty Ltd,Claire March ,Director ,Yes,September 2013
 96,Hawker Britton Group Pty Ltd,Eamonn Fitzpatrick,Director,Yes,September 2013
 96,Hawker Britton Group Pty Ltd,Megan Anwyl,Director,Yes,February 2001
+96,Hawker Britton Group Pty Ltd,Liz Vivian,Policy and Business Analyst,Yes,April 2005
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
@@ -300,6 +303,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Managing Partner,No,""
 452,Michael Johnson Associates Pty Limited,Ian Michael RossGowan,Director,No,""
 444,Michael Megaw,Michael Curnow Megaw,Owner,Yes,November 1996
+2842,Michelson Alexander Consulting,Stephen Michelson,Director,Yes,October 2017
 752,MMJ Consulting,Melissa Cheesman-Faull,Director,Yes,May 1997
 796,Momentum Strategic Communication Services,Michael Morgan,Principal,No,""
 696,MOUNTAIN MEDIA PTY LTD,JULIEANNE STRACHAN, CANBERRA MANAGER,No,""
@@ -442,7 +446,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Business and Operations Manager,Yes,August 2011
 681,Simeon Duncan,Simeon Duncan,Principal,Yes,November 2007
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
-82,Socom Pty Ltd,Stina Webb ,Consultant ,No,""
 82,Socom Pty Ltd,Kath Christie,Senior Consultant,No,""
 82,Socom Pty Ltd,Isaac Ransom,Senior Consultant,No,""
 82,Socom Pty Ltd,Zoe Forbes,Consultant ,No,""
