@@ -274,6 +274,7 @@ agency_id,agency_business_entity_name,client_name
 601,Catherine McGovern,3DMEDiTech
 191,"Cemdia Pty, Ltd",NBNCo
 743,CETE Consulting Pty Ltd,Calzoni S.r.l.
+2847,Chatto Creek Advisory Pty Ltd,Federal Chamber of Automotive Industries
 157,Chikarovski & Associates Pty Ltd,Association of Financial Advisers Ltd
 157,Chikarovski & Associates Pty Ltd,The Trustee For A2z Outcomes Unit Trust
 157,Chikarovski & Associates Pty Ltd,Sir Michael Hintze AM
@@ -629,6 +630,7 @@ agency_id,agency_business_entity_name,client_name
 1,Gambolling Pty Ltd,Huntington Ingalls Industries
 1,Gambolling Pty Ltd,Axiom Mining Limited
 1,Gambolling Pty Ltd,Cannim Pty Ltd
+1,Gambolling Pty Ltd,Monash Health
 185,Geoff Conlon,H & D srl
 185,Geoff Conlon,Solar Brokers Associated
 185,Geoff Conlon,Evolvo srl
@@ -1075,6 +1077,7 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,ANCAP Safety
 1798,Nexus Asia Pacific Pty Ltd,Telstra
 1798,Nexus Asia Pacific Pty Ltd,Australian Automobile Dealer Association
+1798,Nexus Asia Pacific Pty Ltd,Vanguard Health
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Celgene
 86,Ogilvy PR Health,Research Australia
@@ -1429,6 +1432,7 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,St Baker Energy Innovation Fund
 1806,Scott Mitchell and Partners Pty Ltd,Telstra Corporation Ltd
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
+1806,Scott Mitchell and Partners Pty Ltd,RAWS Association Limited
 143,Sefiani Communications Group,Yara Pilbera
 143,Sefiani Communications Group,Seafarms Group
 143,Sefiani Communications Group,New Hope Group
@@ -1585,7 +1589,6 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,bet365 Group Limited
 698,The Trustee for Arthur Trust,Submarine Institute of Australia
 698,The Trustee for Arthur Trust,Kellogg Brown & Root Pty Ltd
-698,The Trustee for Arthur Trust,ELAN Energy Matrix
 698,The Trustee for Arthur Trust,Association of Australian Convention Bureaux 
 698,The Trustee for Arthur Trust,Australian Livestock Exportersâ Council 
 698,The Trustee for Arthur Trust,Friendly Societies of Australia 
@@ -1605,6 +1608,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,SMEC Holdings Pty Ltd 
 145,The Trustee for Bespoke Business Trust,I-MED Radiology Network
 145,The Trustee for Bespoke Business Trust,Illumina
+145,The Trustee for Bespoke Business Trust,Harbour Energy
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 550,The Trustee for Connelly Project Resources,Australia Zoo
 550,The Trustee for Connelly Project Resources,Holcim (Australia) Pty Ltd
