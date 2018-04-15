@@ -171,6 +171,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Lottoland (Australia) Pty Ltd
 338,Barton Deakin ,Medlab Clinical
 338,Barton Deakin ,General Dynamics
+338,Barton Deakin ,Tata Consultancy Services
+338,Barton Deakin ,Life Without Barriers
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -495,6 +497,7 @@ agency_id,agency_business_entity_name,client_name
 673,CT International and Corporate Advisory Pty Ltd,LEND LEASE CORPORATION LTD
 673,CT International and Corporate Advisory Pty Ltd,Ansaldo STS Australia Pty Ltd
 673,CT International and Corporate Advisory Pty Ltd,Platypus Investment Partners Ltd 
+673,CT International and Corporate Advisory Pty Ltd,Fincantieri Australia Pty Ltd
 795,Cube Public Relations Pty Ltd,Medicines Australia
 153,Cultural Consulting,Murnis
 153,Cultural Consulting,Loretta Cuda
@@ -569,6 +572,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,ENGIE
 31,Endeavour Consulting Group Pty Ltd,Subaru (Aust) Pty Limited
 31,Endeavour Consulting Group Pty Ltd,DANONE
+31,Endeavour Consulting Group Pty Ltd,3D Oil Limited 
 663,Espresso Communications Pty Ltd,Cylance
 71,Essential Media Communications Pty Ltd,Australian Marriage Equality
 71,Essential Media Communications Pty Ltd,Luke Batty Foundation Limited
@@ -577,7 +581,6 @@ agency_id,agency_business_entity_name,client_name
 71,Essential Media Communications Pty Ltd,Shop Distributive & Allied Employees Association Nat Branch
 71,Essential Media Communications Pty Ltd,UFU of Australia - Aviation Branch
 71,Essential Media Communications Pty Ltd, United Firefighters' Union of Australia-Victorian Branch
-71,Essential Media Communications Pty Ltd,Wattwatchers
 71,Essential Media Communications Pty Ltd,Lyon Solar 
 71,Essential Media Communications Pty Ltd,Lyon Infrastructure Investments 1 Pty Ltd
 71,Essential Media Communications Pty Ltd,The Trustee for Lyon Battery Storage Trust
@@ -845,7 +848,6 @@ agency_id,agency_business_entity_name,client_name
 56,John C Blackwell,Gogo Inc
 101,John Connolly & Partners Pty Limited,BHP Billiton Ltd
 101,John Connolly & Partners Pty Limited,Sydney Theatre Company
-101,John Connolly & Partners Pty Limited,Chilout
 241,John Cook,Learning and Life Centre
 241,John Cook,North Melbourne Football Club
 241,John Cook,Casino Management International
@@ -915,9 +917,9 @@ agency_id,agency_business_entity_name,client_name
 774,Lunik Pty Ltd,Ability Options
 774,Lunik Pty Ltd,Thomas Global Systems
 774,Lunik Pty Ltd,Austal Limited
-774,Lunik Pty Ltd,Fr. Fassmer GmbH  Co. KG
 774,Lunik Pty Ltd,Naval Group Australia
 774,Lunik Pty Ltd,MBDA Australia
+774,Lunik Pty Ltd,BMT Group Australia
 1811,Luz Ardiden Consulting,Detmold Group
 1811,Luz Ardiden Consulting,KPMG
 1811,Luz Ardiden Consulting,SYC
@@ -999,6 +1001,9 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,Western Australian Deaf Society
 2842,Michelson Alexander Consulting,Australia-Israel Labor Dialogue
 2842,Michelson Alexander Consulting,Migration Council Australia
+2842,Michelson Alexander Consulting,Wallara Australia Limited
+2842,Michelson Alexander Consulting,The Les Twentyman Foundation
+2842,Michelson Alexander Consulting,Plumbing Industry Climate Action Centre
 752,MMJ Consulting,Readymade Productions Pty Ltd
 752,MMJ Consulting,Family Drug Support
 796,Momentum Strategic Communication Services,Transgrid
@@ -1022,14 +1027,11 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australian Bankers' Association Inc
 565,Newgate Communications Pty Limited,Port of Newcastle Operations Pty Ltd
 565,Newgate Communications Pty Limited,Diageo Australia Limited
-565,Newgate Communications Pty Limited,COPE (Centre of Perinatal Excellence)
 565,Newgate Communications Pty Limited,Symphony Services Australia Limited
 565,Newgate Communications Pty Limited,Pacific National
 565,Newgate Communications Pty Limited,Luerssen GmbH CO. KG
 565,Newgate Communications Pty Limited,Dexus Holdings Pty Limited
 565,Newgate Communications Pty Limited,Google Australia
-565,Newgate Communications Pty Limited,Capital Recycling Solutions
-565,Newgate Communications Pty Limited,Access Recycling
 565,Newgate Communications Pty Limited,QANTAS
 565,Newgate Communications Pty Limited,Coca Cola Amatil Limited
 565,Newgate Communications Pty Limited,The Royal Australian and New Zealand College of Radiologists
@@ -1254,7 +1256,6 @@ agency_id,agency_business_entity_name,client_name
 283,Probity International Pty. Ltd,Intech Strategies
 283,Probity International Pty. Ltd,Teva Pharmaceutical Industries Ltd
 283,Probity International Pty. Ltd,Teva Pharma Australia Pty Ltd
-283,Probity International Pty. Ltd,Australian National Veterans Arts Museum
 622,Profile Consulting (Aust) Pty Ltd,Derwent Executive
 622,Profile Consulting (Aust) Pty Ltd,Grocon Pty Ltd
 622,Profile Consulting (Aust) Pty Ltd,Hobart International Airport
@@ -1433,6 +1434,7 @@ agency_id,agency_business_entity_name,client_name
 1806,Scott Mitchell and Partners Pty Ltd,Telstra Corporation Ltd
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
 1806,Scott Mitchell and Partners Pty Ltd,RAWS Association Limited
+1806,Scott Mitchell and Partners Pty Ltd,Australian Airports Association
 143,Sefiani Communications Group,Yara Pilbera
 143,Sefiani Communications Group,Seafarms Group
 143,Sefiani Communications Group,New Hope Group
@@ -1688,7 +1690,6 @@ agency_id,agency_business_entity_name,client_name
 718,Trustee of Kerans Family Trust,Iridium Satellite LLC
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
-680,TSB Advisory Pty Ltd,UniSuper Management Pty Ltd
 680,TSB Advisory Pty Ltd,PayPal Australia Pty Ltd
 680,TSB Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd 
 680,TSB Advisory Pty Ltd,Rabobank Australia and New Zealand Group

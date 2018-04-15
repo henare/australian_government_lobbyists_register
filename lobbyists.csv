@@ -316,16 +316,16 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Jodie Brough,Partner,No,""
 565,Newgate Communications Pty Limited,Michael van Maanen,Partner,Yes,February 2008
 565,Newgate Communications Pty Limited,Sophie Travers,Associate Partner,No,""
-565,Newgate Communications Pty Limited,Jeremy Vine,Account Director,No,""
+565,Newgate Communications Pty Limited,Jeremy Vine,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
-565,Newgate Communications Pty Limited,Sam Deans,Senior Consultant,No,""
+565,Newgate Communications Pty Limited,Sam Deans,Account Director,No,""
 565,Newgate Communications Pty Limited,Gail Morgan,Associate Partner,Yes,May 2006
 565,Newgate Communications Pty Limited,Adam Le Lievre,Account Director,Yes,March 2016
 565,Newgate Communications Pty Limited,Claire Bremner,Associate Partner,Yes,April 2006
 565,Newgate Communications Pty Limited,Phillip Kelly,Senior Adviser,No,""
-565,Newgate Communications Pty Limited,Sara Hourigan,Account Director,No,""
+565,Newgate Communications Pty Limited,Sara Hourigan,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Nicholas Maher,Senior Adviser,Yes,September 2014
 565,Newgate Communications Pty Limited,David Reeves,Senior Consultant,Yes,February 2008
 565,Newgate Communications Pty Limited,Liam Jones,Consultant,Yes,May 2016
@@ -377,12 +377,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Lachlan Crombie,Senior Advisor,No,""
 516,Premier State Consulting Pty Ltd,Sabina Husic,Director,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
+516,Premier State Consulting Pty Ltd,Thomas Loomes,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Michael Photios,Chairman,No,""
 1817,PremierNational Pty Ltd,Ian Hancock,Managing Director,No,""
 1817,PremierNational Pty Ltd,Alex Gibson,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Sabina Husic,Director,No,""
 1817,PremierNational Pty Ltd,Lachlan Crombie,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Christine Kirk,Executive Assistant,No,""
+1817,PremierNational Pty Ltd,Thomas Loomes,Senior Adviser,No,""
 1805,Primary Communication Partners Pty Limited,Christopher Hall,CEO,No,""
 1805,Primary Communication Partners Pty Limited,Irina Kamychnikova,Account Director  ,No,""
 1805,Primary Communication Partners Pty Limited,Jennifer Muir,Chief Counsel,No,""
@@ -419,6 +421,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 98,Res Publica Pty Ltd,James Tait,Principal,No,""
 98,Res Publica Pty Ltd,Baden Parker Brown,Account Executive,No,""
 98,Res Publica Pty Ltd,Simone Rayner,Account Manager ,No,""
+98,Res Publica Pty Ltd,Nicholas Hay,Director,No,""
+98,Res Publica Pty Ltd,Olivia Blunt,Account Manager,No,""
 497,Resolution Junction,Gregory Male,Director,Yes,September 2012
 35,Richardson Coutts,John Richardson,Director,Yes,May 1995
 35,Richardson Coutts,Stephen Coutts,Director,No,""
