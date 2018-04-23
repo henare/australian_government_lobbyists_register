@@ -4,7 +4,7 @@ require 'mechanize'
 require 'csv'
 
 agent = Mechanize.new
-base_url = 'http://lobbyists.pmc.gov.au/'
+base_url = 'https://lobbyists.pmc.gov.au/'
 table = agent.get("#{base_url}who_register.cfm").at(:table)
 
 agencies = table.at(:tbody).search(:tr).map do |row|
