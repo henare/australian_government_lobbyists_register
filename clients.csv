@@ -173,6 +173,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,General Dynamics
 338,Barton Deakin ,Tata Consultancy Services
 338,Barton Deakin ,Life Without Barriers
+338,Barton Deakin ,Australian Aviation Museum Bankstown Inc.
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -312,6 +313,7 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,Adobe Systems
 764,Christmas Jalili Pty Ltd,Coegi Connect
 764,Christmas Jalili Pty Ltd,Cordner Advisory
+764,Christmas Jalili Pty Ltd,Medicines Australia
 215,"Clark, Kerren G",Oliver Hume Property Funds
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
@@ -383,7 +385,6 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Billbergia Pty Ltd 
 453,Cornerstone Group Australia ,Champion Homes Sales Pty Limited 
 453,Cornerstone Group Australia ,Pacific Planning Pty Limited 
-453,Cornerstone Group Australia ,Varley Pty Ltd 
 453,Cornerstone Group Australia ,Consumer Household Equipment Rental Providers Association Inc. 
 453,Cornerstone Group Australia ,CIS Educational
 453,Cornerstone Group Australia ,SEEK Limited 
@@ -729,6 +730,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,White Cloud Foundation
 59,GRACosway Pty Ltd,The Hydroponics Company 
 59,GRACosway Pty Ltd,L'Oreal Australia Pty Ltd
+59,GRACosway Pty Ltd,DEC Properties Pty Ltd
+59,GRACosway Pty Ltd,Neovolt Limited 
 2838,GrayMorr Consulting Pty. Ltd.,SAAB Australia
 2838,GrayMorr Consulting Pty. Ltd.,My Lotto 24
 2838,GrayMorr Consulting Pty. Ltd.,Sefiani
@@ -873,6 +876,7 @@ agency_id,agency_business_entity_name,client_name
 78,John O'Connor and Associates Pty Ltd,BBRG Australia Pty Ltd
 78,John O'Connor and Associates Pty Ltd,MolyCop Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Dematic Pty Ltd
+78,John O'Connor and Associates Pty Ltd,Prysmian Australia Pty Ltd
 255,John Scott Barker,Stornoway
 255,John Scott Barker,Font PR
 255,John Scott Barker,Cuthbertson Bros
@@ -882,11 +886,17 @@ agency_id,agency_business_entity_name,client_name
 255,John Scott Barker,Gutteridge Haskins  Davey (GHD)
 255,John Scott Barker,Moortech Pty Ltd
 264,"John, Susan Maree",Bioventus Australia Pty Ltd
+3848,Kate Mills,Regional Development Australia Goldfields Esperance
+3848,Kate Mills,City of Kalgoorlie Boulder
+3848,Kate Mills,Plaza Medical
+3848,Kate Mills,Goldfields Indigenous Housing Organisation
+3848,Kate Mills,Goldfields Rehabilitation Services Inc.
 576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
 519,Lawrence Media Services Pty Ltd,Big Picture Vision Pty Ltd
+519,Lawrence Media Services Pty Ltd,FINSIA is a professional membership body for the Financial Services Institute in Australasia. 
 4,Leisure SolutionsÂ®,Ecotourism Australia Ltd (Geotourism Forum)
 4,Leisure SolutionsÂ®,Geological Society of Australia
 223,Leonie M. Short,Australian Council of Social Service
@@ -1017,14 +1027,12 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,The Trustee for Diversified Infrastructure Trust
 565,Newgate Communications Pty Limited,Whitehaven Coal Limited
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
-565,Newgate Communications Pty Limited,Vodafone Australia Pty Limited
 565,Newgate Communications Pty Limited,Mondelez Australia Pty Ltd
 565,Newgate Communications Pty Limited,Foxtel Management Pty Limited
 565,Newgate Communications Pty Limited,Bluearth Foundation
 565,Newgate Communications Pty Limited,Swisse Wellness Pty Ltd
 565,Newgate Communications Pty Limited,Minter Ellison
 565,Newgate Communications Pty Limited,Australia Post
-565,Newgate Communications Pty Limited,Australian Bankers' Association Inc
 565,Newgate Communications Pty Limited,Port of Newcastle Operations Pty Ltd
 565,Newgate Communications Pty Limited,Diageo Australia Limited
 565,Newgate Communications Pty Limited,Symphony Services Australia Limited
@@ -1498,10 +1506,8 @@ agency_id,agency_business_entity_name,client_name
 769,Strategic Partnership Group Pty Ltd,Linfox Australia Limited
 753,Strategic Political Counsel Pty Ltd,Nicoventures Australia Pty Ltd
 753,Strategic Political Counsel Pty Ltd,British American Tobacco Australia
-753,Strategic Political Counsel Pty Ltd,National Australia Bank Ltd
 753,Strategic Political Counsel Pty Ltd,APA Group
 753,Strategic Political Counsel Pty Ltd,Monash University
-753,Strategic Political Counsel Pty Ltd,E4 Health Australia
 753,Strategic Political Counsel Pty Ltd,NAB Health
 753,Strategic Political Counsel Pty Ltd,Aircraft Owners and Pilots Association of Australia
 753,Strategic Political Counsel Pty Ltd,Australian Lotteries and Newsagents Association
@@ -1540,6 +1546,11 @@ agency_id,agency_business_entity_name,client_name
 450,The Humphrey Company Pty Limited,AMI International
 450,The Humphrey Company Pty Limited,Project Flinders Pty Ltd
 450,The Humphrey Company Pty Limited,Huntington Ingalls Industries
+768,The PR Counsel,Anatomics
+768,The PR Counsel,Anatomics Rx
+768,The PR Counsel,Tata Consultancy Services
+768,The PR Counsel,NASSCOM National Association of Software and Services Companies
+768,The PR Counsel,Australian Diagnostic Imaging Association
 268,The Premier Communications Group Pty Ltd.,Phebra
 268,The Premier Communications Group Pty Ltd.,Australian Nursing and Midwifery Federation 
 268,The Premier Communications Group Pty Ltd.,Associazione Sportivo Australia (ASA)

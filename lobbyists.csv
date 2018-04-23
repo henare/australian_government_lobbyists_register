@@ -90,6 +90,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Warren King,Special Counsel ,Yes,March 2015
 79,CMAX Communications Pty Ltd,Alexander Arnott,Government Relations Adviser,Yes,December 2017
 79,CMAX Communications Pty Ltd,Patrick Doyle,Government Relations Adviser,No,""
+79,CMAX Communications Pty Ltd,Tyson Sara,Chief Operating Officer,Yes,April 2018
+79,CMAX Communications Pty Ltd,Mitch O'Dwyer,Vice President,Yes,April 2018
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Alistair Nicholas,Director Special Projects,Yes,October 2000
 428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
@@ -99,7 +101,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
 2837,Coode Holdings Pty Ltd,Clint Robert Ford,Managing Director,No,""
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,No,""
-453,Cornerstone Group Australia ,Brigid Meney ,Associate Policy and Strategy ,Yes,September 2016
 453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,Yes,March 2017
 160,Cotterell Jannette Suzanne,Jannette Cotterell,Managing Director,No,""
 160,Cotterell Jannette Suzanne,Serena Beaumont Owles,Senior Consultant,No,""
@@ -222,17 +223,17 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Brent Crockford,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
-59,GRACosway Pty Ltd,Duncan Thomas McDonald,Associate,No,""
+59,GRACosway Pty Ltd,Duncan Thomas McDonald,Consultant,No,""
 59,GRACosway Pty Ltd,Jinesh Patel,Director,No,""
-59,GRACosway Pty Ltd,Liam Nilon,Research and Policy Analyst,No,""
-59,GRACosway Pty Ltd,Erin Germantis,Research and Policy Analyst,No,""
-59,GRACosway Pty Ltd,Zoe Darling,Research and Policy Analyst,Yes,June 2016
-59,GRACosway Pty Ltd,Kirk Alexander Stubbs,Research and Policy Analyst,No,""
-59,GRACosway Pty Ltd,Leigh Francis Moran,Research and Policy Analyst,No,""
+59,GRACosway Pty Ltd,Liam Nilon,Consultant,No,""
+59,GRACosway Pty Ltd,Erin Germantis,Associate,No,""
+59,GRACosway Pty Ltd,Zoe Darling,Consultant,Yes,June 2016
+59,GRACosway Pty Ltd,Kirk Alexander Stubbs,Associate,No,""
+59,GRACosway Pty Ltd,Leigh Francis Moran,Associate,No,""
 59,GRACosway Pty Ltd,Sharon Anne Reid,Associate Director Marketing and Research,No,""
 59,GRACosway Pty Ltd,Vanessa Vartto,Director,No,""
 59,GRACosway Pty Ltd,Andrew Cox,Director,Yes,December 2007
-59,GRACosway Pty Ltd,James Ricupito ,Research and Policy Analyst ,Yes,December 2015
+59,GRACosway Pty Ltd,James Ricupito ,Associate,Yes,December 2015
 2838,GrayMorr Consulting Pty. Ltd.,Garth Morrison,Director,No,""
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
@@ -270,6 +271,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,Thomas Michael O'Meara,Consultant,No,""
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
+3848,Kate Mills,Kate Mills,Principal Consultant,No,""
 576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
@@ -330,6 +332,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,David Reeves,Senior Consultant,Yes,February 2008
 565,Newgate Communications Pty Limited,Liam Jones,Consultant,Yes,May 2016
 565,Newgate Communications Pty Limited,Jessica Bradlow,Consultant,No,""
+565,Newgate Communications Pty Limited,Lenda Oshalem,Associate Partner,No,""
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Mark Hrycek,Senior Advisor,No,""
@@ -486,6 +489,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 780,The Hon. Kim Beazley AC,The Hon. Kim Beazley AC,Senior Fellow,Yes,November 2007
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
+768,The PR Counsel,Kristy McSweeney,Principal,Yes,September 2014
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
 1826,The Shape Agency,Timothy James O'Halloran,Director,Yes,September 2013
 705,The Shrimpton Family Trust,Barry Shrimpton,Director,No,""
