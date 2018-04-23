@@ -1,5 +1,5 @@
 #!/bin/bash
-~/.rvm/bin/ruby ./scraper.rb
+~/.rvm/wrappers/default/ruby ./scraper.rb
 git add .
 git commit -m"Adding changes scraped at `date`"
 git push origin master
