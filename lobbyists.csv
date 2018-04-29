@@ -68,6 +68,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 743,CETE Consulting Pty Ltd,Cameron Thomson,Managing Director,Yes,June 1995
+2848,CHAP AirTech Pty Ltd,Jeffrey W. Elliott,Director / Secretary,No,""
 2847,Chatto Creek Advisory Pty Ltd,Russell Scoular,Chairman,No,""
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,Yes,March 2003
 157,Chikarovski & Associates Pty Ltd,Emily Young,Lobbyist,No,""
@@ -163,7 +164,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,July 2016
 663,Espresso Communications Pty Ltd,Corrie McLeod ,Managing Director ,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
-71,Essential Media Communications Pty Ltd,Tony Douglas,Director,No,""
+71,Essential Media Communications Pty Ltd,James Anthony Douglas,Director,No,""
 71,Essential Media Communications Pty Ltd,Ann Jessica Kendall,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Peter Stahel,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Darren Rodrigo,Senior Account Manager,No,""
@@ -323,7 +324,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 565,Newgate Communications Pty Limited,Sam Deans,Account Director,No,""
-565,Newgate Communications Pty Limited,Gail Morgan,Associate Partner,Yes,May 2006
 565,Newgate Communications Pty Limited,Adam Le Lievre,Account Director,Yes,March 2016
 565,Newgate Communications Pty Limited,Claire Bremner,Associate Partner,Yes,April 2006
 565,Newgate Communications Pty Limited,Phillip Kelly,Senior Adviser,No,""
