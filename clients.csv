@@ -6,6 +6,7 @@ agency_id,agency_business_entity_name,client_name
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,AMST GmbH
 746,Advisory Street Pty Ltd,Bank of Queensland
 746,Advisory Street Pty Ltd,Commercial & Asset Finance Brokers Association of Australia
+746,Advisory Street Pty Ltd,Australian Payments Network
 36,Aegis Consulting Group Pty Ltd,Re Group
 104,Alkar Pty Ltd,NT Airports
 104,Alkar Pty Ltd,Tabcorp
@@ -177,6 +178,10 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Australian Aviation Museum Bankstown Inc.
 338,Barton Deakin ,Star Scientific Ltd
 338,Barton Deakin ,Expedia
+338,Barton Deakin ,TSG Interactive Services Ltd
+338,Barton Deakin ,Baulderstone Consulting Services Pty Ltd 
+338,Barton Deakin ,Marubeni
+338,Barton Deakin ,Gallagher Bassett
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -777,6 +782,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Reason Group
 96,Hawker Britton Group Pty Ltd,DXC Technology 
 96,Hawker Britton Group Pty Ltd,Tata Consultancy Services 
+96,Hawker Britton Group Pty Ltd,Lottoland (Australia) Pty Ltd
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -1848,6 +1854,10 @@ agency_id,agency_business_entity_name,client_name
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
 591,WILLIAM R & SUSAN V HASSELL,Lucas Staelens
+751,Woodhill Communication Pty Ltd,Ruralco Holdings Limited
+751,Woodhill Communication Pty Ltd,Society of Interventional Radiologists
+751,Woodhill Communication Pty Ltd,Group of 100 inc
+751,Woodhill Communication Pty Ltd,Terumo Australia Pty Ltd
 641,Wurley Group Pty Ltd,Edwards Lifesciences Pty Ltd
 641,Wurley Group Pty Ltd,Globus Medical Australia Pty Ltd
 641,Wurley Group Pty Ltd,BXTAccelyon Australia Pty Ltd
