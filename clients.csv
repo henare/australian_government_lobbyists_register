@@ -180,8 +180,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Expedia
 338,Barton Deakin ,TSG Interactive Services Ltd
 338,Barton Deakin ,Baulderstone Consulting Services Pty Ltd 
-338,Barton Deakin ,Marubeni
 338,Barton Deakin ,Gallagher Bassett
+338,Barton Deakin ,Marubeni Australia Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -200,6 +200,7 @@ agency_id,agency_business_entity_name,client_name
 614,Bossy Group Pty Ltd,Simavita Limited
 614,Bossy Group Pty Ltd,Apptio Inc
 614,Bossy Group Pty Ltd,Infosys
+614,Bossy Group Pty Ltd,Emanuel Exports Pty Ltd
 6,Bramex Pty Ltd,Reach Beyond Australia
 657,Brent William Knevett,Netsweeper
 657,Brent William Knevett,Medimpact International
@@ -1456,7 +1457,6 @@ agency_id,agency_business_entity_name,client_name
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
 1806,Scott Mitchell and Partners Pty Ltd,RAWS Association Limited
 1806,Scott Mitchell and Partners Pty Ltd,Australian Airports Association
-143,Sefiani Communications Group,Yara Pilbera
 143,Sefiani Communications Group,Seafarms Group
 143,Sefiani Communications Group,New Hope Group
 143,Sefiani Communications Group,Landbridge Infrastructure Australia
@@ -1464,6 +1464,7 @@ agency_id,agency_business_entity_name,client_name
 143,Sefiani Communications Group,Westside Corporation
 143,Sefiani Communications Group,Halifax Vogel Group 
 143,Sefiani Communications Group,Everlight Radiology
+143,Sefiani Communications Group,myLotto24
 676,Seismic Asia Pacific Pty Ltd,Norbit
 676,Seismic Asia Pacific Pty Ltd,Knudsen
 676,Seismic Asia Pacific Pty Ltd,Applanix
@@ -1545,6 +1546,7 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Varian Medical Systems
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Market Eye Pty Ltd
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Afilias Limited
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers Australia (WPMA)
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
@@ -1652,6 +1654,7 @@ agency_id,agency_business_entity_name,client_name
 420,The Trustee for ECG Advisory Trust,TPG Capital
 420,The Trustee for ECG Advisory Trust,Oaktree Capital
 420,The Trustee for ECG Advisory Trust,Challenger Limited
+420,The Trustee for ECG Advisory Trust,Auctioneers and Valuers Association of Australia (Incorporated)
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 1809,The Trustee for Jackman Family Trust,The Big Issue
 1809,The Trustee for Jackman Family Trust,Home for Homes
