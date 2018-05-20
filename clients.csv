@@ -182,6 +182,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Baulderstone Consulting Services Pty Ltd 
 338,Barton Deakin ,Gallagher Bassett
 338,Barton Deakin ,Marubeni Australia Ltd
+338,Barton Deakin ,Northside Community Forum Ltd. 
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -503,11 +504,8 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Canopy Growth Corporation
 580,Crosby Textor Research Strategies Results,Literacy for Life Foundation
 673,CT International and Corporate Advisory Pty Ltd,Parmalat Australia Pty Ltd 
-673,CT International and Corporate Advisory Pty Ltd,SNIIP (AUSTRALIA) PTY LTD
 673,CT International and Corporate Advisory Pty Ltd,The Trustee for R F Capital Trust
-673,CT International and Corporate Advisory Pty Ltd,LEND LEASE CORPORATION LTD
 673,CT International and Corporate Advisory Pty Ltd,Ansaldo STS Australia Pty Ltd
-673,CT International and Corporate Advisory Pty Ltd,Platypus Investment Partners Ltd 
 673,CT International and Corporate Advisory Pty Ltd,Fincantieri Australia Pty Ltd
 795,Cube Public Relations Pty Ltd,Medicines Australia
 153,Cultural Consulting,Murnis
@@ -548,12 +546,14 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,Veritas
 360,Diplomacy Pty Limited,Regional Development Australia Barwon South West
 360,Diplomacy Pty Limited,SolarReserve
+360,Diplomacy Pty Limited,Seafood Industry Victoria
 454,Discourse Consulting Pty Ltd,ADA
 454,Discourse Consulting Pty Ltd,Life withour Barriers
 454,Discourse Consulting Pty Ltd,Employers Mutual
 624,Donna Edman,Hearing Care Industry Association
 172,Dr Robert Horton,Intelsat Corporation
 172,Dr Robert Horton,Inmarsat Corporation
+172,Dr Robert Horton,One Web Corporation
 792,Du Bious Holdings Pty Ltd,Fundraising Institute of Australia 
 515,Dunns4 Consulting Pty Ltd,Point Trading
 515,Dunns4 Consulting Pty Ltd,Nexter Systems
@@ -584,6 +584,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Subaru (Aust) Pty Limited
 31,Endeavour Consulting Group Pty Ltd,DANONE
 31,Endeavour Consulting Group Pty Ltd,3D Oil Limited 
+3853,ESN PTY LTD,Greyhound Racing Industry - Owners and Trainers
 663,Espresso Communications Pty Ltd,Cylance
 71,Essential Media Communications Pty Ltd,Australian Marriage Equality
 71,Essential Media Communications Pty Ltd,Luke Batty Foundation Limited
@@ -686,6 +687,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Pathfinders Australia (probono)
 122,GRA Everingham Pty Ltd,Serco
 122,GRA Everingham Pty Ltd,Georgiou Group Pty Ltd 
+122,GRA Everingham Pty Ltd,City of South Perth
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -742,8 +744,13 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,The Hydroponics Company 
 59,GRACosway Pty Ltd,L'Oreal Australia Pty Ltd
 59,GRACosway Pty Ltd,DEC Properties Pty Ltd
-59,GRACosway Pty Ltd,Neovolt Limited 
 59,GRACosway Pty Ltd,International Association of Geophysical Contractors
+59,GRACosway Pty Ltd,Volt Bank Limited
+59,GRACosway Pty Ltd,AMP Capital Investors Limited
+59,GRACosway Pty Ltd,IFM Investors Pty Ltd 
+59,GRACosway Pty Ltd,Macquarie Infrastructure and Real Assets
+59,GRACosway Pty Ltd,Spark Infrastructure RE Limited
+59,GRACosway Pty Ltd,Hastings Funds Management Limited
 2838,GrayMorr Consulting Pty. Ltd.,SAAB Australia
 2838,GrayMorr Consulting Pty. Ltd.,My Lotto 24
 2838,GrayMorr Consulting Pty. Ltd.,Sefiani
@@ -784,6 +791,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,DXC Technology 
 96,Hawker Britton Group Pty Ltd,Tata Consultancy Services 
 96,Hawker Britton Group Pty Ltd,Lottoland (Australia) Pty Ltd
+96,Hawker Britton Group Pty Ltd,Melbourne Airport
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -1100,6 +1108,8 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Telstra
 1798,Nexus Asia Pacific Pty Ltd,Australian Automobile Dealer Association
 1798,Nexus Asia Pacific Pty Ltd,Vanguard Health
+1798,Nexus Asia Pacific Pty Ltd,Broadspectrum
+1798,Nexus Asia Pacific Pty Ltd,Swisse
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Celgene
 86,Ogilvy PR Health,Research Australia
@@ -1214,7 +1224,7 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,BEINFORMED GROUP PTY LTD	
 516,Premier State Consulting Pty Ltd,Waterbrook Australia Pty Ltd	
 516,Premier State Consulting Pty Ltd,Event Hospitality and Entertainment Limited
-516,Premier State Consulting Pty Ltd,Australian Finance Group Pty Ltd
+516,Premier State Consulting Pty Ltd,Aus Finance Group Pty Ltd
 1817,PremierNational Pty Ltd,Acciona
 1817,PremierNational Pty Ltd,New Horizons Enterprises Ltd
 1817,PremierNational Pty Ltd,AA Crown Holdings Pty Ltd
@@ -1248,7 +1258,7 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,EASTERN SUBURBS LEAGUES CLUB LTD	
 1817,PremierNational Pty Ltd,BEINFORMED GROUP PTY LTD	
 1817,PremierNational Pty Ltd,Waterbrook Australia Pty Ltd	
-1817,PremierNational Pty Ltd,Australian Finance Group Pty Ltd
+1817,PremierNational Pty Ltd,Aus Finance Group Pty Ltd
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1423,6 +1433,7 @@ agency_id,agency_business_entity_name,client_name
 669,Royce Communications Pty Ltd,Victoria University
 669,Royce Communications Pty Ltd,Salta Group
 669,Royce Communications Pty Ltd,Australian Live Export Council
+669,Royce Communications Pty Ltd,Members Health Fund Alliance
 2841,RPP Group,Terumo BCT Inc.
 771,S Robertson and M Smith,Queensland Dairyfarmers' Organisation LImited
 771,S Robertson and M Smith,Transition Energy Corporation Pty Ltd 
@@ -1551,6 +1562,13 @@ agency_id,agency_business_entity_name,client_name
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
 90,The Fifth Estate Consultancy Pty Ltd,Hume Coal
+83,The Holland Trust,Statecraft
+83,The Holland Trust,Speyside Group
+83,The Holland Trust,British American Tobacco Australia
+83,The Holland Trust,Beam Suntory Australia
+83,The Holland Trust,Mawson's Huts Foundation
+83,The Holland Trust,Australia Israel Labor Dialogue
+83,The Holland Trust,Cronulla Surf Life Saving Club
 780,The Hon. Kim Beazley AC,AECOM
 780,The Hon. Kim Beazley AC,Dragoman Consultants 
 757,The Hon. Robert Charles Baldwin,Varley Engineering Pty Ltd 
@@ -1594,14 +1612,11 @@ agency_id,agency_business_entity_name,client_name
 95,The Strategic Counsel Pty Ltd,Glaukos Corporation
 95,The Strategic Counsel Pty Ltd,JanssenCilag Pty Ltd
 424,The Taylor Street Consultancy P/L,The Dockside Group 
-424,The Taylor Street Consultancy P/L,Sydney Olympic Park Business Association
 424,The Taylor Street Consultancy P/L,Sydney Airport Corporation Ltd
-424,The Taylor Street Consultancy P/L,Walker Corporation
 424,The Taylor Street Consultancy P/L,Western Sydney Leadership Dialogue
 424,The Taylor Street Consultancy P/L,Celestino Pty Ltd
 424,The Taylor Street Consultancy P/L,Royal Agricultural Society of NSW
 424,The Taylor Street Consultancy P/L,Goodman Group
-424,The Taylor Street Consultancy P/L,Leichhardt Council
 424,The Taylor Street Consultancy P/L,QIC
 424,The Taylor Street Consultancy P/L,Australian Racing Drivers Club
 424,The Taylor Street Consultancy P/L,GPT

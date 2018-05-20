@@ -84,8 +84,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Tara Taubenschlag,Managing Director,No,""
 79,CMAX Communications Pty Ltd,Christian Taubenschlag,Managing Partner,Yes,October 2009
 79,CMAX Communications Pty Ltd,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
-79,CMAX Communications Pty Ltd,Jacob Traeger,Account Manager,No,""
-79,CMAX Communications Pty Ltd,Adele Langton,Government Relations Adviser,Yes,September 2013
 79,CMAX Communications Pty Ltd,Maddie Gay,Government Relations Adviser ,Yes,September 2017
 79,CMAX Communications Pty Ltd,Ali Humphreys ,Government Relations Adviser ,No,""
 79,CMAX Communications Pty Ltd,Warren King,Special Counsel ,Yes,March 2015
@@ -162,6 +160,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
 31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Partner,Yes,June 1986
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,July 2016
+3853,ESN PTY LTD,Samantha I. Salamon,Director,No,""
 663,Espresso Communications Pty Ltd,Corrie McLeod ,Managing Director ,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
 71,Essential Media Communications Pty Ltd,James Anthony Douglas,Director,No,""
@@ -490,6 +489,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
 90,The Fifth Estate Consultancy Pty Ltd,Timothy Mort,Analyst,No,""
+83,The Holland Trust,Gregory Holland,Managing Director,Yes,May 1988
 780,The Hon. Kim Beazley AC,The Hon. Kim Beazley AC,Senior Fellow,Yes,November 2007
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
@@ -503,7 +503,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 95,The Strategic Counsel Pty Ltd,Catherine McGovern,Advisor,Yes,May 2000
 424,The Taylor Street Consultancy P/L,Christopher Brown,Chairman,No,""
 424,The Taylor Street Consultancy P/L,Adam Leto,Director  Communication ,No,""
-424,The Taylor Street Consultancy P/L,Tania Hyde,Chief Operating Officer,Yes,February 2007
 424,The Taylor Street Consultancy P/L,Luke Turner,Senior Policy Manager,No,""
 698,The Trustee for Arthur Trust,Hamish Arthur,Director,No,""
 145,The Trustee for Bespoke Business Trust,Ian Smith,Partner,Yes,November 2006
