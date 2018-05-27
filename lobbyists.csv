@@ -189,10 +189,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Michael Groves,Director,No,""
 333,FTI Consulting (Perth) Pty Ltd,Katina Hodson Thomas,Director,Yes,September 2008
 333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Senior Director,No,""
-678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Hadler ,Senior Adviser,No,""
-678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Ben Hamilton,Senior Director ,No,""
-678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Maryanna Vasilareas,Senior Consultant ,No,""
-678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Celia Moore,Senior Consultant ,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Hadler ,Senior Advisor,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Ben Hamilton,Managing Director ,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Maryanna Vasilareas,Director ,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Celia Moore,Director ,No,""
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
 1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
 1,Gambolling Pty Ltd,Jane Beer,PA/Consultant,Yes,August 2016
@@ -249,6 +249,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
 714,Insight Strategy Pty Ltd,Jody Fassina,Managing Director,Yes,April 2001
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
+3851,Interact Collaborations Pty Ltd,Taryn Langdon,Director,No,""
 38,Intercorp Pty Ltd,Sonnie Lipshut,Chairman,No,""
 38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
 38,Intercorp Pty Ltd,Jack Baldwin,Marketing Manager,No,""
@@ -342,6 +343,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1798,Nexus Asia Pacific Pty Ltd,Nick Campbell,Chairman,Yes,December 1999
 1798,Nexus Asia Pacific Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
 1798,Nexus Asia Pacific Pty Ltd,Peter Sykes,Senior Consultant,No,""
+1798,Nexus Asia Pacific Pty Ltd,Richard Brooks,Senior Advisor,Yes,September 2014
 3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
 86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
 86,Ogilvy PR Health,Emma Nunan,Senior Account Manager,No,""
@@ -403,6 +405,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 89,Public Affairs Network Pty Ltd,Rosie Yeo,Director,Yes,April 1995
 68,Public Policy Solutions Pty Ltd,Christopher John Fry,Director,No,""
 68,Public Policy Solutions Pty Ltd,Meredith Laverty,consultatnt,Yes,August 2016
+68,Public Policy Solutions Pty Ltd,Michael Arthur Kilham,consultant,Yes,August 2016
 242,Purple Communications Australia Pty Ltd,Warrick Hazeldine,Managing Director,No,""
 242,Purple Communications Australia Pty Ltd,Annette Ellis,Director,No,""
 242,Purple Communications Australia Pty Ltd,Richard Harris,Director,No,""

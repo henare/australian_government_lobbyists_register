@@ -71,7 +71,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Harness Racing Australia Inc
 338,Barton Deakin ,Aspen Medical
 338,Barton Deakin ,Crown Castle Australia Pty Limited
-338,Barton Deakin ,Yum! Restaurants Australia Pty Limited 
 338,Barton Deakin ,The Song Room Inc 
 338,Barton Deakin ,McDonald's Australia Ltd
 338,Barton Deakin ,Australia Health Tourism Pty Ltd 
@@ -183,6 +182,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Gallagher Bassett
 338,Barton Deakin ,Marubeni Australia Ltd
 338,Barton Deakin ,Northside Community Forum Ltd. 
+338,Barton Deakin ,Kentucky Fried Chicken Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -239,6 +239,7 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,St Columba Anglican School Council Incorporated
 654,C2hills Investments Pty Limited,Kempsey Shire Council
 789,Cahill and Bailey Pty Ltd,Yara Pilbara
+789,Cahill and Bailey Pty Ltd,Outcare 
 787,Capetal Advisory Pty Ltd,AREVA
 2836,Capital Advisory Group Australia,Allianz Australia Insurance Ltd
 556,Capital Hill Advisory Pty Ltd,Amgen Australia Pty Ltd
@@ -638,6 +639,7 @@ agency_id,agency_business_entity_name,client_name
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Spark Infrastructure Group
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Huntsman Corporation 
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Cornerstone Health Pty Limited 
 1,Gambolling Pty Ltd,National Australia Bank
 1,Gambolling Pty Ltd,Intercapital 
 1,Gambolling Pty Ltd,Project Flinders Pty Ltd
@@ -751,6 +753,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Macquarie Infrastructure and Real Assets
 59,GRACosway Pty Ltd,Spark Infrastructure RE Limited
 59,GRACosway Pty Ltd,Hastings Funds Management Limited
+59,GRACosway Pty Ltd,Craveable Brands Pty Ltd 
 2838,GrayMorr Consulting Pty. Ltd.,SAAB Australia
 2838,GrayMorr Consulting Pty. Ltd.,My Lotto 24
 2838,GrayMorr Consulting Pty. Ltd.,Sefiani
@@ -792,6 +795,8 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Tata Consultancy Services 
 96,Hawker Britton Group Pty Ltd,Lottoland (Australia) Pty Ltd
 96,Hawker Britton Group Pty Ltd,Melbourne Airport
+96,Hawker Britton Group Pty Ltd,Independent Schools Victoria
+96,Hawker Britton Group Pty Ltd,Association of Independent Schools of New South Wales Ltd
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -812,6 +817,7 @@ agency_id,agency_business_entity_name,client_name
 714,Insight Strategy Pty Ltd,Australian Timeshare and Holiday Ownership Council
 170,Intech Strategies P/L,Elbit Systems Ltd
 170,Intech Strategies P/L,Elbit Systems of Australia P/L
+3851,Interact Collaborations Pty Ltd,Epilepsy ACT
 38,Intercorp Pty Ltd,Israel Aerospace Industries Limited
 38,Intercorp Pty Ltd,Plasan
 103,Ivydale Nominees Pty Ltd,Coogee Chemicals
@@ -1050,7 +1056,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australian Private Equity  Venture Capital Association Limited
 565,Newgate Communications Pty Limited,Mondelez Australia Pty Ltd
 565,Newgate Communications Pty Limited,Foxtel Management Pty Limited
-565,Newgate Communications Pty Limited,Swisse Wellness Pty Ltd
 565,Newgate Communications Pty Limited,Minter Ellison
 565,Newgate Communications Pty Limited,Australia Post
 565,Newgate Communications Pty Limited,Port of Newcastle Operations Pty Ltd
@@ -1061,13 +1066,13 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Dexus Holdings Pty Limited
 565,Newgate Communications Pty Limited,Google Australia
 565,Newgate Communications Pty Limited,QANTAS
-565,Newgate Communications Pty Limited,Coca Cola Amatil Limited
 565,Newgate Communications Pty Limited,The Royal Australian and New Zealand College of Radiologists
 565,Newgate Communications Pty Limited,EOT's Pty Ltd
 565,Newgate Communications Pty Limited,Hello Sunday Morning
 565,Newgate Communications Pty Limited,Bechtel Australia Pty Ltd
 565,Newgate Communications Pty Limited,Minderoo Group
 565,Newgate Communications Pty Limited,Study Group Australia Pty Limited
+565,Newgate Communications Pty Limited,Domino's Pizza Enterprises Limited
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
 766,Next Level Strategic Services Pty Ltd,QRE Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Cutting Edge Pty Ltd
@@ -1110,6 +1115,8 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus Asia Pacific Pty Ltd,Vanguard Health
 1798,Nexus Asia Pacific Pty Ltd,Broadspectrum
 1798,Nexus Asia Pacific Pty Ltd,Swisse
+1798,Nexus Asia Pacific Pty Ltd,Microsoft
+1798,Nexus Asia Pacific Pty Ltd,Insurance Australia Group Limited
 3,Oceanic Solutions Pty Ltd,Navantia
 86,Ogilvy PR Health,Celgene
 86,Ogilvy PR Health,Research Australia
@@ -1343,6 +1350,7 @@ agency_id,agency_business_entity_name,client_name
 68,Public Policy Solutions Pty Ltd,Telstra
 68,Public Policy Solutions Pty Ltd,Terressentia
 68,Public Policy Solutions Pty Ltd,The Infrastructure Fund (TIF)
+68,Public Policy Solutions Pty Ltd,Crown Resorts Ltd
 242,Purple Communications Australia Pty Ltd,WA Independent Power Association Inc 
 242,Purple Communications Australia Pty Ltd,Northern Minerals 
 242,Purple Communications Australia Pty Ltd,Sino Gas & Energy Holdings Limited 
@@ -1568,7 +1576,6 @@ agency_id,agency_business_entity_name,client_name
 83,The Holland Trust,Beam Suntory Australia
 83,The Holland Trust,Mawson's Huts Foundation
 83,The Holland Trust,Australia Israel Labor Dialogue
-83,The Holland Trust,Cronulla Surf Life Saving Club
 780,The Hon. Kim Beazley AC,AECOM
 780,The Hon. Kim Beazley AC,Dragoman Consultants 
 757,The Hon. Robert Charles Baldwin,Varley Engineering Pty Ltd 
@@ -1868,6 +1875,8 @@ agency_id,agency_business_entity_name,client_name
 584,Willard Public Affairs Pty Limited,Medicines Australia Ltd
 584,Willard Public Affairs Pty Limited,StubHub (an ebay company)
 584,Willard Public Affairs Pty Limited,DHL Supply Chain Pty Ltd
+584,Willard Public Affairs Pty Limited,Sonic Healthcare Ltd
+584,Willard Public Affairs Pty Limited,Gumtree AU Pty Ltd (an ebay company)
 591,WILLIAM R & SUSAN V HASSELL,Nicolas Julien Staelens
 591,WILLIAM R & SUSAN V HASSELL,Jean Marc Staelens
 591,WILLIAM R & SUSAN V HASSELL,Christel Nicole Francine Staelens
