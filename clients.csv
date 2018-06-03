@@ -231,13 +231,14 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,Griffith City Council
 654,C2hills Investments Pty Limited,Grainlink (NSW) Pty Ltd
 654,C2hills Investments Pty Limited,Hay Shire Council
-654,C2hills Investments Pty Limited,Murrumbidgee Council
 654,C2hills Investments Pty Limited,The Council of the Municipality of Kiama
 654,C2hills Investments Pty Limited,Port Macquarie Hastings Council
 654,C2hills Investments Pty Limited,Cootamundra Gundagai Regional Council
 654,C2hills Investments Pty Limited,Iona Sports Club Incorporated
 654,C2hills Investments Pty Limited,St Columba Anglican School Council Incorporated
 654,C2hills Investments Pty Limited,Kempsey Shire Council
+654,C2hills Investments Pty Limited,UCA Lifeline Midcoast NSW
+654,C2hills Investments Pty Limited,Riverina Water County Council
 789,Cahill and Bailey Pty Ltd,Yara Pilbara
 789,Cahill and Bailey Pty Ltd,Outcare 
 787,Capetal Advisory Pty Ltd,AREVA
@@ -312,10 +313,6 @@ agency_id,agency_business_entity_name,client_name
 658,Chris Drummer ,Australian Mobile Health Clinics Association
 658,Chris Drummer ,Warner Pharmacy
 113,CHRIS SCHACHT,PILATUS
-113,CHRIS SCHACHT,PMB Defence
-113,CHRIS SCHACHT,Leigh Creek Energy Ltd
-113,CHRIS SCHACHT,Paratoo Mines Pty Ltd
-113,CHRIS SCHACHT,AMS Filtration Pty Ltd
 764,Christmas Jalili Pty Ltd,The George Institute
 764,Christmas Jalili Pty Ltd,Intel Australia
 764,Christmas Jalili Pty Ltd,Australian Digital Currency Commerce Association
@@ -585,6 +582,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,Subaru (Aust) Pty Limited
 31,Endeavour Consulting Group Pty Ltd,DANONE
 31,Endeavour Consulting Group Pty Ltd,3D Oil Limited 
+31,Endeavour Consulting Group Pty Ltd,Breast Cancer Network Australia
 3853,ESN PTY LTD,Greyhound Racing Industry - Owners and Trainers
 663,Espresso Communications Pty Ltd,Cylance
 71,Essential Media Communications Pty Ltd,Australian Marriage Equality
@@ -682,7 +680,6 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Decmil Group Limited
 122,GRA Everingham Pty Ltd,Safe Watch Global 
 122,GRA Everingham Pty Ltd,Newcrest Mining Limited 
-122,GRA Everingham Pty Ltd,Chamber of Commerce and Industry of Western Australia
 122,GRA Everingham Pty Ltd,Broadcast Australia 
 122,GRA Everingham Pty Ltd,Growth Areas Perth and Peel 
 122,GRA Everingham Pty Ltd,Hanson 
@@ -690,6 +687,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Everingham Pty Ltd,Serco
 122,GRA Everingham Pty Ltd,Georgiou Group Pty Ltd 
 122,GRA Everingham Pty Ltd,City of South Perth
+122,GRA Everingham Pty Ltd,Newmont Australia 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -754,6 +752,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Spark Infrastructure RE Limited
 59,GRACosway Pty Ltd,Hastings Funds Management Limited
 59,GRACosway Pty Ltd,Craveable Brands Pty Ltd 
+59,GRACosway Pty Ltd,AustralianSuper Pty Ltd 
 2838,GrayMorr Consulting Pty. Ltd.,SAAB Australia
 2838,GrayMorr Consulting Pty. Ltd.,My Lotto 24
 2838,GrayMorr Consulting Pty. Ltd.,Sefiani
@@ -797,6 +796,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Melbourne Airport
 96,Hawker Britton Group Pty Ltd,Independent Schools Victoria
 96,Hawker Britton Group Pty Ltd,Association of Independent Schools of New South Wales Ltd
+96,Hawker Britton Group Pty Ltd,Kentucky Fried Chicken Pty Limited 
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -951,12 +951,12 @@ agency_id,agency_business_entity_name,client_name
 13,LOPAC Consulting Pty Limited,Hughes Network Systems
 13,LOPAC Consulting Pty Limited,Orbital  ATK Inc
 13,LOPAC Consulting Pty Limited,FORCIT Defence
-774,Lunik Pty Ltd,Ability Options
 774,Lunik Pty Ltd,Thomas Global Systems
 774,Lunik Pty Ltd,Austal Limited
 774,Lunik Pty Ltd,Naval Group Australia
 774,Lunik Pty Ltd,MBDA Australia
 774,Lunik Pty Ltd,BMT Group Australia
+774,Lunik Pty Ltd,Defence Teaming Centre
 1811,Luz Ardiden Consulting,Detmold Group
 1811,Luz Ardiden Consulting,KPMG
 1811,Luz Ardiden Consulting,SYC
@@ -1185,6 +1185,7 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,Caltex
 72,Parker & Partners Pty Ltd,Seeing Machines
 72,Parker & Partners Pty Ltd,First Voice Australia
+72,Parker & Partners Pty Ltd,Interactive Games and Entertainment Association
 1821,People First HR Solutions Pty Ltd,E Qubed
 1821,People First HR Solutions Pty Ltd,Mobile Electrics
 736,Peter Kane,Australian Meat Industry Council
@@ -1424,11 +1425,9 @@ agency_id,agency_business_entity_name,client_name
 395,Right Angle Business Services Pty Ltd,Solar Juice Pty Ltd
 395,Right Angle Business Services Pty Ltd,SOLARGAIN Pty Ltd
 395,Right Angle Business Services Pty Ltd,Mariaâs Farm Veggies Pty Ltd (Administrators Appointed)
-395,Right Angle Business Services Pty Ltd,Euroluce Lighting Australia Pty Ltd
-395,Right Angle Business Services Pty Ltd,Light Culture Australia Pty Ltd
-395,Right Angle Business Services Pty Ltd,Light Project Pty Ltd
-395,Right Angle Business Services Pty Ltd,Baker & McAuliffe Holdings Pty Ltd
 395,Right Angle Business Services Pty Ltd,Newcastle Airport Pty Limited
+395,Right Angle Business Services Pty Ltd,Asterion (Australia) Pty Ltd
+395,Right Angle Business Services Pty Ltd,Preveceutical (Australia) Pty Ltd
 755,RIPNEY PTY LTD,National Credit Providers Association Ltd
 669,Royce Communications Pty Ltd,Basslink
 669,Royce Communications Pty Ltd,Steritech
@@ -1864,6 +1863,7 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Fairview Architectural Pty Ltd
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Swiss Re Australia
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Blacktown City Council
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Carnival Australia
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,Tolmar Australia Pty Limited

@@ -48,7 +48,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 760,Bushido International Pty Ltd,Peter James WHITE,Chief Executive,No,""
 1799,Butler Hardy Corporate Pty Ltd,John Codrington,Senior Advocate,No,""
 654,C2hills Investments Pty Limited,Cara Leanne Dale,Director/Consultant,No,""
-654,C2hills Investments Pty Limited,Matthew David Field,Business Consultant,No,""
 654,C2hills Investments Pty Limited,Danielle Ann Maltman,Business Consultant,No,""
 789,Cahill and Bailey Pty Ltd,Casey Cahill,Managing Partner,No,""
 789,Cahill and Bailey Pty Ltd,Simon Bailey,Partner,No,""
@@ -91,6 +90,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Patrick Doyle,Government Relations Adviser,No,""
 79,CMAX Communications Pty Ltd,Tyson Sara,Chief Operating Officer,Yes,April 2018
 79,CMAX Communications Pty Ltd,Mitch O'Dwyer,Vice President,Yes,April 2018
+79,CMAX Communications Pty Ltd,Cameron Jones,Government Relations Adviser,Yes,January 2014
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Alistair Nicholas,Director Special Projects,Yes,October 2000
 428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
@@ -101,6 +101,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 2837,Coode Holdings Pty Ltd,Clint Robert Ford,Managing Director,No,""
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,No,""
 453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,Yes,March 2017
+453,Cornerstone Group Australia ,Hamish Quinn,Senior Associate Policy  Strategy,No,""
 160,Cotterell Jannette Suzanne,Jannette Cotterell,Managing Director,No,""
 160,Cotterell Jannette Suzanne,Serena Beaumont Owles,Senior Consultant,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
@@ -318,7 +319,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Brian Tyson,Managing Partner,No,""
 565,Newgate Communications Pty Limited,Feyi Akindoyeni,Partner,No,""
 565,Newgate Communications Pty Limited,Jodie Brough,Partner,No,""
-565,Newgate Communications Pty Limited,Michael van Maanen,Partner,Yes,February 2008
 565,Newgate Communications Pty Limited,Sophie Travers,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Jeremy Vine,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
