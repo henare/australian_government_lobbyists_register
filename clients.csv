@@ -183,6 +183,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Marubeni Australia Ltd
 338,Barton Deakin ,Northside Community Forum Ltd. 
 338,Barton Deakin ,Kentucky Fried Chicken Pty Ltd
+338,Barton Deakin ,Imagine Exhibitions
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -312,6 +313,7 @@ agency_id,agency_business_entity_name,client_name
 658,Chris Drummer ,Oceanic Multitrading Pty Ltd
 658,Chris Drummer ,Australian Mobile Health Clinics Association
 658,Chris Drummer ,Warner Pharmacy
+658,Chris Drummer ,Holiday Rental Industry Association
 113,CHRIS SCHACHT,PILATUS
 764,Christmas Jalili Pty Ltd,The George Institute
 764,Christmas Jalili Pty Ltd,Intel Australia
@@ -358,9 +360,9 @@ agency_id,agency_business_entity_name,client_name
 638,Contextual Communications Pty Ltd,New Humans of Australia
 2837,Coode Holdings Pty Ltd,Midpoint Holdings Pty Ltd
 2837,Coode Holdings Pty Ltd,CG Berbatis Holdings Pty Ltd
-2837,Coode Holdings Pty Ltd,Holiday Inn Perth City Centre 
 2837,Coode Holdings Pty Ltd,Port Hedland Esplanade Hotel
 2837,Coode Holdings Pty Ltd,Port Hedland Community Progress Association
+2837,Coode Holdings Pty Ltd,Aquila Australia
 453,Cornerstone Group Australia ,Demigold Pty Ltd 
 453,Cornerstone Group Australia ,Direct Freight Express Pty ltd 
 453,Cornerstone Group Australia ,Cracknell and Lonergan Architects Pty Ltd 
@@ -465,6 +467,10 @@ agency_id,agency_business_entity_name,client_name
 403,Covance Pty Ltd (Covance Market Access Services division),Celgene Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Merck Serono Australia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),CSL Behring (Australia) Pty Ltd
+299,CPI Strategic Pty Ltd,Costa Group of Companies
+299,CPI Strategic Pty Ltd,Field and Game Australia
+299,CPI Strategic Pty Ltd,Australian Deer Association
+299,CPI Strategic Pty Ltd,BusVic
 81,CPR Communications & Public Relations Pty Ltd,Regional Cities Victoria
 81,CPR Communications & Public Relations Pty Ltd,Greater Shepparton City Council
 81,CPR Communications & Public Relations Pty Ltd,City of Wodonga
@@ -496,7 +502,6 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Elliott Advisers (HK) Limited
 580,Crosby Textor Research Strategies Results,Pearson Australia Group Pty Ltd
 580,Crosby Textor Research Strategies Results,Blunden & Associates Pty Ltd
-580,Crosby Textor Research Strategies Results,IndiIT Pty Ltd
 580,Crosby Textor Research Strategies Results,Beetson & Associates
 580,Crosby Textor Research Strategies Results,Santos Ltd
 580,Crosby Textor Research Strategies Results,Canopy Growth Corporation
@@ -605,6 +610,7 @@ agency_id,agency_business_entity_name,client_name
 71,Essential Media Communications Pty Ltd,ChildFund
 71,Essential Media Communications Pty Ltd,Centre for Evidence and Implementation
 71,Essential Media Communications Pty Ltd,Aboriginal Carbon Fund
+71,Essential Media Communications Pty Ltd,Smart Energy Council 
 564,Etched Communications Pty Ltd,Nestle Australia
 564,Etched Communications Pty Ltd, Interface Aust Pty Limited
 564,Etched Communications Pty Ltd,Bannister Law
@@ -957,6 +963,7 @@ agency_id,agency_business_entity_name,client_name
 774,Lunik Pty Ltd,MBDA Australia
 774,Lunik Pty Ltd,BMT Group Australia
 774,Lunik Pty Ltd,Defence Teaming Centre
+774,Lunik Pty Ltd,Australian Digital Commerce Association Ltd
 1811,Luz Ardiden Consulting,Detmold Group
 1811,Luz Ardiden Consulting,KPMG
 1811,Luz Ardiden Consulting,SYC
@@ -1030,6 +1037,12 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,Town of Port Hedland
 132,Megan Anwyl,Vector Advanced Metering Services (Australia) Pty Ltd
 132,Megan Anwyl,Australia China Business Council WA
+3854,Meso Consulting Pty Ltd,KimberlyClark Australia
+3854,Meso Consulting Pty Ltd,KimberlyClark Professional Asia Pacific
+3854,Meso Consulting Pty Ltd,KimberlyClark Corporation
+3854,Meso Consulting Pty Ltd,Muscle Worx Pty Ltd
+3854,Meso Consulting Pty Ltd,Export Corporation Pty Ltd
+3854,Meso Consulting Pty Ltd,Shin Etsu Japan
 1836,MIBD Strategy Pty Ltd,KURZ Australia
 452,Michael Johnson Associates Pty Limited,Arrium Limited
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
@@ -1366,6 +1379,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Western Australia Lithium
 242,Purple Communications Australia Pty Ltd,Kidman Resources Limited
 242,Purple Communications Australia Pty Ltd,Sociedad Quimica y Minera de Chile
+242,Purple Communications Australia Pty Ltd,Talison Lithium
 29,Pynfall Pty Ltd,Project System & Management GmbH
 29,Pynfall Pty Ltd,Photonis Technologies SAS
 492,Rachael Sweeney ,Regional Capitals Australia 
@@ -1380,7 +1394,6 @@ agency_id,agency_business_entity_name,client_name
 24,Repute Communications and Associates Pty Ltd,State Medical Assistance 
 98,Res Publica Pty Ltd,SpinalCure Australia
 98,Res Publica Pty Ltd,Australian Association of National Advertisers (AANA)
-98,Res Publica Pty Ltd,Unilever
 98,Res Publica Pty Ltd,Coalition for Advancement of Medical Research Australia
 98,Res Publica Pty Ltd,Lion 
 98,Res Publica Pty Ltd,Mojo Power
@@ -1475,6 +1488,7 @@ agency_id,agency_business_entity_name,client_name
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
 1806,Scott Mitchell and Partners Pty Ltd,RAWS Association Limited
 1806,Scott Mitchell and Partners Pty Ltd,Australian Airports Association
+1806,Scott Mitchell and Partners Pty Ltd,Australian Dairy Industry Council
 143,Sefiani Communications Group,Seafarms Group
 143,Sefiani Communications Group,New Hope Group
 143,Sefiani Communications Group,Landbridge Infrastructure Australia
@@ -1536,6 +1550,7 @@ agency_id,agency_business_entity_name,client_name
 66,Statecraft,Third Sector Strategy Group
 769,Strategic Partnership Group Pty Ltd,Fertility Society of Australia IVF Directors Group
 769,Strategic Partnership Group Pty Ltd,Linfox Australia Limited
+769,Strategic Partnership Group Pty Ltd,Forensic Data Analytics
 753,Strategic Political Counsel Pty Ltd,Nicoventures Australia Pty Ltd
 753,Strategic Political Counsel Pty Ltd,British American Tobacco Australia
 753,Strategic Political Counsel Pty Ltd,APA Group

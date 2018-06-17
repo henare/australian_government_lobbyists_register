@@ -109,6 +109,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Heather McElroy,Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
+299,CPI Strategic Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
+299,CPI Strategic Pty Ltd,Frederick John Brown,Director,Yes,November 2007
 81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director Government Relations,Yes,January 2007
 81,CPR Communications & Public Relations Pty Ltd,William Forwood,Strategic Counsel,No,""
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
@@ -125,7 +127,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Yaron Finkelstein,CEO Australasia ,Yes,February 2006
 580,Crosby Textor Research Strategies Results,Talia Katz,Consultant ,No,""
 580,Crosby Textor Research Strategies Results,Molly Hughes ,Consultant ,Yes,August 2016
-580,Crosby Textor Research Strategies Results,Renee Shingles ,Consultant,No,""
 673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Chief Operating Officer,No,""
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 673,CT International and Corporate Advisory Pty Ltd,Michael Teoh,Consultant,No,""
@@ -303,6 +304,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 201,Media Affairs,George Hazim,Director,No,""
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
+3854,Meso Consulting Pty Ltd,Mark Robert Sehn,Director,No,""
 1836,MIBD Strategy Pty Ltd,Marc (Meir) Itzchaki,CEO,No,""
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Chairman,No,""
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander,Partner,No,""
@@ -404,7 +406,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 127,PRX Unit Trust,Patrick Rasmussen,Consultant,No,""
 89,Public Affairs Network Pty Ltd,Rosie Yeo,Director,Yes,April 1995
 68,Public Policy Solutions Pty Ltd,Christopher John Fry,Director,No,""
-68,Public Policy Solutions Pty Ltd,Meredith Laverty,consultatnt,Yes,August 2016
 68,Public Policy Solutions Pty Ltd,Michael Arthur Kilham,consultant,Yes,August 2016
 242,Purple Communications Australia Pty Ltd,Warrick Hazeldine,Managing Director,No,""
 242,Purple Communications Australia Pty Ltd,Annette Ellis,Director,No,""
@@ -428,7 +429,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 98,Res Publica Pty Ltd,Baden Parker Brown,Account Executive,No,""
 98,Res Publica Pty Ltd,Simone Rayner,Account Manager ,No,""
 98,Res Publica Pty Ltd,Nicholas Hay,Director,No,""
-98,Res Publica Pty Ltd,Olivia Blunt,Account Manager,No,""
 98,Res Publica Pty Ltd,Nathan Quigley,Director,No,""
 497,Resolution Junction,Gregory Male,Director,Yes,September 2012
 35,Richardson Coutts,John Richardson,Director,Yes,May 1995
