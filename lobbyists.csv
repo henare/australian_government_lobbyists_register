@@ -127,6 +127,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Yaron Finkelstein,CEO Australasia ,Yes,February 2006
 580,Crosby Textor Research Strategies Results,Talia Katz,Consultant ,No,""
 580,Crosby Textor Research Strategies Results,Molly Hughes ,Consultant ,Yes,August 2016
+580,Crosby Textor Research Strategies Results,Matthew Logan,Consultant,No,""
 673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Chief Operating Officer,No,""
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 673,CT International and Corporate Advisory Pty Ltd,Michael Teoh,Consultant,No,""
@@ -346,18 +347,18 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1798,Nexus Asia Pacific Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
 1798,Nexus Asia Pacific Pty Ltd,Peter Sykes,Senior Consultant,No,""
 1798,Nexus Asia Pacific Pty Ltd,Richard Brooks,Senior Advisor,Yes,September 2014
-3,Oceanic Solutions Pty Ltd,Dr Jeremy Ranicar,Director,Yes,September 1995
-86,Ogilvy PR Health,Leon Beswick,Managing Director,No,""
-86,Ogilvy PR Health,Emma Nunan,Senior Account Manager,No,""
-86,Ogilvy PR Health,Rachel Stanton,Business Director,No,""
-86,Ogilvy PR Health,Kate Parson,Senior Consultant,No,""
-86,Ogilvy PR Health,Michael Lane,Senior Account Manager,No,""
-86,Ogilvy PR Health,Chloe Dougherty,Account Executive,No,""
-86,Ogilvy PR Health,Tania Jayesuria,Practice Director,No,""
-86,Ogilvy PR Health,Carly Vale,Senior Consultant,No,""
-86,Ogilvy PR Health,Alex McInnes,Account Executive,No,""
+3,Oceanic Solutions Pty Ltd ITF Jemnica Family Trust,Dr Jeremy Ranicar,Director,Yes,September 1995
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
+86,opr Health,Leon Beswick,Managing Director,No,""
+86,opr Health,Emma Nunan,Senior Account Manager,No,""
+86,opr Health,Rachel Stanton,Business Director,No,""
+86,opr Health,Kate Parson,Senior Consultant,No,""
+86,opr Health,Michael Lane,Senior Account Manager,No,""
+86,opr Health,Chloe Dougherty,Account Executive,No,""
+86,opr Health,Tania Jayesuria,Practice Director,No,""
+86,opr Health,Carly Vale,Senior Consultant,No,""
+86,opr Health,Alex McInnes,Account Executive,No,""
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Kam Sham LEUNG,Chairman,No,""
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Andrew Fung,Director,No,""
@@ -444,7 +445,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
 2841,RPP Group,Patrick Reeder,Associate Consultant,Yes,December 2014
 771,S Robertson and M Smith,Michael Smith,Partner,No,""
-771,S Robertson and M Smith,Stephen Robertson,Partner,No,""
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Victoria Qiu,Director China,No,""
