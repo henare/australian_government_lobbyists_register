@@ -55,7 +55,6 @@ agency_id,agency_business_entity_name,owner_name
 789,Cahill and Bailey Pty Ltd,Casey Cahill
 789,Cahill and Bailey Pty Ltd,Simon Bailey
 787,Capetal Advisory Pty Ltd,Nathan Paine
-787,Capetal Advisory Pty Ltd,Matthew Clemow
 2836,Capital Advisory Group Australia,Todd Hayward 
 2836,Capital Advisory Group Australia,Mark Sutton
 2836,Capital Advisory Group Australia,Martin Cole
@@ -134,6 +133,7 @@ agency_id,agency_business_entity_name,owner_name
 71,Essential Media Communications Pty Ltd,Peter Lewis
 564,Etched Communications Pty Ltd,Andrew Butler
 564,Etched Communications Pty Ltd,Peter Wilkinson
+3857,Every Minute Media,Heath Kirby-Miller
 324,FCC Partnership Pty Ltd,Hugh Fraser
 214,FIPRA Australia Pty Limited,Richardson and Associates Pty Ltd
 214,FIPRA Australia Pty Limited,Stephen Coutts Pty Ltd
@@ -145,6 +145,7 @@ agency_id,agency_business_entity_name,owner_name
 738,Freight  Trade Alliance (FTA) Pty Ltd,Travis BrooksGarrett
 333,FTI Consulting (Perth) Pty Ltd,FTI Consulting (Perth) Pty Ltd
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,FTI Consulting Inc 
+3855,Gambaro Consulting Group,Hon. Teresa Gambaro
 1,Gambolling Pty Ltd,Stephen Carney
 1,Gambolling Pty Ltd,Barbara Carney
 1,Gambolling Pty Ltd,Gambolling Pty Ltd
@@ -259,7 +260,7 @@ agency_id,agency_business_entity_name,owner_name
 318,Porter Novelli Australia Pty Ltd,Clemenger Group Limited
 1829,Porter Thomas Pty Ltd,Paul Tierney
 1812,Preferment Associates ,John Thomas Campbell Lake 
-516,Premier State Consulting Pty Ltd,National Strategy Group Pty Ltd
+516,Premier State Consulting Pty Ltd,Michael Photios
 1817,PremierNational Pty Ltd,Michael Photios
 1805,Primary Communication Partners Pty Limited,Elagh Group Pty Ltd
 1805,Primary Communication Partners Pty Limited,Annabelle Warren
@@ -317,6 +318,7 @@ agency_id,agency_business_entity_name,owner_name
 239,Sports Hydrant Pty Ltd,Andrew Turnbull
 665,Spring Street Advisory,McAlpine Family Trust
 490,Staindl Strategic Pty Ltd,Philip Staindl
+3856,Starfare Image Pty Ltd,Helen Joanne Patronis
 66,Statecraft,Priebe Family Trust 
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter
@@ -342,7 +344,6 @@ agency_id,agency_business_entity_name,owner_name
 768,The PR Counsel,Kristy Michelle McSweeney
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi
 1826,The Shape Agency,Timothy James O'Halloran
-705,The Shrimpton Family Trust,Barry Shrimpton
 95,The Strategic Counsel Pty Ltd,Donna Staunton
 424,The Taylor Street Consultancy P/L,Christopher Brown
 698,The Trustee for Arthur Trust,Hamish Arthur

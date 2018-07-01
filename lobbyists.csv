@@ -32,6 +32,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Robert Bower,Policy and Business Analyst,No,""
 338,Barton Deakin ,Andrew Coombe,Managing Director (South Australia),Yes,August 2009
 338,Barton Deakin ,Elizabeth Burrows,Policy and Business Analyst,No,""
+338,Barton Deakin ,Katrina Hodkingson,Director,Yes,January 1999
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
 162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,March 1983
@@ -180,6 +181,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
 564,Etched Communications Pty Ltd,Nick Albrow,Account Director,No,""
+3857,Every Minute Media,Heath Kirby-Miller,Manager,No,""
 324,FCC Partnership Pty Ltd,Hugh Fraser,Managing Director,No,""
 214,FIPRA Australia Pty Limited,John Richardson,Principal,Yes,May 1995
 214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
@@ -196,6 +198,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Ben Hamilton,Managing Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Maryanna Vasilareas,Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Celia Moore,Director ,No,""
+3855,Gambaro Consulting Group,Hon Teresa Gambaro,Director,Yes,May 2016
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
 1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
 1,Gambolling Pty Ltd,Jane Beer,PA/Consultant,Yes,August 2016
@@ -337,6 +340,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Liam Jones,Consultant,Yes,May 2016
 565,Newgate Communications Pty Limited,Jessica Bradlow,Consultant,No,""
 565,Newgate Communications Pty Limited,Lenda Oshalem,Associate Partner,No,""
+565,Newgate Communications Pty Limited,Grace Borrello,Consultant,Yes,June 2018
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Mark Hrycek,Senior Advisor,No,""
@@ -466,8 +470,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,April 1982
+3856,Starfare Image Pty Ltd,Mark Giroletti,Senior Consultant,No,""
+3856,Starfare Image Pty Ltd,Jelena Stoimenovski,Regulatory Scientist,No,""
+3856,Starfare Image Pty Ltd,Socrates Kotaridis,Consultant,No,""
+3856,Starfare Image Pty Ltd,Greg Ross,Senior Regulatory Consultant,No,""
+3856,Starfare Image Pty Ltd,Helen Joanne Patronis,Managing Director,No,""
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
-66,Statecraft,Kimberley Ramplin,Senior Consultant,No,""
 66,Statecraft,Greg Holland,Director,Yes,June 1988
 66,Statecraft,Anna Kumar,Consultant,No,""
 66,Statecraft,Zann Maxwell ShickGrant,Associate Consultant,Yes,July 2016
@@ -499,7 +507,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 768,The PR Counsel,Kristy McSweeney,Principal,Yes,September 2014
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
 1826,The Shape Agency,Timothy James O'Halloran,Director,Yes,September 2013
-705,The Shrimpton Family Trust,Barry Shrimpton,Director,No,""
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,The Hon. Dr Michael Wooldridge,Advisor,Yes,October 2001
 95,The Strategic Counsel Pty Ltd,Rebecca McCarthy,Associate,No,""
