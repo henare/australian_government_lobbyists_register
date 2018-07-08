@@ -89,7 +89,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,The ORS Group Pty Ltd
 338,Barton Deakin ,Opal Aged Care
 338,Barton Deakin ,Adults Surviving Child Abuse
-338,Barton Deakin ,Orica Australia Pty Ltd
 338,Barton Deakin ,Murdoch Childrens Research Institute
 338,Barton Deakin ,CHC Helicopters Australia
 338,Barton Deakin ,QBE Insurance Group Limited
@@ -186,6 +185,8 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Imagine Exhibitions
 338,Barton Deakin ,HydroSun Capital Pty Ltd
 338,Barton Deakin ,MS Research Australia
+338,Barton Deakin ,Lendlease Group Services Pty Limited
+338,Barton Deakin ,Nucoal Resources Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -213,6 +214,7 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,DXC Technology
 657,Brent William Knevett,Customer Sciences
 657,Brent William Knevett,ToukanLabs
+657,Brent William Knevett,Aura Information Security
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 662,BroadSpectrum Consultants Pty Ltd,Commercial Radio Australia
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
@@ -297,7 +299,6 @@ agency_id,agency_business_entity_name,client_name
 2848,CHAP AirTech Pty Ltd,JM Security Management Pty Ltd
 2847,Chatto Creek Advisory Pty Ltd,Federal Chamber of Automotive Industries
 157,Chikarovski & Associates Pty Ltd,Association of Financial Advisers Ltd
-157,Chikarovski & Associates Pty Ltd,The Trustee For A2z Outcomes Unit Trust
 157,Chikarovski & Associates Pty Ltd,Sir Michael Hintze AM
 157,Chikarovski & Associates Pty Ltd,Workplace Super Specialists Australia
 157,Chikarovski & Associates Pty Ltd,Spacecon Pty Ltd
@@ -309,9 +310,9 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,BOYUAN HOLDINGS LIMITED
 157,Chikarovski & Associates Pty Ltd,Zurich Financial Services Australia Limited 
 157,Chikarovski & Associates Pty Ltd,CUSHMAN & WAKEFIELD (AUSTRALIA) PTY LTD
-157,Chikarovski & Associates Pty Ltd,Pymore Recyclers International Pty Ltd
 157,Chikarovski & Associates Pty Ltd,Australis 2020
 157,Chikarovski & Associates Pty Ltd,Epochal Pty Ltd 
+157,Chikarovski & Associates Pty Ltd,Surrogacy Australia
 658,Chris Drummer ,Rhonda Joy Deep
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Oceanic Multitrading Pty Ltd
@@ -352,9 +353,10 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Proximity
 79,CMAX Communications Pty Ltd,Pink Hope
 79,CMAX Communications Pty Ltd,Hologic
-428,CMGRP Pty Ltd,XERO
-428,CMGRP Pty Ltd,Aus Gold
-428,CMGRP Pty Ltd,Reckitt Benckiser
+428,CMGRP Pty Ltd,AusGold
+3860,Collective Position Group Pty Ltd,Regional Capitals Australia 
+3860,Collective Position Group Pty Ltd,Wine Victoria
+3860,Collective Position Group Pty Ltd,Gippsland Local Government Network
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,OmniSpace
 472,Comsult(Aust) Pty Ltd,O3b/SES
@@ -476,22 +478,17 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Regional Cities Victoria
 81,CPR Communications & Public Relations Pty Ltd,Greater Shepparton City Council
 81,CPR Communications & Public Relations Pty Ltd,City of Wodonga
-81,CPR Communications & Public Relations Pty Ltd,Housing Industry Association Limited
-81,CPR Communications & Public Relations Pty Ltd,Rural City of Wangaratta
-81,CPR Communications & Public Relations Pty Ltd,Queen Elizabeth Centre
-81,CPR Communications & Public Relations Pty Ltd,The Royal Agricultural Society of Victoria Limited
 81,CPR Communications & Public Relations Pty Ltd,Zagame Automotive Group
 81,CPR Communications & Public Relations Pty Ltd,Samsung Electronics Australia
-81,CPR Communications & Public Relations Pty Ltd,Kabo Lawyers
-81,CPR Communications & Public Relations Pty Ltd,ACCIONA Australia
-81,CPR Communications & Public Relations Pty Ltd,Legislative Leadership and Governance Group Incorporated
 81,CPR Communications & Public Relations Pty Ltd,headspace National Youth Mental Health Foundation Ltd
 81,CPR Communications & Public Relations Pty Ltd,Walter and Eliza Hall Institute of Medical Research
 81,CPR Communications & Public Relations Pty Ltd,MailGuard Pty Ltd
-81,CPR Communications & Public Relations Pty Ltd,Australasian Association of Convenience Stores
 81,CPR Communications & Public Relations Pty Ltd,Searoad Ferries
 81,CPR Communications & Public Relations Pty Ltd,Malaysian Resources Corporation Berhad
 81,CPR Communications & Public Relations Pty Ltd,Baker Heart and Diabetes Institute
+81,CPR Communications & Public Relations Pty Ltd,Mildura Rural City Council
+81,CPR Communications & Public Relations Pty Ltd,The Real Estate Institute of Victoria
+81,CPR Communications & Public Relations Pty Ltd,Warrnambool City Council
 683,Craig Emerson Economics Pty Ltd,KPMG
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
@@ -507,6 +504,7 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Beetson & Associates
 580,Crosby Textor Research Strategies Results,Canopy Growth Corporation
 580,Crosby Textor Research Strategies Results,Literacy for Life Foundation
+580,Crosby Textor Research Strategies Results,Spectrum Cannabis Australia Pty Ltd
 673,CT International and Corporate Advisory Pty Ltd,Parmalat Australia Pty Ltd 
 673,CT International and Corporate Advisory Pty Ltd,The Trustee for R F Capital Trust
 673,CT International and Corporate Advisory Pty Ltd,Ansaldo STS Australia Pty Ltd
@@ -589,6 +587,7 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,DANONE
 31,Endeavour Consulting Group Pty Ltd,3D Oil Limited 
 31,Endeavour Consulting Group Pty Ltd,Breast Cancer Network Australia
+31,Endeavour Consulting Group Pty Ltd,iSelect
 3853,ESN PTY LTD,Greyhound Racing Industry - Owners and Trainers
 663,Espresso Communications Pty Ltd,Cylance
 71,Essential Media Communications Pty Ltd,Australian Marriage Equality
@@ -623,6 +622,7 @@ agency_id,agency_business_entity_name,client_name
 324,FCC Partnership Pty Ltd,CFD and FX Forum
 324,FCC Partnership Pty Ltd,Sydney Stock Exchange
 324,FCC Partnership Pty Ltd,Different Property Management
+324,FCC Partnership Pty Ltd,Kryptos X
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Australia
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Limited USA
 214,FIPRA Australia Pty Limited,FIPRA International UK
@@ -766,6 +766,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,AustralianSuper Pty Ltd 
 59,GRACosway Pty Ltd,The trustee for Sali Investment Trust
 59,GRACosway Pty Ltd,Novo Nordisk Pharmaceuticals Pty Ltd
+59,GRACosway Pty Ltd,HRL Morrison & Co (Australia) Pty Limited 
 2838,GrayMorr Consulting Pty. Ltd.,SAAB Australia
 2838,GrayMorr Consulting Pty. Ltd.,My Lotto 24
 2838,GrayMorr Consulting Pty. Ltd.,Sefiani
@@ -811,6 +812,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Association of Independent Schools of New South Wales Ltd
 96,Hawker Britton Group Pty Ltd,Kentucky Fried Chicken Pty Limited 
 96,Hawker Britton Group Pty Ltd,Lendlease Group Services Pty Limited
+3858,Haztech Environmental ,Haztech Environmental
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
@@ -839,12 +841,6 @@ agency_id,agency_business_entity_name,client_name
 103,Ivydale Nominees Pty Ltd,Albemarle Corporation
 103,Ivydale Nominees Pty Ltd,Ord Irrigation Cooperative Ltd
 586,Jenkins Engineering defence Systems Pty Ltd,Harris Corp.
-1816,Jerome Rault Media Pty Ltd,Gold Age Australia Aged Care
-1816,Jerome Rault Media Pty Ltd,Bambra House Aged Care
-1816,Jerome Rault Media Pty Ltd,Vermont Aged Care
-1816,Jerome Rault Media Pty Ltd,Samkay Health Aged Care
-1816,Jerome Rault Media Pty Ltd,Emerald Terrace Aged Care
-1816,Jerome Rault Media Pty Ltd,Park Lane Residential Aged Care
 319,Jo Scard Pty Ltd,Australian Indigenous Leadership Centre
 319,Jo Scard Pty Ltd,The Australian Charities Fund Operations Limited
 319,Jo Scard Pty Ltd,Quintessential Equities 023 Pty Ltd
@@ -902,7 +898,6 @@ agency_id,agency_business_entity_name,client_name
 1813,John Fetter Group Pty Ltd,South Australian Timber Processors Association
 78,John O'Connor and Associates Pty Ltd,CSBP Limited
 78,John O'Connor and Associates Pty Ltd,Orica Australia Pty Ltd
-78,John O'Connor and Associates Pty Ltd,Sunbeam Foods Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Qenos Pty Ltd
 78,John O'Connor and Associates Pty Ltd,BlueScope Steel Limited
 78,John O'Connor and Associates Pty Ltd,Nufarm Limited
@@ -1064,6 +1059,13 @@ agency_id,agency_business_entity_name,client_name
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
 696,MOUNTAIN MEDIA PTY LTD,EOz Energy Skills Australia
 696,MOUNTAIN MEDIA PTY LTD,Norfolk Island People For Democracy
+3859,MR DARYL GORDON PILMORE,BRAND DEVELOPERS AUSTRALIA PTY LTD
+3859,MR DARYL GORDON PILMORE,RACINNE AUSTRALIA PTY LTD
+3859,MR DARYL GORDON PILMORE,Aspen Australia
+3859,MR DARYL GORDON PILMORE,Union-Swiss (Pty) Ltd 
+3859,MR DARYL GORDON PILMORE,MOR Boutique
+3859,MR DARYL GORDON PILMORE,MORPHE PTY LTD
+3859,MR DARYL GORDON PILMORE,MANUKA DOCTOR (AUSTRALIA) PTY LIMITED
 356,Mr John Kindler,Pratt and Whitney Military Engines
 565,Newgate Communications Pty Limited,Clontarf Foundation
 565,Newgate Communications Pty Limited,Sydney Swans Ltd
@@ -1483,6 +1485,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Redback Technologies
 685,Sanlaan Pty Ltd,JBS Australia Pty Ltd
 685,Sanlaan Pty Ltd,GWSim Ltd
+685,Sanlaan Pty Ltd,Redback Technologies
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
@@ -1532,6 +1535,7 @@ agency_id,agency_business_entity_name,client_name
 225,SPIER CONSULTING P/L,AUSTRALIAN NEWSAGENTS FEDERATION
 225,SPIER CONSULTING P/L,AUSTRALIAN INSTITUTE OF QUANTITY SURVEYORS
 225,SPIER CONSULTING P/L,AUSTRALIAN FEDERATION OFV TRAVEL AGENTS
+225,SPIER CONSULTING P/L,MORTGAGE AND FINANCE ASSOCIATION OF AUSTRALIA
 239,Sports Hydrant Pty Ltd,AMP
 239,Sports Hydrant Pty Ltd,Virgin Blue Group of Airlines
 239,Sports Hydrant Pty Ltd,Australian British Chamber of Commerce
@@ -1590,6 +1594,8 @@ agency_id,agency_business_entity_name,client_name
 2843,Tarramot Pty Ltd,John Holland Group
 2843,Tarramot Pty Ltd,Toyota Tsusho Australasia Pty Ltd
 2843,Tarramot Pty Ltd,Tianqi Lithium Australia
+2843,Tarramot Pty Ltd,City of Melville
+2843,Tarramot Pty Ltd,Linc Property Group
 235,The Agenda Group Pty Ltd,Epworth Health Care
 235,The Agenda Group Pty Ltd,Principals Australia Insitutute
 9,The Canberra Institute,Emirates Trading Australia
@@ -1612,8 +1618,6 @@ agency_id,agency_business_entity_name,client_name
 83,The Holland Trust,Beam Suntory Australia
 83,The Holland Trust,Mawson's Huts Foundation
 83,The Holland Trust,Australia Israel Labor Dialogue
-780,The Hon. Kim Beazley AC,AECOM
-780,The Hon. Kim Beazley AC,Dragoman Consultants 
 757,The Hon. Robert Charles Baldwin,Varley Engineering Pty Ltd 
 757,The Hon. Robert Charles Baldwin,CTSi (USA)
 757,The Hon. Robert Charles Baldwin,InConnect

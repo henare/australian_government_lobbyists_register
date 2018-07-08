@@ -32,7 +32,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,Robert Bower,Policy and Business Analyst,No,""
 338,Barton Deakin ,Andrew Coombe,Managing Director (South Australia),Yes,August 2009
 338,Barton Deakin ,Elizabeth Burrows,Policy and Business Analyst,No,""
-338,Barton Deakin ,Katrina Hodkingson,Director,Yes,January 1999
+338,Barton Deakin ,The Hon. Katrina Hodgkinson,Director,Yes,January 1999
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
 162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,March 1983
@@ -96,6 +96,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 428,CMGRP Pty Ltd,Alistair Nicholas,Director Special Projects,Yes,October 2000
 428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
 428,CMGRP Pty Ltd,Francisco,lacerda,No,""
+3860,Collective Position Group Pty Ltd,Rachael Sweeney,Director ,Yes,September 2012
+3860,Collective Position Group Pty Ltd,Angela Scicluna,Communications and Media Officer ,No,""
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
 142,Consilium International Group Pty Ltd,Michael Zarew,Managing Director,No,""
 638,Contextual Communications Pty Ltd,Cassandra Scott,Managing Director,Yes,January 2002
@@ -125,10 +127,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
 580,Crosby Textor Research Strategies Results,George Brougham,Consultant,No,""
 580,Crosby Textor Research Strategies Results,Giorgia Christmas,Senior Consultant,Yes,October 2015
-580,Crosby Textor Research Strategies Results,Yaron Finkelstein,CEO Australasia ,Yes,February 2006
 580,Crosby Textor Research Strategies Results,Talia Katz,Consultant ,No,""
 580,Crosby Textor Research Strategies Results,Molly Hughes ,Consultant ,Yes,August 2016
 580,Crosby Textor Research Strategies Results,Matthew Logan,Consultant,No,""
+580,Crosby Textor Research Strategies Results,Catherine Douglas ,Managing Director ,No,""
+580,Crosby Textor Research Strategies Results,David Bell ,Group Managing Director â Australasia,No,""
 673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Chief Operating Officer,No,""
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 673,CT International and Corporate Advisory Pty Ltd,Michael Teoh,Consultant,No,""
@@ -143,6 +146,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 10,Cynergy Pty Ltd,Norman Bruce Higgs,Managing Director,No,""
 221,Damian McGreevy Consulting Pty Ltd,Damian McGreevy,Principal,Yes,March 2009
 1827,David Charles Barrow,David Charles Barrow,Myself,No,""
+16,Day & Hodge Associates Pty Ltd,Stephen Hodge,Director,No,""
 16,Day & Hodge Associates Pty Ltd,Adrienne Day-Hodge,Director,No,""
 1830,Denison Toyer Pty Ltd,Peter Doukas,Managing Director,No,""
 360,Diplomacy Pty Limited,Adam Kilgour,Managing Director,Yes,July 1993
@@ -173,7 +177,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Darren Rodrigo,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jenny Stokes,Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Monique Vandeleur,Communications Consultant,Yes,September 2012
-71,Essential Media Communications Pty Ltd,Luke Brown,Associate Director,No,""
 71,Essential Media Communications Pty Ltd,Alana Mew ,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Bronte Kerr,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Hayley Conway,Senior Account Manager,No,""
@@ -249,6 +252,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 96,Hawker Britton Group Pty Ltd,Eamonn Fitzpatrick,Director,Yes,September 2013
 96,Hawker Britton Group Pty Ltd,Megan Anwyl,Director,Yes,February 2001
 96,Hawker Britton Group Pty Ltd,Liz Vivian,Policy and Business Analyst,Yes,April 2005
+3858,Haztech Environmental ,Jeffrey Bruce Simpson,"Hazardous Chemicals & Regulatory Affairs Consultant, Editor & Publish âHazmat & Environment Notes'",No,""
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
@@ -264,7 +268,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 103,Ivydale Nominees Pty Ltd,Michael Megaw,Senior Associate,Yes,November 1996
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
 586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,Yes,January 2000
-1816,Jerome Rault Media Pty Ltd,Jerome Rault,CEO,No,""
 319,Jo Scard Pty Ltd,Jo Scard,Business Founder former adviser to former Minister for Immigration & Citizenship until 14/9/10,Yes,September 2010
 319,Jo Scard Pty Ltd,Jackie Hanafie,Director,No,""
 319,Jo Scard Pty Ltd,Alys Clare Wemyss Francis,Associate,No,""
@@ -321,6 +324,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 696,MOUNTAIN MEDIA PTY LTD,JULIEANNE STRACHAN, CANBERRA MANAGER,No,""
 696,MOUNTAIN MEDIA PTY LTD,PHILIP JAMES DAVEY,DIRECTOR,No,""
 696,MOUNTAIN MEDIA PTY LTD,Timothy Kevin Vollmer,Consultant,No,""
+3859,MR DARYL GORDON PILMORE,Daryl Gordon Pilmore,Director of Regulatory Affairs,No,""
 356,Mr John Kindler,John Walter Kindler,Owner,Yes,March 2004
 565,Newgate Communications Pty Limited,Brian Tyson,Managing Partner,No,""
 565,Newgate Communications Pty Limited,Feyi Akindoyeni,Partner,No,""
@@ -501,7 +505,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
 90,The Fifth Estate Consultancy Pty Ltd,Timothy Mort,Analyst,No,""
 83,The Holland Trust,Gregory Holland,Managing Director,Yes,May 1988
-780,The Hon. Kim Beazley AC,The Hon. Kim Beazley AC,Senior Fellow,Yes,November 2007
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 768,The PR Counsel,Kristy McSweeney,Principal,Yes,September 2014
