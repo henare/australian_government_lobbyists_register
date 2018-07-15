@@ -71,7 +71,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 2848,CHAP AirTech Pty Ltd,Jeffrey W. Elliott,Director / Secretary,No,""
 2847,Chatto Creek Advisory Pty Ltd,Russell Scoular,Chairman,No,""
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,Yes,March 2003
-157,Chikarovski & Associates Pty Ltd,Emily Young,Lobbyist,No,""
+157,Chikarovski & Associates Pty Ltd,Kelly Hunt,Team Assistant,No,""
 658,Chris Drummer ,Christopher John Drummer,CEO,No,""
 113,CHRIS SCHACHT,CHRIS SCHACHT,OWNER/MANGER,Yes,March 1996
 764,Christmas Jalili Pty Ltd,Damon Jalili,Principal,Yes,August 2016
@@ -96,6 +96,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 428,CMGRP Pty Ltd,Alistair Nicholas,Director Special Projects,Yes,October 2000
 428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
 428,CMGRP Pty Ltd,Francisco,lacerda,No,""
+3863,COHN & WOLFE AUSTRALIA PTY LTD,Matt Stafford,Asia Pacific CEO,Yes,August 2016
 3860,Collective Position Group Pty Ltd,Rachael Sweeney,Director ,Yes,September 2012
 3860,Collective Position Group Pty Ltd,Angela Scicluna,Communications and Media Officer ,No,""
 472,Comsult(Aust) Pty Ltd,Leslie James Davey,Director Engineering and Regulatory,No,""
@@ -193,6 +194,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1835,For Purpose Pty Ltd ,Caterina Giorgi ,Managing Director ,Yes,December 2007
 738,Freight  Trade Alliance (FTA) Pty Ltd,Travis Brooks-Garrett,Director,No,""
 738,Freight  Trade Alliance (FTA) Pty Ltd,Paul David Zalai,Director,Yes,June 1999
+738,Freight  Trade Alliance (FTA) Pty Ltd,Andrew David Crawford,Head of Border and Biosecurity,No,""
 333,FTI Consulting (Perth) Pty Ltd,Cameron Morse,Managing Director Corporate and Public Affairs,No,""
 333,FTI Consulting (Perth) Pty Ltd,Michael Groves,Director,No,""
 333,FTI Consulting (Perth) Pty Ltd,Katina Hodson Thomas,Director,Yes,September 2008
@@ -217,13 +219,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
 125,Govstrat Pty Ltd,Jeff Popp,Principal Adviser,No,""
 125,Govstrat Pty Ltd,Ken Macpherson,Principal Adviser,No,""
-122,GRA Everingham Pty Ltd,Jason Marocchi,Managing Director ,No,""
-122,GRA Everingham Pty Ltd,Amanda Reid,Director,Yes,January 2002
-122,GRA Everingham Pty Ltd,Kareece Broadway,Client Support,No,""
-122,GRA Everingham Pty Ltd,Hon Eric Ripper,Chairman,No,""
-122,GRA Everingham Pty Ltd,Patrick Fagan,Associate Director ,Yes,September 2015
-122,GRA Everingham Pty Ltd,Elizabeth Nedela Campbell,Associate,Yes,August 2013
-122,GRA Everingham Pty Ltd,Tess Randall,Associate,Yes,February 2018
+122,GRA Partners Pty Ltd,Jason Marocchi,Managing Director ,No,""
+122,GRA Partners Pty Ltd,Amanda Reid,Director,Yes,January 2002
+122,GRA Partners Pty Ltd,Kareece Broadway,Client Support,No,""
+122,GRA Partners Pty Ltd,Hon Eric Ripper,Chairman,No,""
+122,GRA Partners Pty Ltd,Patrick Fagan,Associate Director ,Yes,September 2015
+122,GRA Partners Pty Ltd,Elizabeth Nedela Campbell,Associate,Yes,August 2013
+122,GRA Partners Pty Ltd,Tess Randall,Associate,Yes,February 2018
 59,GRACosway Pty Ltd,Richard Victor King,Partner,Yes,February 2000
 59,GRACosway Pty Ltd,Alexander Cramb,Partner,Yes,January 2008
 59,GRACosway Pty Ltd,Paolo Giovanni Bini,Partner,Yes,November 1995
@@ -282,7 +284,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
 3848,Kate Mills,Kate Mills,Principal Consultant,No,""
-576,KENDAL AND ASSOCIATES,STEPHEN KENDAL,CONSULTANT,Yes,December 2000
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
@@ -304,7 +305,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 119,Macquarie Group Limited,Navleen Prasad,Division Director Corporate Communications  Investor Relations,No,""
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd,Managing Director,Yes,March 1996
 245,Marketing Elements Pty Ltd,Cecelia Haddad,Director,No,""
-425,Maser Defence Pty Ltd,Graham Elliott,General Manager,No,""
 425,Maser Defence Pty Ltd,Jamie Johnson,Business Development Manager,Yes,June 2011
 179,McGrane-Fitzgerald Unit Trust,Robert Hennessy-Hawks,Lobbyist,No,""
 762,McGuinness Media,Georgina McGuinness,Director,No,""
@@ -428,8 +428,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Jamie Henderson ,Associate Director,Yes,March 2017
 242,Purple Communications Australia Pty Ltd,Michael Cairnduff,Associate Director,No,""
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
-492,Rachael Sweeney ,Rachael Sweeney,Director,No,""
-492,Rachael Sweeney ,Angela Scicluna,Media Communications Consultant ,No,""
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
@@ -465,6 +463,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 676,Seismic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
 676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Business and Operations Manager,Yes,August 2011
+3861,Shaw Advisory Pty Ltd,James Shaw,Directory,Yes,August 2008
 681,Simeon Duncan,Simeon Duncan,Principal,Yes,November 2007
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Kath Christie,Senior Consultant,No,""
@@ -549,7 +548,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 328,THEMA Consulting Pty Ltd,Carmelina Guarnieri,Senior Analyst,No,""
 328,THEMA Consulting Pty Ltd,Magda Ellis,Senior Analyst,No,""
 1825,Times Lawyers Pty Ltd,Kenneth Kok Kin Chow,Director,No,""
-772,Tokua Pty Ltd,Louise Markus,Principal Consultant,Yes,July 2016
 718,Trustee of Kerans Family Trust,Andrew James Kerans,Principal,Yes,January 2014
 680,TSB Advisory Pty Ltd,Trevor John Burns,Director,Yes,June 1998
 680,TSB Advisory Pty Ltd,Paul Scott,Consultant,No,""

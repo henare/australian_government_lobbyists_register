@@ -42,7 +42,6 @@ agency_id,agency_business_entity_name,client_name
 63,AusAccess Unit Trust,Hanwha Techwin
 63,AusAccess Unit Trust,Australian Indigenous Alpine Sports Foundation
 63,AusAccess Unit Trust,DXC Technology
-63,AusAccess Unit Trust,Vault Systems
 63,AusAccess Unit Trust,Hyundai Rotem
 747,Australian Industry Facilitation,Partech Systems Pty Ltd
 747,Australian Industry Facilitation,Leonardo SpA
@@ -244,6 +243,9 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,Kempsey Shire Council
 654,C2hills Investments Pty Limited,UCA Lifeline Midcoast NSW
 654,C2hills Investments Pty Limited,Riverina Water County Council
+654,C2hills Investments Pty Limited,Luminosity Youth Incorporated
+654,C2hills Investments Pty Limited,Greater Port Macquarie Tourism Association
+654,C2hills Investments Pty Limited,Port Macquarie Touch Association Inc
 789,Cahill and Bailey Pty Ltd,Yara Pilbara
 789,Cahill and Bailey Pty Ltd,Outcare 
 787,Capetal Advisory Pty Ltd,AREVA
@@ -354,6 +356,7 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Pink Hope
 79,CMAX Communications Pty Ltd,Hologic
 428,CMGRP Pty Ltd,AusGold
+3863,COHN & WOLFE AUSTRALIA PTY LTD,Huawei
 3860,Collective Position Group Pty Ltd,Regional Capitals Australia 
 3860,Collective Position Group Pty Ltd,Wine Victoria
 3860,Collective Position Group Pty Ltd,Gippsland Local Government Network
@@ -636,6 +639,7 @@ agency_id,agency_business_entity_name,client_name
 738,Freight  Trade Alliance (FTA) Pty Ltd,Australian International Movers Association
 738,Freight  Trade Alliance (FTA) Pty Ltd,Salta Properties
 738,Freight  Trade Alliance (FTA) Pty Ltd,Victoria International Container Terminal
+738,Freight  Trade Alliance (FTA) Pty Ltd,WiseTech Global
 333,FTI Consulting (Perth) Pty Ltd,Wellard Group
 333,FTI Consulting (Perth) Pty Ltd,Resource Capital Funds
 333,FTI Consulting (Perth) Pty Ltd,Sirona Capital Management
@@ -670,7 +674,7 @@ agency_id,agency_business_entity_name,client_name
 561,Global Issues Group,Refrigerants Australia
 561,Global Issues Group,AIR CONDITIONING AND REFRIGERATION EQUIPMENT MANUFACTURERS ASSOCIATION OF AUSTRALIA INCORPORATED
 561,Global Issues Group,Australian Food Cold Chain Council
-750,GovCorp Pty Ltd,Scahillco
+750,GovCorp Pty Ltd,Vesuvio Software Pty Ltd
 7,Government Relations Solutions Pty Ltd,National Pharmacies
 7,Government Relations Solutions Pty Ltd,Demographia Australia Inc
 7,Government Relations Solutions Pty Ltd,QEH Cardiology
@@ -681,24 +685,24 @@ agency_id,agency_business_entity_name,client_name
 125,Govstrat Pty Ltd,Adani
 125,Govstrat Pty Ltd,Energy Developments Limited
 125,Govstrat Pty Ltd,Star Entertainment
-122,GRA Everingham Pty Ltd,Hall and Prior Aged Care Organisation
-122,GRA Everingham Pty Ltd,Cash Converters
-122,GRA Everingham Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
-122,GRA Everingham Pty Ltd,BHP Billiton
-122,GRA Everingham Pty Ltd,Maxima Pearling Company
-122,GRA Everingham Pty Ltd,AWE Limited 
-122,GRA Everingham Pty Ltd,Perth Radiological Clinic
-122,GRA Everingham Pty Ltd,Decmil Group Limited
-122,GRA Everingham Pty Ltd,Safe Watch Global 
-122,GRA Everingham Pty Ltd,Newcrest Mining Limited 
-122,GRA Everingham Pty Ltd,Broadcast Australia 
-122,GRA Everingham Pty Ltd,Growth Areas Perth and Peel 
-122,GRA Everingham Pty Ltd,Hanson 
-122,GRA Everingham Pty Ltd,Pathfinders Australia (probono)
-122,GRA Everingham Pty Ltd,Serco
-122,GRA Everingham Pty Ltd,Georgiou Group Pty Ltd 
-122,GRA Everingham Pty Ltd,City of South Perth
-122,GRA Everingham Pty Ltd,Newmont Australia 
+122,GRA Partners Pty Ltd,Hall and Prior Aged Care Organisation
+122,GRA Partners Pty Ltd,Cash Converters
+122,GRA Partners Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
+122,GRA Partners Pty Ltd,BHP Billiton
+122,GRA Partners Pty Ltd,Maxima Pearling Company
+122,GRA Partners Pty Ltd,AWE Limited 
+122,GRA Partners Pty Ltd,Perth Radiological Clinic
+122,GRA Partners Pty Ltd,Decmil Group Limited
+122,GRA Partners Pty Ltd,Safe Watch Global 
+122,GRA Partners Pty Ltd,Newcrest Mining Limited 
+122,GRA Partners Pty Ltd,Broadcast Australia 
+122,GRA Partners Pty Ltd,Growth Areas Perth and Peel 
+122,GRA Partners Pty Ltd,Hanson 
+122,GRA Partners Pty Ltd,Pathfinders Australia (probono)
+122,GRA Partners Pty Ltd,Serco
+122,GRA Partners Pty Ltd,Georgiou Group Pty Ltd 
+122,GRA Partners Pty Ltd,City of South Perth
+122,GRA Partners Pty Ltd,Newmont Australia 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -706,7 +710,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Broadcast Australia
 59,GRACosway Pty Ltd,ALDI Stores
 59,GRACosway Pty Ltd,Project Management Institute
-59,GRACosway Pty Ltd,SingTel Optus Pty Ltd
 59,GRACosway Pty Ltd,Halliburton Energy Services
 59,GRACosway Pty Ltd,Gilead Sciences
 59,GRACosway Pty Ltd,Fletcher Building (Australia) Pty Ltd
@@ -714,7 +717,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,FRV Services Australia Pty Ltd
 59,GRACosway Pty Ltd,Ovarian Cancer Australia Limited
 59,GRACosway Pty Ltd,ClearView Wealth Limited
-59,GRACosway Pty Ltd,DP World Australia Ltd
 59,GRACosway Pty Ltd,Mulpha Australia Limited
 59,GRACosway Pty Ltd,Idemitsu Australia Resources Pty Ltd
 59,GRACosway Pty Ltd,The Mirabel Foundation Inc.
@@ -732,17 +734,12 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Yumbah Aquaculture Ltd
 59,GRACosway Pty Ltd,Fletcher Insulation Pty Limited
 59,GRACosway Pty Ltd,Hexion Australia Pty Ltd 
-59,GRACosway Pty Ltd,Ixom Operations Pty Ltd 
-59,GRACosway Pty Ltd,Western Sydney Rail Alliance
 59,GRACosway Pty Ltd,Ability First Australia Limited
 59,GRACosway Pty Ltd,Prospa Advance Pty Ltd
-59,GRACosway Pty Ltd,BHP
 59,GRACosway Pty Ltd,Doterra Australia Pty Ltd
 59,GRACosway Pty Ltd,Dun & Bradstreet (Australia) Pty Ltd
 59,GRACosway Pty Ltd,Australian Airports Association Limited
 59,GRACosway Pty Ltd,Lutheran Services
-59,GRACosway Pty Ltd,Hays Specialist Recruitment (Australia) Pty Ltd
-59,GRACosway Pty Ltd,Recruitment & Consulting Services Association Australia & New Zealand 
 59,GRACosway Pty Ltd,Mattel Pty Ltd 
 59,GRACosway Pty Ltd,Rocla Pty Limited 
 59,GRACosway Pty Ltd,Stramit Corporation Pty Ltd
@@ -752,7 +749,6 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Kongsberg Protech Systems Australia Pty Ltd
 59,GRACosway Pty Ltd,illion Australia
 59,GRACosway Pty Ltd,White Cloud Foundation
-59,GRACosway Pty Ltd,The Hydroponics Company 
 59,GRACosway Pty Ltd,L'Oreal Australia Pty Ltd
 59,GRACosway Pty Ltd,DEC Properties Pty Ltd
 59,GRACosway Pty Ltd,International Association of Geophysical Contractors
@@ -816,7 +812,6 @@ agency_id,agency_business_entity_name,client_name
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
 137,Health Communincations Australia Pty Limited,Lundbeck Australia Pty Limited
-137,Health Communincations Australia Pty Limited,Novo Nordisk Australia Pty Limited
 137,Health Communincations Australia Pty Limited,Pharmaxis Ltd
 137,Health Communincations Australia Pty Limited,Takeda Pharmaceuticals Australia
 137,Health Communincations Australia Pty Limited,Merck Serono Australia
@@ -838,7 +833,6 @@ agency_id,agency_business_entity_name,client_name
 38,Intercorp Pty Ltd,Plasan
 103,Ivydale Nominees Pty Ltd,Coogee Chemicals
 103,Ivydale Nominees Pty Ltd,WA Nightclubs Association
-103,Ivydale Nominees Pty Ltd,Albemarle Corporation
 103,Ivydale Nominees Pty Ltd,Ord Irrigation Cooperative Ltd
 586,Jenkins Engineering defence Systems Pty Ltd,Harris Corp.
 319,Jo Scard Pty Ltd,Australian Indigenous Leadership Centre
@@ -927,7 +921,6 @@ agency_id,agency_business_entity_name,client_name
 3848,Kate Mills,Plaza Medical
 3848,Kate Mills,Goldfields Indigenous Housing Organisation
 3848,Kate Mills,Goldfields Rehabilitation Services Inc.
-576,KENDAL AND ASSOCIATES,AUSTRALIA BRITISH CHAMBER OF COMMERCE
 465,LATAF CONSULTING ,Paydirt Media
 465,LATAF CONSULTING ,Australian African Minerals and Energy Group
 519,Lawrence Media Services Pty Ltd,Campbell Scholtens Pty Ltd
@@ -1041,7 +1034,7 @@ agency_id,agency_business_entity_name,client_name
 3854,Meso Consulting Pty Ltd,Export Corporation Pty Ltd
 3854,Meso Consulting Pty Ltd,Shin Etsu Japan
 1836,MIBD Strategy Pty Ltd,KURZ Australia
-452,Michael Johnson Associates Pty Limited,Arrium Limited
+452,Michael Johnson Associates Pty Limited,Liberty One Steel
 444,Michael Megaw,Aislinn Studios 905 Reen Road Gidgegannup WA 6083
 444,Michael Megaw,Coogee Chemicals Pty Ltd
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
@@ -1398,9 +1391,6 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Talison Lithium
 29,Pynfall Pty Ltd,Project System & Management GmbH
 29,Pynfall Pty Ltd,Photonis Technologies SAS
-492,Rachael Sweeney ,Regional Capitals Australia 
-492,Rachael Sweeney ,Victorian Wine Industry Association Inc (Wine Victoria)
-492,Rachael Sweeney ,Gippsland Local Government Network
 14,Ranicar and Nicholls Consulting,Intercorp Pty Limited
 14,Ranicar and Nicholls Consulting,Blue Glue Pty Ltd
 14,Ranicar and Nicholls Consulting,BlueZone Group
@@ -1504,11 +1494,8 @@ agency_id,agency_business_entity_name,client_name
 1806,Scott Mitchell and Partners Pty Ltd,Telstra Corporation Ltd
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
 1806,Scott Mitchell and Partners Pty Ltd,RAWS Association Limited
-1806,Scott Mitchell and Partners Pty Ltd,Australian Airports Association
 1806,Scott Mitchell and Partners Pty Ltd,Australian Dairy Industry Council
 1806,Scott Mitchell and Partners Pty Ltd,AGL Energy Limited
-143,Sefiani Communications Group,Seafarms Group
-143,Sefiani Communications Group,New Hope Group
 143,Sefiani Communications Group,Landbridge Infrastructure Australia
 143,Sefiani Communications Group,Landbridge Infrastructure Group Australia
 143,Sefiani Communications Group,Westside Corporation
@@ -1522,6 +1509,7 @@ agency_id,agency_business_entity_name,client_name
 676,Seismic Asia Pacific Pty Ltd,SBG Systems
 676,Seismic Asia Pacific Pty Ltd,FarSounder Inc
 676,Seismic Asia Pacific Pty Ltd,Teledyne CARIS Inc.
+3861,Shaw Advisory Pty Ltd,Telstra 
 681,Simeon Duncan,Intuit Inc.
 681,Simeon Duncan,Intuit Australia
 681,Simeon Duncan,Enirgi Group
@@ -1565,6 +1553,7 @@ agency_id,agency_business_entity_name,client_name
 3856,Starfare Image Pty Ltd,Chung's Oriental Trading Pty Ltd
 3856,Starfare Image Pty Ltd,PENRITE OIL Company Pty Ltd
 3856,Starfare Image Pty Ltd,Ezi Floor Products (VIC) Pty Ltd
+3856,Starfare Image Pty Ltd,Asaleo Care
 66,Statecraft,Dimension Data
 66,Statecraft,Bouygues Construction Australia
 66,Statecraft,Moelis and Company
@@ -1677,7 +1666,6 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,Submarine Institute of Australia
 698,The Trustee for Arthur Trust,Kellogg Brown & Root Pty Ltd
 698,The Trustee for Arthur Trust,Association of Australian Convention Bureaux 
-698,The Trustee for Arthur Trust,Australian Livestock Exportersâ Council 
 698,The Trustee for Arthur Trust,Friendly Societies of Australia 
 698,The Trustee for Arthur Trust,The Communications Council
 698,The Trustee for Arthur Trust,Media Federation of Australia
@@ -1690,7 +1678,6 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,Business Council of Australia
 145,The Trustee for Bespoke Business Trust,Liberty House Group
 145,The Trustee for Bespoke Business Trust,ANZ The Australia and New Zealand Banking Group Limited
-145,The Trustee for Bespoke Business Trust,Chow Tai Fook Enterprises Limited 
 145,The Trustee for Bespoke Business Trust,SMEC Holdings Pty Ltd 
 145,The Trustee for Bespoke Business Trust,I-MED Radiology Network
 145,The Trustee for Bespoke Business Trust,Illumina
@@ -1747,6 +1734,7 @@ agency_id,agency_business_entity_name,client_name
 610,The Trusteee for the SRKM Trust,Artgold Inc
 240,The Write Connection Pty Ltd,InterGen (Australia)
 240,The Write Connection Pty Ltd,Group of Eight Universities
+240,The Write Connection Pty Ltd,Angel Flight
 328,THEMA Consulting Pty Ltd,Shire Australia Pty Ltd
 328,THEMA Consulting Pty Ltd,sanofi aventis
 328,THEMA Consulting Pty Ltd,Bayer Australia Ltd
@@ -1765,9 +1753,6 @@ agency_id,agency_business_entity_name,client_name
 328,THEMA Consulting Pty Ltd,LivaNova
 328,THEMA Consulting Pty Ltd,Bristol Myers Squibb Australia
 1825,Times Lawyers Pty Ltd,Australian Chinese General Chamber of Business
-772,Tokua Pty Ltd,Calibre Group
-772,Tokua Pty Ltd,Escarpment Group
-772,Tokua Pty Ltd,Interclean Pty Ltd
 718,Trustee of Kerans Family Trust,Motorola Solutions Inc.
 718,Trustee of Kerans Family Trust,Facebook Inc.
 718,Trustee of Kerans Family Trust,ViaSat Inc.
