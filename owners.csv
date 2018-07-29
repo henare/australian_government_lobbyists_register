@@ -50,6 +50,7 @@ agency_id,agency_business_entity_name,owner_name
 789,Cahill and Bailey Pty Ltd,Simon Bailey
 787,Capetal Advisory Pty Ltd,Nathan Paine
 556,Capital Hill Advisory Pty Ltd,National Strategy Group
+191,"Cemdia Pty, Ltd",Hendrik Prins
 743,CETE Consulting Pty Ltd,Cameron Thomson
 743,CETE Consulting Pty Ltd,Jeannie Louise Thomson
 2848,CHAP AirTech Pty Ltd,Jeffrey W. Elliott
@@ -61,8 +62,6 @@ agency_id,agency_business_entity_name,owner_name
 764,Christmas Jalili Pty Ltd,Damon Jalili
 215,"Clark, Kerren G",Kerren Clark
 475,Clifton Consulting Services Pty Ltd,John Ridley
-79,CMAX Communications Pty Ltd,Tara Taubenschlag
-79,CMAX Communications Pty Ltd,Christian Taubenschlag
 428,CMGRP Pty Ltd,InterPublic Group
 3863,COHN & WOLFE AUSTRALIA PTY LTD,WPPAUNZ
 3860,Collective Position Group Pty Ltd,Rachael Sweeney
@@ -153,8 +152,6 @@ agency_id,agency_business_entity_name,owner_name
 170,Intech Strategies P/L,Barry Batagol
 170,Intech Strategies P/L,B & J Family Trust
 170,Intech Strategies P/L,Batagol Renaissance Trust
-38,Intercorp Pty Ltd,Bondo Pty Ltd
-38,Intercorp Pty Ltd,Gymquest Pty Ltd
 103,Ivydale Nominees Pty Ltd,Braden Park Pty Ltd
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Royden Jenkins
 56,John C Blackwell,John Blackwell
@@ -189,6 +186,7 @@ agency_id,agency_business_entity_name,owner_name
 425,Maser Defence Pty Ltd,Valerie Jones
 179,McGrane-Fitzgerald Unit Trust,McGrane-Fitzgerald Unit Trust
 762,McGuinness Media,Georgina McGuinnss
+3862,Media and Public Affairs ,George Hazim
 132,Megan Anwyl,Megan Anwyl
 3854,Meso Consulting Pty Ltd,Mark Robert Sehn
 3854,Meso Consulting Pty Ltd,Charlotte Trinder
@@ -229,6 +227,7 @@ agency_id,agency_business_entity_name,owner_name
 1817,PremierNational Pty Ltd,Michael Photios
 1805,Primary Communication Partners Pty Limited,Elagh Group Pty Ltd
 1805,Primary Communication Partners Pty Limited,Annabelle Warren
+283,Probity International Pty. Ltd,Mary Easson
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas
 127,PRX Unit Trust,Stephen Kerr
@@ -241,14 +240,12 @@ agency_id,agency_business_entity_name,owner_name
 242,Purple Communications Australia Pty Ltd,STW Group
 242,Purple Communications Australia Pty Ltd,The Valley Home Family Trust
 242,Purple Communications Australia Pty Ltd,Jamie Wilkinson
+3864,Puzzle Consulting Pty Ltd,Kate Mills
 29,Pynfall Pty Ltd,Hannelore Duczek
 14,Ranicar and Nicholls Consulting,Nicholls and Nicholls Consulting Pty Ltd
 14,Ranicar and Nicholls Consulting,Oceanic Solutions Pty Ltd
 24,Repute Communications and Associates Pty Ltd,Matthew Watson
 24,Repute Communications and Associates Pty Ltd,Rochelle Watson
-98,Res Publica Pty Ltd,Gabriel McDowell
-98,Res Publica Pty Ltd,Aleks Rzadkowski
-98,Res Publica Pty Ltd,James Tait
 497,Resolution Junction,Gregory Male
 35,Richardson Coutts,Stephen Coutts Pty Ltd
 35,Richardson Coutts,Richardson and Associates Pty Ltd
@@ -285,16 +282,11 @@ agency_id,agency_business_entity_name,owner_name
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn
 528,SYSTECH Consultants Pty Ltd,Janine Carol Wirthensohn
 2843,Tarramot Pty Ltd,Gemma Tognini
-235,The Agenda Group Pty Ltd,Damian Mannix
-235,The Agenda Group Pty Ltd,James McGarvey 
 9,The Canberra Institute,Peter Michael Conway
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Marco Gattino
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Jason Aldworth
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Andres Puig
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Rora Furman
-90,The Fifth Estate Consultancy Pty Ltd,Ian Robert Wiskin
-90,The Fifth Estate Consultancy Pty Ltd,Craig Michael Taylor
-90,The Fifth Estate Consultancy Pty Ltd,William John Hurditch
 83,The Holland Trust,Gregory Gordon Holland
 757,The Hon. Robert Charles Baldwin,The Hon. Robert Charles Baldwin
 450,The Humphrey Company Pty Limited,Stephen John Youll
@@ -302,7 +294,6 @@ agency_id,agency_business_entity_name,owner_name
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi
 1826,The Shape Agency,Timothy James O'Halloran
 95,The Strategic Counsel Pty Ltd,Donna Staunton
-424,The Taylor Street Consultancy P/L,Christopher Brown
 698,The Trustee for Arthur Trust,Hamish Arthur
 145,The Trustee for Bespoke Business Trust,Bespoke Approach Pty Ltd as trustee for Bespoke Business
 589,The Trustee for Bespoke Territory Unit Trust,Bespoke Territory Pty Ltd as trustee for Bespoke Territory Unit Trust

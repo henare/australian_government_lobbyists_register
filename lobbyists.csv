@@ -48,12 +48,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 789,Cahill and Bailey Pty Ltd,Simon Bailey,Partner,No,""
 787,Capetal Advisory Pty Ltd,Nathan Paine,Managing Director,No,""
 787,Capetal Advisory Pty Ltd,Matthew Clemow,Director,No,""
+787,Capetal Advisory Pty Ltd,Bradley Green,Associate Director,No,""
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Consultant,No,""
 556,Capital Hill Advisory Pty Ltd,Sarah Cullens,Senior Consultant,Yes,February 2016
 556,Capital Hill Advisory Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
 556,Capital Hill Advisory Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
 556,Capital Hill Advisory Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
+191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 743,CETE Consulting Pty Ltd,Cameron Thomson,Managing Director,Yes,June 1995
 2848,CHAP AirTech Pty Ltd,Jeffrey W. Elliott,Director / Secretary,No,""
 2847,Chatto Creek Advisory Pty Ltd,Russell Scoular,Chairman,No,""
@@ -67,17 +69,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 475,Clifton Consulting Services Pty Ltd,Louisa McPhee,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Kerren Clark,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Philip Goslin,Senior Consultant,No,""
-79,CMAX Communications Pty Ltd,Tara Taubenschlag,Managing Director,No,""
-79,CMAX Communications Pty Ltd,Christian Taubenschlag,Managing Partner,Yes,October 2009
-79,CMAX Communications Pty Ltd,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
-79,CMAX Communications Pty Ltd,Maddie Gay,Government Relations Adviser ,Yes,September 2017
-79,CMAX Communications Pty Ltd,Ali Humphreys ,Government Relations Adviser ,No,""
-79,CMAX Communications Pty Ltd,Warren King,Special Counsel ,Yes,March 2015
-79,CMAX Communications Pty Ltd,Alexander Arnott,Government Relations Adviser,Yes,December 2017
-79,CMAX Communications Pty Ltd,Patrick Doyle,Government Relations Adviser,No,""
-79,CMAX Communications Pty Ltd,Tyson Sara,Chief Operating Officer,Yes,April 2018
-79,CMAX Communications Pty Ltd,Mitch O'Dwyer,Vice President,Yes,April 2018
-79,CMAX Communications Pty Ltd,Cameron Jones,Government Relations Adviser,Yes,January 2014
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
 3863,COHN & WOLFE AUSTRALIA PTY LTD,Matt Stafford,Asia Pacific CEO,Yes,August 2016
@@ -231,9 +222,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
 714,Insight Strategy Pty Ltd,Jody Fassina,Managing Director,Yes,April 2001
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
-38,Intercorp Pty Ltd,Sonnie Lipshut,Chairman,No,""
-38,Intercorp Pty Ltd,Daniel Lipshut,Managing Director,No,""
-38,Intercorp Pty Ltd,Jack Baldwin,Marketing Manager,No,""
 103,Ivydale Nominees Pty Ltd,Richard Taylor,Senior Consultant,No,""
 103,Ivydale Nominees Pty Ltd,Des Riley,Director,No,""
 103,Ivydale Nominees Pty Ltd,Michael Megaw,Senior Associate,Yes,November 1996
@@ -358,6 +346,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1805,Primary Communication Partners Pty Limited,Irina Kamychnikova,Account Director  ,No,""
 1805,Primary Communication Partners Pty Limited,Jennifer Muir,Chief Counsel,No,""
 1805,Primary Communication Partners Pty Limited,Francesco Coletta,Consultant,No,""
+283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas,Managing Director,Yes,December 2000
 127,PRX Unit Trust,James Aanensen,Consultant,No,""
 127,PRX Unit Trust,Michael Kelly,Consultant,No,""
@@ -377,13 +366,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Timothy Grey Smith,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Jamie Henderson ,Associate Director,Yes,March 2017
 242,Purple Communications Australia Pty Ltd,Michael Cairnduff,Associate Director,No,""
+3864,Puzzle Consulting Pty Ltd,Kate Mills,Director,No,""
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
-98,Res Publica Pty Ltd,Baden Parker Brown,Account Executive,No,""
-98,Res Publica Pty Ltd,Simone Rayner,Account Manager ,No,""
-98,Res Publica Pty Ltd,Nathan Quigley,Director,No,""
 497,Resolution Junction,Gregory Male,Director,Yes,September 2012
 35,Richardson Coutts,John Richardson,Director,Yes,May 1995
 35,Richardson Coutts,Stephen Coutts,Director,No,""
@@ -432,8 +419,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 753,Strategic Political Counsel Pty Ltd,Clint Robert Ford,Head of Operations WA,No,""
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 2843,Tarramot Pty Ltd,Peter Rowe,Consultant Advisor,Yes,March 2017
-235,The Agenda Group Pty Ltd,Damian Mannix,Consultant,Yes,October 1996
-235,The Agenda Group Pty Ltd,Richard Allsop,Consultant,Yes,March 2001
 9,The Canberra Institute,Peter Michael Conway,Director,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Jason Aldworth,Director,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Andres Puig,Director,No,""
@@ -442,9 +427,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Sam Bishop,Senior Account Executive,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Thomas Grant Cameron,Senior Account Executive,Yes,October 2013
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Amalyah Hart,Consultant,No,""
-90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
-90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
-90,The Fifth Estate Consultancy Pty Ltd,Timothy Mort,Analyst,No,""
 83,The Holland Trust,Gregory Holland,Managing Director,Yes,May 1988
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
@@ -453,8 +435,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,The Hon. Dr Michael Wooldridge,Advisor,Yes,October 2001
 95,The Strategic Counsel Pty Ltd,Rebecca McCarthy,Associate,No,""
-424,The Taylor Street Consultancy P/L,Adam Leto,Director  Communication ,No,""
-424,The Taylor Street Consultancy P/L,Luke Turner,Senior Policy Manager,No,""
 698,The Trustee for Arthur Trust,Hamish Arthur,Director,No,""
 145,The Trustee for Bespoke Business Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Business Trust,Delia Obst,Associate,No,""
