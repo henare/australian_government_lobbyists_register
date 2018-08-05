@@ -180,6 +180,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,MS Research Australia
 338,Barton Deakin ,Lendlease Group Services Pty Limited
 338,Barton Deakin ,Nucoal Resources Ltd
+338,Barton Deakin ,Country Garden Australia Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -302,6 +303,22 @@ agency_id,agency_business_entity_name,client_name
 475,Clifton Consulting Services Pty Ltd,City of Greater Geelong
 475,Clifton Consulting Services Pty Ltd,Tianyu Wool Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Stafford Group
+79,CMAX Communications Pty Ltd,Stryker 
+79,CMAX Communications Pty Ltd,Send Hope Not Flowers
+79,CMAX Communications Pty Ltd,Northrop Grumman International
+79,CMAX Communications Pty Ltd,Northrop Grumman Australia
+79,CMAX Communications Pty Ltd,National Capital Private Hospital
+79,CMAX Communications Pty Ltd,Soldier On
+79,CMAX Communications Pty Ltd,The MITRE Corporation
+79,CMAX Communications Pty Ltd,ServiceNow
+79,CMAX Communications Pty Ltd,Rafael Advanced Defense Systems
+79,CMAX Communications Pty Ltd,Rockwell Collins
+79,CMAX Communications Pty Ltd,Burgmann College Incorporated
+79,CMAX Communications Pty Ltd,Navantia Australia Pty Ltd 
+79,CMAX Communications Pty Ltd,Digital Workforce Australia
+79,CMAX Communications Pty Ltd,Proximity
+79,CMAX Communications Pty Ltd,Pink Hope
+79,CMAX Communications Pty Ltd,Hologic
 428,CMGRP Pty Ltd,AusGold
 3863,COHN & WOLFE AUSTRALIA PTY LTD,Huawei
 3860,Collective Position Group Pty Ltd,Regional Capitals Australia 
@@ -915,6 +932,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Bechtel Australia Pty Ltd
 565,Newgate Communications Pty Limited,Minderoo Group
 565,Newgate Communications Pty Limited,Domino's Pizza Enterprises Limited
+565,Newgate Communications Pty Limited,American Express Australia Limited
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
 766,Next Level Strategic Services Pty Ltd,QRE Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Cutting Edge Pty Ltd
@@ -1149,6 +1167,7 @@ agency_id,agency_business_entity_name,client_name
 1805,Primary Communication Partners Pty Limited,Metis Technologies Pty Ltd
 1805,Primary Communication Partners Pty Limited,Photon Energy
 1805,Primary Communication Partners Pty Limited,Large Format Retail Association Limited
+1805,Primary Communication Partners Pty Limited,Rugby Australia Limited
 283,Probity International Pty. Ltd,Elbit
 283,Probity International Pty. Ltd,Intech Strategies
 283,Probity International Pty. Ltd,Teva Pharmaceutical Industries Ltd
@@ -1222,6 +1241,7 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Sociedad Quimica y Minera de Chile
 242,Purple Communications Australia Pty Ltd,Talison Lithium
 242,Purple Communications Australia Pty Ltd,HealthEngine
+242,Purple Communications Australia Pty Ltd,Lithium Australia
 3864,Puzzle Consulting Pty Ltd,City of Kalgoorlie-Boulder
 3864,Puzzle Consulting Pty Ltd,Shire of Laverton
 3864,Puzzle Consulting Pty Ltd,Shire of Dundas
@@ -1237,6 +1257,14 @@ agency_id,agency_business_entity_name,client_name
 24,Repute Communications and Associates Pty Ltd,Flourish Australia (Formerly RichmondPRA)
 24,Repute Communications and Associates Pty Ltd,State Medical Assistance 
 24,Repute Communications and Associates Pty Ltd,Hunter Valley Coal Chain Coordinator   
+98,Res Publica Pty Ltd,SpinalCure Australia
+98,Res Publica Pty Ltd,Australian Association of National Advertisers (AANA)
+98,Res Publica Pty Ltd,Coalition for Advancement of Medical Research Australia
+98,Res Publica Pty Ltd,Lion 
+98,Res Publica Pty Ltd,Mojo Power
+98,Res Publica Pty Ltd,Pepsi Co.
+98,Res Publica Pty Ltd,Woolworths 
+98,Res Publica Pty Ltd,AusFilm 
 497,Resolution Junction,Wavlink Incorporated
 497,Resolution Junction,Monash Mens Shed
 497,Resolution Junction,Richmond Cricket Club Inc
@@ -1270,6 +1298,7 @@ agency_id,agency_business_entity_name,client_name
 35,Richardson Coutts,Nokia Solutions and Networks Australia
 35,Richardson Coutts,Ferrier Hodgson
 35,Richardson Coutts,Third Sector Australia
+35,Richardson Coutts,RGA Reinsurance Company of Australia
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
@@ -1305,6 +1334,8 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,GWSim Ltd
 685,Sanlaan Pty Ltd,Redback Technologies
 685,Sanlaan Pty Ltd,Beijing Jingneng Clean Energy(Australia) Holding Pty Ltd
+685,Sanlaan Pty Ltd,Mantle Group
+685,Sanlaan Pty Ltd,Goldwind Australia Pty Ltd
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
@@ -1410,6 +1441,10 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Market Eye Pty Ltd
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Afilias Limited
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers Australia (WPMA)
+90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
+90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
+90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
+90,The Fifth Estate Consultancy Pty Ltd,Hume Coal
 83,The Holland Trust,Statecraft
 83,The Holland Trust,Speyside Group
 83,The Holland Trust,British American Tobacco Australia
@@ -1458,6 +1493,7 @@ agency_id,agency_business_entity_name,client_name
 698,The Trustee for Arthur Trust,The Communications Council
 698,The Trustee for Arthur Trust,Media Federation of Australia
 698,The Trustee for Arthur Trust,James Fisher Australia Pty Ltd
+698,The Trustee for Arthur Trust,FrontierDC Ltd
 145,The Trustee for Bespoke Business Trust,KKR
 145,The Trustee for Bespoke Business Trust,Lend Lease Corporation Limited
 145,The Trustee for Bespoke Business Trust,GenesisCare Pty Ltd
@@ -1662,10 +1698,8 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Carnival Australia
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
-584,Willard Public Affairs Pty Limited,Tolmar Australia Pty Limited
 584,Willard Public Affairs Pty Limited,eBay International AG
 584,Willard Public Affairs Pty Limited,AIA Australia Limited 
-584,Willard Public Affairs Pty Limited,Australia India Youth Dialogue Limited 
 584,Willard Public Affairs Pty Limited,Eastern Domestic Violence Service Inc. (EDVOS)
 584,Willard Public Affairs Pty Limited,U.S. Chamber of Commerce
 584,Willard Public Affairs Pty Limited,Medicines Australia Ltd

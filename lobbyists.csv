@@ -69,6 +69,17 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 475,Clifton Consulting Services Pty Ltd,Louisa McPhee,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Kerren Clark,Senior Consultant,No,""
 475,Clifton Consulting Services Pty Ltd,Philip Goslin,Senior Consultant,No,""
+79,CMAX Communications Pty Ltd,Tara Taubenschlag,Managing Director,No,""
+79,CMAX Communications Pty Ltd,Christian Taubenschlag,Managing Partner,Yes,October 2009
+79,CMAX Communications Pty Ltd,Jennifer Doggett,Government Relations Adviser,Yes,January 1996
+79,CMAX Communications Pty Ltd,Maddie Gay,Government Relations Adviser ,Yes,September 2017
+79,CMAX Communications Pty Ltd,Ali Humphreys ,Government Relations Adviser ,No,""
+79,CMAX Communications Pty Ltd,Warren King,Special Counsel ,Yes,March 2015
+79,CMAX Communications Pty Ltd,Alexander Arnott,Government Relations Adviser,Yes,December 2017
+79,CMAX Communications Pty Ltd,Patrick Doyle,Government Relations Adviser,No,""
+79,CMAX Communications Pty Ltd,Tyson Sara,Chief Operating Officer,Yes,April 2018
+79,CMAX Communications Pty Ltd,Mitch O'Dwyer,Vice President,Yes,April 2018
+79,CMAX Communications Pty Ltd,Cameron Jones,Government Relations Adviser,Yes,January 2014
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
 3863,COHN & WOLFE AUSTRALIA PTY LTD,Matt Stafford,Asia Pacific CEO,Yes,August 2016
@@ -80,7 +91,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 2837,Coode Holdings Pty Ltd,Clint Robert Ford,Managing Director,No,""
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,No,""
 453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,Yes,March 2017
-453,Cornerstone Group Australia ,Hamish Quinn,Senior Associate Policy  Strategy,No,""
+453,Cornerstone Group Australia ,Alistair Nicholas,Chief Executive Officer ,Yes,October 2000
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director Health Economics,No,""
@@ -137,7 +148,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 344,Electrotech Australia Pty Limited,Jonathan Cornish,Technical Manager Satcomms Solutions,No,""
 344,Electrotech Australia Pty Limited,Joseph Ritchie,Commercial Manager,No,""
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
-31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Partner,Yes,June 1986
+31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Consultant,Yes,June 1986
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,July 2016
 663,Espresso Communications Pty Ltd,Corrie McLeod ,Managing Director ,No,""
 71,Essential Media Communications Pty Ltd,Peter Lewis ,Director,No,""
@@ -181,13 +192,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 125,Govstrat Pty Ltd,Damian Power,Director,No,""
 125,Govstrat Pty Ltd,the Hon Robert Borbidge AO,Senior Counsel and Principal Adviser,No,""
 125,Govstrat Pty Ltd,Jeff Popp,Principal Adviser,No,""
-122,GRA Partners Pty Ltd,Jason Marocchi,Managing Director ,No,""
-122,GRA Partners Pty Ltd,Amanda Reid,Director,Yes,January 2002
-122,GRA Partners Pty Ltd,Kareece Broadway,Client Support,No,""
+125,Govstrat Pty Ltd,Ken Macpherson,Principal Adviser,No,""
+122,GRA Partners Pty Ltd,Jason Marocchi,Managing Partner,No,""
+122,GRA Partners Pty Ltd,Amanda Reid,Partner,Yes,January 2002
+122,GRA Partners Pty Ltd,Kareece Broadway,Office Manager,No,""
 122,GRA Partners Pty Ltd,Hon Eric Ripper,Chairman,No,""
-122,GRA Partners Pty Ltd,Patrick Fagan,Associate Director ,Yes,September 2015
-122,GRA Partners Pty Ltd,Elizabeth Nedela Campbell,Associate,Yes,August 2013
-122,GRA Partners Pty Ltd,Tess Randall,Associate,Yes,February 2018
+122,GRA Partners Pty Ltd,Patrick Fagan,Director,Yes,September 2015
+122,GRA Partners Pty Ltd,Elizabeth Nedela Campbell,Associate Director,Yes,August 2013
+122,GRA Partners Pty Ltd,Tess Randall,Associate Director ,Yes,February 2018
 59,GRACosway Pty Ltd,Richard Victor King,Partner,Yes,February 2000
 59,GRACosway Pty Ltd,Alexander Cramb,Partner,Yes,January 2008
 59,GRACosway Pty Ltd,Paolo Giovanni Bini,Partner,Yes,November 1995
@@ -371,6 +383,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
+98,Res Publica Pty Ltd,Gabriel McDowell,Executive Chairman,No,""
+98,Res Publica Pty Ltd,Baden Parker Brown,Account Executive,No,""
+98,Res Publica Pty Ltd,Simone Rayner,Account Manager ,No,""
+98,Res Publica Pty Ltd,Nathan Quigley,Director,No,""
 497,Resolution Junction,Gregory Male,Director,Yes,September 2012
 35,Richardson Coutts,John Richardson,Director,Yes,May 1995
 35,Richardson Coutts,Stephen Coutts,Director,No,""
@@ -427,6 +443,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Sam Bishop,Senior Account Executive,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Thomas Grant Cameron,Senior Account Executive,Yes,October 2013
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Amalyah Hart,Consultant,No,""
+90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
+90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
+90,The Fifth Estate Consultancy Pty Ltd,Timothy Mort,Analyst,No,""
 83,The Holland Trust,Gregory Holland,Managing Director,Yes,May 1988
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
@@ -481,7 +500,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
-584,Willard Public Affairs Pty Limited,Mary Andrew,Consultant,No,""
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
 641,Wurley Group Pty Ltd,Sarah Bernice Griffin,Principal,No,""
 1819,Zennex Pty Ltd,Wilhelm Harnisch,Managing Director,No,""
