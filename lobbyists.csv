@@ -252,6 +252,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 241,John Cook,Dr John Cook,Principal,Yes,April 2009
 1813,John Fetter Group Pty Ltd,John Fetter,Director,No,""
 78,John O'Connor and Associates Pty Ltd,John O'Connor,Director,No,""
+255,John Scott Barker,Thomas Michael O'Meara,Consultant,No,""
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
@@ -312,13 +313,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Mark Hrycek,Senior Advisor,No,""
-1798,Nexus Asia Pacific Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
-1798,Nexus Asia Pacific Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
-1798,Nexus Asia Pacific Pty Ltd,Sarah Cullens,Senior Advisor,Yes,February 2016
-1798,Nexus Asia Pacific Pty Ltd,Nick Campbell,Chairman,Yes,December 1999
-1798,Nexus Asia Pacific Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
-1798,Nexus Asia Pacific Pty Ltd,Peter Sykes,Senior Consultant,No,""
-1798,Nexus Asia Pacific Pty Ltd,Richard Brooks,Senior Advisor,Yes,September 2014
+1798,Nexus APAC Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
+1798,Nexus APAC Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
+1798,Nexus APAC Pty Ltd,Sarah Cullens,Senior Advisor,Yes,February 2016
+1798,Nexus APAC Pty Ltd,Nick Campbell,Chairman,Yes,December 1999
+1798,Nexus APAC Pty Ltd,Matthew Versi,Senior Advisor,Yes,February 2014
+1798,Nexus APAC Pty Ltd,Peter Sykes,Senior Consultant,No,""
+1798,Nexus APAC Pty Ltd,Richard Brooks,Senior Advisor,Yes,September 2014
 3,Oceanic Solutions Pty Ltd ITF Jemnica Family Trust,Dr Jeremy Ranicar,Director,Yes,September 1995
 632,One Degree Advisory,Andrew Graham Farrant,Principal,No,""
 670,Open Spectrum Pty Ltd,Juan Pablo Casetta,Director,Yes,September 2014
@@ -328,10 +329,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,opr Health,Chloe Dougherty,Account Executive,No,""
 86,opr Health,Tania Jayesuria,Practice Director,No,""
 86,opr Health,Carly Vale,Senior Consultant,No,""
+86,opr Health,Alexandra McInnes,Account Executive,No,""
+86,opr Health,Eliza Roel,Account Coordinator,No,""
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
 3867,Origami PR Pty Ltd,Gail Morgan,National Director,Yes,February 2006
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Kam Sham LEUNG,Chairman,No,""
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Andrew Fung,Director,No,""
+3870,Paris Dounoukos,Paris Dounoukos,Consultant,Yes,March 2015
 72,Parker & Partners Pty Ltd,Peta Lange,Director,Yes,January 2009
 72,Parker & Partners Pty Ltd,Yat Shum,Account Executive,No,""
 72,Parker & Partners Pty Ltd,Ksenya Belooussova,Senior Account Manager,No,""
@@ -367,6 +371,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1805,Primary Communication Partners Pty Limited,Irina Kamychnikova,Account Director  ,No,""
 1805,Primary Communication Partners Pty Limited,Jennifer Muir,Chief Counsel,No,""
 1805,Primary Communication Partners Pty Limited,Francesco Coletta,Consultant,No,""
+3869,Primary Policy Partners,ANDREW NORMAN GIBBS,Managing Partner,No,""
 283,Probity International Pty. Ltd,Mary Easson,CEO,Yes,March 1996
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas,Managing Director,Yes,December 2000
 127,PRX Unit Trust,James Aanensen,Consultant,No,""
@@ -393,9 +398,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 14,Ranicar and Nicholls Consulting,Jeremy Ranicar,Partner,Yes,September 1995
 24,Repute Communications and Associates Pty Ltd,Matthew Watson,Managing Director,No,""
 98,Res Publica Pty Ltd,Gabriel McDowell,Executive Chairman,No,""
+98,Res Publica Pty Ltd,James Tait,Principal,No,""
 98,Res Publica Pty Ltd,Baden Parker Brown,Account Executive,No,""
 98,Res Publica Pty Ltd,Simone Rayner,Account Manager ,No,""
+98,Res Publica Pty Ltd,Nicholas Hay,Director,No,""
 98,Res Publica Pty Ltd,Nathan Quigley,Director,No,""
+98,Res Publica Pty Ltd,Kelly Greenfield ,PR Consultant ,No,""
 497,Resolution Junction,Gregory Male,Director,Yes,September 2012
 35,Richardson Coutts,John Richardson,Director,Yes,May 1995
 35,Richardson Coutts,Stephen Coutts,Director,No,""
@@ -418,6 +426,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 143,Sefiani Communications Group,Justin Clark,Director,No,""
 143,Sefiani Communications Group,Emma Shipley,Account Executive,No,""
 143,Sefiani Communications Group,Nicholas Owens,Director,No,""
+143,Sefiani Communications Group,Shane Allison,Senior Account Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
 676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Business and Operations Manager,Yes,August 2011
@@ -509,5 +518,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell,Principal of firm,No,""
+751,Woodhill Communication Pty Ltd,Stephen Woodhill,Director,Yes,June 2011
 641,Wurley Group Pty Ltd,Sarah Bernice Griffin,Principal,No,""
 1819,Zennex Pty Ltd,Wilhelm Harnisch,Managing Director,No,""

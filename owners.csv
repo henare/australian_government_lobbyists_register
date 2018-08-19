@@ -43,6 +43,8 @@ agency_id,agency_business_entity_name,owner_name
 614,Bossy Group Pty Ltd,McMahon Family Trust
 657,Brent William Knevett,Brent William Knevett
 3868,Brickfielder Government Engagement,Vanessa Findlay
+3868,Brickfielder Government Engagement,Jane Madden
+3868,Brickfielder Government Engagement,Lucas Pender
 662,BroadSpectrum Consultants Pty Ltd,Andrew James King
 662,BroadSpectrum Consultants Pty Ltd,Peggy Marie King
 131,BTelecom Pty Ltd,Sarina Le
@@ -216,7 +218,8 @@ agency_id,agency_business_entity_name,owner_name
 356,Mr John Kindler,John Walter Kindler
 565,Newgate Communications Pty Limited,Porta Communications plc
 766,Next Level Strategic Services Pty Ltd,Milner Strategic Services Pty Ltd and Next Level Holdings Pty Ltd
-1798,Nexus Asia Pacific Pty Ltd,The Trustee for Nexus Asia Pacific Investments Unit Trust
+1798,Nexus APAC Pty Ltd,The Trustee for Nexus Asia Pacific Investments Unit Trust
+1798,Nexus APAC Pty Ltd,Atticus ACT Pty Ltd
 3,Oceanic Solutions Pty Ltd ITF Jemnica Family Trust,Dr Jeremy Ranicar
 3,Oceanic Solutions Pty Ltd ITF Jemnica Family Trust,Mrs Marguerite Ranicar
 632,One Degree Advisory,Andrew Graham Farrant
@@ -229,6 +232,7 @@ agency_id,agency_business_entity_name,owner_name
 3867,Origami PR Pty Ltd,Singleton Ogilvy & Mather (Holdings) Pty Ltd
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Kam Sham LEUNG
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Andrew FUNG
+3870,Paris Dounoukos,Paris Dounoukos
 72,Parker & Partners Pty Ltd,STW Group Ltd
 72,Parker & Partners Pty Ltd,WPP plc
 72,Parker & Partners Pty Ltd,Ogilvy Public Relations Worldwide Pty Ltd
@@ -241,6 +245,7 @@ agency_id,agency_business_entity_name,owner_name
 1817,PremierNational Pty Ltd,Michael Photios
 1805,Primary Communication Partners Pty Limited,Elagh Group Pty Ltd
 1805,Primary Communication Partners Pty Limited,Annabelle Warren
+3869,Primary Policy Partners,ANDREW NGIBBS
 283,Probity International Pty. Ltd,Mary Easson
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas
@@ -350,6 +355,8 @@ agency_id,agency_business_entity_name,owner_name
 584,Willard Public Affairs Pty Limited,Mijmo Pty Ltd ATF M & J Moran Family Trust
 591,WILLIAM R & SUSAN V HASSELL,William Ralph Boucher Hassell
 591,WILLIAM R & SUSAN V HASSELL,Susan Vicki Hassell
+751,Woodhill Communication Pty Ltd,Stephen Woodhill
+751,Woodhill Communication Pty Ltd,Martine Woodhill
 641,Wurley Group Pty Ltd,Sarah Bernice Griffin
 641,Wurley Group Pty Ltd,Wayne Francis Farmilo
 1819,Zennex Pty Ltd,Wilhelm Harnisch
