@@ -261,24 +261,20 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,IFM Investors Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Nike Inc
 556,Capital Hill Advisory Pty Ltd,Australian Self Medication Industry
-556,Capital Hill Advisory Pty Ltd,Coates Hire Ltd
 556,Capital Hill Advisory Pty Ltd,Australian Automotive Dealer Association
 556,Capital Hill Advisory Pty Ltd,Australian Computer Society
-556,Capital Hill Advisory Pty Ltd,Fincantieri Australia Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Nexus Asia Pacific Pty Ltd
 556,Capital Hill Advisory Pty Ltd,Telstra Corporation Limited
 556,Capital Hill Advisory Pty Ltd,Inspiring Rare Birds
 556,Capital Hill Advisory Pty Ltd,International Justice Mission Australia
-556,Capital Hill Advisory Pty Ltd,Sydney Airport Corporation Limited
 556,Capital Hill Advisory Pty Ltd,Generic and Biosimilar Medicines Association
 556,Capital Hill Advisory Pty Ltd,Global Silicones Council
 556,Capital Hill Advisory Pty Ltd,Swisse Wellness
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
 601,Catherine McGovern,Urological Society of Australia and New Zealand
-601,Catherine McGovern,Australian Mitochondrial Disease Foundation
-601,Catherine McGovern,Private Healthcare Australia
 601,Catherine McGovern,Australian Society of Plastic Surgeons
 601,Catherine McGovern,3DMEDiTech
+601,Catherine McGovern,The Mito Foundation
 191,"Cemdia Pty, Ltd",NBNCo
 191,"Cemdia Pty, Ltd",OneWeb
 743,CETE Consulting Pty Ltd,Calzoni S.r.l.
@@ -400,6 +396,7 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Australasian College of Cosmetic Surgery
 453,Cornerstone Group Australia ,Online Education Services Pty Ltd
 453,Cornerstone Group Australia ,Radio Rentals Group
+453,Cornerstone Group Australia ,BC Gateways Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
 403,Covance Pty Ltd (Covance Market Access Services division),Alexion Pharmaceuticals Australasia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),AbbVie Pty Ltd
@@ -732,6 +729,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Kentucky Fried Chicken Pty Limited 
 96,Hawker Britton Group Pty Ltd,Lendlease Group Services Pty Limited
 96,Hawker Britton Group Pty Ltd,Expedia 
+96,Hawker Britton Group Pty Ltd,JWDT Land
 3858,Haztech Environmental ,Haztech Environmental
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -773,6 +771,7 @@ agency_id,agency_business_entity_name,client_name
 1813,John Fetter Group Pty Ltd,Century Plaza Trading
 1813,John Fetter Group Pty Ltd,Gippland Water
 1813,John Fetter Group Pty Ltd,South Australian Timber Processors Association
+1813,John Fetter Group Pty Ltd,Bio Nexus Pty Ltd
 78,John O'Connor and Associates Pty Ltd,CSBP Limited
 78,John O'Connor and Associates Pty Ltd,Orica Australia Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Qenos Pty Ltd
@@ -923,7 +922,6 @@ agency_id,agency_business_entity_name,client_name
 444,Michael Megaw,Coogee Chemicals Pty Ltd
 444,Michael Megaw,The Australian Sailor Pty Ltd ACN 140488651 PO Box 643 Wembley WA 6913
 444,Michael Megaw,Western Australian Deaf Society
-2842,Michelson Alexander Consulting,Migration Council Australia
 2842,Michelson Alexander Consulting,Wallara Australia Limited
 2842,Michelson Alexander Consulting,The Les Twentyman Foundation
 2842,Michelson Alexander Consulting,Plumbing Industry Climate Action Centre
@@ -978,6 +976,7 @@ agency_id,agency_business_entity_name,client_name
 766,Next Level Strategic Services Pty Ltd,ITV
 766,Next Level Strategic Services Pty Ltd,Gas Energy Australia
 766,Next Level Strategic Services Pty Ltd,QER
+766,Next Level Strategic Services Pty Ltd,Pembroke Resources Pty Ltd
 1798,Nexus APAC Pty Ltd,H and R Block
 1798,Nexus APAC Pty Ltd,Booking.com
 1798,Nexus APAC Pty Ltd,Australian Airports Association
@@ -1091,6 +1090,7 @@ agency_id,agency_business_entity_name,client_name
 736,Peter Kane,Australian Meat Industry Council
 546,Policy Australia Pty Ltd,Australian Digital Alliance
 546,Policy Australia Pty Ltd,Netflix
+573,Politic Political Advisors,Prime Pallets P/L
 318,Porter Novelli Australia Pty Ltd,HVP Plantations
 318,Porter Novelli Australia Pty Ltd,General Mills Australia
 318,Porter Novelli Australia Pty Ltd,McCain Foods Australia New Zealand
@@ -1302,6 +1302,7 @@ agency_id,agency_business_entity_name,client_name
 24,Repute Communications and Associates Pty Ltd,Flourish Australia (Formerly RichmondPRA)
 24,Repute Communications and Associates Pty Ltd,State Medical Assistance 
 24,Repute Communications and Associates Pty Ltd,Hunter Valley Coal Chain Coordinator   
+24,Repute Communications and Associates Pty Ltd,Independent Paramedic Alliance (IPA) 
 98,Res Publica Pty Ltd,SpinalCure Australia
 98,Res Publica Pty Ltd,Australian Association of National Advertisers (AANA)
 98,Res Publica Pty Ltd,Coalition for Advancement of Medical Research Australia
@@ -1388,7 +1389,6 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,BUSY at Work
 227,SAS Consulting Group Pty Ltd,Lives Lived Well
 227,SAS Consulting Group Pty Ltd,MAX Solutions
-227,SAS Consulting Group Pty Ltd,Wanda Ridong (Gold Coast) Development Pty Ltd
 227,SAS Consulting Group Pty Ltd,MATES IN CONSTRUCTION (AUST) LIMITED
 227,SAS Consulting Group Pty Ltd,China Telecom Global Limited
 227,SAS Consulting Group Pty Ltd,Yuanda Australia Pty Ltd
@@ -1515,6 +1515,9 @@ agency_id,agency_business_entity_name,client_name
 268,The Premier Communications Group Pty Ltd.,Southern Expansion Pty Ltd
 268,The Premier Communications Group Pty Ltd.,Aboriginal Legal Service (NSW/ACT)
 268,The Premier Communications Group Pty Ltd.,Australasian Health manufacturers Development Association 
+268,The Premier Communications Group Pty Ltd.,Boyuan Holdings Limited
+268,The Premier Communications Group Pty Ltd.,Desane Group Holdinbgs
+268,The Premier Communications Group Pty Ltd.,Road Freight NSW 
 1826,The Shape Agency,Redundancy Payment Central Fund Ltd (trading as Incolink)
 95,The Strategic Counsel Pty Ltd,Hearing Care Industry Association
 95,The Strategic Counsel Pty Ltd,Australian Pharmaceutical Industries Ltd
@@ -1572,6 +1575,7 @@ agency_id,agency_business_entity_name,client_name
 420,The Trustee for ECG Advisory Trust,Oaktree Capital
 420,The Trustee for ECG Advisory Trust,Challenger Limited
 420,The Trustee for ECG Advisory Trust,Auctioneers and Valuers Association of Australia (Incorporated)
+420,The Trustee for ECG Advisory Trust,Australian Finance Group
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 1809,The Trustee for Jackman Family Trust,The Big Issue
 1809,The Trustee for Jackman Family Trust,Home for Homes
@@ -1617,14 +1621,16 @@ agency_id,agency_business_entity_name,client_name
 680,TSB Advisory Pty Ltd,PayPal Australia Pty Ltd
 680,TSB Advisory Pty Ltd,Novartis Pharmaceuticals Australia Pty Ltd 
 680,TSB Advisory Pty Ltd,Rabobank Australia and New Zealand Group
-680,TSB Advisory Pty Ltd,CBH Group Limited
 680,TSB Advisory Pty Ltd,SAAB Australia Pty Ltd
 680,TSB Advisory Pty Ltd,Amazon Web Services
 680,TSB Advisory Pty Ltd,Estia Health Ltd
+680,TSB Advisory Pty Ltd,Ability First Australia
+680,TSB Advisory Pty Ltd,Australian Primary Principals Association
 161,Vanguard Consulting and Services Pty Ltd,Australian Society of Ophthalmologists (ASO)
 161,Vanguard Consulting and Services Pty Ltd,Australian Army Training Team Vietnam (AATTV) Association
 161,Vanguard Consulting and Services Pty Ltd,Central Queensland Hospital and Health Service (CQHHS)
 689,Vicom Australia Pty Ltd,Aeroflex a Cobham Company
+689,Vicom Australia Pty Ltd,Viavi Solutions AvComm Business unit
 1814,Victory Edge Consulting Pty Ltd,Alibaba (Australia) Pty Ltd
 1814,Victory Edge Consulting Pty Ltd,Angus Knight Group 
 1814,Victory Edge Consulting Pty Ltd,Association of Old Crows (Australian Chapter)
