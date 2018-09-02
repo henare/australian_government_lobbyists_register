@@ -15,7 +15,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
 45,Australian Public Affairs Limited Partnership,Michael Gleeson,Senior Consultant,No,""
 45,Australian Public Affairs Limited Partnership,Armon Hicks,Director,No,""
-45,Australian Public Affairs Limited Partnership,Matthew Snelson,Senior Consultant,No,""
+45,Australian Public Affairs Limited Partnership,Bevan Lisle,Senior Consultant,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
 1810,Avantia Corporate Services Pty Ltd,Paul Anthony Nielsen,Managing Director,No,""
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack,Director,Yes,June 2001
@@ -26,9 +26,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 338,Barton Deakin ,David Alexander,Managing Director (Federal),Yes,November 2007
 338,Barton Deakin ,Anthony Benscher,Managing Director (NSW),Yes,July 2000
 338,Barton Deakin ,Andrew Humpherson ,Director ,Yes,July 2010
-338,Barton Deakin ,Robert Bower,Policy and Business Analyst,No,""
 338,Barton Deakin ,Andrew Coombe,Managing Director (South Australia),Yes,August 2009
-338,Barton Deakin ,Elizabeth Burrows,Policy and Business Analyst,No,""
 186,BBS Communications Group Pty Ltd,Lisa Nixon,Director,No,""
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
 162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,March 1983
@@ -39,6 +37,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3868,Brickfielder Government Engagement,Vanessa Findlay,Partner,Yes,July 2016
 3868,Brickfielder Government Engagement,Jane Madden,Partner,Yes,October 2017
 3868,Brickfielder Government Engagement,Lucas Pender,Associate,No,""
+3868,Brickfielder Government Engagement,Sophie Harper,Associate,No,""
 662,BroadSpectrum Consultants Pty Ltd,Andrew James King,Director,No,""
 131,BTelecom Pty Ltd,Sarina Le,Director,No,""
 131,BTelecom Pty Ltd,Greg Fonti,General Manager,No,""
@@ -351,6 +350,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Patrick McClelland,Managing Partner,No,""
 318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Director Melbourne,No,""
 318,Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,Managing Director Sydney,No,""
+318,Porter Novelli Australia Pty Ltd,Ashton Debono,Communication Consultant,No,""
 1812,Preferment Associates ,John Thomas Campbell Lake,principal,Yes,November 2009
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,Ian Hancock,Director,No,""
@@ -419,6 +419,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
 2841,RPP Group,Patrick Reeder,Associate Consultant,Yes,December 2014
+771,S Robertson and M Smith,Michael Smith,Partner,No,""
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Lisa Palu,Senior Consultant,No,""
@@ -432,6 +433,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 676,Seismic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
 676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Business and Operations Manager,Yes,August 2011
 3861,Shaw Advisory Pty Ltd,James Shaw,Director,Yes,August 2008
+3873,SIlk Road Commercial Pty Ltd ,Robert Orrell,Director,No,""
+3873,SIlk Road Commercial Pty Ltd ,William Wang,Director,No,""
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Kath Christie,Senior Consultant,No,""
 82,Socom Pty Ltd,Isaac Ransom,Senior Consultant,No,""
@@ -486,6 +489,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 28,The Trustee for Markeit Family Trust,Keith Blyth,Managing Director,No,""
 668,The Trustee for Sandra Eccles Family Trust,Sandra Joy Eccles,Director ,Yes,January 1999
 117,The Trustee for the Bowden Family Trust,Bob Bowden,Chief Executive,No,""
+3872,The Trustee for the Cobalt Family Trust,Anthony David Johnson,Director,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann,Senior Health Economist,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann,Director,No,""
 610,The Trusteee for the SRKM Trust,Kate Mills,Director/Principal Consultant,No,""
@@ -512,9 +516,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,Co CEO,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Co CEO,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Manager,No,""
-503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Timothy Christopher Mantiri,Account Executive,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Kathy Patricia Lindsay,Account Director,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Stav Pisk,Account Executive,No,""
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Larissa Eva Jaffe,Account Executive,No,""
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""

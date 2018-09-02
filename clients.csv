@@ -181,6 +181,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Lendlease Group Services Pty Limited
 338,Barton Deakin ,Nucoal Resources Ltd
 338,Barton Deakin ,Country Garden Australia Pty Ltd
+338,Barton Deakin ,Australian Psychological Society
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -214,6 +215,7 @@ agency_id,agency_business_entity_name,client_name
 3868,Brickfielder Government Engagement,Dow
 3868,Brickfielder Government Engagement,DLA Piper
 3868,Brickfielder Government Engagement,ALH
+3868,Brickfielder Government Engagement,DXC Technology
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 662,BroadSpectrum Consultants Pty Ltd,Commercial Radio Australia
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
@@ -381,7 +383,6 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Deafness Forum Ltd. (Pro Bono)
 453,Cornerstone Group Australia ,Affordable Community Housing Limited
 453,Cornerstone Group Australia ,Caption It Pty Ltd 
-453,Cornerstone Group Australia ,G.H. Varley Pty Ltd 
 453,Cornerstone Group Australia ,TOMRA Group
 453,Cornerstone Group Australia ,DPL Medical Pty Limited
 453,Cornerstone Group Australia ,Australian Consulting Architects Pty Ltd 
@@ -1311,6 +1312,7 @@ agency_id,agency_business_entity_name,client_name
 98,Res Publica Pty Ltd,Pepsi Co.
 98,Res Publica Pty Ltd,Woolworths 
 98,Res Publica Pty Ltd,AusFilm 
+98,Res Publica Pty Ltd,Beechworth Honey
 497,Resolution Junction,Wavlink Incorporated
 497,Resolution Junction,Monash Mens Shed
 497,Resolution Junction,Richmond Cricket Club Inc
@@ -1367,6 +1369,8 @@ agency_id,agency_business_entity_name,client_name
 669,Royce Communications Pty Ltd,Racing Victoria
 669,Royce Communications Pty Ltd,Sportradar
 2841,RPP Group,Terumo BCT Inc.
+771,S Robertson and M Smith,Queensland Dairyfarmers' Organisation LImited
+771,S Robertson and M Smith,Transition Energy Corporation Pty Ltd 
 685,Sanlaan Pty Ltd,Restaurant and Catering Australia
 685,Sanlaan Pty Ltd,Technology One
 685,Sanlaan Pty Ltd,Mckenzie Aged Care Group
@@ -1398,6 +1402,7 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,CNVM Investment Pty Ltd
 227,SAS Consulting Group Pty Ltd,St Baker Energy Innovation Fund
 227,SAS Consulting Group Pty Ltd,Qube Holdings
+227,SAS Consulting Group Pty Ltd,WorkPac Group
 1806,Scott Mitchell and Partners Pty Ltd,Telstra Corporation Ltd
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
 1806,Scott Mitchell and Partners Pty Ltd,RAWS Association Limited
@@ -1418,6 +1423,7 @@ agency_id,agency_business_entity_name,client_name
 676,Seismic Asia Pacific Pty Ltd,FarSounder Inc
 676,Seismic Asia Pacific Pty Ltd,Teledyne CARIS Inc.
 3861,Shaw Advisory Pty Ltd,Telstra 
+3873,SIlk Road Commercial Pty Ltd ,Cu River Mining Pty Ltd 
 82,Socom Pty Ltd,The Interface Councils
 225,SPIER CONSULTING P/L,KOUNDOURIS GROUP
 225,SPIER CONSULTING P/L,AHA
@@ -1593,6 +1599,9 @@ agency_id,agency_business_entity_name,client_name
 117,The Trustee for the Bowden Family Trust,Group Training Australia
 117,The Trustee for the Bowden Family Trust,TAFE Directors Australia
 117,The Trustee for the Bowden Family Trust,National Apprentice Employment Network
+3872,The Trustee for the Cobalt Family Trust,Western Gas Corporation
+3872,The Trustee for the Cobalt Family Trust,Goshawk Energy
+3872,The Trustee for the Cobalt Family Trust,EV Metals Group
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Mundipharma Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,TEVA Pharma Australia Pty Ltd ABN 169 715 664
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Orpharma Pty Ltd
@@ -1740,7 +1749,6 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,The Smith Family
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
-503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,ThyssenKrupp Marine Systems Australia Pty Ltd
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Silver Chain Group
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexion Pharmaceuticals Australasia
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Asbestos Injuries Compensation Fund
