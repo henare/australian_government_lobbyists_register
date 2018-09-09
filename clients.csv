@@ -272,6 +272,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Generic and Biosimilar Medicines Association
 556,Capital Hill Advisory Pty Ltd,Global Silicones Council
 556,Capital Hill Advisory Pty Ltd,Swisse Wellness
+3874,Castlereagh Advisory ,Varley Defence
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
 601,Catherine McGovern,Urological Society of Australia and New Zealand
 601,Catherine McGovern,Australian Society of Plastic Surgeons
@@ -312,10 +313,10 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,TransGrid
 764,Christmas Jalili Pty Ltd,Adobe Systems
 764,Christmas Jalili Pty Ltd,Cordner Advisory
-764,Christmas Jalili Pty Ltd,Medicines Australia
 764,Christmas Jalili Pty Ltd,Australian Digital Commerce Association
 764,Christmas Jalili Pty Ltd,Splunk
 764,Christmas Jalili Pty Ltd,Holon
+764,Christmas Jalili Pty Ltd,Dtex Systems
 215,"Clark, Kerren G",Oliver Hume Property Funds
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
@@ -398,6 +399,7 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Online Education Services Pty Ltd
 453,Cornerstone Group Australia ,Radio Rentals Group
 453,Cornerstone Group Australia ,BC Gateways Pty Ltd
+453,Cornerstone Group Australia ,Abu Dhabi Investment Council
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
 403,Covance Pty Ltd (Covance Market Access Services division),Alexion Pharmaceuticals Australasia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),AbbVie Pty Ltd
@@ -562,10 +564,12 @@ agency_id,agency_business_entity_name,client_name
 333,FTI Consulting (Perth) Pty Ltd,Sirona Capital Management
 333,FTI Consulting (Perth) Pty Ltd,Tellus Holdings Limited
 333,FTI Consulting (Perth) Pty Ltd, BMT Mercury Technology
+333,FTI Consulting (Perth) Pty Ltd,Hastings Technology Metals
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Mastercard 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Spark Infrastructure Group
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Huntsman Corporation 
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Cornerstone Health Pty Limited 
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Amazon Web Services 
 3855,Gambaro Consulting Group,4 Seasons Company Pty Ltd
 3855,Gambaro Consulting Group,Australian Lymphology Association
 1,Gambolling Pty Ltd,National Australia Bank
@@ -1182,6 +1186,7 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,Great Place to Work
 1817,PremierNational Pty Ltd,Music Australia
 1817,PremierNational Pty Ltd,Globe Capital Administration Pty Ltd
+1817,PremierNational Pty Ltd,Outdoor Media Association Incorporated
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1308,11 +1313,10 @@ agency_id,agency_business_entity_name,client_name
 98,Res Publica Pty Ltd,Australian Association of National Advertisers (AANA)
 98,Res Publica Pty Ltd,Coalition for Advancement of Medical Research Australia
 98,Res Publica Pty Ltd,Lion 
-98,Res Publica Pty Ltd,Mojo Power
 98,Res Publica Pty Ltd,Pepsi Co.
-98,Res Publica Pty Ltd,Woolworths 
 98,Res Publica Pty Ltd,AusFilm 
 98,Res Publica Pty Ltd,Beechworth Honey
+98,Res Publica Pty Ltd,Quantium 
 497,Resolution Junction,Wavlink Incorporated
 497,Resolution Junction,Monash Mens Shed
 497,Resolution Junction,Richmond Cricket Club Inc
@@ -1423,6 +1427,7 @@ agency_id,agency_business_entity_name,client_name
 676,Seismic Asia Pacific Pty Ltd,FarSounder Inc
 676,Seismic Asia Pacific Pty Ltd,Teledyne CARIS Inc.
 3861,Shaw Advisory Pty Ltd,Telstra 
+3861,Shaw Advisory Pty Ltd,Amazon Web Services
 3873,SIlk Road Commercial Pty Ltd ,Cu River Mining Pty Ltd 
 82,Socom Pty Ltd,The Interface Councils
 225,SPIER CONSULTING P/L,KOUNDOURIS GROUP
@@ -1439,13 +1444,12 @@ agency_id,agency_business_entity_name,client_name
 665,Spring Street Advisory,Tilt Renewables
 665,Spring Street Advisory,Keppel Prince Engineering
 665,Spring Street Advisory,RES Australia
-665,Spring Street Advisory,Independent Brewers Association
 665,Spring Street Advisory,WestWind Energy
 490,Staindl Strategic Pty Ltd,Pacific Hydro
-490,Staindl Strategic Pty Ltd,LD Network
 490,Staindl Strategic Pty Ltd,Hanson Construction Materials
 490,Staindl Strategic Pty Ltd,Latrobe Fertilisers
 490,Staindl Strategic Pty Ltd,Metro Trains Australia Pty Ltd
+490,Staindl Strategic Pty Ltd,Australian Psychological Society
 3856,Starfare Image Pty Ltd,MECCA Brands
 3856,Starfare Image Pty Ltd,MUK Hair Care Pty Ltd
 3856,Starfare Image Pty Ltd,Alfhair Australia Pty Ltd
@@ -1596,6 +1600,7 @@ agency_id,agency_business_entity_name,client_name
 668,The Trustee for Sandra Eccles Family Trust,The Communications Council
 668,The Trustee for Sandra Eccles Family Trust,Friendly Societies of Australia 
 668,The Trustee for Sandra Eccles Family Trust,Media Federation of Australia
+668,The Trustee for Sandra Eccles Family Trust,The Salvation Army
 117,The Trustee for the Bowden Family Trust,Group Training Australia
 117,The Trustee for the Bowden Family Trust,TAFE Directors Australia
 117,The Trustee for the Bowden Family Trust,National Apprentice Employment Network
@@ -1625,6 +1630,7 @@ agency_id,agency_business_entity_name,client_name
 718,Trustee of Kerans Family Trust,OmniSpace
 718,Trustee of Kerans Family Trust,The Boeing Company
 718,Trustee of Kerans Family Trust,Iridium Satellite LLC
+718,Trustee of Kerans Family Trust,Airbus SE
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
 680,TSB Advisory Pty Ltd,PayPal Australia Pty Ltd
@@ -1724,26 +1730,26 @@ agency_id,agency_business_entity_name,client_name
 463,Walker Watterson Holdings Pty Ltd,Nutanix
 463,Walker Watterson Holdings Pty Ltd,Avaya Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,Motorola Solutions Australia Pty Limited
-463,Walker Watterson Holdings Pty Ltd,FireEye Inc.
 463,Walker Watterson Holdings Pty Ltd, CIENA AUSTRALIA PTY LTD
-463,Walker Watterson Holdings Pty Ltd,12D SOLUTIONS PTY LTD
-463,Walker Watterson Holdings Pty Ltd, FIREEYE AUSTRALIA PTY LTD
 463,Walker Watterson Holdings Pty Ltd,Dell Boomi
 463,Walker Watterson Holdings Pty Ltd,Vertiv Co 
 463,Walker Watterson Holdings Pty Ltd,BIS Oxford Economics
 463,Walker Watterson Holdings Pty Ltd,D2L Australia Pty Ltd
 463,Walker Watterson Holdings Pty Ltd,DATS
-463,Walker Watterson Holdings Pty Ltd,Dimension Data Australia Pty Limited
 463,Walker Watterson Holdings Pty Ltd,FitT
-463,Walker Watterson Holdings Pty Ltd,Food Industry Foresight
 463,Walker Watterson Holdings Pty Ltd,Greenbox
 463,Walker Watterson Holdings Pty Ltd,Macquarie Telecom
 463,Walker Watterson Holdings Pty Ltd,Securonix
 463,Walker Watterson Holdings Pty Ltd,Southern Cross Cable Network
-463,Walker Watterson Holdings Pty Ltd,TedX Melbourne
 463,Walker Watterson Holdings Pty Ltd,Country Womens Association NSW
 463,Walker Watterson Holdings Pty Ltd,Tritium
 463,Walker Watterson Holdings Pty Ltd,Rimini street
+463,Walker Watterson Holdings Pty Ltd,Dimension Data Group
+463,Walker Watterson Holdings Pty Ltd,Place Capital
+463,Walker Watterson Holdings Pty Ltd,Fish 2.0
+463,Walker Watterson Holdings Pty Ltd,Cloud Scene
+463,Walker Watterson Holdings Pty Ltd,smartWFM
+463,Walker Watterson Holdings Pty Ltd,Rubrik
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
