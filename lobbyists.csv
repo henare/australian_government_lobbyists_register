@@ -95,6 +95,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,No,""
 453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,Yes,March 2017
 453,Cornerstone Group Australia ,Alistair Nicholas,Chief Executive Officer ,Yes,October 2000
+160,Cotterell Jannette Suzanne,Jannette Cotterell,Managing Director,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director Health Economics,No,""
@@ -125,6 +126,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 673,CT International and Corporate Advisory Pty Ltd,Michael Teoh,Consultant,No,""
 673,CT International and Corporate Advisory Pty Ltd,Remo Nogarotto,Managing Director,No,""
 673,CT International and Corporate Advisory Pty Ltd,Mark Kennedy,Consultant ,Yes,March 2016
+673,CT International and Corporate Advisory Pty Ltd,Russell King ,Director ,No,""
 795,Cube Public Relations Pty Ltd,Anne-Marie Sparrow,Managing Director/Owner,No,""
 795,Cube Public Relations Pty Ltd,Bonnie Leibel,Senior Account Manager,No,""
 795,Cube Public Relations Pty Ltd,Elise Rattigan,Senior Account Executive ,No,""
@@ -134,6 +136,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 386,Currie Communications,Mark Paterson,Principal,No,""
 10,Cynergy Pty Ltd,Norman Bruce Higgs,Managing Director,No,""
 221,Damian McGreevy Consulting Pty Ltd,Damian McGreevy,Principal,Yes,March 2009
+213,Dan Cass,Dan Cass,Principal,No,""
 16,Day & Hodge Associates Pty Ltd,Stephen Hodge,Director,No,""
 16,Day & Hodge Associates Pty Ltd,Adrienne Day-Hodge,Director,No,""
 1830,Denison Toyer Pty Ltd,Peter Doukas,Managing Director,No,""
@@ -343,10 +346,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3870,Paris Dounoukos,Paris Dounoukos,Consultant,Yes,March 2015
 72,Parker & Partners Pty Ltd,Peta Lange,Director,Yes,January 2009
 72,Parker & Partners Pty Ltd,Yat Shum,Account Executive,No,""
-72,Parker & Partners Pty Ltd,Ksenya Belooussova,Senior Account Manager,No,""
+72,Parker & Partners Pty Ltd,Ksenya Belooussova,Account Director,No,""
 72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,Yes,December 2012
 72,Parker & Partners Pty Ltd,Nicole Quinn,Director,Yes,December 2009
 72,Parker & Partners Pty Ltd,Leon Beswick ,Group Managing Director ,No,""
+72,Parker & Partners Pty Ltd,Eliza Roel,Account Coordinator,No,""
 1821,People First HR Solutions Pty Ltd,Rohan Robertson,Director,No,""
 736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -360,10 +364,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,Ian Hancock,Director,No,""
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
-516,Premier State Consulting Pty Ltd,Alex Gibson,Advisor,No,""
 516,Premier State Consulting Pty Ltd,Lachlan Crombie,Senior Advisor,No,""
 516,Premier State Consulting Pty Ltd,Sabina Husic,Director,No,""
-516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
 516,Premier State Consulting Pty Ltd,Thomas Loomes,Senior Adviser,No,""
 516,Premier State Consulting Pty Ltd,Cooper Darling Blair,Advisor,No,""
 516,Premier State Consulting Pty Ltd,Fiona Scott,Special Counsel,Yes,July 2016
@@ -375,7 +377,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1817,PremierNational Pty Ltd,Christine Kirk,Executive Assistant,No,""
 1817,PremierNational Pty Ltd,Thomas Loomes,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Cooper Darling Blair,Advisor,No,""
-1817,PremierNational Pty Ltd,Fiona Scott,Senior Counsel,Yes,July 2016
+1817,PremierNational Pty Ltd,Fiona Scott,Special Counsel,Yes,July 2016
 1805,Primary Communication Partners Pty Limited,Christopher Hall,CEO,No,""
 1805,Primary Communication Partners Pty Limited,Irina Kamychnikova,Account Director  ,No,""
 1805,Primary Communication Partners Pty Limited,Jennifer Muir,Chief Counsel,No,""

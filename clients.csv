@@ -48,6 +48,7 @@ agency_id,agency_business_entity_name,client_name
 45,Australian Public Affairs Limited Partnership,Santos
 45,Australian Public Affairs Limited Partnership,Australian Vaping Advocacy Trade and Research Organisation
 45,Australian Public Affairs Limited Partnership,Generate Ministries
+45,Australian Public Affairs Limited Partnership,Australasian Society of Aesthetic Plastic Surgeons
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 1810,Avantia Corporate Services Pty Ltd,Aircraft Structural Contractors Pty Ltd
@@ -182,6 +183,10 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Nucoal Resources Ltd
 338,Barton Deakin ,Country Garden Australia Pty Ltd
 338,Barton Deakin ,Australian Psychological Society
+338,Barton Deakin ,JWDT
+338,Barton Deakin ,Bunnings
+338,Barton Deakin ,Brisbane Airport Corporation
+338,Barton Deakin ,Bingo Industries Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Australian 3D Manufacturing Association
@@ -273,6 +278,7 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Global Silicones Council
 556,Capital Hill Advisory Pty Ltd,Swisse Wellness
 3874,Castlereagh Advisory ,Varley Defence
+3874,Castlereagh Advisory ,Fincantieri Australia
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
 601,Catherine McGovern,Urological Society of Australia and New Zealand
 601,Catherine McGovern,Australian Society of Plastic Surgeons
@@ -388,7 +394,6 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,DPL Medical Pty Limited
 453,Cornerstone Group Australia ,Australian Consulting Architects Pty Ltd 
 453,Cornerstone Group Australia ,Billbergia Pty Ltd 
-453,Cornerstone Group Australia ,Pacific Planning Pty Limited 
 453,Cornerstone Group Australia ,Consumer Household Equipment Rental Providers Association Inc. 
 453,Cornerstone Group Australia ,CIS Educational
 453,Cornerstone Group Australia ,SEEK Limited 
@@ -400,6 +405,62 @@ agency_id,agency_business_entity_name,client_name
 453,Cornerstone Group Australia ,Radio Rentals Group
 453,Cornerstone Group Australia ,BC Gateways Pty Ltd
 453,Cornerstone Group Australia ,Abu Dhabi Investment Council
+453,Cornerstone Group Australia ,Winc Australia  New Zealand
+160,Cotterell Jannette Suzanne,The Australian and New Zealand Association of Oral and Maxillofacial Surgeons
+160,Cotterell Jannette Suzanne,Private Cancer Physicians of Australia
+160,Cotterell Jannette Suzanne,Community Pharmacy Chemotherapy Services Group
+160,Cotterell Jannette Suzanne,National Association of Specialist Obstetricians and Gynaecologists
+160,Cotterell Jannette Suzanne,Australian Aged Care Association
+160,Cotterell Jannette Suzanne,Royal Australian and New Zealand College of Radiologists
+160,Cotterell Jannette Suzanne,Professionals for Safe Cancer Treatment
+160,Cotterell Jannette Suzanne,Childcare NSW
+160,Cotterell Jannette Suzanne,Childcare WA
+160,Cotterell Jannette Suzanne,Generic Medicines Industry Association
+160,Cotterell Jannette Suzanne,Australian and International Pilots' Association
+160,Cotterell Jannette Suzanne,Australian Childcare Alliance
+160,Cotterell Jannette Suzanne,canSpeak Australia (pro bono)
+160,Cotterell Jannette Suzanne,Medical Oncology Group of Australia
+160,Cotterell Jannette Suzanne,Pharmaceutical Industry Council
+160,Cotterell Jannette Suzanne,Alphapharm
+160,Cotterell Jannette Suzanne,Childcare SA
+160,Cotterell Jannette Suzanne,Leukaemia Foundation
+160,Cotterell Jannette Suzanne,Carers Australia
+160,Cotterell Jannette Suzanne,BioCSL Pty Ltd
+160,Cotterell Jannette Suzanne,HWL Ebsworth Lawyers
+160,Cotterell Jannette Suzanne,Merck Sharp & Dohme (Australia) Pty Limited
+160,Cotterell Jannette Suzanne,AHISA LIMITED
+160,Cotterell Jannette Suzanne,Fuji Xerox Australia Pty Ltd
+160,Cotterell Jannette Suzanne,Victorian Automobile Chamber of Commerce
+160,Cotterell Jannette Suzanne,Pharmacy Guild of Australia
+160,Cotterell Jannette Suzanne,The Bionics Institute
+160,Cotterell Jannette Suzanne,Melanoma Patients Australia
+160,Cotterell Jannette Suzanne,Adopt Change (Adoption Awareness Ltd) pro bono
+160,Cotterell Jannette Suzanne,State Grid Corporation of China
+160,Cotterell Jannette Suzanne,eBay International AG
+160,Cotterell Jannette Suzanne,PayPal Australia
+160,Cotterell Jannette Suzanne,LEO Pharma Pty Ltd
+160,Cotterell Jannette Suzanne,Lung Foundation Australia
+160,Cotterell Jannette Suzanne,Leading Age Services Australia Ltd
+160,Cotterell Jannette Suzanne,Kimberly-Clark Australia Pty Ltd 
+160,Cotterell Jannette Suzanne,Catholic Health Australia
+160,Cotterell Jannette Suzanne,The Society of Hospital Pharmacists of Australia
+160,Cotterell Jannette Suzanne,Australian Private Hospitals Association
+160,Cotterell Jannette Suzanne,Baxalta Australia Pty Ltd
+160,Cotterell Jannette Suzanne,Sayyid Mohammad Taqi al-Modarresi
+160,Cotterell Jannette Suzanne,Australia Sino Agriculture 100 years Agriculture and Food Safety Partnership
+160,Cotterell Jannette Suzanne,Perinatal Anxiety and Depression Australia
+160,Cotterell Jannette Suzanne,Business Council of Australia
+160,Cotterell Jannette Suzanne,Bayer Pharmaceuticals
+160,Cotterell Jannette Suzanne,Consultative Group for International Agricultural Research (CGIAR)
+160,Cotterell Jannette Suzanne,Sleep Health Foundation
+160,Cotterell Jannette Suzanne,The Action Group of Companies
+160,Cotterell Jannette Suzanne,The Pew Charitable Trusts
+160,Cotterell Jannette Suzanne,Australian Sleep Association
+160,Cotterell Jannette Suzanne,Minderoo Foundation
+160,Cotterell Jannette Suzanne,Minderoo Group PTY Lltd
+160,Cotterell Jannette Suzanne,Australian Marine Conservation Society
+160,Cotterell Jannette Suzanne,Australian Health Research Alliance
+160,Cotterell Jannette Suzanne,Murdoch University
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
 403,Covance Pty Ltd (Covance Market Access Services division),Alexion Pharmaceuticals Australasia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),AbbVie Pty Ltd
@@ -463,6 +524,7 @@ agency_id,agency_business_entity_name,client_name
 221,Damian McGreevy Consulting Pty Ltd,Smart Energy Council
 221,Damian McGreevy Consulting Pty Ltd,Impacts Solar
 221,Damian McGreevy Consulting Pty Ltd,Solar Citizens
+213,Dan Cass,Bob Brown Foundation
 16,Day & Hodge Associates Pty Ltd,Australian Cycling Promotion Foundation Limited
 16,Day & Hodge Associates Pty Ltd,Bicycle Industries Australia
 1830,Denison Toyer Pty Ltd,Trades College Australia Pty Ltd
@@ -630,6 +692,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Partners Pty Ltd,Australian Owned Contractors Limited 
 122,GRA Partners Pty Ltd,Murdoch University 
 122,GRA Partners Pty Ltd,Little Green Pharma 
+122,GRA Partners Pty Ltd,Equestrian Western Australia 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -1428,6 +1491,7 @@ agency_id,agency_business_entity_name,client_name
 676,Seismic Asia Pacific Pty Ltd,Teledyne CARIS Inc.
 3861,Shaw Advisory Pty Ltd,Telstra 
 3861,Shaw Advisory Pty Ltd,Amazon Web Services
+3861,Shaw Advisory Pty Ltd,Australian Press Council
 3873,SIlk Road Commercial Pty Ltd ,Cu River Mining Pty Ltd 
 82,Socom Pty Ltd,The Interface Councils
 225,SPIER CONSULTING P/L,KOUNDOURIS GROUP
@@ -1473,13 +1537,9 @@ agency_id,agency_business_entity_name,client_name
 753,Strategic Political Counsel Pty Ltd,British American Tobacco Australia
 753,Strategic Political Counsel Pty Ltd,APA Group
 753,Strategic Political Counsel Pty Ltd,Monash University
-753,Strategic Political Counsel Pty Ltd,NAB Health
 753,Strategic Political Counsel Pty Ltd,Aircraft Owners and Pilots Association of Australia
 753,Strategic Political Counsel Pty Ltd,Australian Lotteries and Newsagents Association
 753,Strategic Political Counsel Pty Ltd,JAR Aerospace
-753,Strategic Political Counsel Pty Ltd,Plateau View Aged Care Pty Ltd
-753,Strategic Political Counsel Pty Ltd,AMGEN
-753,Strategic Political Counsel Pty Ltd,FSHD Global Research Foundation Ltd
 753,Strategic Political Counsel Pty Ltd,Alliance of Australian Retailers Pty Ltd
 753,Strategic Political Counsel Pty Ltd,William Buck (Qld) Pty Ltd
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
