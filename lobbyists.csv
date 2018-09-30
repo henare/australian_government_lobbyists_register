@@ -49,7 +49,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 789,Cahill and Bailey Pty Ltd,Casey Cahill,Managing Partner,No,""
 789,Cahill and Bailey Pty Ltd,Simon Bailey,Partner,No,""
 787,Capetal Advisory Pty Ltd,Nathan Paine,Managing Director,No,""
-787,Capetal Advisory Pty Ltd,Matthew Clemow,Director,No,""
 787,Capetal Advisory Pty Ltd,Bradley Green,Associate Director,No,""
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Consultant,No,""
@@ -95,6 +94,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 453,Cornerstone Group Australia ,Joseph Tannous ,Executive Director ,No,""
 453,Cornerstone Group Australia ,Mitch Tanner ,Senior Associate Policy and Strategy ,Yes,March 2017
 453,Cornerstone Group Australia ,Alistair Nicholas,Chief Executive Officer ,Yes,October 2000
+453,Cornerstone Group Australia ,Rosetta Garzaniti,Associate Policy and Strategy,No,""
 160,Cotterell Jannette Suzanne,Jannette Cotterell,Managing Director,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Beth OâLeary,Executive Director Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
@@ -125,7 +125,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 673,CT International and Corporate Advisory Pty Ltd,Michael Teoh,Consultant,No,""
 673,CT International and Corporate Advisory Pty Ltd,Remo Nogarotto,Managing Director,No,""
-673,CT International and Corporate Advisory Pty Ltd,Mark Kennedy,Consultant ,Yes,March 2016
 673,CT International and Corporate Advisory Pty Ltd,Russell King ,Director ,No,""
 795,Cube Public Relations Pty Ltd,Anne-Marie Sparrow,Managing Director/Owner,No,""
 795,Cube Public Relations Pty Ltd,Bonnie Leibel,Senior Account Manager,No,""
@@ -250,11 +249,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
 714,Insight Strategy Pty Ltd,Jody Fassina,Managing Director,Yes,April 2001
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
-103,Ivydale Nominees Pty Ltd,Richard Taylor,Senior Consultant,No,""
 103,Ivydale Nominees Pty Ltd,Des Riley,Director,No,""
 103,Ivydale Nominees Pty Ltd,Michael Megaw,Senior Associate,Yes,November 1996
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
 586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,Yes,January 2000
+319,Jo Scard Pty Ltd,Asha Serpless,Operations Manager,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 241,John Cook,Dr John Cook,Principal,Yes,April 2009
@@ -263,6 +262,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,Thomas Michael O'Meara,Consultant,No,""
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
+3876,Kurrajong Strategic Counsel,Adrian Michael Dolahenty,Director,Yes,March 1995
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
@@ -288,7 +288,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
 3854,Meso Consulting Pty Ltd,Mark Robert Sehn,Director,No,""
-1836,MIBD Strategy Pty Ltd,Marc (Meir) Itzchaki,CEO,No,""
+1836,MIBD Strategy Pty Ltd,Marc  Itzchaki,CEO,No,""
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Chairman,No,""
 452,Michael Johnson Associates Pty Limited,Sarah Louise Lander,Partner,No,""
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen,Managing Partner,No,""
@@ -428,7 +428,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
 2841,RPP Group,Patrick Reeder,Associate Consultant,Yes,December 2014
-771,S Robertson and M Smith,Michael Smith,Partner,No,""
 685,Sanlaan Pty Ltd,Hon Santo Santoro,Director,Yes,March 2007
 227,SAS Consulting Group Pty Ltd,Peter Costantini ,Chief Executive / Director,No,""
 227,SAS Consulting Group Pty Ltd,Lisa Palu,Senior Consultant,No,""
