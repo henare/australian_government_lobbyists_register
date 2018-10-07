@@ -17,6 +17,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 45,Australian Public Affairs Limited Partnership,Armon Hicks,Director,No,""
 45,Australian Public Affairs Limited Partnership,Bevan Lisle,Senior Consultant,No,""
 135,Australian Spectrum Consultants Pty Ltd,Bill McDonald,Managing Director,Yes,September 1989
+3881,Authentic Strategic Advisory Pty Ltd,Michele Galderisi,Director,No,""
 1810,Avantia Corporate Services Pty Ltd,Paul Anthony Nielsen,Managing Director,No,""
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack,Director,Yes,June 2001
 139,Bartholomew Quinn and Associates,David Quinn,Managing Director,No,""
@@ -226,13 +227,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Jinesh Patel,Director,No,""
 59,GRACosway Pty Ltd,Liam Nilon,Consultant,No,""
 59,GRACosway Pty Ltd,Erin Germantis,Associate,No,""
-59,GRACosway Pty Ltd,Zoe Darling,Consultant,Yes,June 2016
 59,GRACosway Pty Ltd,Kirk Alexander Stubbs,Associate,No,""
 59,GRACosway Pty Ltd,Leigh Francis Moran,Associate,No,""
 59,GRACosway Pty Ltd,Sharon Anne Reid,Associate Director Marketing and Research,No,""
-59,GRACosway Pty Ltd,Vanessa Vartto,Director,No,""
 59,GRACosway Pty Ltd,Andrew Cox,Director,Yes,December 2007
-59,GRACosway Pty Ltd,James Ricupito ,Associate,Yes,December 2015
+59,GRACosway Pty Ltd,Jordi Procel,Associate,Yes,October 2015
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
@@ -280,9 +279,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 258,Lyndon George Pty Ltd,Hellen Georgopoulos,Director,Yes,November 2008
 258,Lyndon George Pty Ltd,Gregory Lyndon Mole,Director,Yes,December 2007
 119,Macquarie Group Limited,Navleen Prasad,Division Director Corporate Communications  Investor Relations,No,""
+119,Macquarie Group Limited,Marina Polita,Senior Manager,No,""
 578,Making The World A Better Place Pty Ltd,Gregory Peter Rudd,Managing Director,Yes,March 1996
 245,Marketing Elements Pty Ltd,Cecelia Haddad,Director,No,""
 425,Maser Defence Pty Ltd,Jamie Johnson,Business Development Manager,Yes,June 2011
+3882,"MCDOUGALL,DANIEL JOHN",Daniel McDougall,Media and Public Relations Consultant,No,""
 179,McGrane-Fitzgerald Unit Trust,Robert Hennessy-Hawks,Lobbyist,No,""
 762,McGuinness Media,Georgina McGuinness,Director,No,""
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
@@ -318,6 +319,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Jessica Bradlow,Consultant,No,""
 565,Newgate Communications Pty Limited,Lenda Oshalem,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Grace Borrello,Consultant,Yes,June 2018
+565,Newgate Communications Pty Limited,Sophie Mitchell,Associate Partner,Yes,June 2009
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Mark Hrycek,Senior Advisor,No,""
@@ -361,6 +363,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Director Melbourne,No,""
 318,Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,Managing Director Sydney,No,""
 318,Porter Novelli Australia Pty Ltd,Ashton Debono,Communication Consultant,No,""
+318,Porter Novelli Australia Pty Ltd,Kevin Daly ,Communication Consultant,No,""
 1812,Preferment Associates ,John Thomas Campbell Lake,principal,Yes,November 2009
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
 516,Premier State Consulting Pty Ltd,Ian Hancock,Director,No,""
@@ -372,7 +375,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Fiona Scott,Special Counsel,Yes,July 2016
 1817,PremierNational Pty Ltd,Michael Photios,Chairman,No,""
 1817,PremierNational Pty Ltd,Ian Hancock,Managing Director,No,""
-1817,PremierNational Pty Ltd,Alex Gibson,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Sabina Husic,Director,No,""
 1817,PremierNational Pty Ltd,Lachlan Crombie,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Christine Kirk,Executive Assistant,No,""
@@ -496,6 +498,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 589,The Trustee for Bespoke Territory Unit Trust,Sarah Day,Associate ,No,""
 420,The Trustee for ECG Advisory Trust,David Gazard,Director,Yes,November 2007
 420,The Trustee for ECG Advisory Trust,Jonathan Epstein,Director,Yes,November 2007
+3877,The Trustee for GC Advisory Trading Trust,Adam L Howard,Principal,Yes,July 2018
 41,The Trustee for Hilton Valley Investment,Alistair Urquhart,Director,No,""
 1809,The Trustee for Jackman Family Trust,Gavin Jackman,Principal,Yes,December 2007
 28,The Trustee for Markeit Family Trust,Keith Blyth,Managing Director,No,""

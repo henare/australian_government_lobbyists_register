@@ -46,8 +46,10 @@ agency_id,agency_business_entity_name,client_name
 45,Australian Public Affairs Limited Partnership,Australian Vaping Advocacy Trade and Research Organisation
 45,Australian Public Affairs Limited Partnership,Generate Ministries
 45,Australian Public Affairs Limited Partnership,Australasian Society of Aesthetic Plastic Surgeons
+45,Australian Public Affairs Limited Partnership,Infosys Technologies Limited
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
+3881,Authentic Strategic Advisory Pty Ltd,The Premier Communications Group
 1810,Avantia Corporate Services Pty Ltd,Aircraft Structural Contractors Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,General Electric Aviation
@@ -239,6 +241,7 @@ agency_id,agency_business_entity_name,client_name
 191,"Cemdia Pty, Ltd",NBNCo
 191,"Cemdia Pty, Ltd",OneWeb
 743,CETE Consulting Pty Ltd,Calzoni S.r.l.
+3849,CGM Communications Pty Ltd,Rio Tinto
 2848,CHAP AirTech Pty Ltd,ECO Sustainable Development Ltd
 2848,CHAP AirTech Pty Ltd,JM Security Management Pty Ltd
 2847,Chatto Creek Advisory Pty Ltd,Federal Chamber of Automotive Industries
@@ -270,7 +273,6 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,Agripower Australia Limited
 764,Christmas Jalili Pty Ltd,TransGrid
 764,Christmas Jalili Pty Ltd,Adobe Systems
-764,Christmas Jalili Pty Ltd,Cordner Advisory
 764,Christmas Jalili Pty Ltd,Australian Digital Commerce Association
 764,Christmas Jalili Pty Ltd,Splunk
 764,Christmas Jalili Pty Ltd,Holon
@@ -320,6 +322,7 @@ agency_id,agency_business_entity_name,client_name
 2837,Coode Holdings Pty Ltd,Airport Bar and Cafe (Port Hedland)
 2837,Coode Holdings Pty Ltd,Absolute Sleep 
 2837,Coode Holdings Pty Ltd,Mark Zagar T/A Yaranary Farm
+2837,Coode Holdings Pty Ltd,North Wanneroo Residents Association Inc.
 453,Cornerstone Group Australia ,Demigold Pty Ltd 
 453,Cornerstone Group Australia ,Direct Freight Express Pty ltd 
 453,Cornerstone Group Australia ,Cracknell and Lonergan Architects Pty Ltd 
@@ -656,14 +659,12 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,FRV Services Australia Pty Ltd
 59,GRACosway Pty Ltd,Ovarian Cancer Australia Limited
 59,GRACosway Pty Ltd,ClearView Wealth Limited
-59,GRACosway Pty Ltd,Mulpha Australia Limited
 59,GRACosway Pty Ltd,Idemitsu Australia Resources Pty Ltd
 59,GRACosway Pty Ltd,The Mirabel Foundation Inc.
 59,GRACosway Pty Ltd,Canada Pension Plan Investment Board
 59,GRACosway Pty Ltd,BAI Communications
 59,GRACosway Pty Ltd,TA Associates
 59,GRACosway Pty Ltd,Mortgage and Finance Association of Australia
-59,GRACosway Pty Ltd,Murray Goulburn
 59,GRACosway Pty Ltd,KEPCO Bylong Australia Pty Ltd
 59,GRACosway Pty Ltd,Gaming Technologies Association Limited
 59,GRACosway Pty Ltd,Adobe Systems Pty Ltd
@@ -703,6 +704,8 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Novo Nordisk Pharmaceuticals Pty Ltd
 59,GRACosway Pty Ltd,HRL Morrison & Co (Australia) Pty Limited 
 59,GRACosway Pty Ltd,Junior Adventures Group Pty Ltd
+59,GRACosway Pty Ltd,Capitol Health Limited
+59,GRACosway Pty Ltd,Enrich Health Group Pty Ltd
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -816,7 +819,6 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Havelock Housing Association 47 119 833 407
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
-56,John C Blackwell,Datapod (Australia) Pty Ltd
 56,John C Blackwell,Eutelsat Asia Pte Ltd
 56,John C Blackwell,RooCom Consulting
 56,John C Blackwell,NetApp
@@ -906,6 +908,7 @@ agency_id,agency_business_entity_name,client_name
 245,Marketing Elements Pty Ltd,National Council of Children Post Separation
 245,Marketing Elements Pty Ltd,Australian Screen Association
 425,Maser Defence Pty Ltd,Cobham Antenna Systems
+3882,"MCDOUGALL,DANIEL JOHN","Defence Bank Limited, HealthShare NSW"
 179,McGrane-Fitzgerald Unit Trust,Deflecta Crete Seals ABN 84068618931
 179,McGrane-Fitzgerald Unit Trust,RuralSuper Australia Pty Ltd
 762,McGuinness Media,JFD Australia
@@ -987,6 +990,7 @@ agency_id,agency_business_entity_name,client_name
 2842,Michelson Alexander Consulting,Plumbing Industry Climate Action Centre
 2842,Michelson Alexander Consulting,Australians For Mental Health
 2842,Michelson Alexander Consulting,ALP Friends of Israel
+2842,Michelson Alexander Consulting,GFG Alliance
 752,MMJ Consulting,Readymade Productions Pty Ltd
 752,MMJ Consulting,Family Drug Support
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
@@ -1023,6 +1027,8 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Domino's Pizza Enterprises Limited
 565,Newgate Communications Pty Limited,American Express Australia Limited
 565,Newgate Communications Pty Limited,Surf Life Saving Australia Ltd
+565,Newgate Communications Pty Limited,Wing Aviation Pty Ltd
+565,Newgate Communications Pty Limited,BSA Business Software Alliance Inc
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
 766,Next Level Strategic Services Pty Ltd,QRE Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Cutting Edge Pty Ltd
@@ -1105,6 +1111,7 @@ agency_id,agency_business_entity_name,client_name
 86,opr Health,Clinical Research Corporation
 86,opr Health,Seqirus
 86,opr Health,Australian Beverages Council
+86,opr Health,Lung Foundation Australia
 744,O'Reilly Consulting,Waste and Recycling Association of South Australia
 744,O'Reilly Consulting,Winestate Publishing
 744,O'Reilly Consulting,Impress Media
@@ -1145,6 +1152,7 @@ agency_id,agency_business_entity_name,client_name
 72,Parker & Partners Pty Ltd,First Voice Australia
 72,Parker & Partners Pty Ltd,Interactive Games and Entertainment Association
 72,Parker & Partners Pty Ltd,Australian Beverages Council
+72,Parker & Partners Pty Ltd,Lung Foundation Australia
 1821,People First HR Solutions Pty Ltd,E Qubed
 1821,People First HR Solutions Pty Ltd,Mobile Electrics
 736,Peter Kane,Australian Meat Industry Council
@@ -1163,17 +1171,12 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Employers Mutual Limited
 516,Premier State Consulting Pty Ltd,Merivale Group (Hemmes Trading Pty Ltd)
 516,Premier State Consulting Pty Ltd,Mounties Group
-516,Premier State Consulting Pty Ltd,Broadspectrum Limited
 516,Premier State Consulting Pty Ltd,The Star Entertainment Group Limited
 516,Premier State Consulting Pty Ltd,IMF Bentham
 516,Premier State Consulting Pty Ltd,Eastwood Rugby Club
-516,Premier State Consulting Pty Ltd,Literacy For Life Foundation
 516,Premier State Consulting Pty Ltd,NEXTDC Limited
-516,Premier State Consulting Pty Ltd,Siemens Ltd
 516,Premier State Consulting Pty Ltd,Fincantieri Australia Pty Ltd
 516,Premier State Consulting Pty Ltd,Telstra
-516,Premier State Consulting Pty Ltd,Assetlink Services P/L
-516,Premier State Consulting Pty Ltd,Wilson Security
 516,Premier State Consulting Pty Ltd,Genex Power Ltd
 516,Premier State Consulting Pty Ltd,Greyhound Racing NSW
 516,Premier State Consulting Pty Ltd,Glencore Coal (NSW) Pty Ltd
@@ -1181,19 +1184,15 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,O'Hara's Fairfield Hotel Pty Limited	
 516,Premier State Consulting Pty Ltd,BIZFURN EXPRESS AUSTRALIA PTY LTD	
 516,Premier State Consulting Pty Ltd,ALPHA NOBIS FM PTY LTD	
-516,Premier State Consulting Pty Ltd,MARK MORAN GROUP PTY LIMITED	
 516,Premier State Consulting Pty Ltd,FIVEX SERVICES PTY LIMITED	
 516,Premier State Consulting Pty Ltd,ORAN PARK WEST PTY LTD	
 516,Premier State Consulting Pty Ltd,EASTERN SUBURBS LEAGUES CLUB LTD	
-516,Premier State Consulting Pty Ltd,SYDNEY AIRPORT CORPORATION LIMITED	
 516,Premier State Consulting Pty Ltd,CHILDREN'S MEDICAL RESEARCH INSTITUTE	
 516,Premier State Consulting Pty Ltd,NEW HORIZONS ENTERPRISES LIMITED	
 516,Premier State Consulting Pty Ltd,BEINFORMED GROUP PTY LTD	
 516,Premier State Consulting Pty Ltd,Waterbrook Australia Pty Ltd	
 516,Premier State Consulting Pty Ltd,Event Hospitality and Entertainment Limited
-516,Premier State Consulting Pty Ltd,Aus Finance Group Pty Ltd
 516,Premier State Consulting Pty Ltd,Oxfam Australia
-516,Premier State Consulting Pty Ltd,URBAN DEVELOPMENT INSTITUTE OF AUSTRALIA INC
 516,Premier State Consulting Pty Ltd,G. H. Varley Pty Ltd
 516,Premier State Consulting Pty Ltd,Australian Finance Industry Association Limited
 516,Premier State Consulting Pty Ltd,RSPCA Australia
@@ -1201,9 +1200,7 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Globe Capital Administration Pty Ltd
 1817,PremierNational Pty Ltd,Acciona
 1817,PremierNational Pty Ltd,New Horizons Enterprises Ltd
-1817,PremierNational Pty Ltd,AA Crown Holdings Pty Ltd
 1817,PremierNational Pty Ltd,Children's Medical Research Institute
-1817,PremierNational Pty Ltd,Sydney Airport Corporation
 1817,PremierNational Pty Ltd,Fincantieri Australia Pty Ltd
 1817,PremierNational Pty Ltd,Australian Hotels Association (NSW)
 1817,PremierNational Pty Ltd,Employers Mutual Limited
@@ -1212,11 +1209,7 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,The Star Entertainment Group Limited
 1817,PremierNational Pty Ltd,IMF Bentham
 1817,PremierNational Pty Ltd,NEXTDC Limited
-1817,PremierNational Pty Ltd,BlueCHP Limited
-1817,PremierNational Pty Ltd,Siemens Ltd
 1817,PremierNational Pty Ltd,Telstra
-1817,PremierNational Pty Ltd,Wilson Security
-1817,PremierNational Pty Ltd,Assetlink Services P/L
 1817,PremierNational Pty Ltd,Genex Power Ltd
 1817,PremierNational Pty Ltd,Greyhound Racing NSW
 1817,PremierNational Pty Ltd,Glencore Coal (NSW) Pty Ltd	
@@ -1224,7 +1217,6 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,BIZFURN EXPRESS AUSTRALIA PTY LTD	
 1817,PremierNational Pty Ltd,EVENT HOSPITALITY AND ENTERTAINMENT LTD	
 1817,PremierNational Pty Ltd,O'Hara's Fairfield Hotel Pty Limited	
-1817,PremierNational Pty Ltd,MARK MORAN GROUP PTY LIMITED	
 1817,PremierNational Pty Ltd,ALPHA NOBIS FM PTY LTD	
 1817,PremierNational Pty Ltd,EASTWOOD DISTRICT RUGBY UNION FOOTBALL CLUB INCORPORATED	
 1817,PremierNational Pty Ltd,FIVEX SERVICES PTY LIMITED	
@@ -1232,11 +1224,9 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,EASTERN SUBURBS LEAGUES CLUB LTD	
 1817,PremierNational Pty Ltd,BEINFORMED GROUP PTY LTD	
 1817,PremierNational Pty Ltd,Waterbrook Australia Pty Ltd	
-1817,PremierNational Pty Ltd,Aus Finance Group Pty Ltd
 1817,PremierNational Pty Ltd,RSPCA Australia
 1817,PremierNational Pty Ltd,Australian Finance Industry Association Limited
 1817,PremierNational Pty Ltd,G.H. VARLEY PTY LTD
-1817,PremierNational Pty Ltd,URBAN DEVELOPMENT INSTITUTE OF AUSTRALIA INC
 1817,PremierNational Pty Ltd,Oxfam Australia
 1817,PremierNational Pty Ltd,Great Place to Work
 1817,PremierNational Pty Ltd,Music Australia
@@ -1654,6 +1644,11 @@ agency_id,agency_business_entity_name,client_name
 420,The Trustee for ECG Advisory Trust,Auctioneers and Valuers Association of Australia (Incorporated)
 420,The Trustee for ECG Advisory Trust,Australian Finance Group
 420,The Trustee for ECG Advisory Trust,Workpac Group
+3877,The Trustee for GC Advisory Trading Trust,Thomson Geer Lawyers
+3877,The Trustee for GC Advisory Trading Trust,Torrens Capital Management Pty Ltd
+3877,The Trustee for GC Advisory Trading Trust,The duMonde Group Pty Ltd
+3877,The Trustee for GC Advisory Trading Trust,Hickinbotham Group
+3877,The Trustee for GC Advisory Trading Trust,Precision Components Pty Ltd
 41,The Trustee for Hilton Valley Investment,R_Co Graphics
 1809,The Trustee for Jackman Family Trust,The Big Issue
 1809,The Trustee for Jackman Family Trust,Home for Homes
@@ -1696,10 +1691,10 @@ agency_id,agency_business_entity_name,client_name
 718,Trustee of Kerans Family Trust,Motorola Solutions Inc.
 718,Trustee of Kerans Family Trust,Facebook Inc.
 718,Trustee of Kerans Family Trust,ViaSat Inc.
-718,Trustee of Kerans Family Trust,OmniSpace
 718,Trustee of Kerans Family Trust,The Boeing Company
 718,Trustee of Kerans Family Trust,Iridium Satellite LLC
 718,Trustee of Kerans Family Trust,Airbus SE
+718,Trustee of Kerans Family Trust,Dish Purchasing Corporation
 680,TSB Advisory Pty Ltd,Macquarie Group Limited
 680,TSB Advisory Pty Ltd,Rare Cancers Australia
 680,TSB Advisory Pty Ltd,PayPal Australia Pty Ltd
