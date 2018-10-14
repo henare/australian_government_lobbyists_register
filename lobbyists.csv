@@ -61,6 +61,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 601,Catherine McGovern,Catherine McGovern,Principal,Yes,May 2000
 191,"Cemdia Pty, Ltd",Hendrik Prins,Managing Director,Yes,October 1987
 743,CETE Consulting Pty Ltd,Cameron Thomson,Managing Director,Yes,June 1995
+3849,CGM Communications Pty Ltd,Daniel Smith,Executive Director,No,""
+3849,CGM Communications Pty Ltd,Anthony Fisk,Executive Director,No,""
 2848,CHAP AirTech Pty Ltd,Jeffrey W. Elliott,Director / Secretary,No,""
 2847,Chatto Creek Advisory Pty Ltd,Russell Scoular,Chairman,No,""
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,Yes,March 2003
@@ -114,11 +116,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
-580,Crosby Textor Research Strategies Results,Leanne White,Senior Consultant,Yes,April 2003
-580,Crosby Textor Research Strategies Results,George Brougham,Consultant,No,""
-580,Crosby Textor Research Strategies Results,Giorgia Christmas,Senior Consultant,Yes,October 2015
-580,Crosby Textor Research Strategies Results,Talia Katz,Consultant ,No,""
-580,Crosby Textor Research Strategies Results,Molly Hughes ,Consultant ,Yes,August 2016
+580,Crosby Textor Research Strategies Results,Leanne White,Director,Yes,April 2003
+580,Crosby Textor Research Strategies Results,George Brougham,Senior Consultant,No,""
+580,Crosby Textor Research Strategies Results,Giorgia Christmas,Manager,Yes,October 2015
+580,Crosby Textor Research Strategies Results,Talia Katz,Manager,No,""
+580,Crosby Textor Research Strategies Results,Molly Hughes ,Senior Consultant,Yes,August 2016
 580,Crosby Textor Research Strategies Results,Matthew Logan,Consultant,No,""
 580,Crosby Textor Research Strategies Results,Catherine Douglas ,Managing Director ,No,""
 580,Crosby Textor Research Strategies Results,David Bell ,Group Managing Director â Australasia,No,""
@@ -164,10 +166,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 71,Essential Media Communications Pty Ltd,Peter Stahel,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Darren Rodrigo,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Jenny Stokes,Account Manager,No,""
-71,Essential Media Communications Pty Ltd,Monique Vandeleur,Communications Consultant,Yes,September 2012
 71,Essential Media Communications Pty Ltd,Alana Mew ,Senior Account Manager,No,""
 71,Essential Media Communications Pty Ltd,Bronte Kerr,Communications Consultant,No,""
 71,Essential Media Communications Pty Ltd,Hayley Conway,Senior Account Manager,No,""
+71,Essential Media Communications Pty Ltd,Matthew Phillips,Senior Account Manager,No,""
 564,Etched Communications Pty Ltd,Andrew Butler,Managing Director,No,""
 564,Etched Communications Pty Ltd,Peter Wilkinson,Chairman,No,""
 564,Etched Communications Pty Ltd,Beroze Dubash,Consultant,No,""
@@ -261,6 +263,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,Thomas Michael O'Meara,Consultant,No,""
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 264,"John, Susan Maree",Sue John,Principal,No,""
+410,Justine Caines,Justine Caines,Principal,No,""
 3876,Kurrajong Strategic Counsel,Adrian Michael Dolahenty,Director,Yes,March 1995
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
@@ -320,6 +323,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Lenda Oshalem,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Grace Borrello,Consultant,Yes,June 2018
 565,Newgate Communications Pty Limited,Sophie Mitchell,Associate Partner,Yes,June 2009
+565,Newgate Communications Pty Limited,Catherine Cook,Associate Partner,Yes,May 2007
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Mark Hrycek,Senior Advisor,No,""
@@ -483,6 +487,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
+268,The Premier Communications Group Pty Ltd.,Josh Wright,Senior Advisor,Yes,March 2018
 1826,The Shape Agency,Timothy James O'Halloran,Director,Yes,September 2013
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,The Hon. Dr Michael Wooldridge,Advisor,Yes,October 2001
