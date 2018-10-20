@@ -6,6 +6,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 104,Alkar Pty Ltd,Allan King,Director,No,""
 788,All Points North Advisory Pty Ltd,Ewen Thomas Jones,Managing Director,Yes,July 2017
 1820,ALPHA Consult Pty Ltd,LIZA-JAYNE LOCH,CEO,No,""
+3887,Andrew Mihno,Andrew Mihno,Director,No,""
 415,APS Networking Pty Ltd,Anthony Stewart,Director,Yes,March 2011
 2840,Ascend Strategic Counsel Pty Ltd,Peter Greenwood,Director,Yes,February 2011
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke,Director,Yes,August 2004
@@ -43,6 +44,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 131,BTelecom Pty Ltd,Sarina Le,Director,No,""
 131,BTelecom Pty Ltd,Greg Fonti,General Manager,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
+52,Bush Consulting Services Pty Ltd,Brian Acworth AM,Consultant,No,""
 760,Bushido International Pty Ltd,Peter James WHITE,Chief Executive,No,""
 1799,Butler Hardy Corporate Pty Ltd,John Codrington,Senior Advocate,No,""
 654,C2hills Investments Pty Limited,Cara Leanne Dale,Director/Consultant,No,""
@@ -63,6 +65,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 743,CETE Consulting Pty Ltd,Cameron Thomson,Managing Director,Yes,June 1995
 3849,CGM Communications Pty Ltd,Daniel Smith,Executive Director,No,""
 3849,CGM Communications Pty Ltd,Anthony Fisk,Executive Director,No,""
+3849,CGM Communications Pty Ltd,Emma Gibbens,Senior Consultant,No,""
 2848,CHAP AirTech Pty Ltd,Jeffrey W. Elliott,Director / Secretary,No,""
 2847,Chatto Creek Advisory Pty Ltd,Russell Scoular,Chairman,No,""
 157,Chikarovski & Associates Pty Ltd,Kerry Chikarovski,Director,Yes,March 2003
@@ -128,7 +131,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 673,CT International and Corporate Advisory Pty Ltd,Michael Teoh,Consultant,No,""
 673,CT International and Corporate Advisory Pty Ltd,Remo Nogarotto,Managing Director,No,""
-673,CT International and Corporate Advisory Pty Ltd,Russell King ,Director ,No,""
 795,Cube Public Relations Pty Ltd,Anne-Marie Sparrow,Managing Director/Owner,No,""
 795,Cube Public Relations Pty Ltd,Bonnie Leibel,Senior Account Manager,No,""
 795,Cube Public Relations Pty Ltd,Elise Rattigan,Senior Account Executive ,No,""
@@ -276,6 +278,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 566,London Agency Pty Ltd,David Latham,Public Relations Manager,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
 13,LOPAC Consulting Pty Limited,Robert Sidney Parker,Managing Director,Yes,June 2005
+3880,Lucid Health Consulting,George Papadopoulos,Partner and Director,No,""
 774,Lunik Pty Ltd,Emily Minson,Director,Yes,July 2008
 774,Lunik Pty Ltd,Zackary McLennan,Director,No,""
 774,Lunik Pty Ltd,Brian Kim,Associate,No,""
@@ -290,7 +293,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 179,McGrane-Fitzgerald Unit Trust,Robert Hennessy-Hawks,Lobbyist,No,""
 762,McGuinness Media,Georgina McGuinness,Director,No,""
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
-132,Megan Anwyl,Liz Vivian,Research Assistant,Yes,April 2005
+132,Megan Anwyl,Liz Vivian,Research Analayst,Yes,April 2005
 3854,Meso Consulting Pty Ltd,Mark Robert Sehn,Director,No,""
 1836,MIBD Strategy Pty Ltd,Marc  Itzchaki,CEO,No,""
 452,Michael Johnson Associates Pty Limited,Kris Kendall Gale,Chairman,No,""
@@ -324,6 +327,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Grace Borrello,Consultant,Yes,June 2018
 565,Newgate Communications Pty Limited,Sophie Mitchell,Associate Partner,Yes,June 2009
 565,Newgate Communications Pty Limited,Catherine Cook,Associate Partner,Yes,May 2007
+565,Newgate Communications Pty Limited,Kathryn Turnbull,Senior Consultant,No,""
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Mark Hrycek,Senior Advisor,No,""
@@ -397,6 +401,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 127,PRX Unit Trust,Brian O'Neil ,Director,No,""
 127,PRX Unit Trust,Stephen Kerr,Chief Executive,No,""
 127,PRX Unit Trust,Patrick Rasmussen,Consultant,No,""
+127,PRX Unit Trust,Ruby Kerr,Intern,No,""
+127,PRX Unit Trust,Sophie Mullen,Consultant,No,""
 89,Public Affairs Network Pty Ltd,Rosie Yeo,Director,Yes,April 1995
 68,Public Policy Solutions Pty Ltd,Christopher John Fry,Director,No,""
 68,Public Policy Solutions Pty Ltd,Michael Arthur Kilham,consultant,Yes,August 2016
@@ -487,7 +493,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
-268,The Premier Communications Group Pty Ltd.,Josh Wright,Senior Advisor,Yes,March 2018
+268,The Premier Communications Group Pty Ltd.,Josh Wright,Senior Advisor,Yes,April 2005
 1826,The Shape Agency,Timothy James O'Halloran,Director,Yes,September 2013
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,The Hon. Dr Michael Wooldridge,Advisor,Yes,October 2001

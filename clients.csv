@@ -19,6 +19,10 @@ agency_id,agency_business_entity_name,client_name
 788,All Points North Advisory Pty Ltd,RMS Construction
 788,All Points North Advisory Pty Ltd,Pacific Blue Capital
 1820,ALPHA Consult Pty Ltd,women in media
+3887,Andrew Mihno,AMOVEO (Modular Manufacturer of Affordable Housing)
+3887,Andrew Mihno,Call Journey (Speech Analytics Innovator of compliance and illegal conduct detection)
+3887,Andrew Mihno,ZipBy (Touchless Parking Access and Control Innovator)
+3887,Andrew Mihno,tma Group (Printing and Tech Solutions Innovator)
 415,APS Networking Pty Ltd,Clubs Australia
 415,APS Networking Pty Ltd,Clubs NSW
 2840,Ascend Strategic Counsel Pty Ltd,Australian Imported Motor Vehicle Industry Association 
@@ -49,6 +53,7 @@ agency_id,agency_business_entity_name,client_name
 45,Australian Public Affairs Limited Partnership,Infosys Technologies Limited
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
+135,Australian Spectrum Consultants Pty Ltd,Thales Alenia Space
 3881,Authentic Strategic Advisory Pty Ltd,The Premier Communications Group
 1810,Avantia Corporate Services Pty Ltd,Aircraft Structural Contractors Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
@@ -139,6 +144,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Brisbane Airport Corporation
 338,Barton Deakin ,Bingo Industries Pty Ltd
 338,Barton Deakin ,Greyhounds Australasia
+338,Barton Deakin ,Humphreys Lawyers Pty Limited
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Forcite Helmet Systems Pty Ltd
@@ -185,6 +191,10 @@ agency_id,agency_business_entity_name,client_name
 52,Bush Consulting Services Pty Ltd,Australian Screen Association
 52,Bush Consulting Services Pty Ltd,Infront
 52,Bush Consulting Services Pty Ltd,Vault Systems
+52,Bush Consulting Services Pty Ltd,Carpaolo Nominees Pty Ltd
+52,Bush Consulting Services Pty Ltd,Red Tower Pty Ltd
+52,Bush Consulting Services Pty Ltd,Doctors Gully Investments Pty Ltd
+52,Bush Consulting Services Pty Ltd,Christopher John Gray
 760,Bushido International Pty Ltd,Finance Brokers Association of Australia Limited
 760,Bushido International Pty Ltd,Genesis Group Inc
 760,Bushido International Pty Ltd,The Sanity Space Foundation Limited
@@ -264,6 +274,7 @@ agency_id,agency_business_entity_name,client_name
 157,Chikarovski & Associates Pty Ltd,Surrogacy Australia
 157,Chikarovski & Associates Pty Ltd,Tide Foundation
 157,Chikarovski & Associates Pty Ltd,Silver Valley Holdings Pty Ltd
+157,Chikarovski & Associates Pty Ltd,OOH!MEDIA OPERATIONS PTY LIMITED
 658,Chris Drummer ,Australian College of Nursing 
 658,Chris Drummer ,Oceanic Multitrading Pty Ltd
 658,Chris Drummer ,Australian Mobile Health Clinics Association
@@ -625,6 +636,9 @@ agency_id,agency_business_entity_name,client_name
 125,Govstrat Pty Ltd,Star Entertainment
 125,Govstrat Pty Ltd,Tabcorp
 125,Govstrat Pty Ltd,Infigen
+125,Govstrat Pty Ltd,Rio Tinto
+125,Govstrat Pty Ltd,Lime Bikes
+125,Govstrat Pty Ltd,Sun Metals Corporation
 122,GRA Partners Pty Ltd,Hall and Prior Aged Care Organisation
 122,GRA Partners Pty Ltd,Cash Converters
 122,GRA Partners Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
@@ -778,6 +792,8 @@ agency_id,agency_business_entity_name,client_name
 714,Insight Strategy Pty Ltd,NEC Australia
 170,Intech Strategies P/L,Elbit Systems Ltd
 170,Intech Strategies P/L,Elbit Systems of Australia P/L
+3878,ISS International Pty Ltd ,Edwards Lifesciences Sydney Australia 
+3878,ISS International Pty Ltd ,RPP Healthcare Brussels Belgium 
 103,Ivydale Nominees Pty Ltd,Coogee Chemicals
 103,Ivydale Nominees Pty Ltd,WA Nightclubs Association
 103,Ivydale Nominees Pty Ltd,Ord Irrigation Cooperative Ltd
@@ -856,6 +872,7 @@ agency_id,agency_business_entity_name,client_name
 78,John O'Connor and Associates Pty Ltd,MolyCop Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Dematic Pty Ltd
 78,John O'Connor and Associates Pty Ltd,Prysmian Australia Pty Ltd
+78,John O'Connor and Associates Pty Ltd,QNP Ltd
 255,John Scott Barker,Stornoway
 255,John Scott Barker,Font PR
 255,John Scott Barker,Cuthbertson Bros
@@ -895,6 +912,7 @@ agency_id,agency_business_entity_name,client_name
 13,LOPAC Consulting Pty Limited,Supacat Ltd
 13,LOPAC Consulting Pty Limited,Orbital  ATK Inc
 13,LOPAC Consulting Pty Limited,FORCIT Defence
+3880,Lucid Health Consulting,Janssen Cilag
 774,Lunik Pty Ltd,Thomas Global Systems
 774,Lunik Pty Ltd,MBDA Australia
 774,Lunik Pty Ltd,BMT Group Australia
@@ -980,7 +998,6 @@ agency_id,agency_business_entity_name,client_name
 132,Megan Anwyl,P and H Marine Australia Pty Ltd
 132,Megan Anwyl,Foundation for Young Australians
 132,Megan Anwyl,Town of Port Hedland
-132,Megan Anwyl,Vector Advanced Metering Services (Australia) Pty Ltd
 132,Megan Anwyl,Australia China Business Council WA
 3854,Meso Consulting Pty Ltd,KimberlyClark Australia
 3854,Meso Consulting Pty Ltd,KimberlyClark Professional Asia Pacific
@@ -1000,6 +1017,7 @@ agency_id,agency_business_entity_name,client_name
 2842,Michelson Alexander Consulting,Australians For Mental Health
 2842,Michelson Alexander Consulting,ALP Friends of Israel
 2842,Michelson Alexander Consulting,GFG Alliance
+2842,Michelson Alexander Consulting,Energy Networks Australia
 752,MMJ Consulting,Readymade Productions Pty Ltd
 752,MMJ Consulting,Family Drug Support
 696,MOUNTAIN MEDIA PTY LTD, IFM INVESTORS
@@ -1087,6 +1105,7 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus APAC Pty Ltd,QICP Pty Ltd
 1798,Nexus APAC Pty Ltd,Australian Federal Police Association
 1798,Nexus APAC Pty Ltd,Parramatta Radiology and Nuclear Medicine Pty Ltd
+1798,Nexus APAC Pty Ltd,Better Caring Pty Ltd
 3,Oceanic Solutions Pty Ltd ITF Jemnica Family Trust,Navantia
 632,One Degree Advisory,Edith Cowan University
 632,One Degree Advisory,Down Under Geosolutions
@@ -1209,6 +1228,8 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Great Place to Worki
 516,Premier State Consulting Pty Ltd,Globe Capital Administration Pty Ltd
 516,Premier State Consulting Pty Ltd,Outdoor Media Association
+516,Premier State Consulting Pty Ltd,Dural Investment Holding Pty Ltd
+516,Premier State Consulting Pty Ltd,Acciona
 1817,PremierNational Pty Ltd,Acciona
 1817,PremierNational Pty Ltd,New Horizons Enterprises Ltd
 1817,PremierNational Pty Ltd,Children's Medical Research Institute
@@ -1322,12 +1343,14 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,EBOS Group
 127,PRX Unit Trust,Licella Holdings Pty Ltd
 127,PRX Unit Trust,Kalari HSE
-127,PRX Unit Trust,Caleb and Brown
 127,PRX Unit Trust,Australian Psychological Society
 127,PRX Unit Trust,Plan Partners
 127,PRX Unit Trust,Neami National 
 127,PRX Unit Trust,Australian Association of Social Workers 
 127,PRX Unit Trust,Hitachi Vantara
+127,PRX Unit Trust,Transport Certification Australia
+127,PRX Unit Trust,Community Clubs Victoria
+127,PRX Unit Trust,Victory Corporate Serviced Offices
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1358,6 +1381,11 @@ agency_id,agency_business_entity_name,client_name
 3864,Puzzle Consulting Pty Ltd,Shire of Leonora
 3864,Puzzle Consulting Pty Ltd,Artgold
 3864,Puzzle Consulting Pty Ltd,Regional Development Australia GoldfieldsEsperance
+3864,Puzzle Consulting Pty Ltd,Shire of Yilgarn
+3864,Puzzle Consulting Pty Ltd,Kalgoorlie Occasional Child Care Centre
+3864,Puzzle Consulting Pty Ltd,Goldfields Child Care Centre
+3864,Puzzle Consulting Pty Ltd,Leinster Child Care Centre
+3864,Puzzle Consulting Pty Ltd,Goldfields Rehabilitation Service Inc
 29,Pynfall Pty Ltd,Project System & Management GmbH
 29,Pynfall Pty Ltd,Photonis Technologies SAS
 29,Pynfall Pty Ltd,Rohde and Schwarz Australia
@@ -1414,10 +1442,7 @@ agency_id,agency_business_entity_name,client_name
 44,Richglen Holdings Pty Ltd,Muscular Dystrophy Australia
 395,Right Angle Business Services Pty Ltd,Australian Solar Group Limited
 395,Right Angle Business Services Pty Ltd,The University Of Adelaide 
-395,Right Angle Business Services Pty Ltd,Solar Juice Pty Ltd
 395,Right Angle Business Services Pty Ltd,SOLARGAIN Pty Ltd
-395,Right Angle Business Services Pty Ltd,Mariaâs Farm Veggies Pty Ltd (Administrators Appointed)
-395,Right Angle Business Services Pty Ltd,Newcastle Airport Pty Limited
 395,Right Angle Business Services Pty Ltd,Asterion (Australia) Pty Ltd
 395,Right Angle Business Services Pty Ltd,Preveceutical (Australia) Pty Ltd
 755,RIPNEY PTY LTD,National Credit Providers Association Ltd
@@ -1494,13 +1519,13 @@ agency_id,agency_business_entity_name,client_name
 225,SPIER CONSULTING P/L,AUSTRALIAN FEDERATION OFV TRAVEL AGENTS
 225,SPIER CONSULTING P/L,MORTGAGE AND FINANCE ASSOCIATION OF AUSTRALIA
 665,Spring Street Advisory,Vestas Australian Wind Technology Pty Ltd
-665,Spring Street Advisory,Olex Australia Pty Ltd
 665,Spring Street Advisory,Infoxchange
-665,Spring Street Advisory,Trustpower
 665,Spring Street Advisory,Tilt Renewables
 665,Spring Street Advisory,Keppel Prince Engineering
 665,Spring Street Advisory,RES Australia
 665,Spring Street Advisory,WestWind Energy
+665,Spring Street Advisory,Sumo
+665,Spring Street Advisory,Qenos
 490,Staindl Strategic Pty Ltd,Pacific Hydro
 490,Staindl Strategic Pty Ltd,Hanson Construction Materials
 490,Staindl Strategic Pty Ltd,Latrobe Fertilisers
