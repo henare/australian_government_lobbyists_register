@@ -190,11 +190,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 333,FTI Consulting (Perth) Pty Ltd,Katina Hodson Thomas,Director,Yes,September 2008
 333,FTI Consulting (Perth) Pty Ltd,Shane Murphy,Senior Director,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Hadler ,Senior Advisor,No,""
-678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Maryanna Vasilareas,Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Ben Hamilton,Managing Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Shannon Walker ,Senior Director ,Yes,January 2012
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Tara Nash,Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Rebecca Harrison,Director ,No,""
+678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Skeffington,Senior Managing Director,No,""
 3855,Gambaro Consulting Group,Hon Teresa Gambaro,Director,Yes,May 2016
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
 1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
@@ -232,10 +232,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Liam Nilon,Consultant,No,""
 59,GRACosway Pty Ltd,Erin Germantis,Associate,No,""
 59,GRACosway Pty Ltd,Kirk Alexander Stubbs,Associate,No,""
-59,GRACosway Pty Ltd,Leigh Francis Moran,Associate,No,""
 59,GRACosway Pty Ltd,Sharon Anne Reid,Associate Director Marketing and Research,No,""
 59,GRACosway Pty Ltd,Andrew Cox,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Jordi Procel,Associate,Yes,October 2015
+59,GRACosway Pty Ltd,Alexander Kay Oswald,Director,Yes,April 2018
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
@@ -249,6 +249,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 137,Health Communincations Australia Pty Limited,Felicity Moffatt,Group Account Director,No,""
 137,Health Communincations Australia Pty Limited,Geoffrey Quayle,Executive director,No,""
 124,Helen & Mike O'Brien JP,Mike O'Brien JP,Partner in the firm: Helen & Mike O'Brien JP  ,No,""
+3889,Iain Evans as Trustee for the iain Evans Consulting Trust,Iain Frederick Evans ,owner,Yes,October 2014
 541,Innovative Electronics Pty Ltd,Richard Carl Jacobsen,Engineer,Yes,March 1997
 714,Insight Strategy Pty Ltd,Jody Fassina,Managing Director,Yes,April 2001
 170,Intech Strategies P/L,Barry Batagol,Director,No,""
@@ -344,7 +345,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,opr Health,Leon Beswick,Managing Director,No,""
 86,opr Health,Rachel Stanton,Business Director,No,""
 86,opr Health,Michael Lane,Senior Account Manager,No,""
-86,opr Health,Chloe Dougherty,Account Executive,No,""
 86,opr Health,Tania Jayesuria,Practice Director,No,""
 86,opr Health,Carly Vale,Senior Consultant,No,""
 86,opr Health,Alexandra McInnes,Account Executive,No,""

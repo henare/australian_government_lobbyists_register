@@ -297,6 +297,7 @@ agency_id,agency_business_entity_name,client_name
 475,Clifton Consulting Services Pty Ltd,City of Greater Geelong
 475,Clifton Consulting Services Pty Ltd,Tianyu Wool Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Stafford Group
+475,Clifton Consulting Services Pty Ltd,Committee for Geelong
 79,CMAX Communications Pty Ltd,Stryker 
 79,CMAX Communications Pty Ltd,Send Hope Not Flowers
 79,CMAX Communications Pty Ltd,Northrop Grumman International
@@ -322,6 +323,7 @@ agency_id,agency_business_entity_name,client_name
 472,Comsult(Aust) Pty Ltd,AsiaSpace Ltd
 472,Comsult(Aust) Pty Ltd,OmniSpace
 472,Comsult(Aust) Pty Ltd,O3b/SES
+472,Comsult(Aust) Pty Ltd,UbiquitiLink Inc
 142,Consilium International Group Pty Ltd,Senetas
 142,Consilium International Group Pty Ltd,UXC Limited
 638,Contextual Communications Pty Ltd, ARCADIA Corporation Pty Ltd
@@ -428,7 +430,6 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Minderoo Group PTY Lltd
 160,Cotterell Jannette Suzanne,Australian Marine Conservation Society
 160,Cotterell Jannette Suzanne,Australian Health Research Alliance
-160,Cotterell Jannette Suzanne,Murdoch University
 160,Cotterell Jannette Suzanne,Generic and Biosimilar Medicines Association
 160,Cotterell Jannette Suzanne,Tobacco Free Portfolios (pro bono)
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
@@ -439,6 +440,10 @@ agency_id,agency_business_entity_name,client_name
 403,Covance Pty Ltd (Covance Market Access Services division),Celgene Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Merck Serono Australia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),CSL Behring (Australia) Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),Sanofi Aventis Australia Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),Stallergenes Australia Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),UCB Australia Pty Ltd
+403,Covance Pty Ltd (Covance Market Access Services division),Bayer Australia Limited
 299,CPI Strategic Pty Ltd,Costa Group of Companies
 299,CPI Strategic Pty Ltd,Field and Game Australia
 299,CPI Strategic Pty Ltd,Australian Deer Association
@@ -457,6 +462,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,Mildura Rural City Council
 81,CPR Communications & Public Relations Pty Ltd,The Real Estate Institute of Victoria
 81,CPR Communications & Public Relations Pty Ltd,Warrnambool City Council
+81,CPR Communications & Public Relations Pty Ltd,The Mayflower Group
 683,Craig Emerson Economics Pty Ltd,KPMG
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
@@ -515,6 +521,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,SolarReserve
 360,Diplomacy Pty Limited,Seafood Industry Victoria
 624,Donna Edman,Hearing Care Industry Association
+624,Donna Edman,Medicinal Cannabis Industry Association
 172,Dr Robert Horton,Intelsat Corporation
 172,Dr Robert Horton,Inmarsat Corporation
 172,Dr Robert Horton,One Web Corporation
@@ -585,6 +592,8 @@ agency_id,agency_business_entity_name,client_name
 214,FIPRA Australia Pty Limited,KaComm Communications Pty Limited
 214,FIPRA Australia Pty Limited,Cerus Inc
 295,Five Corners Pty Ltd,Mark Lawrence - Managing Director - MD Solutions Australasia Pty Ltd.
+3885,Forbes Consultancy,Role Australia
+3885,Forbes Consultancy,Water Stewardship Australia
 738,Freight  Trade Alliance (FTA) Pty Ltd,Australian Peak Shippers Association
 738,Freight  Trade Alliance (FTA) Pty Ltd,Australian International Movers Association
 738,Freight  Trade Alliance (FTA) Pty Ltd,Salta Properties
@@ -663,6 +672,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Partners Pty Ltd,Equestrian Western Australia 
 122,GRA Partners Pty Ltd,Mitsui E&P Australia Pty Ltd
 122,GRA Partners Pty Ltd,Property Exchange Australia Ltd
+122,GRA Partners Pty Ltd,Datacom Systems (WA) Pty Ltd 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -782,6 +792,7 @@ agency_id,agency_business_entity_name,client_name
 137,Health Communincations Australia Pty Limited,Otsuka Australia Pharmaceutical Pty. Ltd
 124,Helen & Mike O'Brien JP,Australian Pensioners & Superannuants League WA Inc
 124,Helen & Mike O'Brien JP,Parins
+3889,Iain Evans as Trustee for the iain Evans Consulting Trust,Leigh Creek Energy Limited
 541,Innovative Electronics Pty Ltd,ESA/Inmarsat
 541,Innovative Electronics Pty Ltd,CSIRO
 714,Insight Strategy Pty Ltd,Capital Hill Advisory
@@ -1106,6 +1117,8 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus APAC Pty Ltd,Australian Federal Police Association
 1798,Nexus APAC Pty Ltd,Parramatta Radiology and Nuclear Medicine Pty Ltd
 1798,Nexus APAC Pty Ltd,Better Caring Pty Ltd
+1798,Nexus APAC Pty Ltd,Pharmaceutical Society of Australia
+1798,Nexus APAC Pty Ltd,Glencore Holdings Australia
 3,Oceanic Solutions Pty Ltd ITF Jemnica Family Trust,Navantia
 632,One Degree Advisory,Edith Cowan University
 632,One Degree Advisory,Down Under Geosolutions
@@ -1230,6 +1243,7 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Outdoor Media Association
 516,Premier State Consulting Pty Ltd,Dural Investment Holding Pty Ltd
 516,Premier State Consulting Pty Ltd,Acciona
+516,Premier State Consulting Pty Ltd,Octor Pty Ltd
 1817,PremierNational Pty Ltd,Acciona
 1817,PremierNational Pty Ltd,New Horizons Enterprises Ltd
 1817,PremierNational Pty Ltd,Children's Medical Research Institute
@@ -1266,6 +1280,7 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,Outdoor Media Association Incorporated
 1817,PremierNational Pty Ltd,Dural Investment Holdings Pty Ltd
 1817,PremierNational Pty Ltd,Helloworld Travel Services (Aust) Pty Ltd
+1817,PremierNational Pty Ltd,Octor Pty Ltd
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1472,6 +1487,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Mantle Group
 685,Sanlaan Pty Ltd,Goldwind Australia Pty Ltd
 685,Sanlaan Pty Ltd,YW8 Pty Ltd trading as Australian Global Wine Services
+685,Sanlaan Pty Ltd,Australian Dermatology Services Pty Ltd
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
@@ -1492,6 +1508,7 @@ agency_id,agency_business_entity_name,client_name
 1806,Scott Mitchell and Partners Pty Ltd,RAWS Association Limited
 1806,Scott Mitchell and Partners Pty Ltd,Australian Dairy Industry Council
 1806,Scott Mitchell and Partners Pty Ltd,AGL Energy Limited
+1806,Scott Mitchell and Partners Pty Ltd,Soldier On
 143,Sefiani Communications Group,Landbridge Infrastructure Australia
 143,Sefiani Communications Group,Landbridge Infrastructure Group Australia
 143,Sefiani Communications Group,Westside Corporation
@@ -1703,7 +1720,6 @@ agency_id,agency_business_entity_name,client_name
 668,The Trustee for Sandra Eccles Family Trust,Friendly Societies of Australia 
 668,The Trustee for Sandra Eccles Family Trust,Media Federation of Australia
 668,The Trustee for Sandra Eccles Family Trust,The Salvation Army
-117,The Trustee for the Bowden Family Trust,Group Training Australia
 117,The Trustee for the Bowden Family Trust,TAFE Directors Australia
 117,The Trustee for the Bowden Family Trust,National Apprentice Employment Network
 3872,The Trustee for the Cobalt Family Trust,Western Gas Corporation
