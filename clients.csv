@@ -4,17 +4,19 @@ agency_id,agency_business_entity_name,client_name
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Rafael  Advanced Defense Systems Limited
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Aeronautics System Ltd
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,AMST GmbH
+3886,Advanced Outcomes,Commercial and General Group of Companies
 746,Advisory Street Pty Ltd,Bank of Queensland
 746,Advisory Street Pty Ltd,Commercial & Asset Finance Brokers Association of Australia
 746,Advisory Street Pty Ltd,Australian Payments Network
+746,Advisory Street Pty Ltd,Regional Bank CEOs (Bank of Queensland/Bendigo-Adelaide Bank/Suncorp Bank/ME/ING/AMP Bank/MyState)
 36,Aegis Consulting Group Pty Ltd,Re Group
 104,Alkar Pty Ltd,NT Airports
-104,Alkar Pty Ltd,Tabcorp
 104,Alkar Pty Ltd,GenesisCare
 104,Alkar Pty Ltd,FoxStrategic
 104,Alkar Pty Ltd,OnDigital
 104,Alkar Pty Ltd,Royal Brunei Airlines
 104,Alkar Pty Ltd,OptiComm
+104,Alkar Pty Ltd,ViaSat
 788,All Points North Advisory Pty Ltd,A Gabrielli Constructions Pty Ltd
 788,All Points North Advisory Pty Ltd,RMS Construction
 788,All Points North Advisory Pty Ltd,Pacific Blue Capital
@@ -31,6 +33,7 @@ agency_id,agency_business_entity_name,client_name
 770,Asys Consulting,The Little Blue Dinosaur Foundation
 770,Asys Consulting,Cannabis Harvest Limited
 770,Asys Consulting,Childrens Ground
+770,Asys Consulting,Drawdown Australia
 63,AusAccess Unit Trust,Global Defence Industries
 63,AusAccess Unit Trust,TECC Pty Ltd
 63,AusAccess Unit Trust,Hanwha Techwin
@@ -463,6 +466,7 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,The Real Estate Institute of Victoria
 81,CPR Communications & Public Relations Pty Ltd,Warrnambool City Council
 81,CPR Communications & Public Relations Pty Ltd,The Mayflower Group
+81,CPR Communications & Public Relations Pty Ltd,National Ageing Research Institute Limited
 683,Craig Emerson Economics Pty Ltd,KPMG
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
@@ -520,6 +524,7 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,Regional Development Australia Barwon South West
 360,Diplomacy Pty Limited,SolarReserve
 360,Diplomacy Pty Limited,Seafood Industry Victoria
+360,Diplomacy Pty Limited,New Zealand Carbon Farming 
 624,Donna Edman,Hearing Care Industry Association
 624,Donna Edman,Medicinal Cannabis Industry Association
 172,Dr Robert Horton,Intelsat Corporation
@@ -556,6 +561,9 @@ agency_id,agency_business_entity_name,client_name
 31,Endeavour Consulting Group Pty Ltd,CropLife Australia
 31,Endeavour Consulting Group Pty Ltd,Link Group
 31,Endeavour Consulting Group Pty Ltd,APPEA
+31,Endeavour Consulting Group Pty Ltd,Rural Funds Management
+31,Endeavour Consulting Group Pty Ltd,iFarm
+31,Endeavour Consulting Group Pty Ltd,MANSKI PTY LTD
 663,Espresso Communications Pty Ltd,Cylance
 71,Essential Media Communications Pty Ltd,Australian Marriage Equality
 71,Essential Media Communications Pty Ltd,Luke Batty Foundation Limited
@@ -780,6 +788,9 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Expedia 
 96,Hawker Britton Group Pty Ltd,JWDT Land
 96,Hawker Britton Group Pty Ltd,MS Research Australia
+96,Hawker Britton Group Pty Ltd,Alliance 20
+96,Hawker Britton Group Pty Ltd,Australian Energy Council
+96,Hawker Britton Group Pty Ltd,Star Scientific Limited 
 3858,Haztech Environmental ,Haztech Environmental
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -1227,7 +1238,6 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,BIZFURN EXPRESS AUSTRALIA PTY LTD	
 516,Premier State Consulting Pty Ltd,ALPHA NOBIS FM PTY LTD	
 516,Premier State Consulting Pty Ltd,FIVEX SERVICES PTY LIMITED	
-516,Premier State Consulting Pty Ltd,ORAN PARK WEST PTY LTD	
 516,Premier State Consulting Pty Ltd,EASTERN SUBURBS LEAGUES CLUB LTD	
 516,Premier State Consulting Pty Ltd,CHILDREN'S MEDICAL RESEARCH INSTITUTE	
 516,Premier State Consulting Pty Ltd,NEW HORIZONS ENTERPRISES LIMITED	
@@ -1266,7 +1276,6 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,ALPHA NOBIS FM PTY LTD	
 1817,PremierNational Pty Ltd,EASTWOOD DISTRICT RUGBY UNION FOOTBALL CLUB INCORPORATED	
 1817,PremierNational Pty Ltd,FIVEX SERVICES PTY LIMITED	
-1817,PremierNational Pty Ltd,ORAN PARK WEST PTY LTD	
 1817,PremierNational Pty Ltd,EASTERN SUBURBS LEAGUES CLUB LTD	
 1817,PremierNational Pty Ltd,BEINFORMED GROUP PTY LTD	
 1817,PremierNational Pty Ltd,Waterbrook Australia Pty Ltd	
@@ -1366,6 +1375,7 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Transport Certification Australia
 127,PRX Unit Trust,Community Clubs Victoria
 127,PRX Unit Trust,Victory Corporate Serviced Offices
+127,PRX Unit Trust,Ring Enterprises
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1609,6 +1619,7 @@ agency_id,agency_business_entity_name,client_name
 757,The Hon. Robert Charles Baldwin,InConnect
 757,The Hon. Robert Charles Baldwin,Fiji Kava Limited
 757,The Hon. Robert Charles Baldwin,Eagle Property Group Pty Ltd 
+757,The Hon. Robert Charles Baldwin,Australian Fishing Trade Association (AFTA)
 450,The Humphrey Company Pty Limited,AMI International
 450,The Humphrey Company Pty Limited,Project Flinders Pty Ltd
 450,The Humphrey Company Pty Limited,Huntington Ingalls Industries
