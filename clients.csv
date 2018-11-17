@@ -34,6 +34,7 @@ agency_id,agency_business_entity_name,client_name
 770,Asys Consulting,Cannabis Harvest Limited
 770,Asys Consulting,Childrens Ground
 770,Asys Consulting,Drawdown Australia
+770,Asys Consulting,Energy Developments Limited
 63,AusAccess Unit Trust,Global Defence Industries
 63,AusAccess Unit Trust,TECC Pty Ltd
 63,AusAccess Unit Trust,Hanwha Techwin
@@ -47,6 +48,10 @@ agency_id,agency_business_entity_name,client_name
 234,Australian Project Developments Pty. Ltd.,HydroSun Ltd
 234,Australian Project Developments Pty. Ltd.,Canberra Airport
 234,Australian Project Developments Pty. Ltd.,AustraliaNZ Regional Association Science International
+234,Australian Project Developments Pty. Ltd.,G'Day Rail
+234,Australian Project Developments Pty. Ltd.,Regional Planning Solutions (SA)
+234,Australian Project Developments Pty. Ltd.,ANU Australian Rules Football Club
+234,Australian Project Developments Pty. Ltd.,Kunnunura Shire Council
 45,Australian Public Affairs Limited Partnership,Rirratingu Aboriginal Corporation
 45,Australian Public Affairs Limited Partnership,Bunuwal Investments Pty Ltd
 45,Australian Public Affairs Limited Partnership,Santos
@@ -160,6 +165,7 @@ agency_id,agency_business_entity_name,client_name
 583,BDaaS Consulting Pty Ltd,xAmplify Pty Ltd
 583,BDaaS Consulting Pty Ltd,Trellis Data Pty Ltd
 583,BDaaS Consulting Pty Ltd,CSO Group Pty Ltd
+3890,Bearington Pty Ltd,Sentient Hubs
 162,Belman Consulting Pty Ltd,Olbia Pty Limited
 110,Bluegrass Consulting Pty Ltd,iTIC Australia Pty Ltd
 3865,Bomm Holdings P/L,Moulamein Foods (unpaid)
@@ -213,14 +219,11 @@ agency_id,agency_business_entity_name,client_name
 654,C2hills Investments Pty Limited,The Council of the Municipality of Kiama
 654,C2hills Investments Pty Limited,Port Macquarie Hastings Council
 654,C2hills Investments Pty Limited,Cootamundra Gundagai Regional Council
-654,C2hills Investments Pty Limited,Iona Sports Club Incorporated
 654,C2hills Investments Pty Limited,St Columba Anglican School Council Incorporated
-654,C2hills Investments Pty Limited,Kempsey Shire Council
-654,C2hills Investments Pty Limited,UCA Lifeline Midcoast NSW
 654,C2hills Investments Pty Limited,Riverina Water County Council
-654,C2hills Investments Pty Limited,Luminosity Youth Incorporated
 654,C2hills Investments Pty Limited,Greater Port Macquarie Tourism Association
 654,C2hills Investments Pty Limited,Port Macquarie Touch Association Inc
+654,C2hills Investments Pty Limited,Laurieton United Services Club
 789,Cahill and Bailey Pty Ltd,Yara Pilbara
 789,Cahill and Bailey Pty Ltd,Outcare 
 787,Capetal Advisory Pty Ltd,AREVA
@@ -478,8 +481,6 @@ agency_id,agency_business_entity_name,client_name
 580,Crosby Textor Research Strategies Results,Elliott Advisers (HK) Limited
 580,Crosby Textor Research Strategies Results,Pearson Australia Group Pty Ltd
 580,Crosby Textor Research Strategies Results,Blunden & Associates Pty Ltd
-580,Crosby Textor Research Strategies Results,Canopy Growth Corporation
-580,Crosby Textor Research Strategies Results,Spectrum Cannabis Australia Pty Ltd
 673,CT International and Corporate Advisory Pty Ltd,Parmalat Australia Pty Ltd 
 673,CT International and Corporate Advisory Pty Ltd,The Trustee for R F Capital Trust
 673,CT International and Corporate Advisory Pty Ltd,Ansaldo STS Australia Pty Ltd
@@ -743,6 +744,7 @@ agency_id,agency_business_entity_name,client_name
 59,GRACosway Pty Ltd,Capitol Health Limited
 59,GRACosway Pty Ltd,Enrich Health Group Pty Ltd
 59,GRACosway Pty Ltd,CDPQ Sydney Pty Limited
+59,GRACosway Pty Ltd,Sands. Miscarriage Stillbirth Newborn Death Support
 717,Hartrim Nominees Pty Ltd,Swan Bay Project Management Pty Ltd
 96,Hawker Britton Group Pty Ltd,Free TV Australia
 96,Hawker Britton Group Pty Ltd,The Big Issue in Australia Limited
@@ -791,6 +793,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Alliance 20
 96,Hawker Britton Group Pty Ltd,Australian Energy Council
 96,Hawker Britton Group Pty Ltd,Star Scientific Limited 
+96,Hawker Britton Group Pty Ltd,Australian Government Primary Principals Association
 3858,Haztech Environmental ,Haztech Environmental
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -1078,6 +1081,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Surf Life Saving Australia Ltd
 565,Newgate Communications Pty Limited,Wing Aviation Pty Ltd
 565,Newgate Communications Pty Limited,BSA Business Software Alliance Inc
+565,Newgate Communications Pty Limited,Employsure
 766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
 766,Next Level Strategic Services Pty Ltd,QRE Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Cutting Edge Pty Ltd
@@ -1587,6 +1591,9 @@ agency_id,agency_business_entity_name,client_name
 753,Strategic Political Counsel Pty Ltd,Alliance of Australian Retailers Pty Ltd
 753,Strategic Political Counsel Pty Ltd,William Buck (Qld) Pty Ltd
 753,Strategic Political Counsel Pty Ltd,Adani Australia
+796,Synecdoche Consulting Pty Ltd,Transgrid
+796,Synecdoche Consulting Pty Ltd,New Hope Group
+796,Synecdoche Consulting Pty Ltd,Brighte
 528,SYSTECH Consultants Pty Ltd,Hagenuk Marinekommunikation GmbH
 528,SYSTECH Consultants Pty Ltd,HENSOLDT Sensors GmbH
 2843,Tarramot Pty Ltd,John Holland Group
