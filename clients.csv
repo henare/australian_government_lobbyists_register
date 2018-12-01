@@ -804,6 +804,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Australian Government Primary Principals Association
 96,Hawker Britton Group Pty Ltd,Specsavers Pty Ltd
 96,Hawker Britton Group Pty Ltd,Humphreys Lawyers Pty Limited
+96,Hawker Britton Group Pty Ltd,BBI Group
 3858,Haztech Environmental ,Haztech Environmental
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -1093,8 +1094,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Employsure
 565,Newgate Communications Pty Limited,Ararat Rural City Council
 565,Newgate Communications Pty Limited,Northern NSW Agricultural Alliance
-766,Next Level Strategic Services Pty Ltd,Johnson and Johnson Pty Ltd
-766,Next Level Strategic Services Pty Ltd,QRE Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Cutting Edge Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Ardent Leisure Group
 766,Next Level Strategic Services Pty Ltd,Betway
@@ -1107,6 +1106,7 @@ agency_id,agency_business_entity_name,client_name
 766,Next Level Strategic Services Pty Ltd,Gas Energy Australia
 766,Next Level Strategic Services Pty Ltd,QER
 766,Next Level Strategic Services Pty Ltd,Pembroke Resources Pty Ltd
+766,Next Level Strategic Services Pty Ltd,Ramsay Health Care
 1798,Nexus APAC Pty Ltd,H and R Block
 1798,Nexus APAC Pty Ltd,Booking.com
 1798,Nexus APAC Pty Ltd,Australian Airports Association
@@ -1713,6 +1713,7 @@ agency_id,agency_business_entity_name,client_name
 145,The Trustee for Bespoke Business Trust,CDH Investments
 145,The Trustee for Bespoke Business Trust,AGL
 145,The Trustee for Bespoke Business Trust,IFM Investors
+145,The Trustee for Bespoke Business Trust,Nyrstar
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 420,The Trustee for ECG Advisory Trust,Wesfarmers
 420,The Trustee for ECG Advisory Trust,Coles Supermarkets
@@ -1775,6 +1776,7 @@ agency_id,agency_business_entity_name,client_name
 203,Trustee for Consultum Trust,Verde Property Pty Ltd
 203,Trustee for Consultum Trust,Rio Dorado Limited
 203,Trustee for Consultum Trust,Matt Stone Racing Pty Ltd
+203,Trustee for Consultum Trust,HL Australia Proprietary Ltd
 718,Trustee of Kerans Family Trust,Motorola Solutions Inc.
 718,Trustee of Kerans Family Trust,Facebook Inc.
 718,Trustee of Kerans Family Trust,ViaSat Inc.
