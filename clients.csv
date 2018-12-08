@@ -154,6 +154,7 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Greyhounds Australasia
 338,Barton Deakin ,Humphreys Lawyers Pty Limited
 338,Barton Deakin ,Steel Consultants (Aust) Pty Ltd
+338,Barton Deakin ,MyBudget Pty Ltd
 186,BBS Communications Group Pty Ltd,Pharmacy Guild of Australia
 583,BDaaS Consulting Pty Ltd,NextGen Distribution
 583,BDaaS Consulting Pty Ltd,Forcite Helmet Systems Pty Ltd
@@ -346,6 +347,7 @@ agency_id,agency_business_entity_name,client_name
 2837,Coode Holdings Pty Ltd,Absolute Sleep 
 2837,Coode Holdings Pty Ltd,Mark Zagar T/A Yaranary Farm
 2837,Coode Holdings Pty Ltd,North Wanneroo Residents Association Inc.
+2837,Coode Holdings Pty Ltd,Claradon Property Pty Ltd
 453,Cornerstone Group Australia ,Demigold Pty Ltd 
 453,Cornerstone Group Australia ,Direct Freight Express Pty ltd 
 453,Cornerstone Group Australia ,Cracknell and Lonergan Architects Pty Ltd 
@@ -595,6 +597,7 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd,Nestle Australia
 564,Etched Communications Pty Ltd,National Electrical and Communications Association NSW
 564,Etched Communications Pty Ltd,Hager Electro 
+564,Etched Communications Pty Ltd,The Institute of Patent and Trade Mark Attorneys of Australia
 3857,Every Minute Media,Birralee Primary School 
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Australia
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Limited USA
@@ -805,6 +808,7 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Specsavers Pty Ltd
 96,Hawker Britton Group Pty Ltd,Humphreys Lawyers Pty Limited
 96,Hawker Britton Group Pty Ltd,BBI Group
+96,Hawker Britton Group Pty Ltd,MyBudget Pty Ltd
 3858,Haztech Environmental ,Haztech Environmental
 137,Health Communincations Australia Pty Limited,Allergan Australia Pty Limited
 137,Health Communincations Australia Pty Limited,The GUT Foundation
@@ -1305,6 +1309,7 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,Dural Investment Holdings Pty Ltd
 1817,PremierNational Pty Ltd,Helloworld Travel Services (Aust) Pty Ltd
 1817,PremierNational Pty Ltd,Octor Pty Ltd
+1817,PremierNational Pty Ltd,Australian Energy Council Limited
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1534,6 +1539,7 @@ agency_id,agency_business_entity_name,client_name
 1806,Scott Mitchell and Partners Pty Ltd,Australian Dairy Industry Council
 1806,Scott Mitchell and Partners Pty Ltd,AGL Energy Limited
 1806,Scott Mitchell and Partners Pty Ltd,Soldier On
+1806,Scott Mitchell and Partners Pty Ltd,Long Term Asset Partners
 143,Sefiani Communications Group,Landbridge Infrastructure Australia
 143,Sefiani Communications Group,Landbridge Infrastructure Group Australia
 143,Sefiani Communications Group,Westside Corporation
@@ -1602,6 +1608,7 @@ agency_id,agency_business_entity_name,client_name
 753,Strategic Political Counsel Pty Ltd,Alliance of Australian Retailers Pty Ltd
 753,Strategic Political Counsel Pty Ltd,William Buck (Qld) Pty Ltd
 753,Strategic Political Counsel Pty Ltd,Adani Australia
+753,Strategic Political Counsel Pty Ltd,Let's Join In
 796,Synecdoche Consulting Pty Ltd,Transgrid
 796,Synecdoche Consulting Pty Ltd,New Hope Group
 796,Synecdoche Consulting Pty Ltd,Brighte
@@ -1622,6 +1629,9 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Market Eye Pty Ltd
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Afilias Limited
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers Australia (WPMA)
+46,The De Wintern Group,Rare Voices Australia
+46,The De Wintern Group,Universities Australia
+46,The De Wintern Group,Franchisee Federation Australia
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
@@ -1939,4 +1949,5 @@ agency_id,agency_business_entity_name,client_name
 641,Wurley Group Pty Ltd,BXTAccelyon Australia Pty Ltd
 641,Wurley Group Pty Ltd,dorsaVi Ltd
 641,Wurley Group Pty Ltd,Orthocell Ltd
+641,Wurley Group Pty Ltd,Device Technologies Australia Pty Ltd
 1819,Zennex Pty Ltd,Haus Holdings
