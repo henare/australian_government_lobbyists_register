@@ -5,6 +5,7 @@ agency_id,agency_business_entity_name,client_name
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Aeronautics System Ltd
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,AMST GmbH
 3886,Advanced Outcomes,Commercial and General Group of Companies
+3886,Advanced Outcomes,Backpacks 4 SA Kids
 746,Advisory Street Pty Ltd,Bank of Queensland
 746,Advisory Street Pty Ltd,Commercial & Asset Finance Brokers Association of Australia
 746,Advisory Street Pty Ltd,Australian Payments Network
@@ -62,6 +63,7 @@ agency_id,agency_business_entity_name,client_name
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,Thales Alenia Space
+135,Australian Spectrum Consultants Pty Ltd,Thales Australia
 3881,Authentic Strategic Advisory Pty Ltd,The Premier Communications Group
 1810,Avantia Corporate Services Pty Ltd,Aircraft Structural Contractors Pty Ltd
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Chemring Australia Pty Ltd
@@ -250,7 +252,6 @@ agency_id,agency_business_entity_name,client_name
 556,Capital Hill Advisory Pty Ltd,Global Silicones Council
 556,Capital Hill Advisory Pty Ltd,Swisse Wellness
 3874,Castlereagh Advisory ,Varley Defence
-3874,Castlereagh Advisory ,Fincantieri Australia
 601,Catherine McGovern,Australian and New Zealand Association of Urological Surgeons
 601,Catherine McGovern,Urological Society of Australia and New Zealand
 601,Catherine McGovern,Australian Society of Plastic Surgeons
@@ -299,6 +300,7 @@ agency_id,agency_business_entity_name,client_name
 764,Christmas Jalili Pty Ltd,Holon
 764,Christmas Jalili Pty Ltd,Dtex Systems
 764,Christmas Jalili Pty Ltd,Ultraspeed Australia
+764,Christmas Jalili Pty Ltd,Bird Rides Australia
 215,"Clark, Kerren G",Oliver Hume Property Funds
 475,Clifton Consulting Services Pty Ltd,AquaSure Pty Ltd
 475,Clifton Consulting Services Pty Ltd,Odyssey House
@@ -536,6 +538,7 @@ agency_id,agency_business_entity_name,client_name
 172,Dr Robert Horton,Intelsat Corporation
 172,Dr Robert Horton,Inmarsat Corporation
 172,Dr Robert Horton,One Web Corporation
+3888,Dragoman Pty Ltd,Lendlease PTY LTD
 792,Du Bious Holdings Pty Ltd,Fundraising Institute of Australia 
 515,Dunns4 Consulting Pty Ltd,Point Trading
 515,Dunns4 Consulting Pty Ltd,Nexter Systems
@@ -598,6 +601,8 @@ agency_id,agency_business_entity_name,client_name
 564,Etched Communications Pty Ltd,National Electrical and Communications Association NSW
 564,Etched Communications Pty Ltd,Hager Electro 
 564,Etched Communications Pty Ltd,The Institute of Patent and Trade Mark Attorneys of Australia
+564,Etched Communications Pty Ltd,Newcastle Port Corporation
+564,Etched Communications Pty Ltd,Australian Dairy Farmers
 3857,Every Minute Media,Birralee Primary School 
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Australia
 214,FIPRA Australia Pty Limited,Royal Caribbean Cruises Limited USA
@@ -670,22 +675,14 @@ agency_id,agency_business_entity_name,client_name
 125,Govstrat Pty Ltd,Sun Metals Corporation
 122,GRA Partners Pty Ltd,Hall and Prior Aged Care Organisation
 122,GRA Partners Pty Ltd,Cash Converters
-122,GRA Partners Pty Ltd,Conference of Asia Pacific Express Carriers (Australia) Limited
 122,GRA Partners Pty Ltd,BHP Billiton
-122,GRA Partners Pty Ltd,Maxima Pearling Company
 122,GRA Partners Pty Ltd,AWE Limited 
 122,GRA Partners Pty Ltd,Perth Radiological Clinic
-122,GRA Partners Pty Ltd,Decmil Group Limited
-122,GRA Partners Pty Ltd,Safe Watch Global 
 122,GRA Partners Pty Ltd,Newcrest Mining Limited 
 122,GRA Partners Pty Ltd,Broadcast Australia 
 122,GRA Partners Pty Ltd,Growth Areas Perth and Peel 
-122,GRA Partners Pty Ltd,Hanson 
-122,GRA Partners Pty Ltd,Pathfinders Australia (probono)
 122,GRA Partners Pty Ltd,Serco
-122,GRA Partners Pty Ltd,Georgiou Group Pty Ltd 
 122,GRA Partners Pty Ltd,City of South Perth
-122,GRA Partners Pty Ltd,Newmont Australia 
 122,GRA Partners Pty Ltd,Australian Owned Contractors Limited 
 122,GRA Partners Pty Ltd,Murdoch University 
 122,GRA Partners Pty Ltd,Little Green Pharma 
@@ -1111,6 +1108,7 @@ agency_id,agency_business_entity_name,client_name
 766,Next Level Strategic Services Pty Ltd,QER
 766,Next Level Strategic Services Pty Ltd,Pembroke Resources Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Ramsay Health Care
+766,Next Level Strategic Services Pty Ltd,North West Queensland Regional Organisation of Councils (NWQROC)
 1798,Nexus APAC Pty Ltd,H and R Block
 1798,Nexus APAC Pty Ltd,Booking.com
 1798,Nexus APAC Pty Ltd,Australian Airports Association
@@ -1149,6 +1147,7 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus APAC Pty Ltd,Better Caring Pty Ltd
 1798,Nexus APAC Pty Ltd,Pharmaceutical Society of Australia
 1798,Nexus APAC Pty Ltd,Glencore Holdings Australia
+1798,Nexus APAC Pty Ltd,Bayer Australia Limited
 3,Oceanic Solutions Pty Ltd ITF Jemnica Family Trust,Navantia
 632,One Degree Advisory,Edith Cowan University
 632,One Degree Advisory,Down Under Geosolutions
@@ -1310,6 +1309,7 @@ agency_id,agency_business_entity_name,client_name
 1817,PremierNational Pty Ltd,Helloworld Travel Services (Aust) Pty Ltd
 1817,PremierNational Pty Ltd,Octor Pty Ltd
 1817,PremierNational Pty Ltd,Australian Energy Council Limited
+1817,PremierNational Pty Ltd,zipMoney Payments Pty Ltd
 1805,Primary Communication Partners Pty Limited,The Butterfly Foundation
 1805,Primary Communication Partners Pty Limited,Scouts Australia
 1805,Primary Communication Partners Pty Limited,National Eating Disorders Collaboration
@@ -1412,12 +1412,10 @@ agency_id,agency_business_entity_name,client_name
 242,Purple Communications Australia Pty Ltd,Gold Road Resources Limited
 242,Purple Communications Australia Pty Ltd,SAI Global Pty Limited
 242,Purple Communications Australia Pty Ltd,Australian Institute of Conveyancers (WA Division)
-242,Purple Communications Australia Pty Ltd,Contract Resources
 242,Purple Communications Australia Pty Ltd,Western Australia Lithium
 242,Purple Communications Australia Pty Ltd,Kidman Resources Limited
 242,Purple Communications Australia Pty Ltd,Sociedad Quimica y Minera de Chile
 242,Purple Communications Australia Pty Ltd,Talison Lithium
-242,Purple Communications Australia Pty Ltd,HealthEngine
 242,Purple Communications Australia Pty Ltd,Lithium Australia
 3864,Puzzle Consulting Pty Ltd,City of Kalgoorlie-Boulder
 3864,Puzzle Consulting Pty Ltd,Shire of Laverton
@@ -1531,7 +1529,6 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,Sunset Power International T/A Delta Electricity
 227,SAS Consulting Group Pty Ltd,CNVM Investment Pty Ltd
 227,SAS Consulting Group Pty Ltd,St Baker Energy Innovation Fund
-227,SAS Consulting Group Pty Ltd,Qube Holdings
 227,SAS Consulting Group Pty Ltd,WorkPac Group
 1806,Scott Mitchell and Partners Pty Ltd,Telstra Corporation Ltd
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
@@ -1740,6 +1737,7 @@ agency_id,agency_business_entity_name,client_name
 420,The Trustee for ECG Advisory Trust,Australian Finance Group
 420,The Trustee for ECG Advisory Trust,Workpac Group
 420,The Trustee for ECG Advisory Trust,Brewers Association of Australia
+420,The Trustee for ECG Advisory Trust,Afterpay Touch Group Ltd
 3877,The Trustee for GC Advisory Trading Trust,Thomson Geer Lawyers
 3877,The Trustee for GC Advisory Trading Trust,Torrens Capital Management Pty Ltd
 3877,The Trustee for GC Advisory Trading Trust,The duMonde Group Pty Ltd
@@ -1790,7 +1788,6 @@ agency_id,agency_business_entity_name,client_name
 718,Trustee of Kerans Family Trust,Motorola Solutions Inc.
 718,Trustee of Kerans Family Trust,Facebook Inc.
 718,Trustee of Kerans Family Trust,ViaSat Inc.
-718,Trustee of Kerans Family Trust,The Boeing Company
 718,Trustee of Kerans Family Trust,Iridium Satellite LLC
 718,Trustee of Kerans Family Trust,Airbus SE
 718,Trustee of Kerans Family Trust,Dish Purchasing Corporation
