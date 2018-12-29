@@ -97,7 +97,6 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,Atlassian
 338,Barton Deakin ,Australian Pipeline Limited 
 338,Barton Deakin ,Vector Limited 
-338,Barton Deakin ,Fincantieri S.p.A
 338,Barton Deakin ,Lake Macquarie City Council
 338,Barton Deakin ,Australian Heavy Vehicle Repair Association
 338,Barton Deakin ,Programmed Marine Pty Ltd
@@ -118,17 +117,12 @@ agency_id,agency_business_entity_name,client_name
 338,Barton Deakin ,National Hearing Centres Pty Ltd 
 338,Barton Deakin ,NSW Greyhound Breeders Owners & Trainers Association
 338,Barton Deakin ,Silk Road Commercial Pty Ltd
-338,Barton Deakin ,AGL Energy Limited
 338,Barton Deakin ,Kaspersky Lab
 338,Barton Deakin ,Ausgrid
 338,Barton Deakin ,Amazon
 338,Barton Deakin ,Vodafone Australia
-338,Barton Deakin ,Relationships Australia
-338,Barton Deakin ,Vietnam Nurses Action Group 
 338,Barton Deakin ,Chamber of Commerce and Industry Western Australia
 338,Barton Deakin ,DTI Corporation Australia Pty Ltd
-338,Barton Deakin ,GM Holden
-338,Barton Deakin ,MLC Life Insurance
 338,Barton Deakin ,Dixon Advisory
 338,Barton Deakin ,Lottoland (Australia) Pty Ltd
 338,Barton Deakin ,Medlab Clinical
@@ -194,6 +188,7 @@ agency_id,agency_business_entity_name,client_name
 3868,Brickfielder Government Engagement,DLA Piper
 3868,Brickfielder Government Engagement,ALH
 3868,Brickfielder Government Engagement,DXC Technology
+3868,Brickfielder Government Engagement,AHEIA
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 662,BroadSpectrum Consultants Pty Ltd,Commercial Radio Australia
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
@@ -1153,6 +1148,7 @@ agency_id,agency_business_entity_name,client_name
 1798,Nexus APAC Pty Ltd,Pharmaceutical Society of Australia
 1798,Nexus APAC Pty Ltd,Glencore Holdings Australia
 1798,Nexus APAC Pty Ltd,Bayer Australia Limited
+3896,Ngurrkdu Consulting Pty Ltd,Darkon Pty Limited
 3,Oceanic Solutions Pty Ltd ITF Jemnica Family Trust,Navantia
 632,One Degree Advisory,Edith Cowan University
 632,One Degree Advisory,Down Under Geosolutions
@@ -1401,6 +1397,8 @@ agency_id,agency_business_entity_name,client_name
 127,PRX Unit Trust,Community Clubs Victoria
 127,PRX Unit Trust,Victory Corporate Serviced Offices
 127,PRX Unit Trust,Ring Enterprises
+127,PRX Unit Trust,Merlyn Funds Management Pty Ltd
+127,PRX Unit Trust,Benjamin Duncan Aviation
 89,Public Affairs Network Pty Ltd,Campbell Arnott's
 68,Public Policy Solutions Pty Ltd,Res Publica Pty Ltd
 68,Public Policy Solutions Pty Ltd,Telstra
@@ -1569,6 +1567,14 @@ agency_id,agency_business_entity_name,client_name
 225,SPIER CONSULTING P/L,AUSTRALIAN INSTITUTE OF QUANTITY SURVEYORS
 225,SPIER CONSULTING P/L,AUSTRALIAN FEDERATION OFV TRAVEL AGENTS
 225,SPIER CONSULTING P/L,MORTGAGE AND FINANCE ASSOCIATION OF AUSTRALIA
+239,Sports Hydrant Pty Ltd,AMP
+239,Sports Hydrant Pty Ltd,Virgin Blue Group of Airlines
+239,Sports Hydrant Pty Ltd,Australian British Chamber of Commerce
+239,Sports Hydrant Pty Ltd,The Big Issue in Australia Ltd
+239,Sports Hydrant Pty Ltd,Bod Australia Ltd
+239,Sports Hydrant Pty Ltd,Canberra Consulting
+239,Sports Hydrant Pty Ltd,Xact Project Management
+239,Sports Hydrant Pty Ltd,Prophecy International
 665,Spring Street Advisory,Vestas Australian Wind Technology Pty Ltd
 665,Spring Street Advisory,Infoxchange
 665,Spring Street Advisory,Tilt Renewables
@@ -1612,6 +1618,7 @@ agency_id,agency_business_entity_name,client_name
 753,Strategic Political Counsel Pty Ltd,William Buck (Qld) Pty Ltd
 753,Strategic Political Counsel Pty Ltd,Adani Australia
 753,Strategic Political Counsel Pty Ltd,Let's Join In
+753,Strategic Political Counsel Pty Ltd,Kedron Wavell Sub Branch RSL Inc
 796,Synecdoche Consulting Pty Ltd,Transgrid
 796,Synecdoche Consulting Pty Ltd,New Hope Group
 796,Synecdoche Consulting Pty Ltd,Brighte
