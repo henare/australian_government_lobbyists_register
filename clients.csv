@@ -53,13 +53,11 @@ agency_id,agency_business_entity_name,client_name
 234,Australian Project Developments Pty. Ltd.,Regional Planning Solutions (SA)
 234,Australian Project Developments Pty. Ltd.,ANU Australian Rules Football Club
 234,Australian Project Developments Pty. Ltd.,Kunnunura Shire Council
-45,Australian Public Affairs Limited Partnership,Rirratingu Aboriginal Corporation
-45,Australian Public Affairs Limited Partnership,Bunuwal Investments Pty Ltd
-45,Australian Public Affairs Limited Partnership,Santos
 45,Australian Public Affairs Limited Partnership,Australian Vaping Advocacy Trade and Research Organisation
 45,Australian Public Affairs Limited Partnership,Generate Ministries
 45,Australian Public Affairs Limited Partnership,Australasian Society of Aesthetic Plastic Surgeons
 45,Australian Public Affairs Limited Partnership,Infosys Technologies Limited
+45,Australian Public Affairs Limited Partnership,Independent Brewers Association
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,Thales Alenia Space
@@ -346,6 +344,7 @@ agency_id,agency_business_entity_name,client_name
 2837,Coode Holdings Pty Ltd,Mark Zagar T/A Yaranary Farm
 2837,Coode Holdings Pty Ltd,North Wanneroo Residents Association Inc.
 2837,Coode Holdings Pty Ltd,Claradon Property Pty Ltd
+2837,Coode Holdings Pty Ltd,St Andrews Grammar School
 453,Cornerstone Group Australia ,Demigold Pty Ltd 
 453,Cornerstone Group Australia ,Direct Freight Express Pty ltd 
 453,Cornerstone Group Australia ,Cracknell and Lonergan Architects Pty Ltd 
@@ -874,6 +873,8 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Australasian Sonographers Association 64 991 983 051
 319,Jo Scard Pty Ltd,Havelock Housing Association 47 119 833 407
 319,Jo Scard Pty Ltd,University of New South Wales 57 195 873 179
+319,Jo Scard Pty Ltd,Australian Local Government Association 31 008 613 876
+319,Jo Scard Pty Ltd,National Aboriginal Community Controlled Health Organisation (NACCHO) 89 078 949 710
 56,John C Blackwell,Ricoh
 56,John C Blackwell,Inmarsat
 56,John C Blackwell,Eutelsat Asia Pte Ltd
