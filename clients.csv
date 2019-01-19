@@ -170,6 +170,7 @@ agency_id,agency_business_entity_name,client_name
 614,Bossy Group Pty Ltd,Apptio Inc
 614,Bossy Group Pty Ltd,Infosys
 614,Bossy Group Pty Ltd,Emanuel Exports Pty Ltd
+6,Bramex Pty Ltd,Reach Beyond Australia
 657,Brent William Knevett,Netsweeper
 657,Brent William Knevett,Medimpact International
 657,Brent William Knevett,PBT Group Australia
@@ -1154,37 +1155,38 @@ agency_id,agency_business_entity_name,client_name
 632,One Degree Advisory,Edith Cowan University
 632,One Degree Advisory,Down Under Geosolutions
 670,Open Spectrum Pty Ltd,Australian Mobile Telecommunications Association
-86,opr Health,Celgene
-86,opr Health,Research Australia
-86,opr Health,CSL Limited
-86,opr Health,CSL Biotherapies
-86,opr Health,Eli Lilly Australia
-86,opr Health,Rare Voices Australia
-86,opr Health,3M Australia
-86,opr Health,Australian Association of Pathology Practices
-86,opr Health,Garvan Research Foundation
-86,opr Health,Fitness First
-86,opr Health,Johnson and Johnson Medical
-86,opr Health,Philips Healthcare
-86,opr Health,Biomarin
-86,opr Health,Prostate Cancer Foundation Australia
-86,opr Health,Astellas Pharma Australia
-86,opr Health,Roche Australia
-86,opr Health,AbbVie
-86,opr Health,Biogen
-86,opr Health,Royal Australian College of General Practitioners
-86,opr Health,AstraZeneca
-86,opr Health,Indivior
-86,opr Health,Janssen
-86,opr Health,Ipsen
-86,opr Health,Amicus
-86,opr Health,Tresillian
-86,opr Health,Metabolic Dietary Disorders Association
-86,opr Health,Amgen
-86,opr Health,Clinical Research Corporation
-86,opr Health,Seqirus
-86,opr Health,Australian Beverages Council
-86,opr Health,Lung Foundation Australia
+86,opr Agency,Celgene
+86,opr Agency,Research Australia
+86,opr Agency,CSL Limited
+86,opr Agency,CSL Biotherapies
+86,opr Agency,Eli Lilly Australia
+86,opr Agency,Rare Voices Australia
+86,opr Agency,3M Australia
+86,opr Agency,Australian Association of Pathology Practices
+86,opr Agency,Garvan Research Foundation
+86,opr Agency,Fitness First
+86,opr Agency,Johnson and Johnson Medical
+86,opr Agency,Philips Healthcare
+86,opr Agency,Biomarin
+86,opr Agency,Prostate Cancer Foundation Australia
+86,opr Agency,Astellas Pharma Australia
+86,opr Agency,Roche Australia
+86,opr Agency,AbbVie
+86,opr Agency,Biogen
+86,opr Agency,Royal Australian College of General Practitioners
+86,opr Agency,AstraZeneca
+86,opr Agency,Indivior
+86,opr Agency,Janssen
+86,opr Agency,Ipsen
+86,opr Agency,Amicus
+86,opr Agency,Tresillian
+86,opr Agency,Metabolic Dietary Disorders Association
+86,opr Agency,Amgen
+86,opr Agency,Clinical Research Corporation
+86,opr Agency,Seqirus
+86,opr Agency,Australian Beverages Council
+86,opr Agency,Lung Foundation Australia
+86,opr Agency,Australia and New Zealand Recycling Platform Limited
 744,O'Reilly Consulting,Waste and Recycling Association of South Australia
 744,O'Reilly Consulting,Winestate Publishing
 744,O'Reilly Consulting,Impress Media
@@ -1510,17 +1512,14 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Mckenzie Aged Care Group
 685,Sanlaan Pty Ltd,Infigen Energy Limited
 685,Sanlaan Pty Ltd,Italferr S.p.A
-685,Sanlaan Pty Ltd,Advanced Warning Systems Inc
-685,Sanlaan Pty Ltd,APR Energy
-685,Sanlaan Pty Ltd,JBS Australia Pty Ltd
 685,Sanlaan Pty Ltd,GWSim Ltd
 685,Sanlaan Pty Ltd,Redback Technologies
 685,Sanlaan Pty Ltd,Beijing Jingneng Clean Energy(Australia) Holding Pty Ltd
 685,Sanlaan Pty Ltd,Mantle Group
 685,Sanlaan Pty Ltd,Goldwind Australia Pty Ltd
-685,Sanlaan Pty Ltd,YW8 Pty Ltd trading as Australian Global Wine Services
 685,Sanlaan Pty Ltd,Australian Dermatology Services Pty Ltd
 685,Sanlaan Pty Ltd,Promise (Int) Pty Ltd
+685,Sanlaan Pty Ltd,Australia and New Zealand Driverless Vehicle Initiative
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
@@ -1927,12 +1926,10 @@ agency_id,agency_business_entity_name,client_name
 463,Walker Watterson Holdings Pty Ltd,Rubrik
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
-503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australia
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,The Smith Family
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Silver Chain Group
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexion Pharmaceuticals Australasia
-503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Asbestos Injuries Compensation Fund
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Fairview Architectural Pty Ltd
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Swiss Re Australia
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Blacktown City Council
