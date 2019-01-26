@@ -6,6 +6,7 @@ agency_id,agency_business_entity_name,client_name
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,AMST GmbH
 3886,Advanced Outcomes,Commercial and General Group of Companies
 3886,Advanced Outcomes,Backpacks 4 SA Kids
+3886,Advanced Outcomes,CRC Care Pty Ltd 
 746,Advisory Street Pty Ltd,Bank of Queensland
 746,Advisory Street Pty Ltd,Commercial & Asset Finance Brokers Association of Australia
 746,Advisory Street Pty Ltd,Australian Payments Network
@@ -171,6 +172,7 @@ agency_id,agency_business_entity_name,client_name
 614,Bossy Group Pty Ltd,Infosys
 614,Bossy Group Pty Ltd,Emanuel Exports Pty Ltd
 6,Bramex Pty Ltd,Reach Beyond Australia
+6,Bramex Pty Ltd,Inmarsat
 657,Brent William Knevett,Netsweeper
 657,Brent William Knevett,Medimpact International
 657,Brent William Knevett,PBT Group Australia
@@ -179,6 +181,7 @@ agency_id,agency_business_entity_name,client_name
 657,Brent William Knevett,Customer Sciences
 657,Brent William Knevett,ToukanLabs
 657,Brent William Knevett,Aura Information Security
+657,Brent William Knevett,Tasmanet
 3868,Brickfielder Government Engagement,Australian Brandenburg Orchestra
 3868,Brickfielder Government Engagement,Canberra Data Centres
 3868,Brickfielder Government Engagement,Community Broadcasting Association of Australia
@@ -301,9 +304,8 @@ agency_id,agency_business_entity_name,client_name
 475,Clifton Consulting Services Pty Ltd,Odyssey House
 475,Clifton Consulting Services Pty Ltd,GEO Group Australia Pty Ltd 
 475,Clifton Consulting Services Pty Ltd,City of Greater Geelong
-475,Clifton Consulting Services Pty Ltd,Tianyu Wool Pty Ltd
-475,Clifton Consulting Services Pty Ltd,Stafford Group
 475,Clifton Consulting Services Pty Ltd,Committee for Geelong
+475,Clifton Consulting Services Pty Ltd,Ride On Australia
 79,CMAX Communications Pty Ltd,Stryker 
 79,CMAX Communications Pty Ltd,Send Hope Not Flowers
 79,CMAX Communications Pty Ltd,Northrop Grumman International
@@ -346,6 +348,7 @@ agency_id,agency_business_entity_name,client_name
 2837,Coode Holdings Pty Ltd,North Wanneroo Residents Association Inc.
 2837,Coode Holdings Pty Ltd,Claradon Property Pty Ltd
 2837,Coode Holdings Pty Ltd,St Andrews Grammar School
+2837,Coode Holdings Pty Ltd,The Geographe Clinic Management Company Pty Ltd
 453,Cornerstone Group Australia ,Demigold Pty Ltd 
 453,Cornerstone Group Australia ,Direct Freight Express Pty ltd 
 453,Cornerstone Group Australia ,Cracknell and Lonergan Architects Pty Ltd 
@@ -473,6 +476,8 @@ agency_id,agency_business_entity_name,client_name
 81,CPR Communications & Public Relations Pty Ltd,The Mayflower Group
 81,CPR Communications & Public Relations Pty Ltd,National Ageing Research Institute Limited
 683,Craig Emerson Economics Pty Ltd,KPMG
+683,Craig Emerson Economics Pty Ltd,Pexa
+683,Craig Emerson Economics Pty Ltd,Afterpay Touch
 99,Craigleed Pty Ltd,Singapore Airlines Ltd
 99,Craigleed Pty Ltd,CSL Australia Pty Ltd
 193,CRAKYL Pty Ltd,Just Excellence Investments Pty Ltd
@@ -513,10 +518,6 @@ agency_id,agency_business_entity_name,client_name
 360,Diplomacy Pty Limited,Anindilyakwa Land Council
 360,Diplomacy Pty Limited,G21 - Geelong Regional Alliance
 360,Diplomacy Pty Limited,Air New Zealand
-360,Diplomacy Pty Limited,RCR Tomlinson Ltd
-360,Diplomacy Pty Limited,OâDonnell Griffin
-360,Diplomacy Pty Limited,Haden
-360,Diplomacy Pty Limited,Resolve FM
 360,Diplomacy Pty Limited,Platinum Equity LLC
 360,Diplomacy Pty Limited,The Nature Conservancy Australia
 360,Diplomacy Pty Limited,Borough of Queenscliffe
@@ -877,10 +878,8 @@ agency_id,agency_business_entity_name,client_name
 319,Jo Scard Pty Ltd,Australian Local Government Association 31 008 613 876
 319,Jo Scard Pty Ltd,National Aboriginal Community Controlled Health Organisation (NACCHO) 89 078 949 710
 56,John C Blackwell,Ricoh
-56,John C Blackwell,Inmarsat
 56,John C Blackwell,Eutelsat Asia Pte Ltd
 56,John C Blackwell,RooCom Consulting
-56,John C Blackwell,NetApp
 56,John C Blackwell,Gogo Inc
 101,John Connolly & Partners Pty Limited,Sydney Theatre Company
 241,John Cook,Learning and Life Centre
@@ -929,7 +928,7 @@ agency_id,agency_business_entity_name,client_name
 519,Lawrence Media Services Pty Ltd,FINSIA is a professional membership body for the Financial Services Institute in Australasia. 
 519,Lawrence Media Services Pty Ltd,Stonelake Pty Ltd
 4,Leisure SolutionsÂ®,Ecotourism Australia Ltd (Geotourism Forum)
-4,Leisure SolutionsÂ®,Geological Society of Australia
+4,Leisure SolutionsÂ®,Australian Geoscience Council
 223,Leonie M. Short,Australian Council of Social Service
 223,Leonie M. Short,Public Health Association of Australia
 223,Leonie M. Short,DRUG ARM Australasia
@@ -972,7 +971,7 @@ agency_id,agency_business_entity_name,client_name
 245,Marketing Elements Pty Ltd,Domestic Violence NSW
 245,Marketing Elements Pty Ltd,National Child Protection Alliance
 245,Marketing Elements Pty Ltd,National Council of Children Post Separation
-245,Marketing Elements Pty Ltd,Australian Screen Association
+245,Marketing Elements Pty Ltd,Crime Stoppers NSW
 425,Maser Defence Pty Ltd,Cobham Antenna Systems
 3882,"MCDOUGALL,DANIEL JOHN","Defence Bank Limited, HealthShare NSW"
 179,McGrane-Fitzgerald Unit Trust,Deflecta Crete Seals ABN 84068618931
@@ -1520,6 +1519,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Australian Dermatology Services Pty Ltd
 685,Sanlaan Pty Ltd,Promise (Int) Pty Ltd
 685,Sanlaan Pty Ltd,Australia and New Zealand Driverless Vehicle Initiative
+685,Sanlaan Pty Ltd,Port of Brisbane
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
@@ -1528,12 +1528,11 @@ agency_id,agency_business_entity_name,client_name
 227,SAS Consulting Group Pty Ltd,MATES IN CONSTRUCTION (AUST) LIMITED
 227,SAS Consulting Group Pty Ltd,China Telecom Global Limited
 227,SAS Consulting Group Pty Ltd,Yuanda Australia Pty Ltd
-227,SAS Consulting Group Pty Ltd,Gulf Coast Group
-227,SAS Consulting Group Pty Ltd,Australian Cablemakers Association
 227,SAS Consulting Group Pty Ltd,Sunset Power International T/A Delta Electricity
-227,SAS Consulting Group Pty Ltd,CNVM Investment Pty Ltd
 227,SAS Consulting Group Pty Ltd,St Baker Energy Innovation Fund
 227,SAS Consulting Group Pty Ltd,WorkPac Group
+227,SAS Consulting Group Pty Ltd,Aboriginal Development Benefits Trust
+227,SAS Consulting Group Pty Ltd,National Credit Providers Association
 1806,Scott Mitchell and Partners Pty Ltd,Telstra Corporation Ltd
 1806,Scott Mitchell and Partners Pty Ltd,JBS Australia Pty Ltd
 1806,Scott Mitchell and Partners Pty Ltd,RAWS Association Limited
@@ -1559,6 +1558,7 @@ agency_id,agency_business_entity_name,client_name
 3861,Shaw Advisory Pty Ltd,Amazon Web Services
 3861,Shaw Advisory Pty Ltd,Australian Press Council
 3873,SIlk Road Commercial Pty Ltd ,Cu River Mining Pty Ltd 
+3873,SIlk Road Commercial Pty Ltd ,Nanshan Australia Group Pty Ltd 
 82,Socom Pty Ltd,The Interface Councils
 225,SPIER CONSULTING P/L,KOUNDOURIS GROUP
 225,SPIER CONSULTING P/L,AHA
@@ -1960,3 +1960,4 @@ agency_id,agency_business_entity_name,client_name
 641,Wurley Group Pty Ltd,Orthocell Ltd
 641,Wurley Group Pty Ltd,Device Technologies Australia Pty Ltd
 1819,Zennex Pty Ltd,Haus Holdings
+1819,Zennex Pty Ltd,Australian Council for Private Education and Training 

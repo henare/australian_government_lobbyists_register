@@ -37,6 +37,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl,Managing Director,No,""
 3865,Bomm Holdings P/L,Andrew Bomm ,Managing Director ,No,""
 614,Bossy Group Pty Ltd,Peter Michael McMahon,Principal Consultant,Yes,November 2006
+6,Bramex Pty Ltd,Ross Ramsay (Mr M R Ramsay),Managing Director,Yes,September 1988
 657,Brent William Knevett,Brent William Knevett,Managing Principal,Yes,October 2001
 3868,Brickfielder Government Engagement,Vanessa Findlay,Partner,Yes,July 2016
 3868,Brickfielder Government Engagement,Jane Madden,Partner,Yes,October 2017
@@ -341,6 +342,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
 766,Next Level Strategic Services Pty Ltd,Mark Hrycek,Senior Advisor,No,""
+766,Next Level Strategic Services Pty Ltd,Niko Opacak,Advisor,No,""
 1798,Nexus APAC Pty Ltd,Stefanee Lovett,Managing Director,Yes,September 2015
 1798,Nexus APAC Pty Ltd,Kathryn Conroy,Manager Public Affairs,Yes,November 2008
 1798,Nexus APAC Pty Ltd,Sarah Cullens,Senior Advisor,Yes,February 2016
@@ -443,7 +445,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 44,Richglen Holdings Pty Ltd,Laurie Stroud,Chief Executive,Yes,June 1988
 395,Right Angle Business Services Pty Ltd,David Clarence Holland,Director,No,""
 395,Right Angle Business Services Pty Ltd,Susan Barbara Jeanes,Consultant,Yes,December 2001
-755,RIPNEY PTY LTD,BERNARD RIPOLL,SOLE DIRECTOR,Yes,May 2016
+755,RIPNEY PTY LTD,Bernard Ripoll,Director,Yes,May 2016
 669,Royce Communications Pty Ltd,Peter Mahon,Chief Executive,No,""
 669,Royce Communications Pty Ltd,Richard Amos,Managing Director,No,""
 669,Royce Communications Pty Ltd,Matthew Mahon,General Manager,No,""
@@ -453,6 +455,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 227,SAS Consulting Group Pty Ltd,Lisa Palu,Senior Consultant,No,""
 227,SAS Consulting Group Pty Ltd,John Short,Principal Consultant,No,""
 227,SAS Consulting Group Pty Ltd,Nino Lalic,Senior Consultant,Yes,February 2017
+227,SAS Consulting Group Pty Ltd,Bernard Ripoll,Director,Yes,September 2015
 1806,Scott Mitchell and Partners Pty Ltd,Scott Mitchell,Director,Yes,February 2006
 143,Sefiani Communications Group,Justin Clark,Director,No,""
 143,Sefiani Communications Group,Emma Shipley,Account Executive,No,""
@@ -466,7 +469,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3873,SIlk Road Commercial Pty Ltd ,William Wang,Director,No,""
 82,Socom Pty Ltd,David Hawkins,Chairman,No,""
 82,Socom Pty Ltd,Kath Christie,Senior Consultant,No,""
-82,Socom Pty Ltd,Isaac Ransom,Senior Consultant,No,""
 82,Socom Pty Ltd,Zoe Forbes,Consultant ,No,""
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
