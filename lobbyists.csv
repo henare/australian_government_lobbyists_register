@@ -39,8 +39,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 614,Bossy Group Pty Ltd,Peter Michael McMahon,Principal Consultant,Yes,November 2006
 6,Bramex Pty Ltd,Ross Ramsay (Mr M R Ramsay),Managing Director,Yes,September 1988
 657,Brent William Knevett,Brent William Knevett,Managing Principal,Yes,October 2001
-3868,Brickfielder Government Engagement,Vanessa Findlay,Partner,Yes,July 2016
-3868,Brickfielder Government Engagement,Jane Madden,Partner,Yes,October 2017
+3868,Brickfielder Government Engagement,Vanessa Findlay,Principal,Yes,July 2016
 3868,Brickfielder Government Engagement,Lucas Pender,Associate,No,""
 3868,Brickfielder Government Engagement,Sophie Harper,Associate,No,""
 662,BroadSpectrum Consultants Pty Ltd,Andrew James King,Director,No,""
@@ -113,12 +112,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Dante Dangelo Kemp,Manager Health Economics,No,""
 299,CPI Strategic Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
 299,CPI Strategic Pty Ltd,Frederick John Brown,Director,Yes,November 2007
-81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director Government Relations,Yes,January 2007
+81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director,Yes,January 2007
 81,CPR Communications & Public Relations Pty Ltd,William Forwood,Strategic Counsel,No,""
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
-81,CPR Communications & Public Relations Pty Ltd,Tom Middleton,Senior Adviser,Yes,September 2013
-81,CPR Communications & Public Relations Pty Ltd,Joseph Fennessy,Senior Adviser,Yes,October 2008
 81,CPR Communications & Public Relations Pty Ltd,Kristina Burke,Senior Adviser,No,""
+81,CPR Communications & Public Relations Pty Ltd,Evelyn Ek,Director,Yes,October 2013
+81,CPR Communications & Public Relations Pty Ltd,Ashlea Gilmore,Senior Adviser,No,""
+81,CPR Communications & Public Relations Pty Ltd,Tristan Russell,Senior Adviser,No,""
 683,Craig Emerson Economics Pty Ltd,Craig Emerson,Managing Director,Yes,September 2013
 99,Craigleed Pty Ltd,Stephen McKew,Managing Director,Yes,August 1987
 193,CRAKYL Pty Ltd,Craig Stephen MUNNINGS,Director,No,""
@@ -187,7 +187,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 214,FIPRA Australia Pty Limited,Stephen Coutts,Director,No,""
 214,FIPRA Australia Pty Limited,Shannan Manton,Account Executive,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director Five Corners Pty Ltd,No,""
-295,Five Corners Pty Ltd,Brad Sheehan,Director Reg Quality and Clin Ops,No,""
+295,Five Corners Pty Ltd,Brad Sheehan,COO,No,""
 202,Fowlstone Communications,Geoff Fowlstone,Principal ,No,""
 202,Fowlstone Communications,Michael Parker,Senior Consultant,No,""
 738,Freight  Trade Alliance (FTA) Pty Ltd,Travis Brooks-Garrett,Director,No,""
@@ -210,7 +210,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
 3866,Glenn Street Enterprises Pty Ltd,Glenn Street,Managing Director,Yes,April 2004
-150,Glide Pty Ltd,Gail White,Senior Consultant,No,""
 150,Glide Pty Ltd,Michael Woodhouse,Director,No,""
 561,Global Issues Group,Gregory Rowe Picker,Director,Yes,January 2009
 750,GovCorp Pty Ltd,Nikola Vujasin,Director,No,""
@@ -232,13 +231,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Paolo Giovanni Bini,Partner,Yes,November 1995
 59,GRACosway Pty Ltd,Kirsten Mulley,Partner,No,""
 59,GRACosway Pty Ltd,Leslie Graham Timar,CEO,No,""
-59,GRACosway Pty Ltd,Brent Crockford,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Sean Alexander Johnson,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Nicolaos Xerakias,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Jinesh Patel,Director,No,""
 59,GRACosway Pty Ltd,Liam Nilon,Consultant,No,""
-59,GRACosway Pty Ltd,Erin Germantis,Associate,No,""
-59,GRACosway Pty Ltd,Kirk Alexander Stubbs,Associate,No,""
+59,GRACosway Pty Ltd,Erin Germantis,Consultant,No,""
+59,GRACosway Pty Ltd,Kirk Alexander Stubbs,Consultant,No,""
 59,GRACosway Pty Ltd,Sharon Anne Reid,Associate Director Marketing and Research,No,""
 59,GRACosway Pty Ltd,Andrew Cox,Director,Yes,December 2007
 59,GRACosway Pty Ltd,Jordi Procel,Associate,Yes,October 2015
@@ -283,7 +281,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 777,Lindsay Tanner,Lindsay James Tanner,sole trader,Yes,September 2010
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Annette Stenhouse,Account Manager,No,""
-566,London Agency Pty Ltd,Seep Gulati,Account Manager,No,""
 566,London Agency Pty Ltd,David Latham,Public Relations Manager,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
 13,LOPAC Consulting Pty Limited,Robert Sidney Parker,Managing Director,Yes,June 2005
@@ -500,7 +497,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 46,The De Wintern Group,David Van,Managing director,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
-90,The Fifth Estate Consultancy Pty Ltd,Timothy Mort,Analyst,No,""
 83,The Holland Trust,Gregory Holland,Managing Director,Yes,May 1988
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
