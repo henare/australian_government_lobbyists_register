@@ -28,7 +28,6 @@ agency_id,agency_business_entity_name,owner_name
 135,Australian Spectrum Consultants Pty Ltd,William John McDonald
 135,Australian Spectrum Consultants Pty Ltd,Megan Mary McDonald
 3881,Authentic Strategic Advisory Pty Ltd,Michele (Michael) Galderisi
-1810,Avantia Corporate Services Pty Ltd,Paul Nielsen
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Errol John McCormack
 42,Aviops Pty Ltd acting as trustee for the McCormack Family Trust,Faye Lynette McCormack
 139,Bartholomew Quinn and Associates,David Quinn
@@ -50,6 +49,7 @@ agency_id,agency_business_entity_name,owner_name
 657,Brent William Knevett,Brent William Knevett
 3868,Brickfielder Government Engagement,Vanessa Findlay
 3868,Brickfielder Government Engagement,Lucas Pender
+3901,Brickfielder Insights Pty Ltd,Jane Madden
 662,BroadSpectrum Consultants Pty Ltd,Andrew James King
 662,BroadSpectrum Consultants Pty Ltd,Peggy Marie King
 131,BTelecom Pty Ltd,Sarina Le
@@ -103,6 +103,8 @@ agency_id,agency_business_entity_name,owner_name
 99,Craigleed Pty Ltd,Celia McKew
 193,CRAKYL Pty Ltd,Craig Stephen Munnings
 193,CRAKYL Pty Ltd,Kylie Gaye Munnings
+3899,Creative Transformations (Aust) Pty Ltd,Charlotte Thaarup
+3899,Creative Transformations (Aust) Pty Ltd,Timothy Francis Owen
 105,CreditWise Pty Ltd,Kathleen Anne Keating
 105,CreditWise Pty Ltd,Stephen Mark Edwards
 580,Crosby Textor Research Strategies Results,CT Group International Ltd
@@ -132,12 +134,17 @@ agency_id,agency_business_entity_name,owner_name
 344,Electrotech Australia Pty Limited,Judith Margaret Renkert
 31,Endeavour Consulting Group Pty Ltd,Minerve Investments Pty Ltd
 31,Endeavour Consulting Group Pty Ltd,Tomogen Pty Ltd
+3904,Enjolras Pty Ltd,Isaac David Jeffrey
 663,Espresso Communications Pty Ltd,Corrie McLeod
 71,Essential Media Communications Pty Ltd,James Anthony Douglas
 71,Essential Media Communications Pty Ltd,Peter Lewis
 564,Etched Communications Pty Ltd,Andrew Butler
 564,Etched Communications Pty Ltd,Peter Wilkinson
 3857,Every Minute Media,Heath Kirby-Miller
+686,Financial & Corporate Relations Pty Limited,John Anthony Tregoning
+686,Financial & Corporate Relations Pty Limited,Brian Mahoney
+686,Financial & Corporate Relations Pty Limited,Ashley Rambukwella
+686,Financial & Corporate Relations Pty Limited,Jeremy Kirk
 214,FIPRA Australia Pty Limited,Richardson and Associates Pty Ltd
 214,FIPRA Australia Pty Limited,Stephen Coutts Pty Ltd
 295,Five Corners Pty Ltd,Deborah Bell
@@ -151,14 +158,12 @@ agency_id,agency_business_entity_name,owner_name
 738,Freight  Trade Alliance (FTA) Pty Ltd,Travis BrooksGarrett
 333,FTI Consulting (Perth) Pty Ltd,FTI Consulting (Perth) Pty Ltd
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,FTI Consulting Inc 
-3855,Gambaro Consulting Group,Hon. Teresa Gambaro
 1,Gambolling Pty Ltd,Stephen Carney
 1,Gambolling Pty Ltd,Barbara Carney
 1,Gambolling Pty Ltd,Gambolling Pty Ltd
 185,Geoff Conlon,Geoff Conlon
 238,GIMC Consulting,Gregory Cupitt
 3866,Glenn Street Enterprises Pty Ltd,Glenn Street
-150,Glide Pty Ltd,Michael Woodhouse
 561,Global Issues Group,Gregory Rowe Picker
 750,GovCorp Pty Ltd,Nikola Vujasin
 750,GovCorp Pty Ltd,Classic Kitchens Interiors Pty Ltd
@@ -225,7 +230,7 @@ agency_id,agency_business_entity_name,owner_name
 425,Maser Defence Pty Ltd,Valerie Jones
 3882,"MCDOUGALL,DANIEL JOHN",Daniel McDougall
 179,McGrane-Fitzgerald Unit Trust,McGrane-Fitzgerald Unit Trust
-762,McGuinness Media,Georgina McGuinnss
+762,McGuinness Media,Georgina McGuinness
 3862,Media and Public Affairs ,George Hazim
 132,Megan Anwyl,Megan Anwyl
 3854,Meso Consulting Pty Ltd,Mark Robert Sehn
@@ -340,6 +345,7 @@ agency_id,agency_business_entity_name,owner_name
 528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn
 528,SYSTECH Consultants Pty Ltd,Janine Carol Wirthensohn
 2843,Tarramot Pty Ltd,Gemma Tognini
+424,TAYLOR STREET ADVISORY PTY LTD,Christopher Brown
 9,The Canberra Institute,Peter Michael Conway
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Marco Gattino
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Jason Aldworth
@@ -356,7 +362,6 @@ agency_id,agency_business_entity_name,owner_name
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi
 1826,The Shape Agency,Timothy James O'Halloran
 95,The Strategic Counsel Pty Ltd,The Estate of Donna Staunton
-424,The Taylor Street Consultancy P/L,Christopher Brown
 698,The Trustee for Arthur Trust,Hamish Arthur
 145,The Trustee for Bespoke Business Trust,Bespoke Approach Pty Ltd as trustee for Bespoke Business
 589,The Trustee for Bespoke Territory Unit Trust,Bespoke Territory Pty Ltd as trustee for Bespoke Territory Unit Trust
