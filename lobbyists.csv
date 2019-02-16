@@ -13,7 +13,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 499,Asia Pacific Corporation Pty Ltd,Kenneth Warren Crooke,Director,Yes,August 2004
 770,Asys Consulting,Anthony Nagy,Director,No,""
 63,AusAccess Unit Trust,Mark Ridgway,Chairman,Yes,May 1994
-747,Australian Industry Facilitation,David Mitchell,Chief Executive Officer,Yes,August 2005
 234,Australian Project Developments Pty. Ltd.,Rod Brown,Consultant,Yes,June 1996
 45,Australian Public Affairs Limited Partnership,Michael Gleeson,Senior Consultant,No,""
 45,Australian Public Affairs Limited Partnership,Armon Hicks,Director,No,""
@@ -32,6 +31,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 583,BDaaS Consulting Pty Ltd,Dale Senti,Managing Director,No,""
 3890,Bearington Pty Ltd,Brent Fleeton,Director,No,""
 162,Belman Consulting Pty Ltd,Liam Bathgate,Director,Yes,March 1983
+3903,Beltway Government Relations Pty Ltd,Michael David Gleeson,Director,No,""
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl,Managing Director,No,""
 3865,Bomm Holdings P/L,Andrew Bomm ,Managing Director ,No,""
 614,Bossy Group Pty Ltd,Peter Michael McMahon,Principal Consultant,Yes,November 2006
@@ -126,13 +126,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3899,Creative Transformations (Aust) Pty Ltd,Timothy Francis Owen,Director,Yes,July 2014
 105,CreditWise Pty Ltd,Stephen Mark Edwards,Director / Solicitor,No,""
 580,Crosby Textor Research Strategies Results,Leanne White,Director,Yes,April 2003
-580,Crosby Textor Research Strategies Results,George Brougham,Senior Consultant,No,""
 580,Crosby Textor Research Strategies Results,Giorgia Christmas,Manager,Yes,October 2015
 580,Crosby Textor Research Strategies Results,Talia Katz,Manager,No,""
 580,Crosby Textor Research Strategies Results,Molly Hughes ,Senior Consultant,Yes,August 2016
 580,Crosby Textor Research Strategies Results,Matthew Logan,Consultant,No,""
 580,Crosby Textor Research Strategies Results,Catherine Douglas ,Managing Director ,No,""
 580,Crosby Textor Research Strategies Results,David Bell ,Group Managing Director â Australasia,No,""
+580,Crosby Textor Research Strategies Results,Jack Piggott,Manager,Yes,May 2016
 673,CT International and Corporate Advisory Pty Ltd,Nicholas Nogarotto,Chief Operating Officer,No,""
 673,CT International and Corporate Advisory Pty Ltd,Jonathon Flegg,Director,No,""
 673,CT International and Corporate Advisory Pty Ltd,Michael Teoh,Consultant,No,""
@@ -158,6 +158,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 792,Du Bious Holdings Pty Ltd,Peter Sekuless,Director,Yes,January 1976
 515,Dunns4 Consulting Pty Ltd,Stephen James Dunn,Managing Director,Yes,June 2010
 263,ED & Associates Pty Ltd,Edmund Ng,Director,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Dexter Gillman,Account Manager,No,""
+149,Edelman Public Relations Worldwide Pty Ltd,Susanna Montrone,Account Director,No,""
 344,Electrotech Australia Pty Limited,Stephen Penny,Sales Engineer,Yes,January 2006
 344,Electrotech Australia Pty Limited,Chris Taylor,Sales Engineer,No,""
 344,Electrotech Australia Pty Limited,Stephen Renkert,General Manager,No,""
@@ -165,6 +167,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 344,Electrotech Australia Pty Limited,Stephen Burney,Sales Engineer,No,""
 344,Electrotech Australia Pty Limited,Jonathan Cornish,Technical Manager Satcomms Solutions,No,""
 344,Electrotech Australia Pty Limited,Joseph Ritchie,Commercial Manager,No,""
+734,Emerald Corporate Group Pty Ltd,George Papadopoulos,Managing Director,No,""
 31,Endeavour Consulting Group Pty Ltd,Mark Baker,Partner,Yes,July 2002
 31,Endeavour Consulting Group Pty Ltd,Jeff Townsend,Consultant,Yes,June 1986
 31,Endeavour Consulting Group Pty Ltd,Paul Chamberlin,Partner,Yes,July 2016
@@ -206,6 +209,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Tara Nash,Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Rebecca Harrison,Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Skeffington,Senior Managing Director,No,""
+3855,Gambaro Consulting Group,Hon Teresa Gambaro,Director,Yes,May 2016
 1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
 1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
 1,Gambolling Pty Ltd,Jane Beer,PA/Consultant,Yes,August 2016
@@ -243,6 +247,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Jordi Procel,Associate,Yes,October 2015
 59,GRACosway Pty Ltd,Alexander Kay Oswald,Director,Yes,April 2018
 59,GRACosway Pty Ltd,Alyssa Patterson,Associate,No,""
+59,GRACosway Pty Ltd,Ashleigh Elizabeth Worthley,Associate,Yes,February 2019
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
@@ -263,7 +268,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 103,Ivydale Nominees Pty Ltd,Michael Megaw,Senior Associate,Yes,November 1996
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
 586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,Yes,January 2000
+319,Jo Scard Pty Ltd,Jo Scard,Business Founder former adviser to former Minister for Immigration & Citizenship until 14/9/10,Yes,September 2010
 319,Jo Scard Pty Ltd,Asha Serpless,Operations Manager,No,""
+319,Jo Scard Pty Ltd,Myles Pearce,Account Coordinator,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 241,John Cook,Dr John Cook,Principal,Yes,April 2009
@@ -271,8 +278,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 78,John O'Connor and Associates Pty Ltd,John O'Connor,Director,No,""
 255,John Scott Barker,Thomas Michael O'Meara,Consultant,No,""
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
-264,"John, Susan Maree",Sue John,Principal,No,""
 410,Justine Caines,Justine Caines,Principal,No,""
+3902,Kate Dinon and Associates PR Pty Ltd,Katherine Frances Dinon,Managing Director,No,""
 3876,Kurrajong Strategic Counsel,Adrian Michael Dolahenty,Director,Yes,March 1995
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
@@ -308,7 +315,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 452,Michael Johnson Associates Pty Limited,Ian Michael RossGowan,Director,No,""
 444,Michael Megaw,Michael Curnow Megaw,Owner,Yes,November 1996
 2842,Michelson Alexander Consulting,Stephen Michelson,Director,Yes,October 2017
-752,MMJ Consulting,Melissa Cheesman-Faull,Director,Yes,May 1997
+2842,Michelson Alexander Consulting,Jackson Stiles,Senior Associate,No,""
 696,MOUNTAIN MEDIA PTY LTD,PHILIP JAMES DAVEY,DIRECTOR,No,""
 3859,MR DARYL GORDON PILMORE,Daryl Gordon Pilmore,Director of Regulatory Affairs,No,""
 356,Mr John Kindler,John Walter Kindler,Owner,Yes,March 2004
@@ -361,12 +368,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Kam Sham LEUNG,Chairman,No,""
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Andrew Fung,Director,No,""
 3870,Paris Dounoukos,Paris Dounoukos,Consultant,Yes,March 2015
-72,Parker & Partners Pty Ltd,Peta Lange,Director,Yes,January 2009
-72,Parker & Partners Pty Ltd,Yat Shum,Account Executive,No,""
-72,Parker & Partners Pty Ltd,Nino Tesoriero,Director,Yes,December 2012
-72,Parker & Partners Pty Ltd,Nicole Quinn,Director,Yes,December 2009
-72,Parker & Partners Pty Ltd,Leon Beswick ,Group Managing Director ,No,""
-72,Parker & Partners Pty Ltd,Eliza Roel,Account Coordinator,No,""
 1821,People First HR Solutions Pty Ltd,Rohan Robertson,Director,No,""
 736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -455,7 +456,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 143,Sefiani Communications Group,Justin Clark,Director,No,""
 143,Sefiani Communications Group,Emma Shipley,Account Executive,No,""
 143,Sefiani Communications Group,Nicholas Owens,Director,No,""
-143,Sefiani Communications Group,Shane Allison,Senior Account Director,No,""
+143,Sefiani Communications Group,Kurt Graham,Account Director,Yes,February 2014
 676,Seismic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
 676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Business and Operations Manager,Yes,August 2011
@@ -481,11 +482,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter,Founder and Principal Counsel,Yes,December 2014
 753,Strategic Political Counsel Pty Ltd,Professor David Matthew Gracey,Senior Counsel,No,""
 753,Strategic Political Counsel Pty Ltd,Clint Robert Ford,Head of Operations WA,No,""
-528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn,Director,No,""
 2843,Tarramot Pty Ltd,Peter Rowe,Consultant Advisor,Yes,March 2017
 424,TAYLOR STREET ADVISORY PTY LTD,Christopher Brown,Chairman,No,""
-424,TAYLOR STREET ADVISORY PTY LTD,Adam Leto,Director Communications ,No,""
-424,TAYLOR STREET ADVISORY PTY LTD,Luke Turner,Director Policy & Analysis,No,""
+424,TAYLOR STREET ADVISORY PTY LTD,Adam Leto,Director Communications and Advocacy,No,""
+424,TAYLOR STREET ADVISORY PTY LTD,Luke Turner,Director Policy and Analysis,No,""
 9,The Canberra Institute,Peter Michael Conway,Director,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Jason Aldworth,Director,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Andres Puig,Director,No,""
@@ -523,7 +523,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3872,The Trustee for the Cobalt Family Trust,Anthony David Johnson,Director,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann,Senior Health Economist,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann,Director,No,""
-610,The Trusteee for the SRKM Trust,Kate Mills,Director/Principal Consultant,No,""
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy,Director,Yes,April 1992
 1825,Times Lawyers Pty Ltd,Kenneth Kok Kin Chow,Director,No,""
 203,Trustee for Consultum Trust,Graham Staerk,Managing Director,Yes,April 1994

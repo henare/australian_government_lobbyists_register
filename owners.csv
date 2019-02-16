@@ -20,7 +20,6 @@ agency_id,agency_business_entity_name,owner_name
 770,Asys Consulting,Anthony Nagy
 63,AusAccess Unit Trust,Mark Ridgway (Consulting Canberra Pty Ltd)
 63,AusAccess Unit Trust,Kerrie Ridgway (Consulting Canberra Pty Ltd)
-747,Australian Industry Facilitation,David Mitchell
 234,Australian Project Developments Pty. Ltd.,Rod Brown
 45,Australian Public Affairs Limited Partnership,Australian Public Affairs Pty Ltd
 45,Australian Public Affairs Limited Partnership,Centre for Litigation Communications Pty Ltd
@@ -38,6 +37,7 @@ agency_id,agency_business_entity_name,owner_name
 3890,Bearington Pty Ltd,Bearington Pty Ltd
 162,Belman Consulting Pty Ltd,Liam Bathgate
 162,Belman Consulting Pty Ltd,Jeanne Bathgate
+3903,Beltway Government Relations Pty Ltd,Michael David Gleeson
 110,Bluegrass Consulting Pty Ltd,Rodd Pahl
 3865,Bomm Holdings P/L,Pencil Thin A/F Bomm Family Investment Trust
 3865,Bomm Holdings P/L,Amberley Pastoral Co P/L
@@ -130,8 +130,10 @@ agency_id,agency_business_entity_name,owner_name
 515,Dunns4 Consulting Pty Ltd,Stephen James Dunn
 515,Dunns4 Consulting Pty Ltd,Leonora Mary Dunn
 263,ED & Associates Pty Ltd,Edmund Ng
+149,Edelman Public Relations Worldwide Pty Ltd,Edelman Europe Holdings BV
 344,Electrotech Australia Pty Limited,Stephen Renkert
 344,Electrotech Australia Pty Limited,Judith Margaret Renkert
+734,Emerald Corporate Group Pty Ltd,George Papadopoulos
 31,Endeavour Consulting Group Pty Ltd,Minerve Investments Pty Ltd
 31,Endeavour Consulting Group Pty Ltd,Tomogen Pty Ltd
 3904,Enjolras Pty Ltd,Isaac David Jeffrey
@@ -158,6 +160,7 @@ agency_id,agency_business_entity_name,owner_name
 738,Freight  Trade Alliance (FTA) Pty Ltd,Travis BrooksGarrett
 333,FTI Consulting (Perth) Pty Ltd,FTI Consulting (Perth) Pty Ltd
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,FTI Consulting Inc 
+3855,Gambaro Consulting Group,Hon. Teresa Gambaro
 1,Gambolling Pty Ltd,Stephen Carney
 1,Gambolling Pty Ltd,Barbara Carney
 1,Gambolling Pty Ltd,Gambolling Pty Ltd
@@ -201,8 +204,10 @@ agency_id,agency_business_entity_name,owner_name
 78,John O'Connor and Associates Pty Ltd,Amanda O'Connor
 78,John O'Connor and Associates Pty Ltd,John O'Connor
 255,John Scott Barker,John Scott Barker
-264,"John, Susan Maree",Sue John
 410,Justine Caines,Justine Caines
+3902,Kate Dinon and Associates PR Pty Ltd,Katherine Frances Dinon
+3902,Kate Dinon and Associates PR Pty Ltd,Sarah Green
+3900,KIG Energy Pty Ltd,Sarina Le
 3876,Kurrajong Strategic Counsel,Adrian Michael Dolahenty
 465,LATAF CONSULTING ,Jeffrey Russell Hart
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE
@@ -241,7 +246,6 @@ agency_id,agency_business_entity_name,owner_name
 452,Michael Johnson Associates Pty Limited,Melanie Rose Reen
 444,Michael Megaw,Michael Curnow Megaw
 2842,Michelson Alexander Consulting,Stephen Michelson
-752,MMJ Consulting,Melissa Cheesman-Faull (Known as Melissa Cheesman)
 696,MOUNTAIN MEDIA PTY LTD,PHILIP JAMES DAVEY 
 696,MOUNTAIN MEDIA PTY LTD,VICTORIA ANNE DAVEY
 3859,MR DARYL GORDON PILMORE,Daryl Gordon Pilmore
@@ -264,9 +268,6 @@ agency_id,agency_business_entity_name,owner_name
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Kam Sham LEUNG
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Andrew FUNG
 3870,Paris Dounoukos,Paris Dounoukos
-72,Parker & Partners Pty Ltd,STW Group Ltd
-72,Parker & Partners Pty Ltd,WPP plc
-72,Parker & Partners Pty Ltd,Ogilvy Public Relations Worldwide Pty Ltd
 1821,People First HR Solutions Pty Ltd,Rohan Robertson
 736,Peter Kane,Peter Kane
 546,Policy Australia Pty Ltd,Carolyn Dalton
@@ -342,8 +343,6 @@ agency_id,agency_business_entity_name,owner_name
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter
 796,Synecdoche Consulting Pty Ltd,Michael Morgan
-528,SYSTECH Consultants Pty Ltd,Peter Alfred Wirthensohn
-528,SYSTECH Consultants Pty Ltd,Janine Carol Wirthensohn
 2843,Tarramot Pty Ltd,Gemma Tognini
 424,TAYLOR STREET ADVISORY PTY LTD,Christopher Brown
 9,The Canberra Institute,Peter Michael Conway
@@ -377,8 +376,6 @@ agency_id,agency_business_entity_name,owner_name
 3872,The Trustee for the Cobalt Family Trust,Anthony David Johnson
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann
-610,The Trusteee for the SRKM Trust,David Ryan
-610,The Trusteee for the SRKM Trust,Kate MIlls
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy
 1825,Times Lawyers Pty Ltd,Kenneth Kok Kin Chow
 203,Trustee for Consultum Trust,Graham Staerk as trustee for Consultum Trust
