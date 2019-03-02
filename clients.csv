@@ -321,6 +321,7 @@ agency_id,agency_business_entity_name,client_name
 2837,Coode Holdings Pty Ltd,St Andrews Grammar School
 2837,Coode Holdings Pty Ltd,The Geographe Clinic Management Company Pty Ltd
 2837,Coode Holdings Pty Ltd,Wightman Building
+2837,Coode Holdings Pty Ltd,Australian Lotteries and Newsagents Association
 453,Cornerstone Group Australia ,Demigold Pty Ltd 
 453,Cornerstone Group Australia ,Direct Freight Express Pty ltd 
 453,Cornerstone Group Australia ,Cracknell and Lonergan Architects Pty Ltd 
@@ -455,6 +456,8 @@ agency_id,agency_business_entity_name,client_name
 105,CreditWise Pty Ltd,Australian Finance Industry Assocation
 580,Crosby Textor Research Strategies Results,Elliott Advisers (HK) Limited
 580,Crosby Textor Research Strategies Results,Blunden & Associates Pty Ltd
+580,Crosby Textor Research Strategies Results,Tax Traders Limited
+580,Crosby Textor Research Strategies Results,Tax Management NZ
 673,CT International and Corporate Advisory Pty Ltd,Roche Group Pty Ltd
 673,CT International and Corporate Advisory Pty Ltd,Lime Network Pty Ltd 
 795,Cube Public Relations Pty Ltd,Medicines Australia
@@ -613,7 +616,6 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Partners Pty Ltd,AWE Limited 
 122,GRA Partners Pty Ltd,Perth Radiological Clinic
 122,GRA Partners Pty Ltd,Newcrest Mining Limited 
-122,GRA Partners Pty Ltd,Broadcast Australia 
 122,GRA Partners Pty Ltd,Growth Areas Perth and Peel 
 122,GRA Partners Pty Ltd,Serco
 122,GRA Partners Pty Ltd,City of South Perth
@@ -1397,6 +1399,7 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Port of Brisbane
 685,Sanlaan Pty Ltd,Corporate Travel Management Limited
 685,Sanlaan Pty Ltd,VHA Holdings Pty Ltd
+685,Sanlaan Pty Ltd,Griffith University
 227,SAS Consulting Group Pty Ltd,Prysmian Cables & Systems Australia
 227,SAS Consulting Group Pty Ltd,ECA Master Electricians
 227,SAS Consulting Group Pty Ltd,BUSY at Work
@@ -1783,6 +1786,17 @@ agency_id,agency_business_entity_name,client_name
 463,Walker Watterson Holdings Pty Ltd,smartWFM
 463,Walker Watterson Holdings Pty Ltd,Orix
 463,Walker Watterson Holdings Pty Ltd,Tech 2
+3906,Wells Consulting Group PTY Ltd,British American Tobacco Australia Limited
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Zurich Financial Services Australia Limited
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Sonartech Atlas Pty Ltd
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,The Smith Family
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,James Hardie lndustries plc
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Silver Chain Group
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexion Pharmaceuticals Australasia
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Fairview Architectural Pty Ltd
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Swiss Re Australia
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Blacktown City Council
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Carnival Australia
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,eBay International AG

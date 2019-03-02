@@ -446,7 +446,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 143,Sefiani Communications Group,Justin Clark,Director,No,""
 143,Sefiani Communications Group,Emma Shipley,Account Executive,No,""
 143,Sefiani Communications Group,Nicholas Owens,Director,No,""
-143,Sefiani Communications Group,Kurt Graham,Account Director,Yes,February 2014
+143,Sefiani Communications Group,Kurt Graham,Account Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Paul Leslie Duncan,Managing Director,No,""
 676,Seismic Asia Pacific Pty Ltd,Wayne Edward Simmich,Financial Controller,No,""
 676,Seismic Asia Pacific Pty Ltd,Denis Vukovac,Business and Operations Manager,Yes,August 2011
@@ -530,6 +530,15 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 463,Walker Watterson Holdings Pty Ltd,Oisin Ocallaghan ,Senior Consultant ,No,""
 463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Senior Consultant,No,""
 463,Walker Watterson Holdings Pty Ltd,Jackson Rose,Adminstration,No,""
+3906,Wells Consulting Group PTY Ltd,Philip John Wells,CEO,Yes,April 1990
+3906,Wells Consulting Group PTY Ltd,Adrienne Elizabeth Wells,Consultant,No,""
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,Co CEO,No,""
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Co CEO,No,""
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Manager,No,""
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Kathy Patricia Lindsay,Account Director,No,""
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Stav Pisk,Account Executive,No,""
+503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Larissa Eva Jaffe,Account Executive,No,""
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
