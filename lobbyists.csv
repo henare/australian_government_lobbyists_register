@@ -200,9 +200,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Rebecca Harrison,Director ,No,""
 678,FTI Consulting (Sydney) Pty Ltd as Trustee for the Third Person Communication Trust ,Robert Skeffington,Senior Managing Director,No,""
 3855,Gambaro Consulting Group,Hon Teresa Gambaro,Director,Yes,May 2016
-1,Gambolling Pty Ltd,Stephen Carney,Principal,Yes,January 1976
-1,Gambolling Pty Ltd,Stephen Youll,Consultant,Yes,May 1984
-1,Gambolling Pty Ltd,Jane Beer,PA/Consultant,Yes,August 2016
 185,Geoff Conlon,Geoff Conlon,Sole Trader,No,""
 238,GIMC Consulting,Gregory Cupitt,Manager,Yes,December 2007
 561,Global Issues Group,Gregory Rowe Picker,Director,Yes,January 2009
@@ -269,6 +266,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 255,John Scott Barker,John Scott Barker,Principal,Yes,February 1996
 410,Justine Caines,Justine Caines,Principal,No,""
 3902,Kate Dinon and Associates PR Pty Ltd,Katherine Frances Dinon,Managing Director,No,""
+4907,Kerry B. Collison,Kerry Boyd Collison,CEO,No,""
 3876,Kurrajong Strategic Counsel,Adrian Michael Dolahenty,Director,Yes,March 1995
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
@@ -294,6 +292,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3882,"MCDOUGALL,DANIEL JOHN",Daniel McDougall,Media and Public Relations Consultant,No,""
 179,McGrane-Fitzgerald Unit Trust,Robert Hennessy-Hawks,Lobbyist,No,""
 762,McGuinness Media,Georgina McGuinness,Director,No,""
+3862,Media and Public Affairs ,George Hazim,Managing Director,Yes,May 1997
 132,Megan Anwyl,Megan Anwyl,Director,Yes,February 2001
 132,Megan Anwyl,Liz Vivian,Research Analayst,Yes,April 2005
 3854,Meso Consulting Pty Ltd,Mark Robert Sehn,Director,No,""
@@ -407,7 +406,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Richard Harris,Director,No,""
 242,Purple Communications Australia Pty Ltd,Renee Wilkinson,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Bob Stevens ,Account Manager ,No,""
-242,Purple Communications Australia Pty Ltd,Astrid Serventy,Associate Director,Yes,October 2013
 242,Purple Communications Australia Pty Ltd,Karen Brown,Associate Director,Yes,March 2013
 242,Purple Communications Australia Pty Ltd,Timothy Grey Smith,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Michael Cairnduff,Associate Director,No,""
@@ -499,6 +497,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 95,The Strategic Counsel Pty Ltd,Rebecca McCarthy,Associate,No,""
 698,The Trustee for Arthur Trust,Hamish Arthur,Director,No,""
 145,The Trustee for Bespoke Business Trust,Ian Smith,Partner,Yes,November 2006
+145,The Trustee for Bespoke Business Trust,Delia Obst,Associate,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Paul Henderson,Managing Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Michael Burgess,Partner,No,""
 589,The Trustee for Bespoke Territory Unit Trust,Sarah Day,Associate ,No,""
@@ -507,11 +506,13 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3877,The Trustee for GC Advisory Trading Trust,Adam L Howard,Principal,Yes,July 2018
 41,The Trustee for Hilton Valley Investment,Alistair Urquhart,Director,No,""
 1809,The Trustee for Jackman Family Trust,Gavin Jackman,Principal,Yes,December 2007
+28,The Trustee for Markeit Family Trust,Keith Blyth,Managing Director,No,""
 668,The Trustee for Sandra Eccles Family Trust,Sandra Joy Eccles,Director ,Yes,January 1999
 117,The Trustee for the Bowden Family Trust,Bob Bowden,Chief Executive,No,""
 3872,The Trustee for the Cobalt Family Trust,Anthony David Johnson,Director,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Kelly Makarounas-Kirchmann,Senior Health Economist,No,""
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Matt Kirchmann,Director,No,""
+4908,The Trustee for Upper Limit Trust,Michael Kilham,Director,Yes,August 2016
 240,The Write Connection Pty Ltd,Alexandra Brook Kennedy,Director,Yes,April 1992
 1825,Times Lawyers Pty Ltd,Kenneth Kok Kin Chow,Director,No,""
 718,Trustee of Kerans Family Trust,Andrew James Kerans,Principal,Yes,January 2014
