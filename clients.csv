@@ -42,10 +42,12 @@ agency_id,agency_business_entity_name,client_name
 234,Australian Project Developments Pty. Ltd.,Regional Planning Solutions (SA)
 234,Australian Project Developments Pty. Ltd.,ANU Australian Rules Football Club
 234,Australian Project Developments Pty. Ltd.,Kunnunura Shire Council
-45,Australian Public Affairs Limited Partnership,Generate Ministries
 45,Australian Public Affairs Limited Partnership,Australasian Society of Aesthetic Plastic Surgeons
 45,Australian Public Affairs Limited Partnership,Infosys Technologies Limited
 45,Australian Public Affairs Limited Partnership,Independent Brewers Association
+45,Australian Public Affairs Limited Partnership,Castlereagh Co Pty Ltd (trading as Castlereagh Imaging)
+45,Australian Public Affairs Limited Partnership,Hunter Imaging Group
+45,Australian Public Affairs Limited Partnership,Illawarra Radiology Group
 135,Australian Spectrum Consultants Pty Ltd,Globalstar Inc
 135,Australian Spectrum Consultants Pty Ltd,Pivotel Group Pty Ltd
 135,Australian Spectrum Consultants Pty Ltd,Thales Alenia Space
@@ -179,6 +181,7 @@ agency_id,agency_business_entity_name,client_name
 3901,Brickfielder Insights Pty Ltd,Canberra Data Centres Proprietary Limited
 662,BroadSpectrum Consultants Pty Ltd,Free TV Australia Ltd
 662,BroadSpectrum Consultants Pty Ltd,Commercial Radio Australia
+4909,Brook Street Consulting,Lendlease Group Services Pty Ltd
 131,BTelecom Pty Ltd,Chamberlains SBR Chartered Accountants
 131,BTelecom Pty Ltd,KIG Energy Pty Ltd
 52,Bush Consulting Services Pty Ltd,SAP
@@ -281,7 +284,6 @@ agency_id,agency_business_entity_name,client_name
 475,Clifton Consulting Services Pty Ltd,Committee for Geelong
 475,Clifton Consulting Services Pty Ltd,Ride On Australia
 79,CMAX Communications Pty Ltd,Stryker 
-79,CMAX Communications Pty Ltd,Send Hope Not Flowers
 79,CMAX Communications Pty Ltd,Northrop Grumman International
 79,CMAX Communications Pty Ltd,Northrop Grumman Australia
 79,CMAX Communications Pty Ltd,National Capital Private Hospital
@@ -425,6 +427,10 @@ agency_id,agency_business_entity_name,client_name
 403,Covance Pty Ltd (Covance Market Access Services division),Stallergenes Australia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),UCB Australia Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Eli Lilly and Company Limited
+299,CPI Strategic Pty Ltd,Costa Group of Companies
+299,CPI Strategic Pty Ltd,Field and Game Australia
+299,CPI Strategic Pty Ltd,Australian Deer Association
+299,CPI Strategic Pty Ltd,BusVic
 81,CPR Communications & Public Relations Pty Ltd,Regional Cities Victoria
 81,CPR Communications & Public Relations Pty Ltd,Greater Shepparton City Council
 81,CPR Communications & Public Relations Pty Ltd,City of Wodonga
@@ -624,6 +630,7 @@ agency_id,agency_business_entity_name,client_name
 122,GRA Partners Pty Ltd,Datacom Systems (WA) Pty Ltd 
 122,GRA Partners Pty Ltd,Ticket Brokers Association of Australia Inc
 122,GRA Partners Pty Ltd,Geraldton Fishermenâs Cooperative
+122,GRA Partners Pty Ltd,Jadestone Energy (Australia) Pty Ltd 
 59,GRACosway Pty Ltd,IDP Education Pty Ltd
 59,GRACosway Pty Ltd,AECOM Australia
 59,GRACosway Pty Ltd,Clemenger BBDO
@@ -1156,7 +1163,6 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Mounties Group
 516,Premier State Consulting Pty Ltd,The Star Entertainment Group Limited
 516,Premier State Consulting Pty Ltd,IMF Bentham
-516,Premier State Consulting Pty Ltd,Eastwood Rugby Club
 516,Premier State Consulting Pty Ltd,NEXTDC Limited
 516,Premier State Consulting Pty Ltd,Fincantieri Australia Pty Ltd
 516,Premier State Consulting Pty Ltd,Telstra
@@ -1166,11 +1172,9 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,Built Pty Ltd
 516,Premier State Consulting Pty Ltd,O'Hara's Fairfield Hotel Pty Limited	
 516,Premier State Consulting Pty Ltd,BIZFURN EXPRESS AUSTRALIA PTY LTD	
-516,Premier State Consulting Pty Ltd,ALPHA NOBIS FM PTY LTD	
 516,Premier State Consulting Pty Ltd,FIVEX SERVICES PTY LIMITED	
 516,Premier State Consulting Pty Ltd,EASTERN SUBURBS LEAGUES CLUB LTD	
 516,Premier State Consulting Pty Ltd,CHILDREN'S MEDICAL RESEARCH INSTITUTE	
-516,Premier State Consulting Pty Ltd,NEW HORIZONS ENTERPRISES LIMITED	
 516,Premier State Consulting Pty Ltd,BEINFORMED GROUP PTY LTD	
 516,Premier State Consulting Pty Ltd,Waterbrook Australia Pty Ltd	
 516,Premier State Consulting Pty Ltd,Event Hospitality and Entertainment Limited
@@ -1180,7 +1184,6 @@ agency_id,agency_business_entity_name,client_name
 516,Premier State Consulting Pty Ltd,RSPCA Australia
 516,Premier State Consulting Pty Ltd,Great Place to Worki
 516,Premier State Consulting Pty Ltd,Globe Capital Administration Pty Ltd
-516,Premier State Consulting Pty Ltd,Outdoor Media Association
 516,Premier State Consulting Pty Ltd,Dural Investment Holding Pty Ltd
 516,Premier State Consulting Pty Ltd,Acciona
 516,Premier State Consulting Pty Ltd,Octor Pty Ltd
@@ -1411,7 +1414,6 @@ agency_id,agency_business_entity_name,client_name
 685,Sanlaan Pty Ltd,Technology One
 685,Sanlaan Pty Ltd,Mckenzie Aged Care Group
 685,Sanlaan Pty Ltd,Infigen Energy Limited
-685,Sanlaan Pty Ltd,Italferr S.p.A
 685,Sanlaan Pty Ltd,GWSim Ltd
 685,Sanlaan Pty Ltd,Redback Technologies
 685,Sanlaan Pty Ltd,Beijing Jingneng Clean Energy(Australia) Holding Pty Ltd
@@ -1642,7 +1644,6 @@ agency_id,agency_business_entity_name,client_name
 589,The Trustee for Bespoke Territory Unit Trust,Seafarms Group Limited
 420,The Trustee for ECG Advisory Trust,Wesfarmers
 420,The Trustee for ECG Advisory Trust,Coles Supermarkets
-420,The Trustee for ECG Advisory Trust,Transurban Group 
 420,The Trustee for ECG Advisory Trust,Youth Care WA
 420,The Trustee for ECG Advisory Trust,Peet Limited
 420,The Trustee for ECG Advisory Trust,Australia Pacific Airports Corporation Ltd
@@ -1694,6 +1695,7 @@ agency_id,agency_business_entity_name,client_name
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Aspen Pharma Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,Eisai Australia Pty Ltd
 256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,ApoPharma Inc.
+256,THE TRUSTEE FOR THE KIRCHMANN FAMILY TRUST,EUSA Pharma
 4908,The Trustee for Upper Limit Trust,Special Olympics Australia
 240,The Write Connection Pty Ltd,InterGen (Australia)
 240,The Write Connection Pty Ltd,Group of Eight Universities

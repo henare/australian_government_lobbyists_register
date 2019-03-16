@@ -39,6 +39,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3868,Brickfielder Government Engagement,Sophie Harper,Associate,No,""
 3901,Brickfielder Insights Pty Ltd,Jane Madden,Principal,Yes,October 2017
 662,BroadSpectrum Consultants Pty Ltd,Andrew James King,Director,No,""
+4909,Brook Street Consulting,Scott Gartrell,Director,Yes,July 1996
 131,BTelecom Pty Ltd,Sarina Le,Director,No,""
 131,BTelecom Pty Ltd,Greg Fonti,General Manager,No,""
 52,Bush Consulting Services Pty Ltd,Simon Bush,Managing Director,Yes,March 2000
@@ -105,6 +106,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Karen Schneider,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Dante Dangelo Kemp,Manager Health Economics,No,""
+299,CPI Strategic Pty Ltd,Stephen John Newnham,Director,Yes,April 2004
+299,CPI Strategic Pty Ltd,Frederick John Brown,Director,Yes,November 2007
 81,CPR Communications & Public Relations Pty Ltd,Brendan Rowswell,Director,Yes,January 2007
 81,CPR Communications & Public Relations Pty Ltd,William Forwood,Strategic Counsel,No,""
 81,CPR Communications & Public Relations Pty Ltd,Michelle Edmunds,Managing Director,No,""
@@ -234,6 +237,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 59,GRACosway Pty Ltd,Alexander Kay Oswald,Director,Yes,April 2018
 59,GRACosway Pty Ltd,Alyssa Patterson,Associate,No,""
 59,GRACosway Pty Ltd,Ashleigh Elizabeth Worthley,Associate,Yes,February 2019
+59,GRACosway Pty Ltd,Isuru Neelagama,Director,No,""
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
@@ -351,7 +355,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,opr Agency,Carly Vale,Senior Consultant,No,""
 86,opr Agency,Alexandra McInnes,Account Executive,No,""
 86,opr Agency,Eliza Roel,Account Coordinator,No,""
-86,opr Agency,Rory Chevalier,Senior Account Executive,No,""
+86,opr Agency,Rory Chevalier,Senior Account Executive,Yes,September 2018
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
 3867,Origami PR Pty Ltd,Gail Morgan,National Director,Yes,February 2006
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Kam Sham LEUNG,Chairman,No,""
@@ -385,7 +389,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1817,PremierNational Pty Ltd,Thomas Loomes,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Cooper Darling Blair,Advisor,No,""
 1817,PremierNational Pty Ltd,Fiona Scott,Special Counsel,Yes,July 2016
-1805,Primary Communication Partners Pty Limited,Christopher Hall,CEO,No,""
+1805,Primary Communication Partners Pty Limited,Christopher Hall,CEO,Yes,October 2004
 1805,Primary Communication Partners Pty Limited,Irina Kamychnikova,Account Director  ,No,""
 1805,Primary Communication Partners Pty Limited,Jennifer Muir,Chief Counsel,No,""
 1805,Primary Communication Partners Pty Limited,Francesco Coletta,Consultant,No,""
@@ -400,7 +404,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 127,PRX Unit Trust,Sophie Mullen,Consultant,No,""
 89,Public Affairs Network Pty Ltd,Rosie Yeo,Director,Yes,April 1995
 68,Public Policy Solutions Pty Ltd,Christopher John Fry,Director,No,""
-68,Public Policy Solutions Pty Ltd,Michael Arthur Kilham,consultant,Yes,August 2016
 242,Purple Communications Australia Pty Ltd,Warrick Hazeldine,Managing Director,No,""
 242,Purple Communications Australia Pty Ltd,Annette Ellis,Director,No,""
 242,Purple Communications Australia Pty Ltd,Richard Harris,Director,No,""
@@ -464,8 +467,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 3856,Starfare Image Pty Ltd,Helen Joanne Patronis,Managing Director,No,""
 66,Statecraft,Michael Priebe,Partner,Yes,December 2000
 66,Statecraft,Greg Holland,Director,Yes,June 1988
-66,Statecraft,Anna Kumar,Consultant,No,""
-66,Statecraft,Zann Maxwell ShickGrant,Associate Consultant,Yes,July 2016
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes,Director,No,""
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter,Founder and Principal Counsel,Yes,December 2014
 753,Strategic Political Counsel Pty Ltd,Professor David Matthew Gracey,Senior Counsel,No,""
