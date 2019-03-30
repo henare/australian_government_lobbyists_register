@@ -101,6 +101,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 453,Cornerstone Group Australia ,Alistair Nicholas,Chief Executive Officer ,Yes,October 2000
 453,Cornerstone Group Australia ,Rosetta Garzaniti,Associate Policy and Strategy,No,""
 160,Cotterell Jannette Suzanne,Jannette Cotterell,Managing Director,No,""
+4910,Counsel House Pty Ltd,Claire March,Managing Director,Yes,September 2013
 403,Covance Pty Ltd (Covance Market Access Services division),Adam Gordois,Director,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Carol Lee,Manager Health Economics,No,""
 403,Covance Pty Ltd (Covance Market Access Services division),Emma Proudfoot,Manager Health Economics,No,""
@@ -151,6 +152,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 624,Donna Edman,Donna Therese Edman,CEO,Yes,March 1999
 172,Dr Robert Horton,Robert Horton,Principal,Yes,June 2005
 3888,Dragoman Pty Ltd,John Brenton,Executive Director,Yes,January 2016
+3888,Dragoman Pty Ltd,Tom Harley,Managing Director,No,""
 792,Du Bious Holdings Pty Ltd,Peter Sekuless,Director,Yes,January 1976
 515,Dunns4 Consulting Pty Ltd,Stephen James Dunn,Managing Director,Yes,June 2010
 263,ED & Associates Pty Ltd,Edmund Ng,Director,No,""
@@ -241,7 +243,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
-96,Hawker Britton Group Pty Ltd,Claire March ,Director ,Yes,September 2013
 96,Hawker Britton Group Pty Ltd,Eamonn Fitzpatrick,Director,Yes,September 2013
 96,Hawker Britton Group Pty Ltd,Megan Anwyl,Director,Yes,February 2001
 96,Hawker Britton Group Pty Ltd,Liz Vivian,Policy and Business Analyst,Yes,April 2005
@@ -259,8 +260,10 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 586,Jenkins Engineering defence Systems Pty Ltd,Peter Jenkins,Managing Director,Yes,November 1989
 586,Jenkins Engineering defence Systems Pty Ltd,Bengt Redder Larsen,Marketing Manager,Yes,January 2000
 319,Jo Scard Pty Ltd,Jo Scard,Business Founder former adviser to former Minister for Immigration & Citizenship until 14/9/10,Yes,September 2010
-319,Jo Scard Pty Ltd,Asha Serpless,Operations Manager,No,""
+319,Jo Scard Pty Ltd,Asha Serpless,Operations and Outreach Director,No,""
 319,Jo Scard Pty Ltd,Myles Pearce,Account Coordinator,No,""
+319,Jo Scard Pty Ltd,Julia Macerola,Senior Account Executive,No,""
+319,Jo Scard Pty Ltd,Kaela Good,Account Manager,No,""
 56,John C Blackwell,John Blackwell,Principal,No,""
 101,John Connolly & Partners Pty Limited,John Michael Connolly,Partner,No,""
 241,John Cook,Dr John Cook,Principal,Yes,April 2009
@@ -280,6 +283,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Annette Stenhouse,Account Manager,No,""
 566,London Agency Pty Ltd,David Latham,Public Relations Manager,No,""
+566,London Agency Pty Ltd,Shinasa Enayeth,Public Relations Manager,No,""
+566,London Agency Pty Ltd,Philippa Bosquet,Account Manager,No,""
 13,LOPAC Consulting Pty Limited,Brian Maxwell Cather,Director,Yes,January 1998
 13,LOPAC Consulting Pty Limited,Robert Sidney Parker,Managing Director,Yes,June 2005
 3880,Lucid Health Consulting,George Papadopoulos,Partner and Director,No,""
@@ -356,11 +361,15 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,opr Agency,Alexandra McInnes,Account Executive,No,""
 86,opr Agency,Eliza Roel,Account Coordinator,No,""
 86,opr Agency,Rory Chevalier,Senior Account Executive,Yes,September 2018
+86,opr Agency,Peta Lange,Head of Public Affairs,No,""
+86,opr Agency,Nino Tesoriero,Managing Partner,No,""
+86,opr Agency,Georgia Lawson,Account Executive ,No,""
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
 3867,Origami PR Pty Ltd,Gail Morgan,National Director,Yes,February 2006
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Kam Sham LEUNG,Chairman,No,""
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Andrew Fung,Director,No,""
 3870,Paris Dounoukos,Paris Dounoukos,Consultant,Yes,March 2015
+4911,Peak Lawyers Pty Ltd,Kam Sham Leung,Legal Practice Director owner,No,""
 1821,People First HR Solutions Pty Ltd,Rohan Robertson,Director,No,""
 736,Peter Kane,Peter Kane,Principal,Yes,July 2009
 546,Policy Australia Pty Ltd,Carolyn Dalton ,Executive Director ,Yes,July 2003
@@ -408,11 +417,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Annette Ellis,Director,No,""
 242,Purple Communications Australia Pty Ltd,Richard Harris,Director,No,""
 242,Purple Communications Australia Pty Ltd,Renee Wilkinson,Account Manager ,No,""
-242,Purple Communications Australia Pty Ltd,Bob Stevens ,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Karen Brown,Associate Director,Yes,March 2013
 242,Purple Communications Australia Pty Ltd,Timothy Grey Smith,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Michael Cairnduff,Associate Director,No,""
 242,Purple Communications Australia Pty Ltd,Jennifer Kirk,Associate Director,Yes,November 2018
+242,Purple Communications Australia Pty Ltd,Simon Corrigan,Director,Yes,November 2007
 3864,Puzzle Consulting Pty Ltd,Kate Mills,Director,No,""
 29,Pynfall Pty Ltd,Hannelore Duczek,Managing Director,No,""
 14,Ranicar and Nicholls Consulting,David Nicholls,Partner,Yes,July 2001
@@ -471,6 +480,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter,Founder and Principal Counsel,Yes,December 2014
 753,Strategic Political Counsel Pty Ltd,Professor David Matthew Gracey,Senior Counsel,No,""
 753,Strategic Political Counsel Pty Ltd,Clint Robert Ford,Head of Operations WA,No,""
+796,Synecdoche Consulting Pty Ltd,Michael Morgan,Principal,No,""
 424,TAYLOR STREET ADVISORY PTY LTD,Christopher Brown,Chairman,No,""
 424,TAYLOR STREET ADVISORY PTY LTD,Adam Leto,Director Communications and Advocacy,No,""
 424,TAYLOR STREET ADVISORY PTY LTD,Luke Turner,Director Policy and Analysis,No,""
@@ -491,11 +501,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 757,The Hon. Robert Charles Baldwin,The Hon. Bob Baldwin,Sole Trader,Yes,May 2016
 450,The Humphrey Company Pty Limited,Stephen John Youll,Principal,Yes,June 1984
 268,The Premier Communications Group Pty Ltd.,Richard Lenarduzzi,Group Director,No,""
-268,The Premier Communications Group Pty Ltd.,Josh Wright,Senior Advisor,Yes,April 2005
 1826,The Shape Agency,Timothy James O'Halloran,Director,Yes,September 2013
 95,The Strategic Counsel Pty Ltd,Donna Edman,Senior Associate,Yes,March 1999
 95,The Strategic Counsel Pty Ltd,The Hon. Dr Michael Wooldridge,Advisor,Yes,October 2001
 95,The Strategic Counsel Pty Ltd,Rebecca McCarthy,Associate,No,""
+95,The Strategic Counsel Pty Ltd,Elizabeth Cuming,Advisor,No,""
+95,The Strategic Counsel Pty Ltd,Sam Dastyari,Advisor,Yes,January 2018
 698,The Trustee for Arthur Trust,Hamish Arthur,Director,No,""
 145,The Trustee for Bespoke Business Trust,Ian Smith,Partner,Yes,November 2006
 145,The Trustee for Bespoke Business Trust,Delia Obst,Associate,No,""

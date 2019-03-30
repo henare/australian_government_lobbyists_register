@@ -1,5 +1,5 @@
 agency_id,agency_business_entity_name,owner_name
-271,A D Evers-Buckland,Alan Evers-Buckland
+271,A D Evers-Buckland,Alan Evers-Buckland.
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Keen Securities Pty Limited
 605,ABAKUS - Aircraft and Aviation Specialists Pty Limited,Tipford Pty Limited
 3886,Advanced Outcomes,Robert Kyle Underdown
@@ -85,6 +85,7 @@ agency_id,agency_business_entity_name,owner_name
 2837,Coode Holdings Pty Ltd,Clint Robert Ford
 453,Cornerstone Group Australia ,St Joseph Enterprises 
 160,Cotterell Jannette Suzanne,Jannette S Cotterell 
+4910,Counsel House Pty Ltd,Claire March
 403,Covance Pty Ltd (Covance Market Access Services division),Covance Inc.
 299,CPI Strategic Pty Ltd,Stephen John Newnham
 299,CPI Strategic Pty Ltd,Frederick John Brown
@@ -253,6 +254,7 @@ agency_id,agency_business_entity_name,owner_name
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Kam Sham LEUNG
 2839,PAN ASIA LAWYERS PTY LTD,Mr. Andrew FUNG
 3870,Paris Dounoukos,Paris Dounoukos
+4911,Peak Lawyers Pty Ltd,Kam Sham Leung
 1821,People First HR Solutions Pty Ltd,Rohan Robertson
 736,Peter Kane,Peter Kane
 546,Policy Australia Pty Ltd,Carolyn Dalton
@@ -264,10 +266,10 @@ agency_id,agency_business_entity_name,owner_name
 1817,PremierNational Pty Ltd,Ian Hancock
 1817,PremierNational Pty Ltd,Kristina Photios
 1805,Primary Communication Partners Pty Limited,Elagh Group Pty Ltd
-1805,Primary Communication Partners Pty Limited,Annabelle Warren
-1805,Primary Communication Partners Pty Limited,Melissa Johnson
-1805,Primary Communication Partners Pty Limited,Elaine Banoub
-1805,Primary Communication Partners Pty Limited,Bernadette Kazzi
+1805,Primary Communication Partners Pty Limited,Old Prime
+1805,Primary Communication Partners Pty Limited,Borte Group Pty Ltd
+1805,Primary Communication Partners Pty Limited,Elora Group
+1805,Primary Communication Partners Pty Limited,Decorada Pty Ltd
 283,Probity International Pty. Ltd,Mary Easson
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop
 622,Profile Consulting (Aust) Pty Ltd,Nick Melas
@@ -278,9 +280,9 @@ agency_id,agency_business_entity_name,owner_name
 242,Purple Communications Australia Pty Ltd,Warrick Hazeldine
 242,Purple Communications Australia Pty Ltd,Ryan McKinlay
 242,Purple Communications Australia Pty Ltd,Richard Harris
-242,Purple Communications Australia Pty Ltd,STW Group
 242,Purple Communications Australia Pty Ltd,The Valley Home Family Trust
 242,Purple Communications Australia Pty Ltd,Jamie Wilkinson
+242,Purple Communications Australia Pty Ltd,Cannings Advisory Services Pty Ltd
 3864,Puzzle Consulting Pty Ltd,Kate Mills
 29,Pynfall Pty Ltd,Hannelore Duczek
 14,Ranicar and Nicholls Consulting,Nicholls and Nicholls Consulting Pty Ltd
@@ -290,7 +292,6 @@ agency_id,agency_business_entity_name,owner_name
 98,Res Publica Pty Ltd,Gabriel McDowell
 98,Res Publica Pty Ltd,Aleks Rzadkowski
 98,Res Publica Pty Ltd,James Tait
-98,Res Publica Pty Ltd,Sean Aylmer
 497,Resolution Junction,Gregory Male
 35,Richardson Coutts,Stephen Coutts Pty Ltd
 35,Richardson Coutts,Richardson and Associates Pty Ltd
@@ -326,6 +327,7 @@ agency_id,agency_business_entity_name,owner_name
 66,Statecraft,Priebe Family Trust 
 769,Strategic Partnership Group Pty Ltd,Eric Lindsay Forbes
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter
+796,Synecdoche Consulting Pty Ltd,Michael Morgan
 424,TAYLOR STREET ADVISORY PTY LTD,Christopher Brown
 3905,TG Endeavour Pty Ltd,Minerve Investments Pty Ltd
 3905,TG Endeavour Pty Ltd,Tomogen Pty Ltd 
