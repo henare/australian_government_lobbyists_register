@@ -243,7 +243,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 717,Hartrim Nominees Pty Ltd,Lorraine Wreford,Director,No,""
 96,Hawker Britton Group Pty Ltd,Simon Banks,Managing Director,Yes,November 1999
 96,Hawker Britton Group Pty Ltd,Stephen Halliday,Director,No,""
-96,Hawker Britton Group Pty Ltd,Eamonn Fitzpatrick,Director,Yes,September 2013
 96,Hawker Britton Group Pty Ltd,Megan Anwyl,Director,Yes,February 2001
 96,Hawker Britton Group Pty Ltd,Liz Vivian,Policy and Business Analyst,Yes,April 2005
 96,Hawker Britton Group Pty Ltd,John Paul Blandthorn,Director,No,""
@@ -366,8 +365,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,opr Agency,Georgia Lawson,Account Executive ,No,""
 744,O'Reilly Consulting,Mike O'Reilly,Director Proprietor,No,""
 3867,Origami PR Pty Ltd,Gail Morgan,National Director,Yes,February 2006
-2839,PAN ASIA LAWYERS PTY LTD,Mr. Kam Sham LEUNG,Chairman,No,""
-2839,PAN ASIA LAWYERS PTY LTD,Mr. Andrew Fung,Director,No,""
 3870,Paris Dounoukos,Paris Dounoukos,Consultant,Yes,March 2015
 4911,Peak Lawyers Pty Ltd,Kam Sham Leung,Legal Practice Director owner,No,""
 1821,People First HR Solutions Pty Ltd,Rohan Robertson,Director,No,""
@@ -495,6 +492,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Thomas Grant Cameron,Senior Account Executive,Yes,October 2013
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Amalyah Hart,Consultant,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Arden Baker,Consultant,No,""
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Tim Cook,Consultant,No,""
 46,The De Wintern Group,David Van,Managing director,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983

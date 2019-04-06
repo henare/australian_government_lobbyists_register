@@ -16,7 +16,6 @@ agency_id,agency_business_entity_name,client_name
 104,Alkar Pty Ltd,GenesisCare
 104,Alkar Pty Ltd,FoxStrategic
 104,Alkar Pty Ltd,OnDigital
-104,Alkar Pty Ltd,Royal Brunei Airlines
 104,Alkar Pty Ltd,OptiComm
 104,Alkar Pty Ltd,ViaSat
 1820,ALPHA Consult Pty Ltd,women in media
@@ -286,7 +285,6 @@ agency_id,agency_business_entity_name,client_name
 79,CMAX Communications Pty Ltd,Northrop Grumman Australia
 79,CMAX Communications Pty Ltd,National Capital Private Hospital
 79,CMAX Communications Pty Ltd,Soldier On
-79,CMAX Communications Pty Ltd,The MITRE Corporation
 79,CMAX Communications Pty Ltd,Rafael Advanced Defense Systems
 79,CMAX Communications Pty Ltd,Burgmann College Incorporated
 79,CMAX Communications Pty Ltd,Navantia Australia Pty Ltd 
@@ -317,7 +315,6 @@ agency_id,agency_business_entity_name,client_name
 2837,Coode Holdings Pty Ltd,RG Property
 2837,Coode Holdings Pty Ltd,Airport Bar and Cafe (Port Hedland)
 2837,Coode Holdings Pty Ltd,Absolute Sleep 
-2837,Coode Holdings Pty Ltd,Mark Zagar T/A Yaranary Farm
 2837,Coode Holdings Pty Ltd,North Wanneroo Residents Association Inc.
 2837,Coode Holdings Pty Ltd,Claradon Property Pty Ltd
 2837,Coode Holdings Pty Ltd,St Andrews Grammar School
@@ -708,7 +705,6 @@ agency_id,agency_business_entity_name,client_name
 96,Hawker Britton Group Pty Ltd,Amazon
 96,Hawker Britton Group Pty Ltd,Reason Group
 96,Hawker Britton Group Pty Ltd,Tata Consultancy Services 
-96,Hawker Britton Group Pty Ltd,Lottoland (Australia) Pty Ltd
 96,Hawker Britton Group Pty Ltd,Melbourne Airport
 96,Hawker Britton Group Pty Ltd,Independent Schools Victoria
 96,Hawker Britton Group Pty Ltd,Association of Independent Schools of New South Wales Ltd
@@ -969,7 +965,7 @@ agency_id,agency_business_entity_name,client_name
 2842,Michelson Alexander Consulting,The Les Twentyman Foundation
 2842,Michelson Alexander Consulting,Plumbing Industry Climate Action Centre
 2842,Michelson Alexander Consulting,Australians For Mental Health
-2842,Michelson Alexander Consulting,GFG Alliance
+2842,Michelson Alexander Consulting,Cochlear
 3859,MR DARYL GORDON PILMORE,BRAND DEVELOPERS AUSTRALIA PTY LTD
 3859,MR DARYL GORDON PILMORE,RACINNE AUSTRALIA PTY LTD
 3859,MR DARYL GORDON PILMORE,Aspen Australia
@@ -1125,7 +1121,6 @@ agency_id,agency_business_entity_name,client_name
 744,O'Reilly Consulting,SA Timber Processors Association
 3867,Origami PR Pty Ltd,Bluearth Foundation 
 3867,Origami PR Pty Ltd,Ola Australia Pty Ltd
-2839,PAN ASIA LAWYERS PTY LTD,Australian Chinese General Chamber of Commerce
 3870,Paris Dounoukos,Infant Nutrition Council
 4911,Peak Lawyers Pty Ltd,Australian Chinese Chamber of Commerce
 1821,People First HR Solutions Pty Ltd,E Qubed
@@ -1555,6 +1550,7 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Afilias Limited
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers Australia (WPMA)
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Australian Golf Industry Council
+292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Varian Medical Systems Australasia
 46,The De Wintern Group,Rare Voices Australia
 46,The De Wintern Group,Universities Australia
 46,The De Wintern Group,Franchisee Federation Australia
