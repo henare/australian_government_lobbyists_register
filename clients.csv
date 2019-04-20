@@ -319,6 +319,7 @@ agency_id,agency_business_entity_name,client_name
 2837,Coode Holdings Pty Ltd,Wightman Building
 2837,Coode Holdings Pty Ltd,Australian Lotteries and Newsagents Association
 2837,Coode Holdings Pty Ltd,ISPT Pty Ltd
+2837,Coode Holdings Pty Ltd, Business News Pty Ltd
 453,Cornerstone Group Australia ,Demigold Pty Ltd 
 453,Cornerstone Group Australia ,Direct Freight Express Pty ltd 
 453,Cornerstone Group Australia ,Cracknell and Lonergan Architects Pty Ltd 
@@ -415,6 +416,8 @@ agency_id,agency_business_entity_name,client_name
 160,Cotterell Jannette Suzanne,Port Kembla Coal Terminal 
 4910,Counsel House Pty Ltd,Her Heart Ltd
 4910,Counsel House Pty Ltd,Cartwheel Resources Pty. Ltd. 
+4910,Counsel House Pty Ltd,InterCareÂ Training (Integrated Training Solutions (Aust) Pty Ltd)Â 
+4910,Counsel House Pty Ltd,TitjimbatÂ TeachaboutÂ Inc.Â 
 403,Covance Pty Ltd (Covance Market Access Services division),Eisai Australia Pty Limited
 403,Covance Pty Ltd (Covance Market Access Services division),AbbVie Pty Ltd
 403,Covance Pty Ltd (Covance Market Access Services division),Novo Nordisk Pharmaceuticals Pty Ltd
@@ -829,6 +832,7 @@ agency_id,agency_business_entity_name,client_name
 255,John Scott Barker,Spectran Group Pty Ltd
 255,John Scott Barker,TCA Redevelopment Consortium
 255,John Scott Barker,Timberlink Australia Pty Ltd
+255,John Scott Barker,Spectran Environmental Management Pty Ltd
 410,Justine Caines,Danii Foundation
 3902,Kate Dinon and Associates PR Pty Ltd,Meridian Energy Australia
 3902,Kate Dinon and Associates PR Pty Ltd,Powershop Australia
@@ -886,7 +890,6 @@ agency_id,agency_business_entity_name,client_name
 578,Making The World A Better Place Pty Ltd,Phoenix Eagle
 578,Making The World A Better Place Pty Ltd,FairGo4All
 578,Making The World A Better Place Pty Ltd,Pacific International Hospital
-578,Making The World A Better Place Pty Ltd,APEC PNG 2018 Coordination Authority
 578,Making The World A Better Place Pty Ltd,Democracy by MiVote Limited
 578,Making The World A Better Place Pty Ltd,University of Sunshine Coast
 578,Making The World A Better Place Pty Ltd,St John Ambulance Western Australia Ltd
@@ -971,7 +974,6 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Australia Post
 565,Newgate Communications Pty Limited,Diageo Australia Limited
 565,Newgate Communications Pty Limited,Symphony Services Australia Limited
-565,Newgate Communications Pty Limited,Luerssen GmbH CO. KG
 565,Newgate Communications Pty Limited,Dexus Holdings Pty Limited
 565,Newgate Communications Pty Limited,Google Australia
 565,Newgate Communications Pty Limited,QANTAS
@@ -987,6 +989,7 @@ agency_id,agency_business_entity_name,client_name
 565,Newgate Communications Pty Limited,Ararat Rural City Council
 565,Newgate Communications Pty Limited,Northern NSW Agricultural Alliance
 565,Newgate Communications Pty Limited,Luerssen Australia Pty Ltd
+565,Newgate Communications Pty Limited,Australian Investment Council Ltd
 766,Next Level Strategic Services Pty Ltd,Cutting Edge Pty Ltd
 766,Next Level Strategic Services Pty Ltd,Australian Super
 766,Next Level Strategic Services Pty Ltd,Broadspectrum
@@ -1122,9 +1125,9 @@ agency_id,agency_business_entity_name,client_name
 318,Porter Novelli Australia Pty Ltd,McCain Foods Australia New Zealand
 318,Porter Novelli Australia Pty Ltd,Yumbah Aquaculture
 318,Porter Novelli Australia Pty Ltd,MedHealth
-318,Porter Novelli Australia Pty Ltd,Mars Australia Pty Ltd
 318,Porter Novelli Australia Pty Ltd,Rural Bank Ltd
 318,Porter Novelli Australia Pty Ltd,Rural Workforce Agency Victoria
+318,Porter Novelli Australia Pty Ltd,Landmark White Limited
 1812,Preferment Associates ,Ingham Group Limited
 516,Premier State Consulting Pty Ltd,Australian Hotels Association (NSW)
 516,Premier State Consulting Pty Ltd,Employers Mutual Limited
@@ -1529,20 +1532,18 @@ agency_id,agency_business_entity_name,client_name
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Waffle Pod Manufacturers Australia (WPMA)
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Australian Golf Industry Council
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Varian Medical Systems Australasia
-46,The De Wintern Group,Rare Voices Australia
-46,The De Wintern Group,Universities Australia
-46,The De Wintern Group,Franchisee Federation Australia
 90,The Fifth Estate Consultancy Pty Ltd,Visy Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Pratt Holdings Pty Ltd
 90,The Fifth Estate Consultancy Pty Ltd,Posco Australia
 90,The Fifth Estate Consultancy Pty Ltd,Hume Coal
 90,The Fifth Estate Consultancy Pty Ltd,Shirley Angophora Pty Ltd
-83,The Holland Trust,Statecraft
 83,The Holland Trust,Speyside Group
-83,The Holland Trust,British American Tobacco Australia
 83,The Holland Trust,Beam Suntory Australia
 83,The Holland Trust,Mawson's Huts Foundation
 83,The Holland Trust,Australia Israel Labor Dialogue
+83,The Holland Trust,Political Solutions Australia
+83,The Holland Trust,Nexus Public Affairs
+83,The Holland Trust,Australian Antarctic Festival
 757,The Hon. Robert Charles Baldwin,Varley Engineering Pty Ltd 
 757,The Hon. Robert Charles Baldwin,CTSi (USA)
 757,The Hon. Robert Charles Baldwin,InConnect
@@ -1797,6 +1798,25 @@ agency_id,agency_business_entity_name,client_name
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,British American Tobacco Australasia
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Youth Insearch
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,AMP Limited 
+4914,Wells OâCallaghan Watterson Pty Ltd,Avaya Australia Pty Ltd
+4914,Wells OâCallaghan Watterson Pty Ltd,BIS Oxford Economics
+4914,Wells OâCallaghan Watterson Pty Ltd,Ciena Australia Pty Ltd
+4914,Wells OâCallaghan Watterson Pty Ltd,CloudScene
+4914,Wells OâCallaghan Watterson Pty Ltd,'Country Womens Association NSW'  (CWA Manly)
+4914,Wells OâCallaghan Watterson Pty Ltd,D2L Australia Pty Ltd
+4914,Wells OâCallaghan Watterson Pty Ltd,Dell Boomi
+4914,Wells OâCallaghan Watterson Pty Ltd,Dimension Data Group
+4914,Wells OâCallaghan Watterson Pty Ltd,Greenbox
+4914,Wells OâCallaghan Watterson Pty Ltd,Macquarie Telecom
+4914,Wells OâCallaghan Watterson Pty Ltd,Motorola Solutions Australia Pty Limited
+4914,Wells OâCallaghan Watterson Pty Ltd,Nutanix Pty Ltd
+4914,Wells OâCallaghan Watterson Pty Ltd,Rimini street
+4914,Wells OâCallaghan Watterson Pty Ltd,Orix
+4914,Wells OâCallaghan Watterson Pty Ltd,SmartWFM
+4914,Wells OâCallaghan Watterson Pty Ltd,Southern Cross Cable Network
+4914,Wells OâCallaghan Watterson Pty Ltd,Tritium
+4914,Wells OâCallaghan Watterson Pty Ltd,Vertiv (Vertiv Co)
+4914,Wells OâCallaghan Watterson Pty Ltd,Tech 2
 584,Willard Public Affairs Pty Limited,Vertex Pharmaceuticals (Australia) Pty Ltd
 584,Willard Public Affairs Pty Limited,Zoetis Australia Pty Ltd
 584,Willard Public Affairs Pty Limited,eBay International AG

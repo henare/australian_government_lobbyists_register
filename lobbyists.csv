@@ -323,20 +323,19 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 565,Newgate Communications Pty Limited,Sam Deans,Account Director,No,""
-565,Newgate Communications Pty Limited,Adam Le Lievre,Account Director,Yes,March 2016
+565,Newgate Communications Pty Limited,Adam Le Lievre,Associate Partner,Yes,March 2016
 565,Newgate Communications Pty Limited,Claire Bremner,Associate Partner,Yes,April 2006
 565,Newgate Communications Pty Limited,Phillip Kelly,Senior Adviser,No,""
 565,Newgate Communications Pty Limited,Sara Hourigan,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Nicholas Maher,Senior Adviser,Yes,September 2014
 565,Newgate Communications Pty Limited,David Reeves,Senior Consultant,Yes,February 2008
-565,Newgate Communications Pty Limited,Liam Jones,Consultant,Yes,May 2016
-565,Newgate Communications Pty Limited,Jessica Bradlow,Consultant,No,""
+565,Newgate Communications Pty Limited,Liam Jones,Senior Consultant,Yes,May 2016
+565,Newgate Communications Pty Limited,Jessica Bradlow,Senior Consultant,No,""
 565,Newgate Communications Pty Limited,Lenda Oshalem,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Grace Borrello,Consultant,Yes,June 2018
 565,Newgate Communications Pty Limited,Sophie Mitchell,Associate Partner,Yes,June 2009
-565,Newgate Communications Pty Limited,Kathryn Turnbull,Senior Consultant,No,""
+565,Newgate Communications Pty Limited,Kathryn Turnbull,Account Director,No,""
 565,Newgate Communications Pty Limited,Kieran Ingrey,Senior Consultant,No,""
-565,Newgate Communications Pty Limited,Robert Nyaguy,Consultant,No,""
 565,Newgate Communications Pty Limited,Stephen Michelson,Associate Partner,Yes,October 2017
 766,Next Level Strategic Services Pty Ltd,David Moore,Director,Yes,November 2007
 766,Next Level Strategic Services Pty Ltd,Cameron Milner,Director,No,""
@@ -356,7 +355,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 86,opr Agency,Leon Beswick,Managing Director,No,""
 86,opr Agency,Rachel Stanton,Business Director,No,""
 86,opr Agency,Michael Lane,Senior Account Manager,No,""
-86,opr Agency,Tania Jayesuria,Practice Director,No,""
 86,opr Agency,Carly Vale,Senior Consultant,No,""
 86,opr Agency,Alexandra McInnes,Account Executive,No,""
 86,opr Agency,Eliza Roel,Account Coordinator,No,""
@@ -377,7 +375,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 318,Porter Novelli Australia Pty Ltd,Rhys Ryan,Managing Director Melbourne,No,""
 318,Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,Managing Director Sydney,No,""
 318,Porter Novelli Australia Pty Ltd,Ashton Debono,Communication Consultant,No,""
-318,Porter Novelli Australia Pty Ltd,Kevin Daly ,Communication Consultant,No,""
 318,Porter Novelli Australia Pty Ltd,Alexandra Berriman,Communication Consultant,No,""
 1812,Preferment Associates ,John Thomas Campbell Lake,principal,Yes,November 2009
 516,Premier State Consulting Pty Ltd,Michael Photios,Chairman,No,""
@@ -416,7 +413,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 242,Purple Communications Australia Pty Ltd,Richard Harris,Director,No,""
 242,Purple Communications Australia Pty Ltd,Renee Wilkinson,Account Manager ,No,""
 242,Purple Communications Australia Pty Ltd,Karen Brown,Associate Director,Yes,March 2013
-242,Purple Communications Australia Pty Ltd,Timothy Grey Smith,Account Manager,No,""
 242,Purple Communications Australia Pty Ltd,Michael Cairnduff,Associate Director,No,""
 242,Purple Communications Australia Pty Ltd,Jennifer Kirk,Associate Director,Yes,November 2018
 242,Purple Communications Australia Pty Ltd,Simon Corrigan,Director,Yes,November 2007
@@ -494,7 +490,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Amalyah Hart,Consultant,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Arden Baker,Consultant,No,""
 292,The Civic Group Holdings Pty Ltd and Highchair Pty Ltd,Tim Cook,Consultant,No,""
-46,The De Wintern Group,David Van,Managing director,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Bill Hurditch,Principal,No,""
 90,The Fifth Estate Consultancy Pty Ltd,Ian Wiskin,Corporate Counsel,Yes,March 1983
 83,The Holland Trust,Gregory Holland,Managing Director,Yes,May 1988
@@ -552,6 +547,12 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Kathy Patricia Lindsay,Account Director,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Stav Pisk,Account Executive,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Larissa Eva Jaffe,Account Executive,No,""
+4914,Wells OâCallaghan Watterson Pty Ltd,Hannah Watterson,Director,No,""
+4914,Wells OâCallaghan Watterson Pty Ltd,Sidar Thams,Admin/Operations,No,""
+4914,Wells OâCallaghan Watterson Pty Ltd,Cameron Wells,Director,No,""
+4914,Wells OâCallaghan Watterson Pty Ltd,OisÃ­n OâCallaghan,Director,No,""
+4914,Wells OâCallaghan Watterson Pty Ltd, Tara Xiberras,Assistant Consultant,No,""
+4914,Wells OâCallaghan Watterson Pty Ltd,Nermin Bajric,Senior Consultant,No,""
 584,Willard Public Affairs Pty Limited,David Miles,Principal,Yes,October 2002
 584,Willard Public Affairs Pty Limited,Matthew Moran,Principal,No,""
 584,Willard Public Affairs Pty Limited,Andrew Plumley,Director,No,""
