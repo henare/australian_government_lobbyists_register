@@ -49,8 +49,9 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 654,C2hills Investments Pty Limited,Danielle Ann Maltman,Business Consultant,No,""
 789,Cahill and Bailey Pty Ltd,Casey Cahill,Managing Partner,No,""
 789,Cahill and Bailey Pty Ltd,Simon Bailey,Partner,No,""
-787,Capetal Advisory Pty Ltd,Nathan Paine,Managing Director,No,""
-787,Capetal Advisory Pty Ltd,Bradley Green,Associate Director,No,""
+787,Capetal Advisory Pty Ltd,Bradley James Green,Managing Director,No,""
+787,Capetal Advisory Pty Ltd,Nathan Paine,Associate,No,""
+787,Capetal Advisory Pty Ltd,Matthew James Clemow,Senior Consultant,No,""
 556,Capital Hill Advisory Pty Ltd,Nicholas Campbell,Chairman,Yes,December 1999
 556,Capital Hill Advisory Pty Ltd,Peter Sykes,Consultant,No,""
 556,Capital Hill Advisory Pty Ltd,Sarah Cullens,Senior Consultant,Yes,February 2016
@@ -88,6 +89,8 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 79,CMAX Communications Pty Ltd,Cameron Jones,Government Relations Adviser,Yes,January 2014
 79,CMAX Communications Pty Ltd,Sophie Goddard,Government Relations Adviser,No,""
 79,CMAX Communications Pty Ltd,Elyssa Comer,Government Relations Adviser,Yes,January 2019
+79,CMAX Communications Pty Ltd,Kelly Dargan,Government Relations Adviser,Yes,August 2016
+79,CMAX Communications Pty Ltd,Jason Staines,Government Relations Adviser,Yes,December 2018
 428,CMGRP Pty Ltd,Jacquelynne Willcox,Managing Director and Executive Vice President,No,""
 428,CMGRP Pty Ltd,Emma Dunn,Senior Account Executive,No,""
 3860,Collective Position Group Pty Ltd,Rachael Sweeney,Director ,Yes,September 2012
@@ -189,6 +192,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 214,FIPRA Australia Pty Limited,Shannan Manton,Account Executive,No,""
 295,Five Corners Pty Ltd,Deborah Bell,Director Five Corners Pty Ltd,No,""
 295,Five Corners Pty Ltd,Brad Sheehan,COO,No,""
+3885,Forbes Consultancy,Mark Forbes,Principal,No,""
 202,Fowlstone Communications,Geoff Fowlstone,Principal ,No,""
 202,Fowlstone Communications,Michael Parker,Senior Consultant,No,""
 738,Freight  Trade Alliance (FTA) Pty Ltd,Travis Brooks-Garrett,Director,No,""
@@ -273,12 +277,14 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 410,Justine Caines,Justine Caines,Principal,No,""
 3902,Kate Dinon and Associates PR Pty Ltd,Katherine Frances Dinon,Managing Director,No,""
 4907,Kerry B. Collison,Kerry Boyd Collison,CEO,No,""
+3900,KIG Energy Pty Ltd,Greg Fonti,CEO,No,""
 3876,Kurrajong Strategic Counsel,Adrian Michael Dolahenty,Director,Yes,March 1995
 465,LATAF CONSULTING ,Jeffrey Russell Hart,Adviser/Consultant,Yes,April 2010
 519,Lawrence Media Services Pty Ltd,Robert Lindsay LAWRENCE,Chairman,Yes,November 2004
 4,Leisure SolutionsÂ®,Angus Muir Robinson,Managing Partner,No,""
 223,Leonie M. Short,Ms Leonie Marjorie Short,Consultant,Yes,November 2001
 777,Lindsay Tanner,Lindsay James Tanner,sole trader,Yes,September 2010
+273,LK Creative as trustee for LK Trust,Llewellyn Rees,Director,Yes,January 2007
 566,London Agency Pty Ltd,John Emmerson,Account Director,No,""
 566,London Agency Pty Ltd,Annette Stenhouse,Account Manager,No,""
 566,London Agency Pty Ltd,David Latham,Public Relations Manager,No,""
@@ -320,7 +326,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 565,Newgate Communications Pty Limited,Jodie Brough,Partner,No,""
 565,Newgate Communications Pty Limited,Sophie Travers,Associate Partner,No,""
 565,Newgate Communications Pty Limited,Greg Baxter,Partner,No,""
-565,Newgate Communications Pty Limited,James Larsson,Associate Partner,Yes,November 2007
 565,Newgate Communications Pty Limited,Steve Lewis,Senior Advisor,No,""
 565,Newgate Communications Pty Limited,Sam Deans,Account Director,No,""
 565,Newgate Communications Pty Limited,Adam Le Lievre,Associate Partner,Yes,March 2016
@@ -384,7 +389,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 516,Premier State Consulting Pty Ltd,Christine Kirk,Executive Assistant,No,""
 516,Premier State Consulting Pty Ltd,Lachlan Crombie,Senior Advisor,No,""
 516,Premier State Consulting Pty Ltd,Sabina Husic,Director,No,""
-516,Premier State Consulting Pty Ltd,Thomas Loomes,Senior Adviser,No,""
 516,Premier State Consulting Pty Ltd,Cooper Darling Blair,Advisor,No,""
 516,Premier State Consulting Pty Ltd,Fiona Scott,Special Counsel,Yes,July 2016
 1817,PremierNational Pty Ltd,Michael Photios,Chairman,No,""
@@ -392,7 +396,6 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 1817,PremierNational Pty Ltd,Sabina Husic,Director,No,""
 1817,PremierNational Pty Ltd,Lachlan Crombie,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Christine Kirk,Executive Assistant,No,""
-1817,PremierNational Pty Ltd,Thomas Loomes,Senior Adviser,No,""
 1817,PremierNational Pty Ltd,Cooper Darling Blair,Advisor,No,""
 1817,PremierNational Pty Ltd,Fiona Scott,Special Counsel,Yes,July 2016
 1805,Primary Communication Partners Pty Limited,Christopher Hall,CEO,Yes,October 2004
@@ -406,7 +409,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 127,PRX Unit Trust,Brian O'Neil ,Director,No,""
 127,PRX Unit Trust,Stephen Kerr,Chief Executive,No,""
 127,PRX Unit Trust,Patrick Rasmussen,Consultant,No,""
-127,PRX Unit Trust,Ruby Kerr,Intern,No,""
+127,PRX Unit Trust,Ruby Kerr,Consultant,No,""
 127,PRX Unit Trust,Sophie Mullen,Consultant,No,""
 89,Public Affairs Network Pty Ltd,Rosie Yeo,Director,Yes,April 1995
 68,Public Policy Solutions Pty Ltd,Christopher John Fry,Director,No,""
@@ -463,6 +466,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 82,Socom Pty Ltd,Kath Christie,Senior Consultant,No,""
 82,Socom Pty Ltd,Zoe Forbes,Consultant ,No,""
 225,SPIER CONSULTING P/L,HANK SPIER,PRINCIPAL,Yes,August 2000
+239,Sports Hydrant Pty Ltd,Andrew Turnbull,CEO,No,""
 665,Spring Street Advisory,Ken McAlpine,Managing Director,No,""
 490,Staindl Strategic Pty Ltd,Philip Staindl,Director,Yes,October 1992
 3856,Starfare Image Pty Ltd,Mark Giroletti,Senior Consultant,No,""
@@ -476,6 +480,7 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 753,Strategic Political Counsel Pty Ltd,Michael John Edward Kauter,Founder and Principal Counsel,Yes,December 2014
 753,Strategic Political Counsel Pty Ltd,Professor David Matthew Gracey,Senior Counsel,No,""
 753,Strategic Political Counsel Pty Ltd,Clint Robert Ford,Head of Operations WA,No,""
+753,Strategic Political Counsel Pty Ltd,Lyndal Anne Maloney,Executive Officer,No,""
 796,Synecdoche Consulting Pty Ltd,Michael Morgan,Principal,No,""
 424,TAYLOR STREET ADVISORY PTY LTD,Christopher Brown,Chairman,No,""
 424,TAYLOR STREET ADVISORY PTY LTD,Adam Leto,Director Communications and Advocacy,No,""
@@ -533,19 +538,11 @@ agency_id,agency_business_entity_name,lobbyist_name,position,former_government_r
 689,Vicom Australia Pty Ltd,Bruce Campbell Williams, Aviation & Defence,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing,Managing Director,No,""
 635,Visionary  Enterprising Management Services Pty Ltd,Graham Alexander Ingerson,Government Relations Specialist,No,""
-793,W.J Wilcher Pty Ltd,William John Wilcher,Director,No,""
-463,Walker Watterson Holdings Pty Ltd,Hannah Watterson,Director,No,""
-463,Walker Watterson Holdings Pty Ltd, Nermin Bajric,Senior Consultant ,No,""
-463,Walker Watterson Holdings Pty Ltd,Sidar Thams,Admin/Operations,No,""
-463,Walker Watterson Holdings Pty Ltd,Oisin Ocallaghan ,Senior Consultant ,No,""
-463,Walker Watterson Holdings Pty Ltd,Cameron Wells,Senior Consultant,No,""
-463,Walker Watterson Holdings Pty Ltd,Jackson Rose,Adminstration,No,""
 3906,Wells Consulting Group PTY Ltd,Philip John Wells,CEO,Yes,April 1990
 3906,Wells Consulting Group PTY Ltd,Adrienne Elizabeth Wells,Consultant,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells,Chairman,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Benjamin Haslem,Co CEO,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Alexandra Mayhew,Co CEO,No,""
-503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Isabelle Caroline Walker,Account Manager,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Kathy Patricia Lindsay,Account Director,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Stav Pisk,Account Executive,No,""
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Larissa Eva Jaffe,Account Executive,No,""

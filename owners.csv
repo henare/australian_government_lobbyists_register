@@ -54,7 +54,7 @@ agency_id,agency_business_entity_name,owner_name
 654,C2hills Investments Pty Limited,cara leanne dale
 789,Cahill and Bailey Pty Ltd,Casey Cahill
 789,Cahill and Bailey Pty Ltd,Simon Bailey
-787,Capetal Advisory Pty Ltd,Nathan Paine
+787,Capetal Advisory Pty Ltd,Bradley James Green
 556,Capital Hill Advisory Pty Ltd,GAMZ Investments Holdings Pty Ltd
 3874,Castlereagh Advisory ,Aaron parnell
 3874,Castlereagh Advisory ,Fiona Scott
@@ -267,9 +267,9 @@ agency_id,agency_business_entity_name,owner_name
 1817,PremierNational Pty Ltd,Ian Hancock
 1817,PremierNational Pty Ltd,Kristina Photios
 1805,Primary Communication Partners Pty Limited,Elagh Group Pty Ltd
-1805,Primary Communication Partners Pty Limited,Old Prime
+1805,Primary Communication Partners Pty Limited,Old Prime Pty Ltd
 1805,Primary Communication Partners Pty Limited,Borte Group Pty Ltd
-1805,Primary Communication Partners Pty Limited,Elora Group
+1805,Primary Communication Partners Pty Limited,Elora Group Pty Ltd
 1805,Primary Communication Partners Pty Limited,Decorada Pty Ltd
 283,Probity International Pty. Ltd,Mary Easson
 622,Profile Consulting (Aust) Pty Ltd,Ian R.G. Knop
@@ -373,9 +373,6 @@ agency_id,agency_business_entity_name,owner_name
 689,Vicom Australia Pty Ltd,Gregory Arthur John Kelson
 635,Visionary  Enterprising Management Services Pty Ltd,Colin Bruce Shearing
 635,Visionary  Enterprising Management Services Pty Ltd,Valerie Yvonne Shearing
-793,W.J Wilcher Pty Ltd,William John Wilcher
-463,Walker Watterson Holdings Pty Ltd,Hannah Watterson
-463,Walker Watterson Holdings Pty Ltd,James Watterson 
 3906,Wells Consulting Group PTY Ltd,Philip John Wells
 3906,Wells Consulting Group PTY Ltd,Adrienne Elizabeth Wells
 503,WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS PTY. LTD.,Philip John Wells
